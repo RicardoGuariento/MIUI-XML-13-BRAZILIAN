@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Uma vez</item>
+        <item>Diariamente</item>
+        <item>Dias úteis</item>
+        <item>Segunda a sexta</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Uma vez</item>
+        <item>Diariamente</item>
+        <item>Segunda a Sexta</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Todos os registros</item>
+        <item>Início automático</item>
+        <item>Início em cadeia</item>
+        <item>Usando permissões</item>
+        <item>Ações sensíveis</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Padrão</item>
+        <item>PIN</item>
+        <item>Senha</item>
+    </string-array>
+    <string-array name="auto_task_screen_zoom_level">
+        <item>EP</item>
+        <item>P</item>
+        <item>G</item>
+    </string-array>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>Muito pequeno</item>
+        <item>Pequeno</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>Extra grande</item>
+        <item>XXL</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Plano mensal</item>
+        <item>Ilimitado</item>
+        <item>Plano diário</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Personalizado</item>
+        <item>Cartão Mi Fan</item>
+        <item>Cartão Xiao Tiansheng</item>
+        <item>Cartão Tencent King</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Personalizado</item>
+        <item>Mi Mobile</item>
+        <item>Cartão Mi Fan</item>
+        <item>Cartão Tianshen</item>
+        <item>Cartão Tencent</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Ontem (dados móveis) "</item>
+        <item>"Hoje (dados móveis) "</item>
+        <item>"Mês passado (dados móveis) "</item>
+        <item>"Este mês (dados móveis) "</item>
+        <item>"Ontem (Wi-Fi) "</item>
+        <item>"Hoje (Wi-Fi) "</item>
+        <item>"Mês passado (Wi-Fi) "</item>
+        <item>"Este mês (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Ontem "</item>
+        <item>"Hoje "</item>
+        <item>"Mês passado "</item>
+        <item>"Este mês "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Esta semana "</item>
+        <item>"Hoje "</item>
+        <item>"Este mês "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Ontem: "</item>
+        <item>"Hoje: "</item>
+        <item>"Mês passado: "</item>
+        <item>"Este mês: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Esta semana: "</item>
+        <item>"Hoje: "</item>
+        <item>"Este mês: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Será possível acessar e editar arquivos no seu dispositivo usando um computador.</item>
+        <item>Instalar apps no seu dispositivo sem sua permissão explícita será permitido.</item>
+        <item>Você poderá monitorar e gravar o conteúdo da tela remotamente.</item>
+        <item>Será possível acessar informações detalhadas sobre o seu dispositivo.</item>
+    </string-array>
+    <string-array name="ew_emergency_blood_type_arrays">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Sim</item>
+        <item>Não</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Mais baixo</item>
+        <item>Baixo</item>
+        <item>Normal</item>
+        <item>Alto</item>
+        <item>Mais alto</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Quando o dispositivo bloquear</item>
+        <item>Quando o dispositivo bloquear ou após sair do app</item>
+        <item>Quando o dispositivo bloquear ou em 1 minuto após sair do app</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Uso de dados "</item>
+        <item>"Uso do Wi-Fi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Importante: Vários apps de sistema podem parar de funcionar adequadamente.</item>
+        <item>Layouts de texto, contas e conteúdos podem não ser exibidos corretamente.</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Mostrar alerta</item>
+        <item>Alertar e desativar dados móveis</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Padrão</item>
+        <item>Priorizar desempenho</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Usando o modo padrão de controle de temperatura</item>
+        <item>Priorizando o desempenho</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Ler todas as suas notificações, incluindo o conteúdo das suas mensagens de texto e outros itens que possam conter informações pessoais</item>
+        <item>Restringir permissões de notificação para alguns apps</item>
+        <item>Simular notificações de toque e abrir apps</item>
+        <item>Ativar e desativar o Modo Não perturbe</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Coletar dados sobre seus interesses e comportamento ao aprender quais apps você usa e com que frequência você os usa</item>
+        <item>Acessar suas configurações de idioma e da operadora, além de outros detalhes</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Apps de terceiros que não são verificados podem causar vários problemas e diminuir a estabilidade do sistema.</item>
+        <item>Alguns apps de terceiros podem conter malwares que colocam os seus dados pessoais em risco.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Armazenamento interno</item>
+        <item>Armazenamento externo</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Sempre</item>
+        <item>Apenas para exceções</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Uso de dados</item>
+        <item>Saldo do telefone</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Ordenar por status</item>
+        <item>Ordenar por nome do app</item>
+        <item>Ordenar por frequência de uso</item>
+        <item>Ordenar por uso de armazenamento</item>
+        <item>Ordenar por data de instalação</item>
+    </string-array>
+    <string-array name="sort_type">
+        <item>Status</item>
+        <item>Nome do app</item>
+        <item>Frequência de uso</item>
+        <item>Uso do armazenamento</item>
+        <item>Data de instalação</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Desativar e notificar</item>
+        <item>Apenas notificar</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Fonte da instalação</item>
+        <item>Hora da instalação</item>
+        <item>Última atualização da fonte</item>
+        <item>Última atualização</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Plano de dados mensal</item>
+        <item>Plano de dados diário</item>
+        <item>Plano de dados ilimitado</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Uso de dados móveis "</item>
+        <item>"Uso do Wi-Fi "</item>
+    </string-array>
+</resources>

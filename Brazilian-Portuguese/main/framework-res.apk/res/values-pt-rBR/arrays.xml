@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Residencial</item>
+        <item>Trabalho</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Tente novamente</item>
+        <item></item>
+        <item></item>
+        <item>Cubra o sensor de impressão digital completamente e aplique pressão</item>
+        <item></item>
+        <item>Cubra o sensor de impressão digital completamente e aplique pressão</item>
+        <item>Cubra o sensor de impressão digital completamente e aplique pressão</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Cubra o sensor de impressão digital completamente e aplique pressão</item>
+        <item>Cubra o sensor de impressão digital completamente e aplique pressão</item>
+        <item>Muito rápido! Não foi possível reconhecer a impressão digital</item>
+        <item>Mova o dedo levemente e tente novamente</item>
+        <item>Levante o dedo e coloque-o de volta no sensor novamente</item>
+        <item>Mantenha o dedo no sensor um pouco mais</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Mova o dedo levemente</item>
+        <item>Esta impressão digital já foi adicionada. Use uma diferente</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Residencial</item>
+        <item>Trabalho</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Hangouts</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>-22863878</item>
+        <item>-43244097</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>3</item>
+    </integer-array>
+    <string-array name="network_switch_type_name">
+        <item>Dados móveis</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Trabalho</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Residencial</item>
+        <item>Celular</item>
+        <item>Trabalho</item>
+        <item>Fax do trabalho</item>
+        <item>Fax doméstico</item>
+        <item>"Pager"</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Residencial</item>
+        <item>Trabalho</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Para fazer chamadas e enviar mensagens por Wi-Fi, primeiro peça à sua operadora para configurar este serviço. Depois, ative novamente a chamada por Wi-Fi nas Configurações. (Código de erro: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Ocorreu um problema ao registrar a chamada por Wi-Fi junto à sua operadora: %1$s</item>
+    </string-array>
+</resources>

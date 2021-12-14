@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Branco</item>
+        <item>Amarelo</item>
+        <item>Cinza</item>
+        <item>Marrom</item>
+        <item>Verde</item>
+        <item>Azul</item>
+    </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>Sem interesse</item>
+        <item>Repetitivo</item>
+        <item>Baixa qualidade</item>
+        <item>Foto inapropriada</item>
+        <item>Informações fraudulentas</item>
+    </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>Conteúdo explícito</item>
+        <item>Falsidade</item>
+        <item>Notícia antiga</item>
+        <item>Visões extremistas</item>
+        <item>Publicidade subliminar</item>
+        <item>Não gostei</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Voltar/Avançar</item>
+        <item>Alternar guias</item>
+        <item>Nenhuma ação</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Página inicial padrão</item>
+        <item>Página personalizada</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>"Telefone"</item>
+        <item>"Tablet"</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Visualização vertical</item>
+        <item>Visualização horizontal</item>
+    </string-array>
+    <string-array name="pref_security_do_not_track_keys">
+        <item>Ativado</item>
+        <item>Apenas no Modo incógnito</item>
+        <item>Desativado</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Muito pequeno</item>
+        <item>Pequeno</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>Muito grande</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="setting_swipe_up_target">
+        <item>Pesquisar</item>
+        <item>Notícias</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Excluir</item>
+        <item>Não, obrigado</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>"OK"</item>
+        <item>Seguir</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Mensagem do Navegador</item>
+        <item>Siga as Olimpíadas com a Mi</item>
+    </string-array>
+    <string-array name="speed_result_tips">
+        <item>A conexão atual da rede é muito lenta. Parece que você está em uma área com cobertura de rede fraca.</item>
+        <item>A conexão de rede atual é lenta.</item>
+        <item>Não foram encontrados problemas com a conexão de rede.</item>
+        <item>A conexão de rede atual é rápida. É suficiente para a transmissão de filmes!</item>
+        <item>A conexão de rede atual é muito rápida! Você está na liderança.</item>
+    </string-array>
+    <string-array name="user_guide_info_array">
+        <item>Baixe fotos e vídeos de mídias sociais</item>
+        <item>Salve imagens e vídeos dos status do WhatsApp</item>
+        <item>Gerencie arquivos no seu dispositivo e torne-os privados</item>
+    </string-array>
+    <string-array name="user_guide_title_array">
+        <item>Baixar vídeos</item>
+        <item>Salve o Status do WhatsApp</item>
+        <item>Arquivos privados</item>
+    </string-array>
+</resources>
