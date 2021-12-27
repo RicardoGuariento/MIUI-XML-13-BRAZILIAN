@@ -245,6 +245,7 @@ Nenhum dispositivo Bluetooth encontrado."</string>
   <string name="cit_charger_test_tips_pd">O dispositivo atual precisa testar o USB_PD</string>
   <string name="cit_charger_waiting_in">Conecte o carregador</string>
   <string name="cit_charger_waiting_out">Desconecte o carregador agora</string>
+  <string name="cit_cust_img_version">Consultar informações da versão CUST</string>
   <string name="cit_def_torch_on_one">Ative o flash primeiro</string>
   <string name="cit_diag_signal_summary">Copie os arquivos do log de estabilidade de sinal para o cartão SD</string>
   <string name="cit_diag_signal_title">Ler log de estabilidade de sinal</string>
@@ -721,6 +722,7 @@ Falha no teste!"</string>
   <string name="cit_vga_camera_capture_fail">Erro ao tirar foto</string>
   <string name="cit_vga_camera_delete">Excluir</string>
   <string name="cit_vga_camera_deleted">Foto excluída</string>
+  <string name="cit_vibrator_check">Teste da Vibração</string>
   <string name="cit_vibrator_check_summary">Verificar se a vibração (longa e curta) está a funcionar normalmente</string>
   <string name="cit_vibrator_check_title">Vibração</string>
   <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
@@ -777,10 +779,8 @@ Falha no teste!"</string>
   <string name="headset_plug_record_tip">comece a gravar</string>
   <string name="headset_press">Pressione</string>
   <string name="headset_record">Gravando, diga algo para o fone de ouvido, e a gravação será interrompida em 3 segundos</string>
-  <string name="headset_test">"Isso testará:
-1. A inserção e remoção do fone de ouvido.
-2. O microfone e botão do fone de ouvido.
-3. E se todos os testes acima serão bem-sucedidos"</string>
+  <string name="headset_test">Teste de fone de ouvido</string>
+  <string name="headset_test_tips">Isso testará a inserção e remoção do fone de ouvido, o microfone e botão do fone de ouvido, para verificar se todos os testes serão bem-sucedidos</string>
   <string name="headset_unplug_check_tip">Por favor, insira o fone de ouvido</string>
   <string name="headset_unplug_tip">Insira o fone de ouvido</string>
   <string name="hello_world">Olá Mundo!</string>
