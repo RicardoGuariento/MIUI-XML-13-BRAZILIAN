@@ -921,6 +921,7 @@ Seleção"</string>
   <string name="emergency_information_confirm_hint">Toque novamente para ver as informações</string>
   <string name="emergency_information_hint">Informação de emergência</string>
   <string name="emergency_information_owner_hint">Proprietário</string>
+  <string name="emergency_medical_records">Registros médicos</string>
   <string name="emm_cause_11">A operadora atual não suporta este serviço.</string>
   <string name="emm_cause_14">A operadora atual não suporta serviços de dados móveis.</string>
   <string name="emm_cause_2">Não foi possível registrar o número de telefone. Desligue o seu dispositivo, depois ligue-o e tente novamente.</string>
@@ -1056,6 +1057,8 @@ Seleção"</string>
   <string name="fiveg_sa_switch_warning_toast">Por favor, reinicie o telefone para que as alterações tenham efeito.</string>
   <string name="fiveg_sa_vice_switch_title">SA no SIM secundário</string>
   <string name="fiveg_signal_strength1">Força do sinal 5G:</string>
+  <string name="fiveg_switch_per_slot_summary">Use o 5G para aumentar a velocidade de conexão de dados móveis</string>
+  <string name="fiveg_switch_per_slot_title">5G</string>
   <string name="fiveg_switch_status1">Status da comutação 5G:</string>
   <string name="fiveg_switch_title">Rede 5G</string>
   <string name="fiveg_upperlayer_indication1">Status do indicador da camada superior:</string>

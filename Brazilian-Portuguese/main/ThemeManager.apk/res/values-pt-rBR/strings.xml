@@ -1133,6 +1133,8 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
   <string name="show_mamual_hide_miwallpaper">Mostrar efeitos de Tela inicial ocultados</string>
   <string name="show_mamual_hide_theme">Mostrar temas ocultados</string>
   <string name="show_mamual_hide_wallpaper">Mostrar planos de fundo ocultados</string>
+  <string name="show_theme_community">Atalho da comunidade</string>
+  <string name="show_theme_community_desc">Exibe ou oculta o atalho da comunidade de temas</string>
   <string name="still_apply">Aplicar</string>
   <string name="sunday">Domingo</string>
   <string name="sunday_short">Dom</string>
@@ -1145,6 +1147,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
   <string name="super_wallpaper_setting_choose_position_btn_text">Definir localização</string>
   <string name="super_wallpaper_setting_coordinate_title">Coordenadas</string>
   <string name="super_wallpaper_setting_view_height_title">Altitude</string>
+  <string name="supersave_mode_toast_message">"Esse recurso não está disponível ao usar o Ultra economia de bateria. Desative a Ultra economia de bateria para poder usá-lo."</string> 
   <string name="support_theme_store_des">Bons temas são sempre criados por designers talentosos. Nosso app contém uma pequena quantidade de anúncios que nos permitem apoiar o trabalho deles.</string>
   <string name="support_theme_store_supported">Obrigado pelo seu apoio!</string>
   <string name="support_theme_store_title">Apoie nossos designers</string>

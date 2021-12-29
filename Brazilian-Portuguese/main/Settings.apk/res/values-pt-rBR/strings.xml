@@ -42,6 +42,7 @@
     <string name="abc_slices_permission_request">%1$s quer mostrar partes do app %2$s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="about_ad_service_instructions">Sobre o serviço de anúncios e privacidade</string>
+    <string name="about_ad_service_instructions_for_global">Sobre serviços de anúncios e privacidade em apps do sistema Miui</string>
     <string name="about_phone_device_name_warning">O nome do seu dispositivo está visível para os apps no seu dispositivo. Ele também pode ser visto por outras pessoas quando você se conecta a dispositivos Bluetooth ou configura um ponto de acesso Wi-Fi.</string>
     <string name="about_phone_enter_xiaomi_net">Saiba mais</string>
     <string name="about_settings">Sobre o telefone</string>
@@ -842,6 +843,7 @@ Alterar as configurações agora?"</string>
     <string name="auto_brightness_very_low_title">Muito baixo</string>
     <string name="auto_caps">Capitalização automática</string>
     <string name="auto_caps_summary">Escrever a primeira letra nas sentenças com letra maiúscula</string>
+    <string name="auto_clean_summary_new">Reproduza um áudio de %d segundos para limpar o alto-falante. Use este recurso várias vezes consecutivas para quantidades substanciais de sujeira.</string>
     <string name="auto_clean_description">"Sobre este recurso
 1. Execute-o uma ou duas vezes se sentir que seu alto-falante está bloqueado por partículas de poeira.
 2. Se o alto-falante estiver muito bloqueado, execute o teste de duas a cinco vezes enquanto agita seu telefone com o alto-falante virado para baixo."</string>
@@ -2915,7 +2917,9 @@ Para resolver esse problema, desative a localização para esse app."</string>
     <string name="dialog_softbank_esime_title">Pular ativação do eSIM</string>
     <string name="dialog_speaker_auto_clean_button">Entendi</string>
     <string name="dialog_speaker_auto_clean_content">A limpeza leva 30 segundos. Não saia desta página. Aumente o volume ao máximo para obter o melhor efeito.</string>
+    <string name="dialog_speaker_auto_clean_content_new">"Você está prestes a reproduzir o áudio que limpará o alto-falante. Ajuste o volume ao máximo para obter o melhor efeito."</string>
     <string name="dialog_speaker_auto_clean_title">Atenção</string>
+    <string name="dialog_speaker_auto_clean_title_new">Alto-falante limpo</string>
     <string name="dialog_stop_message">"Não é possível gerenciar a bateria do smartphone normalmente, porque o app %1$s o mantém ativado.
 
 Para tentar resolver esse problema, você pode forçar a parada do app.
@@ -3430,6 +3434,9 @@ Reinicie o seu dispositivo e tente novamente."</string>
     <string name="external_data_size_label">Dados de armazenamento USB</string>
     <string name="external_ram_dialog_btn_cancel">Mais tarde</string>
     <string name="external_ram_dialog_btn_ok">Reiniciar</string>
+    <string name="external_ram_dialog_icon_confirm">Entendi</string>
+    <string name="external_ram_dialog_icon_info">O sistema irá estender a RAM por %1$s %2$s.</string>
+    <string name="external_ram_dialog_icon_title">Extensão de memória ativada</string>
     <string name="external_ram_dialog_message">Reinicie o seu dispositivo para aplicar as alterações.</string>
     <string name="external_ram_dialog_title">Reiniciar dispositivo</string>
     <string name="external_ram_summary">Adiciona %1$s %2$s de RAM, que será utilizada a partir do armazenamento interno. Use este recurso apenas quando houver espaço de armazenamento suficiente disponível em seu dispositivo.</string>
@@ -5367,6 +5374,8 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_formal">Padrão</string>
     <string name="miheadset_game_mode">Modo jogo</string>
     <string name="miheadset_game_mode_summary">Reduz o atraso do áudio enquanto estiver jogando</string>
+    <string name="miheadset_hd_audio_summary">Reproduz áudio de alta definição de %1$d-bit/%2$dkHz</string>
+    <string name="miheadset_hd_audio_title">Áudio HD</string>
     <string name="miheadset_ignore">Desparear</string>
     <string name="miheadset_in_ear_check">Deteção no ouvido</string>
     <string name="miheadset_in_ear_check_summary">Pausar o áudio quando os fones de ouvido forem retirados e retomar automaticamente quando eles forem recolocados</string>
@@ -6916,6 +6925,8 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="profile_owner_add_title">Ativar Gerenciador de perfis?</string>
     <string name="profile_owner_add_title_simplified">Permitir supervisão?</string>
     <string name="profile_section_header">Notificações de trabalho</string>
+    <string name="progress_dialog_speaker_auto_clean_button">Parar</string>
+    <string name="progress_dialog_speaker_auto_clean_title">Limpando auto-falantes…</string>
     <string name="progress_scanning">Pesquisar</string>
     <string name="promote_conversation_summary">Adicionar à seção de conversas</string>
     <string name="promote_conversation_title">Esta é uma conversa</string>
@@ -9030,6 +9041,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="to_close">Desativar</string>
     <string name="to_switch_networks_disconnect_ethernet">Para alternar redes, desconecte Ethernet</string>
     <string name="toast_apply_font_fail">"Não é possível definir a fonte"</string>
+    <string name="toast_disconnect_earphone">Desconecte os fones de ouvido e tente novamente</string>
     <string name="toast_lockscreen_glogin_empty_password">Inserir senha</string>
     <string name="toast_need_login">Faça o login em sua Conta Mi</string>
     <string name="toast_sta_ap_works_wifi_display_disable">Não é possível transmitir quando o Wi-Fi estiver ativo e o ponto de acesso ativado.</string>
@@ -9496,6 +9508,7 @@ ou com conector de 3.5mm."</string>
     <string name="use_otg_title">"USB OTG"</string>
     <string name="use_personalized_ad_service">Recomendação personalizada de anúncios</string>
     <string name="use_personalized_ad_service_summary">Quando as recomendações de anúncios personalizados estão desativadas, você ainda verá a mesma quantidade de anúncios que quando o recurso está ativado. Os anúncios, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais.</string>
+    <string name="use_personalized_ad_service_summary_for_global">"Quando as recomendações de anúncios personalizados estão desativadas, você ainda verá a mesma quantidade de anúncios nos apps do sistema MIUI de quando o recurso está ativado. Os anúncios da Xiaomi e de plataformas de terceiros, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
     <string name="use_privacy_password_immediate">Usar</string>
     <string name="use_system_language_to_select_input_method_subtypes">Usar idioma do sistema</string>
     <string name="use_this_wlan">Continuar</string>
