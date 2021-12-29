@@ -808,7 +808,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="auto_task_operation_open">Ativar</string>
   <string name="auto_task_operation_open_string">Ativar %s</string>
   <string name="auto_task_operation_string_comma">,</string>
-  <string name="auto_task_operation_string_etc">, etc.</string>
+  <string name="auto_task_operation_string_etc">", etc."</string>
   <string name="auto_task_operation_string_split">;</string>
   <string name="auto_task_operation_sync">Sincronização</string>
   <string name="auto_task_operation_vibration">Vibração</string>
@@ -1239,7 +1239,7 @@ A sua operadora poderá cobrar tarifas adicionais se você ativar os dados móve
   <string name="detail_app_button">Info. do app</string>
   <string name="details_subtitle">Detalhes de uso</string>
   <string name="dev_sign_notification_content">"Você está usando o Android 12 Beta. O feedback que você fornecer nos ajudará a identificar e corrigir problemas. Obrigado por participar neste programa!"</string>
-  <string name="dev_sign_notification_title">Android 12 Beta</string>
+  <string name="dev_sign_notification_title">"Android 12 Beta"</string>
   <string name="device_manager_apply_step_1">Ativar o administrador do dispositivo para este app?</string>
   <string name="device_manager_apply_step_2">"Ativar o administrador do dispositivo para este app pode causar a exposição dos seus dados pessoais.
 Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bloqueio pode ser redefinida."</string>
@@ -2096,6 +2096,7 @@ das suas sessões de jogos"</string>
   <string name="gb_xunyou_gift_type_two">Aceleração Xunyou de 2 dias</string>
   <string name="gd_app_edit_done">Concluído</string>
   <string name="gd_app_edit_title">Adicionar apps</string>
+  <string name="gd_app_edit_title_new">Editar atalhos de janela flutuante</string>
   <string name="gd_setting_desc_action1">Abrir janela flutuante</string>
   <string name="gd_setting_desc_action2">Use um atalho</string>
   <string name="gd_setting_group_custom_gtb_apps">Jogos</string>
@@ -2106,11 +2107,15 @@ das suas sessões de jogos"</string>
   <string name="gd_setting_group_title_switch">Cenários</string>
   <string name="gd_setting_gtb">Exibir enquanto joga</string>
   <string name="gd_setting_gtb_desc">Recursos especiais para jogos</string>
+  <string name="gd_setting_guide_one">Toque para abrir a janela flutuante</string>
+  <string name="gd_setting_guide_three">Deslize da borda para abrir atalhos de jogos</string>
+  <string name="gd_setting_guide_two">Deslize da borda para abrir a caixa de ferramentas de vídeo</string>
   <string name="gd_setting_miui_dock">Sempre exibir</string>
   <string name="gd_setting_shorthand">Anotações rápidas</string>
   <string name="gd_setting_title">Caixa de ferramentas inteligente</string>
   <string name="gd_setting_vtb">Exibir durante a reprodução de vídeos</string>
   <string name="gd_setting_vtb_desc">Recursos especiais para reprodução de vídeo</string>
+  <string name="gd_splite_screen_tips">"A tela dividida não suporta janelas flutuantes"</string>
   <string name="gdpr_msg"><Data>Para poder detectar riscos de segurança e proteger seus dados, precisamos coletar a quantidade necessária de informações sobre seu dispositivo. Leia e concorde com nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a> antes de usar nossos serviços. Caso você não concorde com a coleta destas informações, você ainda poderá usar o app, mas alguns recursos não estarão disponíveis.</Data></string>
   <string name="get_detail_by_click">Toque para ver detalhes</string>
   <string name="get_sys_info">Obtendo informações…</string>
@@ -2465,10 +2470,10 @@ da operadora"</string>
   <string name="mark_time_setting_dialog_title">Reportar número</string>
   <string name="mark_time_text">%d</string>
   <string name="marked_by_user">"Você o reportou como "</string>
-  <string name="megabyteShort">MB</string>
-  <string name="megabyte_per_second">MB/s</string>
+  <string name="megabyteShort">"MB"</string>
+  <string name="megabyte_per_second">"MB/s"</string>
   <string name="memory_check_content">%s liberado(s)</string>
-  <string name="memory_clean_memory_size_tip">Cache</string>
+  <string name="memory_clean_memory_size_tip">"Cache"</string>
   <string name="memory_clean_no_need_clean">Tudo em ordem</string>
   <string name="memory_clean_no_need_clean_1" formatted="false">"%s liberados.
 Seu dispositivo está %d%% mais rápido agora."</string>
@@ -2571,6 +2576,7 @@ Seu dispositivo está %d%% mais rápido agora."</string>
   <string name="miuix_appcompat_select_all">Selecionar tudo</string>
   <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
   <string name="miuix_appcompat_select_item">Selecionar itens</string>
+  <string name="miuix_indexer_collect">Coleções</string>
   <string name="miuix_indexer_selected">Selecionado: %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
@@ -2955,6 +2961,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pc_abnormal_scan_reason_use_GPS">Usa os serviços de localização com muita frequência</string>
   <string name="pc_abnormal_scan_reason_wake_system">Ativa o sistema com muita frequência</string>
   <string name="pc_activity_title">Otimizar bateria</string>
+  <string name="pc_battery_chart_loading">Aguarde…</string>
   <string name="pc_battery_detail_curve_reference_now">Agora</string>
   <string name="pc_battery_detail_device_item_title">Estatísticas de uso da bateria</string>
   <string name="pc_battery_history_battery_detail_menu_item">Detalhes</string>
@@ -3348,6 +3355,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="power_optimize_save_on_lockscreen">Economizar energia com o dispositivo bloqueado</string>
   <string name="power_optimize_set_lockscreen_time_holder">Bloquear o dispositivo após %d segundos de inatividade</string>
   <string name="power_phone">Chamadas de voz</string>
+  <string name="power_rank_surface_flinger">Renderização</string>
+  <string name="power_rank_system">Sistema Android</string>
   <string name="power_save_mode">Economia de bateria</string>
   <string name="power_save_mode_auto_exit_summary_new">Será desativada quando a bateria estiver em %s ou 100%% carregada</string>
   <string name="power_save_mode_auto_exit_title">Desativar quando carregado</string>
@@ -3837,6 +3846,7 @@ Retirar consentimento agora?"</string>
   <string name="privacy_using_record">Gravar áudio</string>
   <string name="privacyapp_number_masked_text">O conteúdo da notificação está oculto</string>
   <string name="privacyapp_number_unmasked_text">O conteúdo da notificação pode ser oculto</string>
+  <string name="process_kernel_label">"Android"</string>
   <string name="process_mediaserver_label">Servidor de mídia</string>
   <string name="process_vpnsdkmanager_label">"Game Turbo"</string>
   <string name="promotion">Anúncio</string>
@@ -4665,8 +4675,13 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="sys_app_prot_cracked_confirm">Entendi</string>
   <string name="sys_cpu_title">Uso da CPU</string>
   <string name="sys_freememory_title">Disponível</string>
-  <string name="sys_title_gamebooster_unit_gb">GB</string>
-  <string name="sys_title_gamebooster_unit_mb">MB</string>
+  <string name="sys_title_gamebooster_unit_gb">"GB"</string>
+  <string name="sys_title_gamebooster_unit_mb">"MB"</string>
+  <string name="system_anti_fraud_dialog_confirm_btn_txt">Entendi</string>
+  <string name="system_anti_fraud_dialog_content">"Parece que você acabou de receber uma chamada ou mensagem fraudulenta. Continuar com este pagamento pode causar perdas financeiras."</string>
+  <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474>Se a equipe de atendimento ao cliente, autoridades ou pessoas que você talvez conheça solicitarem que você conclua este pagamento, &lt;/font>&lt;font = color=#F22424>verifique sua identidade antes de continuar.&lt;/font></string>
+  <string name="system_anti_fraud_dialog_image_txt">Proteção antifraude</string>
+  <string name="system_anti_fraud_dialog_title">Aviso antifraude</string>
   <string name="system_app">Apps do sistema</string>
   <string name="system_app_permission_instruction">Este app precisa das seguintes permissões para fornecer serviços básicos do sistema. O gerenciamento de permissões é restrito para este app, pois a alteração do status de permissão levará a anormalidades de operação do sistema.</string>
   <string name="system_application">App do sistema</string>
@@ -5030,7 +5045,7 @@ O seu limite mensal de uso de dados fora do pico é de %1$s. Você ainda não de
   <string name="traffic_config_alert_body_normal">"
 O seu limite mensal de uso de dados em pico é de %1$s. Isto difere do limite de %2$s que você definiu manualmente."</string>
   <string name="traffic_config_alert_package">"
-Rolled over extra data"</string>
+Dados extras acumulados"</string>
   <string name="traffic_config_alert_setted">Configurações aplicadas</string>
   <string name="traffic_config_alert_title">Correção de %s</string>
   <string name="traffic_correction_failed">Não é possível obter informações</string>
@@ -5085,6 +5100,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
   <string name="tuesday_short">Ter</string>
   <string name="tuesday_shortest">Ter</string>
   <string name="two_address_choose_hint">%1$s e %2$s</string>
+  <string name="type_face_condition_summary">Ajuste o tamanho do texto e a espessura da fonte</string>
   <string name="unable_connect_internet">Sem conexão com a internet</string>
   <string name="uninstall_app_dialog_msg">A desinstalação removerá todos os dados deste app.</string>
   <string name="uninstall_app_dialog_title">Desinstalar agora?</string>
@@ -5163,6 +5179,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
   <string name="vb_ve_settings_picture_stronger">Animações aprimoradas</string>
   <string name="vb_video_effects_3d">Sistema surround</string>
   <string name="vb_video_effects_3d_summary">Aumente a profundidade da reprodução de som para fones de ouvido e alto-falantes</string>
+  <string name="vb_video_effects_3d_summary_headset">Aumente a sensação de imersão e envolvimento ao ouvir áudio nos fones de ouvido</string>
   <string name="vb_video_effects_3d_surround">Sistema surround</string>
   <string name="vb_video_effects_display_style">Estilo</string>
   <string name="vb_video_effects_dolby">"Dolby Atmos"</string>
@@ -5358,6 +5375,8 @@ Experimente interpolar a resolução!"</string>
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
+  <string name="weight_heavy">Negrito</string>
+  <string name="weight_light">Leve</string>
   <string name="whitelist_prefix_add_hint">Adicionar todos os números com prefixo às exceções</string>
   <string name="wifi_danger_dialog_messgae">A rede Wi-Fi atual pode apresentar riscos de segurança. Use-a com cuidado.</string>
   <string name="wifi_danger_dialog_tips">Você pode gerenciar a segurança do Wi-Fi em Segurança &gt; Verificação de segurança &gt; Configurações &gt; Wi-Fi.</string>
