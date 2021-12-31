@@ -939,7 +939,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="behavior_widget_read_contact">Contatos acessados</string>
   <string name="behavior_widget_read_write_external_storage">Arquivos acessados</string>
   <string name="best_booster_status">A velocidade dos jogos é a melhor disponível no momento.</string>
-  <string name="bg_network_exception_title">Verificando restrição na conexão em 2º plano</string>
+  <string name="bg_network_exception_title">Conexão em 2º plano restrita</string>
   <string name="bill_limit_notification_text_format">Cartão: %1$s | Saldo: %2$s CNY</string>
   <string name="bill_limit_notification_title">Saldo insuficiente</string>
   <string name="bind_xiaomi_account_cancel">Cancelar</string>
@@ -3061,7 +3061,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="permission_action_virtual">Retornar msgs em branco</string>
   <string name="permission_close_permission_control_dialog_msg">Quando o Gerenciador de permissões está desativado, apps não solicitarão sua permissão antes de ler seus contatos, ver seus registros de chamadas, alterar configurações do sistema, ou acessar a câmera e outras funções do dispositivo.</string>
   <string name="permission_close_permission_control_dialog_title">Desativar?</string>
-  <string name="permission_exception_title">Verificando restrição em conexão de apps</string>
+  <string name="permission_exception_title">Verif. restrição em conexão de apps</string>
   <string name="permission_instruction_access_notification">Esta permissão permite que os apps leiam, pesquisem e apaguem todas as suas notificações. Lembre-se de que as notificações podem incluir informações pessoais (ex.: números de cartões bancários e senhas).</string>
   <string name="permission_instruction_activity_recognition">Esta permissão permite aos apps acessar as informações coletadas pelos sensores integrados que detectam sua atividade física (ex.: contagem de passos e exercícios). Lembre-se de que as informações sobre sua atividade física são pessoais.</string>
   <string name="permission_instruction_add_voicemail">Esta permissão permite que os apps adicionem correio de voz ao sistema.</string>
@@ -4077,7 +4077,7 @@ Retirar consentimento agora?"</string>
   <string name="signal_exception_4g_bad_rsrq">A recepção atual do sinal está ruim. A velocidade de conexão pode estar baixa.</string>
   <string name="signal_exception_none_4g_5g_network">Você está usando redes móveis 2G/3G. A velocidade da conexão pode ser baixa.</string>
   <string name="signal_exception_summary">Não é possível conectar à rede nesta área.</string>
-  <string name="signal_exception_title">Testar intensidade do sinal</string>
+  <string name="signal_exception_title">Testando intensidade do sinal</string>
   <string name="signed_rule">Regras</string>
   <string name="signed_rule_one">1. Faça o check-in por 10, 20 ou 28 dias seguidos mensalmente para ganhar a aceleração Xunyou por 1, 2 ou 3 dias respectivamente.</string>
   <string name="signed_rule_three">3. Os dias de check-in são redefinidos no início de cada mês. Os dias restantes do mês anterior não são cumulativos.</string>
