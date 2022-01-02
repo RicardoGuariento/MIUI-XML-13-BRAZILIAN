@@ -1179,6 +1179,7 @@ estão disponíveis"</string>
   <string name="input_or_select_a_name">Insira ou selecione um nome</string>
   <string name="input_relation_name">Inserir nome do grupo</string>
   <string name="install_fail">Não foi possível carregar o plugin devido a um erro.</string>
+  <string name="install_media_editor_function_message">Baixe a última versão do Editor da Galeria para poder usar \"%1$s\".</string>
   <string name="install_media_editor_latest_message">Para poder editar itens, primeiro baixe o plug-in mais recente.</string>
   <string name="install_media_editor_message">Para poder editar itens, primeiro baixe o plug-in. Baixe Agora?</string>
   <string name="install_media_editor_title">Baixar plug-in</string>
