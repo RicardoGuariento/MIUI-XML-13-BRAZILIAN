@@ -246,7 +246,7 @@
   <string name="pad_settings_handoff_clipboard_summary">Copiar em um dispositivo e colar perfeitamente para o outro</string>
   <string name="pad_settings_handoff_clipboard_title">Prancheta</string>
   <string name="pad_settings_handoff_device_title">Dispositivo conectado</string>
-  <string name="pad_settings_handoff_disable">Desativar</string>
+  <string name="pad_settings_handoff_disable">Desativado</string>
   <string name="pad_settings_handoff_disconnect">Não conectado</string>
   <string name="pad_settings_handoff_enable_bluetooth">Ative o Bluetooth para encontrar dispositivos nas proximidades</string>
   <string name="pad_settings_handoff_enable_disconnect">Mantenha os dispositivos próximos um do outro com Bluetooth ativado</string>
