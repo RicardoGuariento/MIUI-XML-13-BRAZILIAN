@@ -34,6 +34,8 @@
   <string name="account_summary">Backup da Conta do Google, Conta Mi e outros dados do usuário</string>
   <string name="actionbar_button_up_description">Voltar</string>
   <string name="afternoon">"PM"</string>
+  <string name="agree_button">Aceitar</string>
+  <string name="agree_revoke_permission_title">Retirando permissões</string>
   <string name="alert_button_agree_and_continue">Permitir</string>
   <string name="alert_button_deny">Rejeitar</string>
   <string name="alert_message_backup_to_miasist">O Mi PC Suite está solicitando permissão para criar um backup em um computador. Permitir?</string>
@@ -45,6 +47,7 @@
   <string name="alert_title_backup_to_miasist">Fazer backup de itens com o Mi PC Suite?</string>
   <string name="alert_title_restore_from_miasist">Restaurar itens no seu telefone?</string>
   <string name="already_enable_encrypt">A criptografia já está ativada</string>
+  <string name="alternative_ui_content">Este recurso permite que você faça backup e restaure itens usando seu dispositivo móvel e computador. Este recurso precisa se conectar à Internet e requer as seguintes permissões obrigatórias para funcionar normalmente:</string>
   <string name="am">"AM"</string>
   <string name="app_name">"Backup"</string>
   <string name="apps_and_data_item_desc">App e dados</string>
@@ -278,6 +281,8 @@ Não altere ou renomeie os arquivos de backup."</string>
   <string name="friday_short">Sex</string>
   <string name="friday_shortest">Sex</string>
   <string name="gallery_summary">Configurações da Galeria (sem incluir fotos)</string>
+  <string name="grant_all_permission_content">Conceda todas as permissões obrigatórias para poder fazer backup e restaurar itens.</string>
+  <string name="grant_all_permission_title">Permissões necessárias</string>
   <string name="guarded_mode_dialog_backup_message">Backups não são permitidos no Modo convidado.</string>
   <string name="guarded_mode_dialog_title">Você está no Modo convidado</string>
   <string name="guarded_mode_dialog_transfer_message">Não é possível usar o Mi Mover no Modo convidado.</string>
@@ -568,6 +573,7 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="permission_content_title">Permissões necessárias</string>
   <string name="permission_dialog_positive_btn">Configurações</string>
   <string name="permission_intro">Permissões detalhes</string>
+  <string name="permission_management_entrance">Gerenciar permissões</string>
   <string name="permission_not_admit">Não permitido</string>
   <string name="permission_purpose">Esse recurso permite fazer backup e restaurar itens usando seus dispositivos móveis, computadores e unidades USB.</string>
   <string name="permission_read_apps">Acesse a lista de aplicativos instalados neste dispositivo</string>
@@ -576,6 +582,7 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="permission_read_contacts">Acessar Contatos</string>
   <string name="permission_read_sms">Acessar Mensagens</string>
   <string name="permission_read_storage">Ler e gravar itens no armazenamento interno</string>
+  <string name="permission_read_storage_global">Acessar o armazenamento</string>
   <string name="permission_read_write_storage">Para poder fazer backup de itens, permita que esse recurso acesse o armazenamento primeiro.</string>
   <string name="permission_read_write_sys_app">Para poder fazer backup e restaurar mensagens, contatos e histórico de chamadas, permita que esse recurso acesse esses itens primeiro.</string>
   <string name="permission_related">Permissões</string>
@@ -589,6 +596,7 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="permission_show_all_apps_desc">Para poder visualizar os aplicativos que podem ser backup, permita que este app acesse a lista de aplicativos instalados neste dispositivo primeiro.</string>
   <string name="permission_write_calllog">Editar histórico de chamadas</string>
   <string name="permission_write_contacts">Editar contatos</string>
+  <string name="permission_write_storage">Salvar itens no armazenamento</string>
   <string name="phone_title">Configurações do telefone</string>
   <string name="platform_chooser_item_android_mi">Mi Phone</string>
   <string name="platform_chooser_item_android_others">Outras marcas</string>
@@ -596,8 +604,10 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="platform_chooser_title">Escolher dispositivo antigo</string>
   <string name="pm">"PM"</string>
   <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
+  <string name="privacy_policy_link"><Data>"Para saber mais sobre nossas práticas de processamento de dados e seus direitos como usuário, leia e concorde com nossa &lt;a href='%1s'>Política de Privacidade&lt;/a> antes de continuar."</Data></string>
   <string name="privacy_settings">Privacidade</string>
   <string name="privacy_settings_title">Política de Privacidade</string>
+  <string name="private_policy_text">Política de Privacidade</string>
   <string name="progress_backup_hint">Fazendo backup…</string>
   <string name="progress_restore_hint">Restaurando…</string>
   <string name="prompt_reading">Lendo…</string>
@@ -616,6 +626,7 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="restore_counts">Restauração:</string>
   <string name="restore_data">Escolher itens para restaurar</string>
   <string name="restore_failed">Não foi possível restaurar</string>
+  <string name="restore_files">Para restaurar itens</string>
   <string name="restore_finished">Restaurado com sucesso</string>
   <string name="restore_is_running">Restaurando o dispositivo</string>
   <string name="restore_launcher_layout_hit">Restaura as configurações da Tela Inicial</string>
@@ -624,6 +635,7 @@ você precisa criar um backup na iCloud primeiro."</string>
   <string name="restore_telephony_hit">A restauração reiniciará o app Telefone.</string>
   <string name="retry">Tente novamente</string>
   <string name="reverse_all">Desmarcar tudo</string>
+  <string name="revoke_permission_dialog_content">"Você não poderá fazer backup ou restaurar itens sem todas as permissões obrigatórias. Retirar permissões mesmo assim?"</string>
   <string name="router_backup_hint">Mantenha seu dispositivo ligado</string>
   <string name="saturday">Sábado</string>
   <string name="saturday_short">Sáb</string>
@@ -982,6 +994,7 @@ Libere espaço ou faça várias transferências menores."</string>
   <string name="usb_trans_select_data_no_space">"Apenas %s estão disponíveis no seu drive USB.
 Libere algum espaço ou transfira só itens importantes."</string>
   <string name="user_feedback">"Feedback"</string>
+  <string name="user_know_button_text">Entendi</string>
   <string name="user_name">Apple ID ou e-mail</string>
   <string name="user_name_null">O usuário não pode estar em branco</string>
   <string name="user_notice_declaration_ignore">Não mostrar novamente</string>

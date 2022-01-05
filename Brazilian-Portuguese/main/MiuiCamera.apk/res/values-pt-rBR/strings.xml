@@ -881,6 +881,9 @@ no Modo Retrato"</string>
   <string name="live_sticker_updating">Atualizando…</string>
   <string name="live_workspace_title">Rascunhos</string>
   <string name="live_workspace_title_edit">Selecione itens para excluir</string>
+  <string name="live_workspace_title_pause">Parar</string>
+  <string name="live_workspace_title_play">Reproduzir</string>
+  <string name="live_workspace_title_pre_edit">Selecione itens para excluir</string>
   <string name="location_access_allow">Aceitar</string>
   <string name="location_fromkeyguard_not_permission">"A Câmera não tem permissão para acessar sua localização agora. Desbloqueie o seu dispositivo primeiro."</string>
   <string name="location_permission_des">Lembrar localização para fotos e vídeos</string>

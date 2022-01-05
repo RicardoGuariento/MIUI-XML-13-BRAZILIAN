@@ -36,6 +36,10 @@
   <string name="airplane_error_title">Modo avião</string>
   <string name="am">"AM"</string>
   <string name="app_name">"Bluetooth"</string>
+  <string name="aptx_notification_aptx">Este dispositivo suporta Qualcomm® aptX™</string>
+  <string name="aptx_notification_aptx_adaptive">Este dispositivo suporta Qualcomm® aptX™ Adaptive</string>
+  <string name="aptx_notification_aptx_hd">Este dispositivo suporta Qualcomm® aptX™ HD</string>
+  <string name="aptx_notification_title">"Bluetooth"</string>
   <string name="auth_notif_message">Digite a chave de sessão para %1$s</string>
   <string name="auth_notif_ticker">Pedido de autenticação Obex</string>
   <string name="auth_notif_title">Chave de Sessão</string>

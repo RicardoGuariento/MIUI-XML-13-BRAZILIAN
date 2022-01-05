@@ -895,6 +895,12 @@ Protocolo de conexão mais rápido"</string>
   <string name="storage_category">Armazenamento</string>
   <string name="strict_mode">Modo rígido</string>
   <string name="strict_mode_summary">Piscar tela quando apps executarem operações longas na tarefa principal</string>
+  <string name="string_KB">%dKB</string>
+  <string name="string_KB_per_log_buffer">%dKB por buffer de log</string>
+  <string name="string_MB">%dMB</string>
+  <string name="string_MB_per_log_buffer">%dMB por buffer de log</string>
+  <string name="string_off">Desativado</string>
+  <string name="string_offed">Desativado</string>
   <string name="stylus_ota_check_update">Atualizar</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="summary_empty"/>

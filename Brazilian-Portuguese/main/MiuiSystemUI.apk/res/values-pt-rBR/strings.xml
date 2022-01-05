@@ -1236,6 +1236,7 @@ Continuar mostrando elas?"</string>
   <string name="input_pin_after_boot_msg">É necessário inserir seu PIN sempre que o dispositivo for reiniciado</string>
   <string name="input_pin_code">Inserir PIN</string>
   <string name="input_puk_code">Inserir PUK</string>
+    <string name="input_second_pattern_after_restart_msg">Confirme a senha do Segundo Espaço para continuar</string>
   <string name="install_other_apps">Instalar apps desconhecidos</string>
   <string name="installer_cd_button_title">Instale o app Android File Transfer para Mac</string>
   <string name="instant_apps">Apps instantâneos</string>

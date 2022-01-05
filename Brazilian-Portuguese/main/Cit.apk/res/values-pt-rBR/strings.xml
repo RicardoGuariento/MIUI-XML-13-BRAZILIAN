@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="AudioOnOff">\u0009Áudio Ativado/Desativado</string>
+  <string name="AudioStatus">\u0009\u0009Status de áudio</string>
+  <string name="CloudControl">Cloud Control</string>
+  <string name="CurrentDsi">\u0009\u0009Dsi atual</string>
+  <string name="DsiSetSwitch">\u0009Modo de depuração DSI</string>
+  <string name="GPIO_Status">\u0009\u0009Status GPIO</string>
+  <string name="HotspotStatus">\u0009\u0009Status do Ponto de acesso</string>
+  <string name="SAR">"SAR"</string>
+  <string name="SAROnOff">\u0009SAR Ativado/Desativado</string>
+  <string name="SARUnLockLock">\u0009Bloqueio emitido manualmente por DSI</string>
+  <string name="Sensor1_Status">\u0009\u0009Status Sensor 1</string>
+  <string name="Sensor2_Status">\u0009\u0009Status Sensor 2</string>
+  <string name="SetDsi">\u0009Definir Dsi</string>
   <string name="SDCard">Cartão SD</string>
   <string name="SD_INTERNAL_SDCard_mounted">Detectar cartão SD</string>
   <string name="SD_INTERNAL_SDCard_unmounted">Cartão SD indisponível</string>
@@ -765,6 +778,17 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
   <string name="continue_vibrator">Vibração contínua</string>
   <string name="current_angle">"Ângulo atual: "</string>
   <string name="dsi_sar_on_off_tips">Interruptor Dsi Sar Ativar/Desativar</string>
+    <string name="edittextdisplay">"
+\u0009\u0009\u0009Bem-vindo à ferramenta SAR! 
+\u0009\u0009\u0009Todas as permissões foram ativadas 
+
+\u0009\u0009\u0009Atualmente o SAR está desativado, por favor ative-o manualmente 
+\u0009\u0009\u0009SAR bloqueado, defina o valor DSI"</string>
+    <string name="edittextdisplayf">"
+\u0009\u0009\u0009As permissões foram limitadas 
+
+\u0009\u0009Certifique-se de passar o arquivo xml na rede interna \u0009\u0009\u0009 e no caminho de resposta: 
+\u0009\u0009/sdcard/debug/UrlSign.xml"</string>
   <string name="error_app_internal">Erro no app</string>
   <string name="error_app_unsupported">Formato não suportado</string>
   <string name="error_sdcard_access">Não é possível acessar o cartão SD</string>

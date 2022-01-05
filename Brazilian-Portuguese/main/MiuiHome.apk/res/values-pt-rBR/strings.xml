@@ -669,6 +669,11 @@
   <string name="recents_title_market">Encontrar apps</string>
   <string name="recents_title_security_scan">Verificação de segurança</string>
   <string name="recents_tv_small_window_text">Janelas flutuantes</string>
+  <string name="recents_worldcirculate_text">Solte para selecionar</string>
+  <string name="recnets_worldcirculate_button_text">Horizonte global</string>
+  <string name="recnets_worldcirculate_display_computer_info">O app está funcionando em %s.</string>
+  <string name="recnets_worldcirculate_display_default_info">Toque para trazê-lo de volta aqui.</string>
+  <string name="recnets_worldcirculate_display_pad_info">O app está funcionando em %s.</string>
   <string name="recommend_apk_size_and_desc">"%1$dMB | %2$s"</string>
   <string name="recommend_app">Sugestões de apps</string>
   <string name="recommend_apps_default_title">Vazio</string>

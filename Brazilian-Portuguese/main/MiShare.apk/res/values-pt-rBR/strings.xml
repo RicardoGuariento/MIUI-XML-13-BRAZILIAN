@@ -463,6 +463,10 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
   <string name="xiaomi_10_pro">Mi 10 Pro</string>
   <string name="xiaomi_10_ultra">Mi 10 Ultra</string>
   <string name="xiaomi_11">Mi 11</string>
+  <string name="xiaomi_11_lite_ne">Mi 11 Lite 5G NE</string>
+  <string name="xiaomi_12">Mi 12</string>
+  <string name="xiaomi_12_pro">Mi 12 Pro</string>
+  <string name="xiaomi_12x">Mi 12X</string>
   <string name="xiaomi_6">Mi 6</string>
   <string name="xiaomi_6x">Mi 6X</string>
   <string name="xiaomi_8">Mi 8</string>

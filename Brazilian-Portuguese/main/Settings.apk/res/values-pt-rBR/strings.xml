@@ -173,9 +173,13 @@ O botão Acessibilidade flutua na tela sobre outros apps. Toque para ampliar."</
   <string name="accessibility_menu_description">"O menu de acessibilidade fornece atalhos convenientes que permitem que você controle o seu dispositivo.
 
 Ative este recurso e toque no botão de Acessibilidade na parte inferior da tela para abrir o menu."</string>
+    <string name="accessibility_menu_description_pad">"O menu de acessibilidade fornece atalhos convenientes que permitem que você controle o seu dispositivo.
+
+Ative este recurso e toque no botão de Acessibilidade na parte inferior da tela para abrir o menu."</string>
   <string name="accessibility_menu_item_settings">Configurações</string>
   <string name="accessibility_menu_service_name">Menu de acessibilidade</string>
   <string name="accessibility_menu_summary">Controle o seu dispositivo com atalhos convenientes</string>
+  <string name="accessibility_menu_summary_pad">Controle o seu dispositivo com atalhos convenientes</string>
   <string name="accessibility_more_settings">Configurações adicionais</string>
   <string name="accessibility_no_calling">Nenhuma chamada.</string>
   <string name="accessibility_no_data">Sem dados.</string>
@@ -847,6 +851,9 @@ Alterar as configurações agora?"</string>
   <string name="auto_clean_description">"Sobre este recurso
 1. Execute-o uma ou duas vezes se sentir que seu alto-falante está bloqueado por partículas de poeira.
 2. Se o alto-falante estiver muito bloqueado, execute o teste de duas a cinco vezes enquanto agita seu telefone com o alto-falante virado para baixo."</string>
+  <string name="auto_clean_description_pad">"Sobre este recurso
+• Execute-o uma ou duas vezes se sentir que seu alto-falante está bloqueado por partículas de poeira.
+• Se o alto-falante estiver muito bloqueado, execute o teste de duas a cinco vezes enquanto agita seu telefone com o alto-falante virado para baixo."</string>
   <string name="auto_clean_summary">Um áudio de 30 segundos será reproduzido para limpar o alto-falante</string>
   <string name="auto_clean_title">Limpar alto-falante</string>
   <string name="auto_connect_disable">A conexão automática está desativada</string>
@@ -2129,6 +2136,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="clear_all_data">Apagar todos os dados</string>
   <string name="clear_cache_btn_text">Limpar cache</string>
   <string name="clear_data_alert_info">Todos os backups armazenados neste dispositivo serão excluídos permanentemente. Faça o backup de itens importantes para o computador e Xiaomi Cloud antes de executar uma redefinição para os dados de fábrica.</string>
+  <string name="clear_data_alert_info_pad">Todos os backups armazenados neste dispositivo serão excluídos permanentemente. Faça o backup de itens importantes para o computador e Xiaomi Cloud antes de continuar.</string>
   <string name="clear_data_dlg_text">Todos os dados deste app serão excluídos permanentemente. Isso inclui todos os arquivos, configurações, contas, bancos de dados e outros.</string>
   <string name="clear_data_dlg_title">Excluir os dados do app?</string>
   <string name="clear_failed_dlg_text">Não foi possível limpar o armazenamento do app.</string>
@@ -3533,6 +3541,7 @@ O desbloqueio de rosto é menos seguro do que usar um PIN, senha ou padrão. Seu
   <string name="feedback">"Feedback"</string>
   <string name="feedback_btn_text">Enviar feedback</string>
   <string name="feedback_settings">Serviços e feedback</string>
+  <string name="feedback_settings_new">"Feedback"</string>
   <string name="file_privacy_password_role_instruction">Seus arquivos privados serão armazenados aqui.</string>
   <string name="filter">Filtro</string>
   <string name="filter_all_apps">Todos os apps</string>
@@ -3841,6 +3850,7 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
   <string name="freeform_guide_slide_to_small_freeform_summary">"Pressione e segure a parte inferior da janela e arraste-a para o canto superior direito da tela.
 Este recurso funciona apenas quando a navegação do sistema está definida para gestos."</string>
   <string name="freeform_guide_slide_to_small_freeform_summary_pad">Arraste o canto para minimizar um app</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Arraste o canto para minimizar um app</string>
   <string name="freeform_guide_slide_to_small_freeform_title">Minimize um app</string>
   <string name="freeform_guide_slide_up_to_close_summary">Deslize para cima a partir da barra de ação de uma janela flutuante</string>
   <string name="freeform_guide_slide_up_to_close_title">Fechando janelas flutuantes</string>
@@ -5607,6 +5617,7 @@ Alternar para %1$s não cancelará o serviço da operadora %2$s."</string>
   <string name="model_info">Modelo</string>
   <string name="model_name">Modelo</string>
   <string name="model_number">Dispositivo</string>
+  <string name="model_number_pad">Dispositivo</string>
   <string name="model_summary">Modelo: %1$s</string>
   <string name="modern_control_center_desc">Puxe a barra de status para baixo à esquerda para ver as notificações. Puxe a barra de status para baixo à direita para abrir o centro de controle.</string>
   <string name="modern_control_center_title">Nova versão</string>
@@ -5778,6 +5789,7 @@ Selecione seu sistema operacional:"</string>
   <string name="multi_touch_points_category_title">Pontos multitoque</string>
   <string name="multi_touch_points_preference">Esta configuração terá efeito após você reiniciar seu dispositivo</string>
   <string name="multi_window_cvw_summary">Arraste o canto para mudar para uma janela flutuante e ajustar seu tamanho</string>
+  <string name="multi_window_cvw_summary_global">Arraste o canto para mudar para uma janela flutuante e ajustar seu tamanho</string>
   <string name="multi_window_cvw_title">Janela flutuante</string>
   <string name="multifunction_keyboard">Multifuncional</string>
   <string name="multiple_users_main_switch_title">Use vários usuários.</string>
@@ -6614,8 +6626,8 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
   <string name="power_mgr">Bateria</string>
   <string name="power_mode">Configurações de energia</string>
   <string name="power_mode_balanced_title">Balancear energia</string>
-  <string name="power_monitor_summary">Ferramentas usadas para monitorar o consumo de energia.</string>
-  <string name="power_monitor_title">Monitor de consumo de energia</string>
+  <string name="power_monitor_summary">Ferramentas para monitorar o consumo de energia.</string>
+  <string name="power_monitor_title">Consumo de energia</string>
   <string name="power_optimize">Economia de bateria</string>
   <string name="power_overcounted">Superestimado</string>
   <string name="power_phone">Chamadas de voz</string>
@@ -7066,6 +7078,7 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
 Você não perderá os dados dos apps."</string>
   <string name="reset_app_preferences_title">Redefinir apps?</string>
   <string name="reset_confirm_directory">"Nota: Antes de restaurar os itens, verifique se a pasta \"MIUI-Backup-AllBackup\" existe no seu dispositivo. Se não existir, crie-a."</string>
+  <string name="reset_confirm_directory_pad">"Nota: Antes de restaurar os itens, verifique se a pasta \"MIUI-Backup-AllBackup\" existe no seu dispositivo. Se não existir, crie-a."</string>
   <string name="reset_dashboard_summary">A rede, os apps ou o dispositivo podem ser redefinidos</string>
   <string name="reset_dashboard_summary_onlyApps">Os apps podem ser redefinidos</string>
   <string name="reset_dashboard_title">Redefinir opções</string>
@@ -8699,6 +8712,12 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
   <string name="storageuse_settings_title">Uso do armazenamento</string>
   <string name="strict_mode">Modo restrito</string>
   <string name="strict_mode_summary">Piscar a tela quando apps executarem operações longas na tarefa principal</string>
+  <string name="string_KB">%dKB</string>
+  <string name="string_KB_per_log_buffer">%dKB por buffer de log</string>
+  <string name="string_MB">%dMB</string>
+  <string name="string_MB_per_log_buffer">%dMB por buffer de log</string>
+  <string name="string_off">Desativado</string>
+  <string name="string_offed">Desativado</string>
   <string name="strong_suppression_summary">O seu dispositivo será menos responsivo a toques acidentais, alguns controles por gesto podem não funcionar perto das bordas</string>
   <string name="strong_suppression_title">Área grande</string>
   <string name="structure_add_facerecoginition_text">Adicionar dados faciais 3D</string>

@@ -418,6 +418,7 @@
   <string name="save_to_gallery_icon_name">Salvar na Galeria</string>
   <string name="save_to_gallery_success_message">Salvo na Galeria com sucesso</string>
   <string name="search_menu_title">Pesquisar</string>
+  <string name="select_show_city">Selecione a localização</string>
   <string name="send">Enviar</string>
   <string name="set_degree_centigrade">°C</string>
   <string name="set_fahrenheit">°F</string>
