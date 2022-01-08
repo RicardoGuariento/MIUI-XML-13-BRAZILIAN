@@ -2081,4 +2081,9 @@ que você grave e edite vídeos em qualquer lugar"</string>
   <string name="wideselfie_rotate_to_left_slowly">Gire o telefone para a esquerda</string>
   <string name="wideselfie_rotate_to_right_slowly">Gire o telefone para a direita</string>
   <string name="yesterday">Ontem</string>
+  <string name="beauty_mutex_toast_tip">Por favor, feche o efeito XXX primeiro,&lt;a href=>Um botão perto&lt;/a></string>
+  <string name="module_name_pixel_108m">108MP</string>
+  <string name="module_name_pixel_48m">48MP</string>
+  <string name="module_name_pixel_50m">50MP</string>
+  <string name="module_name_pixel_64m">64MP</string>  
 </resources>
