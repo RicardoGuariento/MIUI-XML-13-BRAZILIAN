@@ -673,6 +673,7 @@ Por favor, consulte o ângulo na imagem para colocar o dispositivo e tente novam
   <string name="sunday_short">Dom</string>
   <string name="sunday_shortest">Dom</string>
   <string name="switch_open">Ativar</string>
+  <string name="switchover">Trocar</string>
   <string name="take_a_picture">Câmera</string>
   <string name="take_the_word">Coloque a palavra na caixa e pressione para obter a palavra</string>
   <string name="tel">Telefone</string>
@@ -822,5 +823,4 @@ você deseja digitalizar para a Mi AI"</string>
   <string name="you_have_permission_to_download">Toque para baixar a versão beta</string>
   <string name="you_id">"Sua identificação: "</string>
   <string name="your_application_is_under_review">" (Sua inscrição está sendo analisada.)"</string>
-  <string name="switchover">Trocar</string>
 </resources>
