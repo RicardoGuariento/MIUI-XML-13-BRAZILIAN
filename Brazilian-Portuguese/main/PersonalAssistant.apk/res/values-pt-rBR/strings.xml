@@ -79,6 +79,7 @@
     <string name="agenda_payment_not_available">"O serviço de pagamento não está disponível"</string>
     <string name="agenda_repay_date">Pagamento em aberto: %1$s</string>
     <string name="agenda_repay_immediately">Pagar</string>
+    <string name="agenda_request_perm">Primeiro permita que este app acesse a Agenda</string>
     <string name="agenda_setting_brief">Eventos, lembretes de pagamentos e mais</string>
     <string name="agenda_setting_brief_detail">Ver eventos planejados, receba lembretes sobre faturas de cartão de crédito e pagamento de empréstimos.</string>
     <string name="agenda_settings_account">Gerenciar contas de calendário</string>
@@ -502,6 +503,7 @@ Você também pode rastrear a entrega expressa nos sites oficiais das empresas d
     <string name="app_olympic_gold_medal_total">"Total"</string>
     <string name="app_pa_more">Mais</string>
     <string name="app_pa_search">Pesquisar</string>
+    <string name="app_pa_setting_about_title">Sobre este app</string>
     <string name="app_pa_setting_bugreport">"Feedback"</string>
     <string name="app_pa_setting_global_display">Tela</string>
     <string name="app_pa_setting_global_display_backdrop_blur_option">Desfocar fundo dos cartões</string>
@@ -516,12 +518,36 @@ Você também pode rastrear a entrega expressa nos sites oficiais das empresas d
     <string name="app_pa_setting_head_info_default">Vazio</string>
     <string name="app_pa_setting_head_info_set">Adicionado</string>
     <string name="app_pa_setting_head_setting">Título</string>
+    <string name="app_pa_setting_individualization_title">Personalização</string>
     <string name="app_pa_setting_my_collection">Favoritos</string>
     <string name="app_pa_setting_my_payment">Pagamentos</string>
+    <string name="app_pa_setting_perm_calendar">Acessar a Agenda</string>
+    <string name="app_pa_setting_perm_denied">Não permitido</string>
+    <string name="app_pa_setting_perm_desc">Detalhes das permissões</string>
+    <string name="app_pa_setting_perm_granted">Permitido</string>
+    <string name="app_pa_setting_perm_location">Acessar a localização</string>
+    <string name="app_pa_setting_perm_state">Acessar informações do dispositivo</string>
+    <string name="app_pa_setting_perm_storage">Acessar o armazenamento</string>
+    <string name="app_pa_setting_perm_title">Permissões</string>
+    <string name="app_pa_setting_permission">Detalhes das permissões</string>
+    <string name="app_pa_setting_preference_title">Preferências</string>
+    <string name="app_pa_setting_priv_policy_title">Política de Privacidade</string>
     <string name="app_pa_setting_private">Privacidade</string>
-    <string name="app_pa_setting_private_auth">Allow collecting usage stats</string>
-    <string name="app_pa_setting_private_auth_summary">Usage stats are used for recommending relevant items to you</string>
-    <string name="app_pa_setting_private_policy">Política de Privacidade</string>
+    <string name="app_pa_setting_private_auth">Permitir a coleta de estatísticas de uso</string>
+    <string name="app_pa_setting_private_auth_summary">As estatísticas de uso são usadas para recomendar itens relevantes para você</string>
+    <string name="app_pa_setting_private_policy">Ver a Política de Privacidade</string>
+    <string name="app_pa_setting_retract">Retirada do consentimento</string>
+    <string name="app_pa_setting_retract_dialog_message">"Se continuar, você retirará seu consentimento para a Política de Privacidade do App vault. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que exigido de outra forma. Como o Assistente fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como recusa em aceitar os serviços do Assistente. Retirar o consentimento?"</string>
+    <string name="app_pa_setting_retract_dialog_negative">Retirar</string>
+    <string name="app_pa_setting_retract_error">"Não foi possível conectar à rede. Verifique suas configurações de rede e tente novamente."</string>
+    <string name="app_pa_setting_retract_error_message">Ocorreu um erro no servidor. Aguarde um momento e tente novamente.</string>
+    <string name="app_pa_setting_retract_error_title">"Não foi possível retirar o consentimento"</string>
+    <string name="app_pa_setting_retract_no_net_message">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="app_pa_setting_retract_no_net_title">"Não foi possível conectar à rede"</string>
+    <string name="app_pa_setting_retract_positive">Entendi</string>
+    <string name="app_pa_setting_retract_sec_left">Retirar (%ds)</string>
+    <string name="app_pa_setting_retract_summary">Retirar o consentimento para a Política de Privacidade do Assistente</string>
+    <string name="app_pa_setting_retract_title">Retirada do consentimento e cancelamento do serviço</string>
     <string name="app_pa_setting_service_china_vip">Centro de Membros Mi</string>
     <string name="app_pa_setting_service_china_vip_summary">Acumule pontos Mijin e resgate os benefícios da assinatura</string>
     <string name="app_pa_setting_service_commute">Trajeto</string>
@@ -565,9 +591,11 @@ Você também pode rastrear a entrega expressa nos sites oficiais das empresas d
     <string name="app_pa_setting_service_surrounding_summary">Descubra lugares interessantes próximos</string>
     <string name="app_pa_setting_service_timetable">Class schedule</string>
     <string name="app_pa_setting_service_timetable_summary">Tap to schedule classes</string>
+    <string name="app_pa_setting_service_title">Serviços</string>
     <string name="app_pa_setting_service_wufu">"Alipay's Five Blessings"</string>
     <string name="app_pa_setting_service_wufu_summry">Gather your blessings by using the AR scanner</string>
     <string name="app_pa_setting_title">Configurações</string>
+    <string name="app_pa_setting_tripartite">Sobre o compartilhamento de dados com terceiros</string>
     <string name="app_pa_setting_version">Versão: %1$s</string>
     <string name="app_paycode_parent">Alipay</string>
     <string name="app_screen_time_auth">Tempo de tela</string>
@@ -905,7 +933,7 @@ Você também pode rastrear a entrega expressa nos sites oficiais das empresas d
     <string name="cta_desc">Todas as funcionalidades em um só lugar</string>
     <string name="cta_dialog_all_purpose">"Bem-vindo ao Assistente! Este é um app centralizado para serviços relacionados a trabalho, estilo de vida e viagens. "</string>
     <string name="cta_dialog_desc_calendar">Para exibir eventos da Agenda e viagens planejadas</string>
-    <string name="cta_dialog_desc_location">Para calcular a duração de seu deslocamento diário</string>
+    <string name="cta_dialog_desc_location">O Assistente precisa acessar sua localização para construir rotas de navegação e fornecer serviços de carona. Suas informações de localização podem ser compartilhadas com o Amap, Baidu e DiDi.</string>
     <string name="cta_dialog_desc_phone_state">Para identificar o seu dispositivo usando o IMEI</string>
     <string name="cta_dialog_desc_storage">Para salvar itens no seu dispositivo</string>
     <string name="cta_dialog_miot_text_all">Para garantir que funcione normalmente, o Mi Home pode precisar identificar sua rede, localização, autorização para ativar seu Bluetooth, usar sua rede celular, microfone e ler seus contatos. Você confirma?</string>
@@ -918,8 +946,17 @@ Você também pode rastrear a entrega expressa nos sites oficiais das empresas d
     <string name="cta_negative">Fechar</string>
     <string name="cta_not_now">Agora não</string>
     <string name="cta_old_not_use">Agora não</string>
-    <string name="cta_old_start">Comecar</string>
+    <string name="cta_old_start">Começar</string>
+    <string name="cta_policy_change_dialog_agree">Aceitar</string>
+    <string name="cta_policy_change_dialog_exit">Sair</string>
+    <string name="cta_policy_change_dialog_message" formatted="false">"A Política de Privacidade do Assistente foi atualizada:
+%s
+Leia e aceite a nova versão da %s antes de continuar."</string>
+    <string name="cta_policy_change_dialog_title">Política de Privacidade atualizada</string>
     <string name="cta_positive">Detalhes</string>
+    <string name="cta_privacy_policy">Política de Privacidade</string>
+    <string name="cta_refuse_policy_dialog_message">"Você não poderá continuar usando o Assistente a menos que concorde com a nova versão de sua %s. Aceitar a Política de Privacidade atualizada?"</string>
+    <string name="cta_refuse_policy_dialog_title">Atenção</string>
     <string name="cta_start">Começar</string>
     <string name="cta_text5">O serviço também requer conexão com a Internet e acesso aos serviços de localização.Aceita?</string>
     <string name="cta_title">Bem-vindo ao Assistente</string>
@@ -1696,6 +1733,8 @@ Verifique seu número de rastreamento."</string>
     <string name="miuishare_title_share">Compartilhar</string>
     <string name="miuishare_wechat_timeline_title">Momentos WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuix_access_state_desc">Selecionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -1710,6 +1749,8 @@ Verifique seu número de rastreamento."</string>
     <string name="miuix_appcompat_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
+    <string name="miuix_indexer_selected">Selecionado: %s</string>
+    <string name="miuix_indexer_collect">Coleções</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
