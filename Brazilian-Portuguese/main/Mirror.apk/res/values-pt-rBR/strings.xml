@@ -131,7 +131,15 @@
   <string name="guide_window_operation">Deslize do lado para o centro da tela</string>
   <string name="guide_window_title">Voltar</string>
   <string name="http_buffer_size">Tamanho do cache HTTP</string>
+  <string name="invisible_mode_dialog_cancel">Cancelar</string>
+  <string name="invisible_mode_dialog_message">"Não é possível usar a combinação de tela do MIUI+ quando você está incógnito. Primeiro desative o Modo incógnito."</string>
+  <string name="invisible_mode_dialog_positive">Desativar</string>
+  <string name="invisible_mode_dialog_title">"Você está incógnito"</string>
+  <string name="invisible_mode_toast">Primeiro desative o Modo incógnito</string>
   <string name="loading">Só um segundo…</string>
+  <string name="loading_view_abort_close_text">Fechar</string>
+  <string name="loading_view_abort_text">"A conexão expirou.
+Feche esta página e tente novamente."</string>
   <string name="log_warning">"Alternar as opções de log pode aumentar os riscos à segurança e afetar o desempenho. Use esses botões de alternância apenas quando for necessário."</string>
   <string name="low_version_dialog_message">Atualize o MIUI+ em seu computador ou baixe a versão mais recente em plus.miui.com</string>
   <string name="low_version_dialog_title">Atualizar MIUI+</string>

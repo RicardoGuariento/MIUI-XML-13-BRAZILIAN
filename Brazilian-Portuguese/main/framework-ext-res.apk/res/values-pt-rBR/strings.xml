@@ -371,6 +371,9 @@
   <string name="slavewifi_disconnect">Desconectar</string>
   <string name="slavewifi_notification_title">Usando Wi-Fi dual band</string>
   <string name="slavewifi_settings">Toque para alterar as configurações</string>
+  <string name="small_freeform_check_memory_exception_message">%1$s causou um erro de memória. Feche este app para evitar atrasos.</string>
+  <string name="small_freeform_check_memory_exception_negative_message">Cancelar</string>
+  <string name="small_freeform_check_memory_exception_positive_message">Fechar</string>
   <string name="small_freeform_enter_warning">Janelas flutuantes</string>
   <string name="small_freeform_exit_tip">Fechar janela flutuante</string>
   <string name="small_freeform_memory_toast_app_type">Não é possível abrir agora. Este app requer muita memória para funcionar.</string>

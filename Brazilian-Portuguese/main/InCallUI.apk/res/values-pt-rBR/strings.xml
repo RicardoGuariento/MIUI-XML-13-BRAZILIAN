@@ -439,6 +439,7 @@
   <string name="video_call_downgrade_insufficient_bandwidth">Largura de banda insuficiente, volte para a chamada de voz</string>
   <string name="video_conference_caller_info_name">Videochamada de conferência de %1$s</string>
   <string name="video_crbt_title">O VRBT do outro usuário está tocando</string>
+  <string name="voice_control_deny_permission_msg">"Não é possível usar os controles de voz agora. Primeiro permita que este app grave o áudio."</string>
   <string name="voicemail">Mensagem de voz</string>
   <string name="volte_call">Chamada VoLTE</string>
   <string name="volume_boost_text">Volume otimizado com sucesso</string>

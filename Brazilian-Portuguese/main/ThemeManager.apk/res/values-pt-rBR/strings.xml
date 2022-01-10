@@ -1181,6 +1181,8 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
   <string name="shortcut_message">Adicionar atalho à Tela inicial</string>
   <string name="shortcut_show_tip">Não mostrar novamente</string>
   <string name="shortcut_title">Curtiu nossos planos de fundo?</string>
+  <string name="show_exchange">Atalho do centro de resgate</string>
+  <string name="show_exchange_desc">Mostrar ou ocultar o atalho do centro de resgate</string>
   <string name="show_free_aod">Mostrar temas gratuitos</string>
   <string name="show_free_font">Mostrar fontes gratuitas</string>
   <string name="show_free_icons">Mostrar ícones gratuitos</string>

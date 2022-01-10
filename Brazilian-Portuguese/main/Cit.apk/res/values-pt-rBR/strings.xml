@@ -264,6 +264,8 @@ Nenhum dispositivo Bluetooth encontrado."</string>
   <string name="cit_diag_signal_title">Ler log de estabilidade de sinal</string>
   <string name="cit_diag_wait">Por favor, aguarde... Copiando arquivos</string>
   <string name="cit_dial_emergencycall">Discar 112</string>
+  <string name="cit_digital_hall_sensor_check_summary">Valor do ângulo mostrado abaixo</string>
+  <string name="cit_digital_hall_sensor_check_title">Teste Digital Hall</string>
   <string name="cit_display_check_summary">Confirme se as cores são exibidas de forma consistente por todo a tela. Certifique-se de que não há pontos brilhantes e escuros irregulares.</string>
   <string name="cit_display_check_title">Tela</string>
   <string name="cit_display_continue">Toque na tela para iniciar o teste</string>

@@ -82,6 +82,7 @@
   <string name="backup_hint_pad">Mantenha seu dispositivo ligado</string>
   <string name="backup_is_running">Fazendo o backup do dispositivo</string>
   <string name="backup_new">Novo:</string>
+  <string name="backup_notification_title">\"Backup\" em progresso…</string>
   <string name="backup_progress">Fazendo backup…</string>
   <string name="backup_report">Ver detalhes</string>
   <string name="backup_security_tips_message">Pode não ser possível fazer o backup ou restaurar alguns apps.</string>
