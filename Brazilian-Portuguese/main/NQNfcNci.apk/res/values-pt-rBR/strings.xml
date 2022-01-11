@@ -29,7 +29,6 @@
   <string name="abc_toolbar_collapse_description">Recolher</string>
   <string name="accessibility_nfc_enabled">NFC ativado</string>
   <string name="action_bluetooth_pair">Parear</string>
-  <string name="actionbar_button_up_description">Voltar</string>
   <string name="action_confirm_url_open">Abrir link</string>
   <string name="action_connect_network">Conectar</string>
   <string name="action_create_contact">Criar</string>
@@ -40,6 +39,7 @@
   <string name="action_open">Abrir</string>
   <string name="action_open_tag">Ler etiquetas</string>
   <string name="action_sms">Enviar</string>
+  <string name="actionbar_button_up_description">Voltar</string>
   <string name="afternoon">"PM"</string>
   <string name="am">"AM"</string>
   <string name="android_beam">Compartilhamento Android</string>
@@ -206,7 +206,7 @@
   <string name="pair_yes">Sim</string>
   <string name="pairing_peripheral">Pareando %1$s…</string>
   <string name="pairing_peripheral_failed">Não foi possível parear o %1$s</string>
-  <string name="pay_with">Pagar com</string>
+  <string name="pay_with">"Forma de pagamento: "</string>
   <string name="pm">"PM"</string>
   <string name="prompt_connect_to_network">Conectar-se a rede %1$s?</string>
   <string name="saturday">Sábado</string>

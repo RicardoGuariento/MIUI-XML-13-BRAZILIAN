@@ -626,6 +626,8 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
   <string name="aod_style_description">Exibir o relógio, data, hora, notificações e outros itens com a tela desligada</string>
   <string name="aod_style_title">Estilo</string>
   <string name="aod_to_close">Desativar</string>
+  <string name="ap_connect_failed">falha na conexão</string>
+  <string name="ap_connected_battery_level">" | bateria %1$s"</string>
   <string name="apn_apn">"APN"</string>
   <string name="apn_auth_type">Tipo de autenticação</string>
   <string name="apn_auth_type_chap">"CHAP"</string>
@@ -5291,6 +5293,8 @@ Não poderá reverter esta ação."</string>
   <string name="menu_item_notification_power_text">Otimização da bateria</string>
   <string name="menu_key">"Menu"</string>
   <string name="menu_new">Novo APN</string>
+  <string name="menu_new_display_open">Abrir em uma nova janela</string>
+  <string name="menu_pc_open">Abrir com um programa de computador</string>
   <string name="menu_proc_stats_duration">Duração</string>
   <string name="menu_proc_stats_type">Tipo de estatísticas</string>
   <string name="menu_proc_stats_type_background">Segundo plano</string>
