@@ -122,6 +122,8 @@
   <string name="brvah_load_end">Nenhum dado</string>
   <string name="brvah_load_failed">O carregamento falhou, por favor clique aqui para tentar novamente</string>
   <string name="brvah_loading">Carregando…</string>
+  <string name="btn_clear_history">Limpar histórico</string>
+  <string name="btn_empty_go_to_download">Baixar</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_choose">Desmarcar</string>
   <string name="cancel_subscribe_tips">Parar de seguir agora?</string>
@@ -275,6 +277,7 @@
   <string name="content">Conteúdo</string>
   <string name="content_can_not_null">Não é possível enviar um feedback sem descrição.</string>
   <string name="continue_play">Retomar</string>
+  <string name="controller_bar_edit">Editar</string>
   <string name="data_empty">Não há itens aqui</string>
   <string name="date_picker_label_day"/>
   <string name="date_picker_label_month"/>
@@ -302,15 +305,27 @@ Envie este código para o supervisor."</string>
   <string name="dialog_app_comment_title">Classifique nosso app</string>
   <string name="dialog_bookmark_add">Adicionar</string>
   <string name="dialog_bookmark_cancel">Cancelar</string>
+  <string name="dialog_cancel">Cancelar</string>
+  <string name="dialog_clearn_content">Limpar o histórico de navegação?</string>
+  <string name="dialog_clearn_title">Limpar histórico</string>
+  <string name="dialog_confirm">"OK"</string>
+  <string name="dialog_delete_bookmarks_content">Excluir favorito?</string>
   <string name="dialog_disagree_privacychange_info">Você não poderá usar os serviços de streaming online do Mi Vídeo se você não aceitar nossa Política de Privacidade. Toque em \"Cancelar\" para voltar ou em \"Não aceitar\" para continuar e usar o Mi Vídeo apenas como um reprodutor local.</string>
   <string name="dialog_disagree_privacychange_title">Não aceitar?</string>
+  <string name="dialog_edit_bookmarks">Editar favorito</string>
   <string name="dialog_edit_hint_bookmarks_name">Nome do favorito</string>
   <string name="dialog_edit_hint_bookmarks_url">"URL"</string>
+  <string name="dialog_edit_hint_name">Nome</string>
+  <string name="dialog_edit_hint_url">"URL"</string>
   <string name="dialog_jumpto_choose">Não mostrar novamente</string>
   <string name="dialog_jumpto_content">Alternar para o Mi Vídeo para acessar recursos adicionais de reprodução?</string>
   <string name="dialog_jumpto_title">Mi Vídeo</string>
+  <string name="dialog_no_video_confirm">Entendi</string>
+  <string name="dialog_no_video_tip">Tente abrir os detalhes do vídeo primeiro. O botão de download ficará disponível quando um vídeo for encontrado.</string>
+  <string name="dialog_no_video_title">Não foi possível encontrar o vídeo</string>
   <string name="dialog_privacy_change_info">Nós atualizamos a Política de Privacidade do Mi Vídeo devido aos ajustes de serviços que oferecemos. Para entender totalmente seus direitos como usuário, bem como as formas que usamos os seus dados, leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar o app.</string>
   <string name="dialog_privacy_change_title">Atualização da Política de Privacidade</string>
+  <string name="dialog_privacy_experience_plan">Participe do nosso Programa de Experiência do Usuário para compartilhar dados conosco e nos ajudar a melhorar os nossos produtos e serviços.</string>
   <string name="dialog_privacy_info_new2">Para poder usar estes serviços, você precisa concordar que o %1$s coletará, processará e usará suas informações pessoais. Será considerado que você leu e concordou com a nossa &lt;a href=%2$s>Política de Privacidade&lt;/a> quando você tocar em \"Aceitar\" abaixo.</string>
   <string name="dialog_privacy_info_new3">Para poder usar este serviço, você precisa permitir que o %1$s colete, processe e use suas informações pessoais de acordo com a Política de Privacidade. Ao tocar em Aceitar abaixo, você estará concordando com a &lt;a href=%2$s>Política de Privacidade&lt;/a> e o &lt;a href=%3$s>Contrato do Usuário&lt;/a> da Xiaomi. &lt;br/>&lt;br/>Tocar em Aceitar também permitirá que o Mi Vídeo acesse a lista de apps instalados em seu dispositivo. Com esta permissão, o Mi Vídeo poderá compartilhar itens, entender se um app está instalado em seu dispositivo, qual versão de um app está instalada, e se determinado app é seguro.</string>
   <string name="dialog_privacy_info_new4">Bem-vindo ao Mi Vídeo! Este app fornece os seguintes serviços:&lt;br>&lt;/br> • Serviços de streaming online&lt;br>&lt;/br>• Um reprodutor de vídeos locais&lt;br>&lt;/br>O Mi Vídeo precisa coletar as informações pessoais necessárias para lhe fornecer os seus serviços básicos. Você pode aprender sobre como lidamos com as informações coletadas em nossa Política de Privacidade. Você poderá alterar as configurações relacionadas em Configurações > Senhas e segurança.&lt;br>&lt;/br>Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar o Mi Vídeo.</string>
@@ -325,9 +340,17 @@ Envie este código para o supervisor."</string>
   <string name="dialog_privacy_title">Termos e condições</string>
   <string name="dialog_revoke_privacy_info_new2">Depois que você revogar a autorização, o app parará de coletar dados, e todos os seus dados relacionados serão excluídos de nossos servidores. Isto poderá tornar o app virtualmente inutilizável. Revogar a autorização mesmo assim?</string>
   <string name="dialog_revoke_privacy_title">Revogando a autorização</string>
+  <string name="dialog_select_folder_content">Salvar todos os downloads futuros nesta pasta?</string>
+  <string name="dialog_select_folder_title">Selecionar pasta</string>
   <string name="dialog_set_default_later">Não, obrigado</string>
   <string name="dialog_set_default_set">Definir</string>
   <string name="dialog_set_default_text">Definir o Mi Vídeo como o reprodutor de vídeos padrão?</string>
+  <string name="dialog_video_change">Alterar</string>
+  <string name="dialog_video_download_tip">Adicionado à fila de downloads</string>
+  <string name="dialog_video_download_view">Ver</string>
+  <string name="dialog_video_high">Alta</string>
+  <string name="dialog_video_low">Baixa</string>
+  <string name="dialog_video_medium">Média</string>
   <string name="disagree">Não aceitar</string>
   <string name="diy_channels_tips">Você pode personalizar sua lista de canais agora.</string>
   <string name="do_not_show_again">Não mostrar novamente</string>
@@ -531,6 +554,7 @@ Envie este código para o supervisor."</string>
   <string name="galleryplus_network_connect_confirm">Conecte-se ao Wi-Fi ou ative os dados móveis nas configurações de rede.</string>
   <string name="galleryplus_network_error">Não foi possível conectar-se à rede</string>
   <string name="galleryplus_network_not_wifi">Usar os dados móveis para o streaming de vídeos pode gerar tarifas adicionais com a operadora</string>
+  <string name="galleryplus_next_step">Próximo</string>
   <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Gerencie arquivos %$s Adicione legendas %$s Transmita vídeos %$s</string>
   <string name="galleryplus_notification_linkvideo_subtitle2">Proteja seus vídeos privados com uma senha %$s</string>
   <string name="galleryplus_notification_linkvideo_subtitle3">Baixe vídeos do TikTok, Instagram, e Twitter %$s</string>
@@ -549,7 +573,9 @@ Envie este código para o supervisor."</string>
 
 1. Acesse o armazenamento
 2. Acesse a ID do dispositivo"</string>
-  <string name="galleryplus_permission_content_opt">O Mi Vídeo precisa de permissões para funcionar normalmente. Limpe todos os dados do app nas Configurações e o abra novamente.</string>
+  <string name="galleryplus_permission_content_opt">O Mi Vídeo precisa de permissões para funcionar normalmente. Limpe todos os dados do app nas Configurações e abra-o novamente.</string>
+  <string name="galleryplus_permission_content_opt2">"O Mi Vídeo precisa de permissões para funcionar normalmente. Limpe todos os dados do app nas configurações e abra-o novamente.
+Esta operação não afetará as fotos da sua galeria."</string>
   <string name="galleryplus_permission_content_xms">O Mi Vídeo precisa de permissões para funcionar normalmente. Vá às Configurações e conceda ao Mi Vídeo as permissões necessárias.</string>
   <string name="galleryplus_permission_open_settings">Configurações</string>
   <string name="galleryplus_permission_refuse">Cancelar</string>
@@ -584,7 +610,9 @@ Envie este código para o supervisor."</string>
   <string name="galleryplus_talkback_btn_send">Enviar</string>
   <string name="galleryplus_talkback_btn_unfold_speed_view">Velocidade de reprodução</string>
   <string name="galleryplus_talkback_btn_unmute">Retirar mudo</string>
+  <string name="galleryplus_talkback_btn_volume_adjust">Volume</string>
   <string name="galleryplus_talkback_focused_speed">Selecionado, %sX</string>
+  <string name="galleryplus_talkback_miplay_volume_change">Alterar volume para: %d</string>
   <string name="galleryplus_talkback_sound_track_item_ai_music">Trilha sonora automática</string>
   <string name="galleryplus_talkback_sound_track_item_local_music">Trilha sonora local</string>
   <string name="galleryplus_talkback_sound_track_item_no_music">Sem trilha sonora</string>
@@ -638,6 +666,9 @@ Envie este código para o supervisor."</string>
   <string name="item_card_more_trailers">Mais trailers</string>
   <string name="item_card_open_in">"Abrir em "</string>
   <string name="item_card_related">Relacionado</string>
+  <string name="item_download_only_wify">Baixar apenas por Wi-Fi</string>
+  <string name="item_download_path">Localização dos downloads</string>
+  <string name="item_download_path_setting">Configurações da localização dos downloads</string>
   <string name="item_setting_go_back">Retirada de consentimento</string>
   <string name="just_a_second">Aguarde…</string>
   <string name="language_later_setting_tips">Você pode alterar suas preferências de idioma em Perfil > Idioma.</string>
@@ -660,6 +691,7 @@ para uma melhor experiência de visualização"</string>
   <string name="local_play_tip">Reproduzindo vídeo local</string>
   <string name="local_push_setting_power_tag">Notificações sobre vídeos locais</string>
   <string name="local_push_title">Popular hoje</string>
+  <string name="local_push_video_title">Procurar por vídeos locais</string>
   <string name="local_video_create_a_new_playlist">Nova playlist</string>
   <string name="local_video_date">Data</string>
   <string name="local_video_dialog_default">Padrão</string>
@@ -956,8 +988,8 @@ para uma melhor experiência de visualização"</string>
   <string name="notification_bar_player_subtitle">Exibe o reprodutor minimizado na Área de notificações</string>
   <string name="notification_bar_player_title">Minimizar reprodutor</string>
   <string name="notification_last_played_status">Histórico de reprodução</string>
-  <string name="notification_open_tip">Ative para receber notificações</string>
-  <string name="notification_promotion">Recomendações</string>
+  <string name="notification_open_tip">Receba notificações quando novos vídeos locais forem encontrados</string>
+  <string name="notification_promotion">Recomendado</string>
   <string name="notification_recall_action">Ativar</string>
   <string name="notification_recall_desc">O Mi Vídeo pode notificá-lo sobre vídeos populares e suas inscrições.</string>
   <string name="notification_recall_title">Ativar notificações</string>
@@ -973,6 +1005,8 @@ para uma melhor experiência de visualização"</string>
   <string name="offline_opt_in_title">Abrir o anúncio quando você ficar on-line novamente.</string>
   <string name="ok">"OK"</string>
   <string name="on_tip_firework_recommend">Você receberá recomendações personalizadas de conteúdos do Firework</string>
+  <string name="online_play_hint">Por exemplo: http://www.example.com/video.mp4</string>
+  <string name="online_play_title">Inserir URL</string>
   <string name="open_settings">Vá para as Configurações</string>
   <string name="order_alphabet">"A-Z"</string>
   <string name="order_recently_subscribe">Inscrições recentes</string>
@@ -1326,6 +1360,8 @@ Aumentar a segurança da sua conta."</string>
   <string name="popup_pip_not_activated">Permita que o Mi Vídeo use o picture-in-picture primeiro.</string>
   <string name="privacy_agree_subtitle">O consentimento à Política de Privacidade permite que você use todos os recursos do Mi Vídeo</string>
   <string name="privacy_agree_title">Consentimento</string>
+  <string name="privacy_experience_plan">Participe do nosso Programa de Experiência do Usuário para compartilhar dados conosco e nos ajudar a melhorar os nossos produtos e serviços</string>
+  <string name="privacy_experience_title">Programa de Experiência do Usuário</string>
   <string name="privacy_revoke_setting">Ao desativar o seletor, você irá retirar o seu consentimento à Política de Privacidade do Mi Vídeo.</string>
   <string name="privacy_revoke_subtitle">Retirando o consentimento à Política de Privacidade do Mi Vídeo</string>
   <string name="privacy_revoke_title">Retirada de consentimento</string>
@@ -1346,7 +1382,7 @@ Aumentar a segurança da sua conta."</string>
   <string name="question_click_bottom_tab">Você também pode tocar em um atalho para abrir um site.</string>
   <string name="question_click_with_light">Toque no botão de download depois que acender.</string>
   <string name="question_edit_url_here">Pesquise ou insira a URL aqui.</string>
-  <string name="question_how_to_download_video">Como posso baixar vídeos?</string>
+  <string name="question_how_to_download_video">Como baixar vídeos?</string>
   <string name="question_known">Entendi</string>
   <string name="question_look_video_here">Os vídeos baixados serão salvos aqui.</string>
   <string name="question_next">Avançar</string>
@@ -1570,13 +1606,25 @@ Aumentar a segurança da sua conta."</string>
   <string name="time_picker_label_minute">M</string>
   <string name="tip_auth_again">Como você não aceitou os termos da Política de Privacidade correspondente ao provedor de conteúdo terceirizado, não podemos exibir conteúdos em vídeo no Moments. Toque no botão abaixo para aceitar a Política de Privacidade e acessar este recurso.</string>
   <string name="tip_author_click">Toque para ver mais vídeos desta conta</string>
+  <string name="tip_download_video_to_save_here">%d. O vídeo será salvo em seus downloads</string>
+  <string name="tip_enter_the_website">%d. Abra um website ou app</string>
+  <string name="tip_play_a_video">%d. Reproduza um vídeo</string>
   <string name="tip_pop">&lt;Data>Conteúdos do Moments são fornecidos por Firework. Para melhorar sua experiência de visualização e receber mais recomendações de conteúdos relevantes, permita que o Firework colete, processe e use suas informações pessoais de acordo com a sua Política de Privacidade. Leia e aceite a &lt;a href=\"%1$s\">Política de Privacidade do Firework&lt;/a> antes de usar os seus serviços.&lt;/Data></string>
+  <string name="tip_storage_used_space" formatted="false">Usados %.2f GB/%.2f GB</string>
+  <string name="tip_tap_download_button">%d. Toque em \"Baixar\"</string>
   <string name="tip_topic_click">Toque para encontrar mais vídeos neste tópico</string>
+  <string name="title_bookmarks">Favoritos</string>
+  <string name="title_continue_to_borwser">Abrir no navegador</string>
+  <string name="title_download_setting">Configurações de download</string>
   <string name="title_firework_recommend">Recomendações do Firework</string>
+  <string name="title_history">Histórico</string>
   <string name="title_publisher">Criadores</string>
+  <string name="title_select_directory">Selecionar pasta</string>
+  <string name="title_selected">Selecionado</string>
   <string name="title_subscribe">Inscrições</string>
   <string name="toast_bookmark_add_success">Favorito adicionado</string>
   <string name="toast_bookmark_already_created">Este favorito já existe</string>
+  <string name="toast_bookmark_edit_success">Favorito editado com sucesso</string>
   <string name="toast_bookmark_input_name">Inserir nome do favorito</string>
   <string name="toast_bookmark_input_url">Inserir URL</string>
   <string name="toast_bookmark_success_to_add">Favorito adicionado</string>
@@ -1630,6 +1678,7 @@ Aumentar a segurança da sua conta."</string>
   <string name="v_network_failed">Não foi possível conectar-se à rede</string>
   <string name="v_next">Avançar</string>
   <string name="v_ok">"OK"</string>
+  <string name="v_online_play">Transmitir online</string>
   <string name="v_pw_need_update_app">Atualize o Mi Vídeo para usar todos os seus recursos</string>
   <string name="v_save">Salvar</string>
   <string name="v_search">Pesquisar</string>
