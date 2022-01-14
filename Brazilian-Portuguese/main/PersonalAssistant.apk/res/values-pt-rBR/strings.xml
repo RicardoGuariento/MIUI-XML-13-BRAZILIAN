@@ -492,6 +492,7 @@ Você também pode rastrear a entrega expressa nos sites oficiais das empresas d
     <string name="app_miot_start">Adicionar</string>
     <string name="app_miot_title">Dispositivos inteligentes</string>
     <string name="app_miot_to_start">Adicionar</string>
+	<string name="app_name">SDK do Security Guard</string>
     <string name="app_news_default_title">Notícias</string>
     <string name="app_note_add">Adicionar</string>
     <string name="app_note_title_empty">Anotações</string>

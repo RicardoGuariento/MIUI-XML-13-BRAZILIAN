@@ -2276,8 +2276,8 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
   <string name="quick_settings_financed_disclosure_named_management">Este dispositivo é fornecido por %s</string>
   <string name="quick_settings_flashlight_camera_in_use">Câmera em uso</string>
   <string name="quick_settings_flashlight_label">Lanterna</string>
-  <string name="quick_settings_googlehome_label">"Google home"</string>
-  <string name="quick_settings_googlepay_label">"Google pay"</string>
+  <string name="quick_settings_googlehome_label">"Google Home"</string>
+  <string name="quick_settings_googlepay_label">"Google Pay"</string>
   <string name="quick_settings_header_onboarding_text">Toque e segure os ícones para mais opções</string>
   <string name="quick_settings_hotspot_label">Ponto de acesso</string>
   <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Economia de dados ativada</string>

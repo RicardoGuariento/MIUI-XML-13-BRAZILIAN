@@ -626,8 +626,8 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
   <string name="aod_style_description">Exibir o relógio, data, hora, notificações e outros itens com a tela desligada</string>
   <string name="aod_style_title">Estilo</string>
   <string name="aod_to_close">Desativar</string>
-  <string name="ap_connect_failed">falha na conexão</string>
-  <string name="ap_connected_battery_level">" | bateria %1$s"</string>
+  <string name="ap_connect_failed">Não foi possível conectar</string>
+  <string name="ap_connected_battery_level">" | Bateria %1$s"</string>
   <string name="apn_apn">"APN"</string>
   <string name="apn_auth_type">Tipo de autenticação</string>
   <string name="apn_auth_type_chap">"CHAP"</string>
