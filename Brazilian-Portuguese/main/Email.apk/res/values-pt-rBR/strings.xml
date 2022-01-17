@@ -134,6 +134,7 @@ Alterá-los agora?"</string>
   <string name="account_setup_correct_address_tips">O endereço de e-mail inserido é inválido.</string>
   <string name="account_setup_creating_account_msg">Criando conta…</string>
   <string name="account_setup_deleting_account_msg">"  Removendo conta…"</string>
+   <string name="account_setup_domain_invalid_toast">O nome de domínio de e-mail que você digitou está incorreto, verifique</string>
   <string name="account_setup_exchange_certificate_title">Certificado do cliente</string>
   <string name="account_setup_exchange_no_certificate">Nenhum</string>
   <string name="account_setup_failed_auth_required">Este método de autenticação não é suportado pelo servidor.</string>

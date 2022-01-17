@@ -330,6 +330,15 @@
   <string name="eras_ad">d.C</string>
   <string name="eras_bc">a.C</string>
   <string name="evening">"PM"</string>
+  <string name="exo_download_completed">Download concluído</string>
+  <string name="exo_download_description">Baixar</string>
+  <string name="exo_download_downloading">Baixando</string>
+  <string name="exo_download_failed">Falha ao baixar</string>
+  <string name="exo_download_notification_channel_name">"Downloads"</string>
+  <string name="exo_download_paused">Downloads pausados</string>
+  <string name="exo_download_paused_for_network">Downloads aguardando rede</string>
+  <string name="exo_download_paused_for_wifi">Downloads aguardando Wi-Fi</string>
+  <string name="exo_download_removing">Removendo downloads</string>
   <string name="expand_button_title">Avançado</string>
   <string name="facebook_clean_exit_confirm_cancel">Continuar verificação</string>
   <string name="facebook_clean_exit_confirm_msg">A verificação do Facebook ainda não terminou. Parar a verificação agora?</string>

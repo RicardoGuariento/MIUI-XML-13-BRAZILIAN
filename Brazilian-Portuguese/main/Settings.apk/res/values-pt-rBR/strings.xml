@@ -1836,6 +1836,7 @@ Se você já fez tudo descrito acima, adicione sua Conta Mi novamente; senão, v
   <string name="brightness">Nível de brilho</string>
   <string name="brightness_auto_adjust_off">Agora você pode ajustar o brilho da tela manualmente. Ele permanecerá constante até que você o ajuste novamente.</string>
   <string name="brightness_auto_adjust_on">O brilho da tela será otimizado de acordo com a luz ambiente. Você ainda pode fazer pequenos ajustes manualmente.</string>
+  <string name="brightness_auto_summary">Ajusta o brilho à luz ambiente para economizar bateria</string>
   <string name="brightness_summary">Ajustar o brilho da tela</string>
   <string name="brightness_title">Brilho</string>
   <string name="bt_aac_dialog_summary">"Seu dispositivo suporta o codec AAC. No entanto, o AAC pode apresentar falhas na repodução do som devido a problemas de compatibilidade. O seu dispositivo alterou para o codec SBC automaticamente.
@@ -3449,6 +3450,7 @@ Reinicie o seu dispositivo e tente novamente."</string>
   <string name="external_ram_dialog_icon_title">Extensão de memória ativada</string>
   <string name="external_ram_dialog_message">Reinicie o seu dispositivo para aplicar as alterações.</string>
   <string name="external_ram_dialog_title">Reiniciar dispositivo</string>
+  <string name="external_ram_remind_toast">O espaço de armazenamento está acabando. Extensão de memória desativada por enquanto.</string>
   <string name="external_ram_summary">Adiciona %1$s %2$s de RAM, que será utilizada a partir do armazenamento interno. Use este recurso apenas quando houver espaço de armazenamento suficiente disponível em seu dispositivo.</string>
   <string name="external_ram_title">Extensão de memória</string>
   <string name="external_ram_toast">Não é possível usar a extensão de memória devido ao espaço de armazenamento insuficiente</string>
@@ -4071,6 +4073,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="headphone_assisted_summary">Transmita a alimentação do microfone do seu telefone para fones de ouvido Bluetooth conectados</string>
   <string name="headphone_assisted_title">Monitor intra-auricular em tempo real</string>
   <string name="headset_aac">"AAC"</string>
+  <string name="headset_ambient_sound">Sons do ambiente</string>
   <string name="headset_aptx_adapter">Qualcomm® aptX™ Adaptável</string>
   <string name="headset_connectiong">Conectando…</string>
   <string name="headset_find_both">Ambos</string>
@@ -4111,6 +4114,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="hide_extra_apps">Mostrar uso de apps</string>
   <string name="hide_silent_icons_summary">Os ícones de notificações discretas não são exibidos na barra de status</string>
   <string name="hide_silent_icons_title">Ocultar ícones das notificações discretas</string>
+  <string name="high_brightness_hint_summary">Um pequeno ícone de sol 🌞 aparecerá na parte superior da tela quando a luz ambiente for forte</string>
   <string name="high_label">Alta</string>
   <string name="high_performance_notif_summary">O dispositivo pode aquecer com o uso intenso.</string>
   <string name="high_performance_notif_title">Modo Desempenho ativado</string>
@@ -7257,6 +7261,7 @@ Essa configuração afeta todos os usuários do smartphone."</string>
   <string name="scanning_status_text_wifi_on_ble_off">A busca por Wi-Fi está ativada, a busca por Bluetooth está desativada</string>
   <string name="scanning_status_text_wifi_on_ble_on">A busca por Wi-Fi e Bluetooth estão ativadas</string>
   <string name="screen">Tela</string>
+  <string name="screen_brightness">Brilho de tela</string>
   <string name="screen_cancel">Cancelar</string>
   <string name="screen_color_and_optimize">Cores e contraste</string>
   <string name="screen_color_and_optimize_disabled">Não é possível ajustar o esquema de cores e a temperatura das cores no Modo leitura</string>
@@ -8827,7 +8832,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
   <string name="sunday_short">Dom</string>
   <string name="sunday_shortest">Dom</string>
   <string name="sunlight_mode">Modo luz solar</string>
-  <string name="sunlight_mode_summary">Ajuste o brilho para uma luz ambiente forte quando o brilho automático estiver desativado</string>
+  <string name="sunlight_mode_summary">Ajuste o brilho para uma luz ambiente forte para evitar que a tela fique muito escura</string>
   <string name="sunlight_mode_summary_new">Ajuste o brilho para uma luz ambiente forte para evitar que a tela fique muito escura. Um pequeno ícone do sol 🌞 aparecerá na parte superior da tela quando a luz ambiente for muito forte.</string>
   <string name="supl_not_set">(Não definido)</string>
   <string name="supplicant_state_label">Estado suplicante:</string>

@@ -1144,7 +1144,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="cpu_usage_view_action_btn_text">Toque para ver</string>
   <string name="create_gamebooster_destop">Atalho na Tela inicial criado com sucesso</string>
   <string name="create_shortcut">Criar um atalho na Tela inicial para o Game Turbo</string>
-  <string name="cta_HIPS_Perm_Location_Desc">Para exibir alertas antecipador de terremotos relevantes à sua localização</string>
+  <string name="cta_HIPS_Perm_Location_Desc">Para usar suas informações de localização no Centro de Alerta MIUI, SOS de emergência, app de economia de bateria e scanner de segurança de pagamento, além de ativar a localização aproximada</string>
   <string name="cta_agree_desc">Para poder usar os nossos serviços, permita que este app conecte-se à internet e conceda as permissões listadas acima.</string>
   <string name="cta_close_dialog_cancel">Cancelar</string>
   <string name="cta_close_dialog_content">Se você restringir o acesso do app Segurança à internet e informações de localização, você não poderá receber alertas de terremotos, atualizar definições do antivírus e informações da lista de bloqueio. Seu dispositivo ficará menos seguro. Restringir mesmo assim?</string>
@@ -1153,7 +1153,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="cta_dialog_negative">Sair</string>
   <string name="cta_dialog_positive">Aceitar</string>
   <string name="cta_dialog_title">Conexão com a internet</string>
-  <string name="cta_main_purpose">Bem-vindo ao app Segurança! Pode usar este app para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais.</string>
+  <string name="cta_main_purpose">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança MIUI e serviços do sistema) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais.</string>
   <string name="cta_settings">Permita o acesso à internet e à localização</string>
   <string name="current_network_state_not_need_diagnose">A conexão com a internet está normal.</string>
   <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para usar a lista de bloqueio e fazer chamadas para contatos de emergência quando avisos de terremoto forem emitidos</string>
@@ -1162,7 +1162,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="custom_define_permission_desc_android.permission.READ_SMS">Para usar a lista de bloqueio e reconhecer mensagens de sua operadora</string>
   <string name="custom_define_permission_desc_android.permission.SEND_SMS">Para usar a lista de bloqueio e enviar mensagens de calibração para sua operadora</string>
   <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Para excluir mensagens de sua lista de bloqueio</string>
-  <string name="custom_define_permission_desc_android.permission_group.LOCATION">Por fornecer suas informações de localização ao Centro de Alerta MIUI e SOS de Emergência</string>
+  <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para fornecer os recursos relevantes para sua localização no Centro de Alerta MIUI, SOS de emergência, app de economia de bateria, scanner de segurança de pagamento e serviço de localização aproximada</string>
   <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para limpar o lixo e o antivírus realizar verificações</string>
   <string name="customize_limit_pkg">%s (personalizado)</string>
   <string name="customizer_mode_user_define_name">Minhas regras</string>
@@ -2745,6 +2745,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="not_limited_brand">Ilimitado</string>
   <string name="not_set">Não definido</string>
   <string name="not_settled">Não definido</string>
+  <string name="not_support_root_summary">Permitir acesso root para apps de terceiros pode representar riscos de segurança e danificar seu dispositivo. Por este motivo, não oferecemos mais opções para gerenciar permissões de acesso root.</string>
+  <string name="not_support_root_title">Acesso root</string>
   <string name="note">Anotação</string>
   <string name="note_call_none">Nenhuma chamada</string>
   <string name="note_list_none">A lista está vazia</string>
@@ -4025,6 +4027,7 @@ Retirar consentimento agora?"</string>
   <string name="select_province_and_city">Defina a localização</string>
   <string name="send">Enviar</string>
   <string name="send_msg_to_query">Envie uma mensagem de texto para verificar</string>
+  <string name="send_sms_title">Permitir que %s envie mensagens?</string>
   <string name="set_applock_password">Definir senha</string>
   <string name="set_complete">Definido com sucesso</string>
   <string name="set_location">Definir localização</string>
@@ -4036,6 +4039,7 @@ Retirar consentimento agora?"</string>
   <string name="set_pattern_password_name">Configurar padrão</string>
   <string name="set_traffic_tips">Defina seu plano de dados para gerenciar o uso de dados móveis e evitar cobranças adicionais da operadora</string>
   <string name="setting">Configurações</string>
+  <string name="setting_back_sound_loading_msg">Aguarde…</string>
   <string name="setting_online_service">Serviços online</string>
   <string name="setting_privacy_password">Adicionar padrão</string>
   <string name="setting_wireless_reverse_charging_fg_control_summary">Pare o carregamento sem fio reverso quando a bateria deste dispositivo atingir %s</string>
@@ -4191,6 +4195,7 @@ Retirar consentimento agora?"</string>
   <string name="sms_blacklist">Bloqueio de SMS</string>
   <string name="sms_cloud_block">Bloqueio na nuvem</string>
   <string name="sms_contact_block">Bloquear SMS de contatos</string>
+  <string name="sms_content">"Mensagem: "</string>
   <string name="sms_delete_all_hint">Excluir todas as mensagens agora?</string>
   <string name="sms_delete_hint">Excluir todas as mensagens bloqueadas deste número?</string>
   <string name="sms_delete_title">Excluir mensagens</string>
@@ -4201,6 +4206,7 @@ Retirar consentimento agora?"</string>
   <string name="sms_keywords">Bloqueio de palavras-chave</string>
   <string name="sms_malicious_url">Bloquear SMS com URLs maliciosas</string>
   <string name="sms_prefix">Bloqueio de prefixos</string>
+  <string name="sms_sender">"Para: "</string>
   <string name="sms_service">Bloquear SMS de serviço</string>
   <string name="sms_smart_engine_update">Atualizar filtro de SMS automático</string>
   <string name="sms_smart_engine_update_now">Atualizar</string>
@@ -5222,6 +5228,8 @@ Ativar um destes recursos desativará o outro."</string>
 Experimente interpolar a resolução!"</string>
   <string name="verify_shut_down_password_content">Exige a confirmação do bloqueio de tela se o dispositivo estiver desligado enquanto estiver bloqueado</string>
   <string name="verify_shut_down_password_title">Confirmação de desligamento</string>
+  <string name="verify_sms_ensure_allow">Enviar</string>
+  <string name="verify_sms_title">%1$s está tentando enviar uma mensagem…</string>
   <string name="video_repeat">Reproduzir novamente</string>
   <string name="videobox_hangup_tips_content">A sua tela será bloqueada, mas o app continuará executando em segundo plano quando este recurso estiver ativado. Pressione o botão Liga/Desliga para ligar a tela novamente. Ativar este recurso agora?</string>
   <string name="videobox_hangup_tips_title">Atenção</string>
