@@ -45,10 +45,11 @@
   <string name="backup_action_check_network">Verifique as configurações de rede</string>
   <string name="backup_action_clean_disk_space">Liberar espaço</string>
   <string name="backup_action_no_space_with_wechat_off_content">Não há espaço de armazenamento em nuvem suficiente para fazer backup de itens deste dispositivo.Toque para ver as opções de armazenamento em nuvem disponíveis para você.</string>
-  <string name="backup_action_no_space_with_wechat_off_title">"Não pode fazer backup de itens"</string>
+  <string name="backup_action_no_space_with_wechat_off_title">"Não foi possível fazer backup de itens"</string>
   <string name="backup_action_no_space_with_wechat_on_content">Não há espaço de armazenamento em nuvem suficiente para fazer backup de dados WeChat. Atualize seu plano de armazenamento para fazer backup de itens.</string>
-  <string name="backup_action_no_space_with_wechat_on_title">"Não pode fazer backup de dados wechat"</string>  
+  <string name="backup_action_no_space_with_wechat_on_title">"Não foi possível fazer backup dos dados do WeChat"</string>  
   <string name="backup_action_retry_now">Tente novamente</string>
+  <string name="backup_failed_reason_app_data_error">Não foi possível fazer backup dos dados do WeChat</string>
   <string name="backup_failed_reason_app_usage_denied">Conceda as permissões necessárias para fazer backup de itens</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Não há espaço de armazenamento suficiente na nuvem para salvar este backup. Faça o upgrade do seu plano ou libere espaço no armazenamento da nuvem.</string>
   <string name="backup_failed_reason_disk_space_not_enough">Espaço de armazenamento insuficiente. Libere armazenamento primeiro.</string>
@@ -401,6 +402,7 @@ Verifique sua conexão e tente novamente."</string>
   <string name="restore_detail_category_settings">Configurações</string>
   <string name="restore_detail_more">Mais</string>
   <string name="restore_detail_title">Selecione os itens para serem restaurados</string>
+  <string name="restore_failed_reason_app_data_error">"Não foi possível restaurar os dados do WeChat"</string>
   <string name="restore_failed_reason_disk_space_not_enough">Espaço de armazenamento insuficiente. Libere armazenamento primeiro.</string>
   <string name="restore_failed_reason_network_error">Erro de rede. Aguarde alguns minutos e tente novamente.</string>
   <string name="restore_finish_description">Restauração finalizada</string>

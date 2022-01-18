@@ -331,7 +331,7 @@ Envie este código para o supervisor."</string>
     <string name="kr_permission_sms_desc">Para preencher códigos de verificação automaticamente</string>
     <string name="kr_permission_storage_desc">Para salvar diagnósticos</string>
     <string name="loading_micloud_sync_data">Aguarde…</string>
-    <string name="login_3rd_app_with_system_account">Entre com %s</string>
+    <string name="login_3rd_app_with_system_account">Fazer login com %s</string>
     <string name="login_check_find_device">Obtendo informações de segurança do dispositivo…</string>
     <string name="login_check_find_device_failed_title">Não foi possível verificar as informações de segurança do dispositivo</string>
     <string name="login_find_device_bind">Este dispositivo está associado à uma ID de Conta Mi existente (%s).</string>

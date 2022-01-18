@@ -3272,8 +3272,8 @@ Você pode ver os logs gerados no app Arquivos."</string>
   <string name="enable_service_pattern_reason">A ativação do %1$s afeta a criptografia de dados. Confirme seu padrão.</string>
   <string name="enable_service_pin_reason">A ativação do %1$s afeta a criptografia de dados. Confirme seu PIN.</string>
   <string name="enable_service_title">O serviço executará as seguintes ações:</string>
-  <string name="enable_sizecompat_freeform">Ativar compatibilidade de tamanho para janela flutuante</string>
-  <string name="enable_sizecompat_freeform_summary">Permitir que apps de tamanho compatível estejam em janela flutuante</string>
+  <string name="enable_sizecompat_freeform">Permitir forçar redimensionar janelas</string>
+  <string name="enable_sizecompat_freeform_summary">Permite que apps com restrições de compatibilidade sejam executados em janelas redimensionáveis</string>
   <string name="enable_snapshot_screenlock">Pressionar e segurar o botão Voltar para tirar fotos</string>
   <string name="enable_terminal_summary">Ativar o app terminal que oferece acesso ao shell local</string>
   <string name="enable_terminal_title">Terminal local</string>
@@ -4092,7 +4092,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="headset_find_tip_title">Atenção</string>
   <string name="headset_find_title">Encontre seus fones de ouvido</string>
   <string name="headset_find_voice_warning">Aviso de volume alto</string>
-  <string name="headset_head_tracking_desc">Ajuste o sistema surround com base no movimento de sua cabeça</string>
+  <string name="headset_head_tracking_desc">Ajuste o som imersivo com base no movimento de sua cabeça</string>
   <string name="headset_head_tracking_title">Rastreie o movimento da cabeça</string>
   <string name="headset_notification_switch_summary">Mostrar status no widget da Área de notificação quando os fones de ouvido estiverem conectados</string>
   <string name="headset_notification_switch_title">Widget da Área de notificação</string>
@@ -4100,7 +4100,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
   <string name="headset_remove_message_indicate">%1$s serão despareados de todos os dispositivos associados a esta conta Mi.</string>
   <string name="headset_sbc">"SBC"</string>
   <string name="headset_settings_title">Efeitos sonoros</string>
-  <string name="headset_spatial_audio">Áudio espacial</string>
+  <string name="headset_spatial_audio">Áudio dimensional</string>
   <string name="headset_toast_tip_disconnect_others">O fone de ouvido não pode ser configurado no momento, seu fone de ouvido pode estar conectado a outro telefone</string>
   <string name="headset_unsaved_device">Remova o dispositivo</string>
   <string name="headset_unsaved_devices">Usado em outros dispositivos</string>
@@ -8841,7 +8841,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
   <string name="surround_sound_all_desc">Aumenta a profundidade da reprodução de sons para fones de ouvido e alto-falantes</string>
   <string name="surround_sound_only_headset_desc">Aumenta a profundidade da reprodução de sons para fones de ouvido</string>
   <string name="surround_sound_only_speaker_desc">Aumenta a profundidade da reprodução de sons para alto-falantes</string>
-  <string name="surround_sound_title">Sistema surround</string>
+  <string name="surround_sound_title">Som imersivo</string>
   <string name="swipe_direction_ltr">Deslize para a direita para dispensar e para esquerda para mostrar o menu</string>
   <string name="swipe_direction_rtl">Deslize para esquerda para dispensar ou para direita para mostrar o menu</string>
   <string name="swipe_direction_title">Ações de deslizar</string>

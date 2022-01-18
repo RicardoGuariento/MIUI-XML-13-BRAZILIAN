@@ -323,6 +323,7 @@
   <string name="instruction">"Introduza o seguinte endereço no cliente FTP: "</string>
   <string name="instruction_pre_pad">Toque para iniciar o servidor FTP</string>
   <string name="instruction_pre_phone">Toque para iniciar o servidor FTP</string>
+  <string name="internal_storage">Armazenamento interno</string>  
   <string name="item_view_role_description">Guia</string>
   <string name="just_now">agora mesmo</string>
   <string name="kilobyteShort">"KB"</string>
