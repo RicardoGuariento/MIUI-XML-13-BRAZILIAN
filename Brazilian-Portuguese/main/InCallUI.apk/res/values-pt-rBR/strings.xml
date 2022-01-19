@@ -96,6 +96,7 @@
   <string name="call_recording_notification_message_sd_unmounted">O cartão SD foi removido.</string>
   <string name="call_recording_notification_title">Chamada gravada</string>
   <string name="call_recording_notification_title_error">Não foi possível gravar a chamada</string>
+  <string name="caller_info_name_delimiter">" ou "</string>
   <string name="caller_manage_header">Conferência telefônica %s</string>
   <string name="can_not_use">Não é possível usar</string>
   <string name="cancel">Cancelar</string>
