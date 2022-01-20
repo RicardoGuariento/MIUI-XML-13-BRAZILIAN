@@ -1417,6 +1417,8 @@ para personalizar a Galeria"</string>
   <string name="midnight">"AM"</string>
   <string name="migrate_msg">Alguns álbuns requerem permissões para mover itens após uma atualização do sistema.</string>
   <string name="miplay_adjust_volume">Ajuste o volume para %d</string>
+  <string name="miplay_circulate_failed">Falha na transmissão. Tente novamente mais tarde</string>
+  <string name="miplay_circulating_msg">O vídeo está sendo transmitido…</string>
   <string name="miplay_pause_video">Pausar</string>
   <string name="miplay_play_video">Reproduzir</string>
   <string name="miplay_seekbar_content_description">Progresso da reprodução: %1$s %2$s</string>
