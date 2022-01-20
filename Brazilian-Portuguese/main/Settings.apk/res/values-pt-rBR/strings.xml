@@ -2353,7 +2353,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="connected_wifi">Conectado</string>
   <string name="connecting_to_vpn">Conectando-se à VPN</string>
   <string name="connection_and_sharing">Conexão e compartilhamento</string>
-  <string name="connection_control">Administrar conexões</string>
+  <string name="connection_control">Gerenciar conexões</string>
   <string name="contact_data">Contatos</string>
   <string name="contact_discovery_opt_in_dialog_message">"Os números de telefone dos seus contatos serão enviados periodicamente para a %1$s.
 
