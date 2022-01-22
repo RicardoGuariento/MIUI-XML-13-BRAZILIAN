@@ -724,7 +724,7 @@
   <string name="error_connect_timeout_action">Selecionar rede</string>
   <string name="error_connect_timeout_msg">Conecte-se a uma rede diferente e tente novamente.</string>
   <string name="error_connect_timeout_tip">Tempo limite da conexão atingido.</string>
-  <string name="error_decode_tip">Formato de arquivo não suportado ou arquivos corrompidos.</string>
+  <string name="error_decode_tip">Formato de arquivo não suportado ou o arquivo está corrompido.</string>
   <string name="error_download_tip">Não foi possível baixar</string>
   <string name="error_external_sdcard_write_action">Alternar armazenamento</string>
   <string name="error_external_sdcard_write_msg">Vá em Configurações > Armazenamento, alterne o armazenamento lá, e tente novamente.</string>
