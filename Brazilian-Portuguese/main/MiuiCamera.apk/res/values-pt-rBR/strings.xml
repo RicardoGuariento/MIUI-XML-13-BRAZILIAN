@@ -1557,6 +1557,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_camera_touch_focus_delay_title">Prolongue o tempo limite do touch focus</string>
   <string name="pref_camera_touchafaec_entry_off">Desativado</string>
   <string name="pref_camera_touchafaec_entry_on">Ativado</string>
+  <string name="pref_camera_track_eye_preferred_description">Acompanha o movimento dos olhos para manter os olhos em foco quando uma pessoa está no quadro</string>
+  <string name="pref_camera_track_eye_preferred_title">Foco de rastreamento ocular</string>
   <string name="pref_camera_track_focus_intro_description">Quando você tirar fotos ou atirar vídeos com objetos em movimento, esse recurso detectará pessoas, gatos e cães e mantém-os em foco automaticamente. Além disso, você também pode tocar em qualquer objeto para rastrear movimento.</string>
   <string name="pref_camera_track_focus_intro_goto">Ativar</string>
   <string name="pref_camera_track_focus_preferred_description">Ative para manter o foco em pessoas e animais automaticamente. Você também poderá selecionar objetos para rastrear manualmente.</string>
@@ -1647,7 +1649,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
   <string name="pref_hdr10_hdr10plus_video_mode_description">Otimizar cores para vídeos 4K (HDR10+) e 8K (HDR10). Este recurso só funciona em dispositivos compatíveis com HDR10+/HDR10.</string>
   <string name="pref_hdr10_video_mode_description">Otimiza cores e contraste para vídeos 4K e 8K automaticamente. Vídeos otimizados só podem ser reproduzidos em dispositivos compatíveis com HDR10.</string>
   <string name="pref_hdr10plus_video_mode_description">Otimizar cores e ajustar o contraste para vídeos em 4K e 8K. Este recurso só funciona em dispositivos compatíveis com HDR10+.</string>
-  <string name="pref_hybrid_video_mode_description">Grave vídeo no formato xxx, otimize a gama de cores e dinâmica de vídeo de alta resolução</string>
+  <string name="pref_hybrid_video_mode_description">Usa a tecnologia HLG para aprimorar as cores e o alcance dinâmico dos vídeos gravados em alta resolução</string>
   <string name="pref_hybrid_video_mode_title">Híbrido</string>
   <string name="pref_i_n_r_b">Redução de ruídos inteligente</string>
   <string name="pref_k_h">Monitor in-ear ao vivo</string>
@@ -2047,7 +2049,7 @@ O Modo Ultra angular ajuda-o quando não puder ficar muito afastado do cenário.
   <string name="video_effect_entry_summer_day_describe">Baixo contraste e tons brilhantes funcionam bem quando você precisa preservar os tons de pele. Este filtro é adequado para cenas ao ar livre ensolaradas.</string>
   <string name="video_effect_entry_wind_sing">Brisa</string>
   <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
-  <string name="video_hybrid_tip">híbrido</string>
+  <string name="video_hybrid_tip">"HLG"</string>
   <string name="video_overheat_tip_content">Parece que seu dispositivo está quente demais. Tente gravar um vídeo em uma resolução mais baixa.</string>
   <string name="video_reach_size_limit">Limite de tamanho atingido.</string>
   <string name="video_shortcut_short">Vídeo</string>
