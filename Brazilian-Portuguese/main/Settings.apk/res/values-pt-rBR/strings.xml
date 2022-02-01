@@ -2930,7 +2930,7 @@ Para resolver esse problema, desative a localização para esse app."</string>
   <string name="dialog_speaker_auto_clean_content">A limpeza leva 30 segundos. Não saia desta página. Aumente o volume ao máximo para obter o melhor efeito.</string>
   <string name="dialog_speaker_auto_clean_content_new">"Você está prestes a reproduzir o áudio que limpará o alto-falante. Ajuste o volume ao máximo para obter o melhor efeito."</string>
   <string name="dialog_speaker_auto_clean_title">Atenção</string>
-  <string name="dialog_speaker_auto_clean_title_new">Alto-falante limpo</string>
+  <string name="dialog_speaker_auto_clean_title_new">Limpar alto-falante</string>
   <string name="dialog_stop_message">"Não é possível gerenciar a bateria do smartphone normalmente, porque o app %1$s o mantém ativado.
 
 Para tentar resolver esse problema, você pode forçar a parada do app.

@@ -214,6 +214,8 @@
   <string name="de_super_wp_land_position_default_des">Local</string>
   <string name="de_to_comment">Comentar</string>
   <string name="de_try">Tentar</string>
+  <string name="deep_sea">Mar profundo</string>
+  <string name="deep_sea_resource_comment">A origem da vida na Terra</string>
   <string name="deleting">Excluindo…</string>
   <string name="desc_more_online_wallpaper">Mais planos de fundo online</string>
   <string name="description_author">Autor</string>
@@ -277,6 +279,8 @@
   <string name="error_icon_content_description">Erro</string>
   <string name="evening">"PM"</string>
   <string name="exchange_alert">Você pode obter cupons durante nossos eventos e resgatá-los aqui.</string>
+  <string name="exchange_code_dialog_title">Atenção</string>
+  <string name="exchange_code_not_match_account_dialog_content">Este código já foi resgatado por outra Conta Mi. Faça login com essa Conta Mi e tente novamente.</string>
   <string name="exit_extreme_mode_dialog_agree">Aceitar</string>
   <string name="exit_extreme_mode_dialog_cancel">Cancelar</string>
   <string name="exit_extreme_mode_dialog_title">Ativar Modo Extremo</string>
@@ -482,6 +486,13 @@ Para desativar este recurso, vá em Configurações &gt; Som e vibração &gt; V
   <string name="loading_picture">Carregando imagem…</string>
   <string name="loading_resource_detail_fail">Não é possível carregar o recurso</string>
   <string name="loading_resource_detail_info">Aguarde…</string>
+  <string name="local_mode">Modo offline</string>
+  <string name="local_mode_close">Desativar o modo off-line?</string>
+  <string name="local_mode_close_desc">Desative o modo offline se desejar usar serviços online. Desativar agora?</string>
+  <string name="local_mode_desc">"O modo offline usa apenas conteúdo local e não usa serviços online"</string>
+  <string name="local_mode_hint">"Você está usando o modo off-line.
+Toque para desativar."</string>
+  <string name="local_mode_open">Modo offline</string>
   <string name="local_photos">Fotos locais</string>
   <string name="local_resouce_creator_name">Desenvolvedor: %1$s</string>
   <string name="lock_screen_apply">Definir como Tela de bloqueio</string>
@@ -901,6 +912,9 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
   <string name="refresh_footer_release">Solte para carregar mais</string>
   <string name="region_not_support">Temas não são suportados na sua região.</string>
   <string name="reload">Repetir</string>
+  <string name="repeat_exchange_dialog_content">"Não é possível resgatar o código. Verificar quais outras recompensas estão disponíveis agora?"</string>
+  <string name="repeat_exchange_dialog_positive_btn">Verificar</string>
+  <string name="repeat_exchange_dialog_title">Repetir</string>
   <string name="request_time_out">A solicitação expirou. Tente novamente.</string>
   <string name="resource_account_abnormal_state">Erro na conta. Aguarde alguns minutos e tente novamente.</string>
   <string name="resource_account_fail_to_add">Não é possível adicionar a conta</string>
@@ -1214,6 +1228,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
   <string name="super_wallpaper_setting_coordinate_title">Coordenadas</string>
   <string name="super_wallpaper_setting_view_height_title">"Altitude"</string>
   <string name="supersave_mode_toast_message">"Esse recurso não está disponível ao usar o Ultra economia de bateria. Desative a Ultra economia de bateria para poder usá-lo."</string> 
+  <string name="superwallpaper_has_bound_account_dialog_content">Este papel de parede já está associado a outra Conta Mi. Faça login com essa Conta Mi e tente novamente.</string>
   <string name="support_theme_store_des">Bons temas são sempre criados por designers talentosos. Nosso app contém uma pequena quantidade de anúncios que nos permitem apoiar o trabalho deles.</string>
   <string name="support_theme_store_supported">Obrigado pelo seu apoio!</string>
   <string name="support_theme_store_title">Apoie nossos designers</string>
@@ -1347,6 +1362,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
   <string name="theme_is_external_priority_storage_summary">O app Temas reiniciará imediatamente para aplicar a configuração.</string>
   <string name="theme_log_out">Sair</string>
   <string name="theme_multiple_button_title_customize">Personalizar</string>
+  <string name="theme_need_login_dialog_content">Faça login na sua Conta Mi para continuar.</string>
   <string name="theme_no">Não</string>
   <string name="theme_not_include_module_desc">Este tema não possui o seguinte item: %s"</string>
   <string name="theme_on_the_phone_alert">Não é possível reproduzir durante as chamadas</string>
@@ -1368,6 +1384,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
   <string name="theme_user_agreement_remind_never">Não mostrar novamente</string>
   <string name="theme_user_agreement_remind_summary">Mostrar pop-up de Contrato do Usuário sempre que o app de Temas for aberto. Esta configuração tem efeito na reinicialização do dispositivo.</string>
   <string name="theme_user_agreement_title">Contrato do Usuário</string>
+  <string name="theme_version_need_update_prompt_dialog_content">Atualize o app Temas para a versão %s ou posterior para continuar</string>
   <string name="theme_wallpaper">Categoria de planos de fundo</string>
   <string name="theme_yes">Sim</string>
   <string name="third_party_pickers_activity_title">Adicionar %1$s</string>
