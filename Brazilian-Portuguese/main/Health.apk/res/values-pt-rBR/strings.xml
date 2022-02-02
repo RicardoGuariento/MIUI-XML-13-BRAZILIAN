@@ -416,6 +416,11 @@ O Mi Saúde irá notificá-lo apenas sobre itens importantes"</string>
   <string name="dialog_sleep_goal_title">Metas de tempo de sono</string>
   <string name="dialog_sleep_record_auto_start">Para registrar o sono com mais precisão, permita que o  Mi Saúde inicie automaticamente</string>
   <string name="dialog_sure">"OK"</string>
+  <string name="dialog_upgrade_description">"1. Novo design.
+2. Sincronize dados entre dispositivos.
+3. Visualize dados de saúde do Mi Saúde, Xiaomi Wear e outros apps em um só lugar."</string>
+  <string name="dialog_upgrade_positive_btn">Atualizar</string>
+  <string name="dialog_upgrade_title">"Mi Fitness"</string>
   <string name="dialog_user_agreement_purpose">Bem-vindo ao Mi Saúde! Você pode utilizar este app para contar passos, registrar o seu sono, períodos e peso assim como receber conselhos de saúde</string>
   <string name="dialog_user_agreement_purpose2">Bem-vindo ao Mi Saúde! Você pode usar este app para monitorar seus exercícios, sono, ciclo menstrual, peso, serviços do Mi Saúde Cloud e outras funções.</string>
   <string name="diastolic_pressure">Diastólica</string>

@@ -66,7 +66,7 @@
         <item quantity="one">%d foto</item>
     </plurals>
     <plurals name="album_count_and_size">
-        <item quantity="other">%1$d itens | %2$s</item>
+        <item quantity="other">%1$d itens | %2$s</item>
         <item quantity="one">%1$d item | %2$s</item>
     </plurals>
     <plurals name="album_item_msg_format">
