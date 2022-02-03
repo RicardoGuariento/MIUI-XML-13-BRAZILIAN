@@ -47,7 +47,7 @@
         <item>Última quinta</item>
         <item>Última sexta</item>
     </string-array>
-+    <string-array name="chinese_holiday_last_year">
+    <string-array name="chinese_holiday_last_year">
         <item>"Última véspera de Ano Novo Chinês"</item>
         <item>Último Ano Novo Chinês</item>
         <item>Último Festival das Lanternas</item>
