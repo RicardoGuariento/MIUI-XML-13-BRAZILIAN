@@ -164,6 +164,7 @@
   <string name="copy">Copiar</string>
   <string name="count_down_tip">%ds restantes</string>
   <string name="create_home_icon">Atalho na Tela inicial</string>
+  <string name="current_device_not_support_superwallpaper_dialog_content">"Super papéis de parede não são compatíveis com este dispositivo"</string>
   <string name="current_using">Atual</string>
   <string name="current_using_desktop_wallpaper_text">Tela inicial</string>
   <string name="current_using_lockscreen_wallpaper_text">Tela de bloqueio</string>
