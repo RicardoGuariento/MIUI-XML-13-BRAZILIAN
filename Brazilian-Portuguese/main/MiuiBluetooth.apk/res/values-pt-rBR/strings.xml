@@ -893,6 +893,13 @@ Protocolo de conexão mais rápido"</string>
   <string name="start_speech">Iniciar fala</string>
   <string name="status_unavailable">Indisponível</string>
   <string name="stop_speech">Parar fala</string>
+  <string name="stylus_firmware_failed_summary">Ative os serviços de localização e reinicie o Bluetooth. Depois, recoloque a caneta e tente novamente.</string>
+  <string name="stylus_firmware_failed_title">"Não foi possível atualizar o firmware"</string>
+  <string name="stylus_firmware_success_summary">Anexar a caneta para emparelhar.</string>
+  <string name="stylus_firmware_success_title">Firmware atualizado com sucesso</string>
+  <string name="stylus_firmware_timeout_summary">A conexão expirou. Tente novamente.</string>
+  <string name="stylus_firmware_update_summary">Atualizando o firmware da caneta…</string>
+  <string name="stylus_firmware_update_title">Firmware da caneta</string>
   <string name="storage_category">Armazenamento</string>
   <string name="strict_mode">Modo rígido</string>
   <string name="strict_mode_summary">Piscar tela quando apps executarem operações longas na tarefa principal</string>

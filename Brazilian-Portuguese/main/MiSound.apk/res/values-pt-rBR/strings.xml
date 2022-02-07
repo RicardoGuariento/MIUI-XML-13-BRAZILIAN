@@ -62,10 +62,12 @@
   <string name="dolby_dax_setting">Efeitos Dolby</string>
   <string name="dolby_dax_title">Som surround</string>
   <string name="early_morning">"AM"</string>
-  <string name="empty"/>
-  <string name="effect_3dsurround">Som surround</string>
+  <string name="effect_3dsurround">Som imersivo</string>
   <string name="effect_3dsurround_summary">Aumenta a profundidade da reprodução de sons para fones de ouvido e alto-falantes</string>
   <string name="effect_3dsurround_summary_headphone">Aumenta a profundidade da reprodução de sons para fones de ouvido</string>
+  <string name="effect_virtual_surround">Som virtual imersivo</string>
+  <string name="effect_virtual_surround_summary">"Enriqueça a profundidade do som para reprodução de áudio e vídeo em fones de ouvido (este recurso não funcionará quando o áudio %.1f for reproduzido)"</string>
+  <string name="empty"/>
   <string name="end_wireless_transmission">Parar</string>
   <string name="eq_auto">Personalizado</string>
   <string name="eq_blues">"Blues"</string>
@@ -496,7 +498,7 @@
   <string name="sound_transmission_stop">Pausar</string>
   <string name="sound_transmission_title">Microfone sem fios</string>
   <string name="spatial_audio">Rastreie o movimento da cabeça</string>
-  <string name="spatial_audio_summary">Ajuste o Som surround com base no movimento de sua cabeça</string>
+  <string name="spatial_audio_summary">Ajuste o Som imersivo com base no movimento de sua cabeça</string>
   <string name="speaker_scenario_resume">Restaurar efeitos originais</string>
   <string name="start_test_sound">Iniciar o teste</string>
   <string name="sunday">Domingo</string>

@@ -62,6 +62,7 @@
   <string name="alert_title">Notificações da Agenda</string>
   <string name="all_events">Todos os eventos</string>
   <string name="all_records">Todos os registros</string>
+  <string name="already_num">Tempo desde %s</string>
   <string name="am">"AM"</string>
   <string name="anniversary_event_title">Comemoração: %1$s</string>
   <string name="anniversary_secondary_tag">Comemoração</string>
@@ -142,6 +143,7 @@
   <string name="copy">Copiar</string>
   <string name="copy_email">Copiar endereço de e-mail</string>
   <string name="copy_number">Copiar número de telefone</string>
+  <string name="count_down_date_view">Contagem regressiva</string>
   <string name="countdown_event_title">Contagem regressiva: %1$s</string>
   <string name="countdown_notify_before_3_day_title">Contagem regressiva: %1$s em %2$d dias</string>
   <string name="countdown_notify_title">Contagem regressiva: %1$s</string>
@@ -181,6 +183,7 @@
   <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
   <string name="date_time_picker_dialog_title">Defina a data e hora</string>
   <string name="date_today">" (hoje)"</string>
+  <string name="date_view">Data</string>
   <string name="day">Dia</string>
   <string name="day_view_new_event_hint">Novo evento</string>
   <string name="default_reminder_mode">Lembretes</string>
@@ -368,6 +371,7 @@
   <string name="import_action">Importar</string>
   <string name="import_birthday">Importar aniversário</string>
   <string name="imported">Importado</string>
+  <string name="in_progress">Em andamento</string>
   <string name="insert_event_dialog_btn_negative">Não</string>
   <string name="insert_event_dialog_btn_positive">Sim</string>
   <string name="insert_event_dialog_message">Adicionar este evento na agenda?</string>
@@ -526,6 +530,7 @@
   <string name="movie_state_upcoming">Próximo</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="name_title_menstruation_today_end">É esperado que seu período termine hoje</string>
+  <string name="near_agenda_view">Próximos eventos</string>
   <string name="network_not_available">Não é possível conectar-se à rede</string>
   <string name="never">Nunca</string>
   <string name="new_event_description">Novo</string>
@@ -732,8 +737,10 @@ Verifique suas configurações de rede e tente novamente."</string>
   <string name="single_selected_holiday">%1$s é um dia de folga</string>
   <string name="skip">Pular</string>
   <string name="small_week_date_format">EEE dd/MM/yyyy</string>
+  <string name="spec_agenda_view">Eventos especiais</string>
   <string name="start_date_calculate">Calcular</string>
   <string name="stats_title">Estatísticas</string>
+  <string name="still_num">Tempo até %s</string>
   <string name="storage_permission_denied">Permita o acesso ao armazenamento primeiro</string>
   <string name="subscribe_card">Inscrever-se agora</string>
   <string name="subscribe_card_success">Inscrito com sucesso! Verifique os detalhes na página inicial.</string>
@@ -855,6 +862,7 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
   <string name="today">Hoje</string>
   <string name="today_at_time_fmt">Hoje às %s</string>
   <string name="today_icon_voice_contentdescription">Voltar para hoje</string>
+  <string name="today_no_event">Nenhum evento para hoje.</string>
   <string name="today_no_events">Não há eventos</string>
   <string name="todays_panchang_title">Panchang de hoje</string>
   <string name="todo_audio_event">"[Tarefa em áudio] "</string>
@@ -920,7 +928,13 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
   <string name="widget_events">Próximo evento</string>
   <string name="widget_get_weather_info">Obter informações de clima</string>
   <string name="widget_no_events">Nenhum evento</string>
+  <string name="widget_normal_agenda_tip_empty">Nenhum evento para hoje.</string>
+  <string name="widget_normal_agenda_today_done">Todos os eventos para hoje, estão concluídos.</string>
+  <string name="widget_normal_more_event">Mais eventos</string>
+  <string name="widget_normal_new_event">Adicionar evento</string>
+  <string name="widget_normal_weekN">Semana %d</string>
   <string name="widget_select_style">Escolha um estilo</string>
+  <string name="widget_spec_agenda_birth_today">Hoje</string>
   <string name="work_day_indication">: (</string>
   <string name="xiaomi_calendar_delete_description">A Agenda é um app do sistema que permite criar e gerenciar eventos. Alguns de seus recursos ainda estarão disponíveis mesmo após você remover o atalho da Tela inicial.</string>
   <string name="xiaomi_calendar_delete_title">Remover \"Agenda\" da Tela inicial?</string>
