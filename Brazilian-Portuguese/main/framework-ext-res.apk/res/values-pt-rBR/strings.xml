@@ -216,13 +216,6 @@
   <string name="ks_lock_screen">Tela de bloqueio</string>
   <string name="ks_regional_screen_shot">Captura de tela (parcial)</string>
   <string name="ks_screenshot">Captura de tela (tela inteira)</string>
-  <string name="keyboard_connect_failed">Não foi possível conectar o teclado, tente novamente.</string>
-  <string name="keyboard_identity_reject_confirm">Entendi</string>
-  <string name="keyboard_identity_reject_message">Parece que seu teclado não é compatível com este dispositivo.</string>
-  <string name="keyboard_identity_transfer_error_message">Não foi possível conectar o teclado. Tente novamente.</string>
-  <string name="keyboard_upgrade_failed">Não foi possível atualizar o teclado</string>
-  <string name="keyboard_upgrade_start">Atualizando teclado…</string>
-  <string name="keyboard_upgrade_success">Teclado atualizado com sucesso</string>
   <string name="knock_gesture_v">nenhum</string>
   <string name="knock_long_press_horizontal_slid">nenhum</string>
   <string name="knock_slide_shape">nenhum</string>
