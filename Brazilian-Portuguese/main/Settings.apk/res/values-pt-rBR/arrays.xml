@@ -903,6 +903,14 @@
         <item>Verificar apenas conteúdo DRM</item>
         <item>Sempre verificar</item>
     </string-array>
+    <string-array name="inputdebuglog_select_level_entries">
+        <item>Nível 0</item>
+        <item>Nível 1</item>
+        <item>Nível 2</item>
+        <item>Nível 3</item>
+        <item>Nível 4</item>
+        <item>Nível 5</item>
+    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>Não ligar a tela</item>
         <item>Ligar a tela</item>

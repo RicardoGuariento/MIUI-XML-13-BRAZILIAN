@@ -48,6 +48,7 @@
   <string name="avrcp_notification_name">BT RECURSO AVANÇADO DE AVRCP</string>
   <string name="bluetooth_a2dp_sink_queue_name">Tocando agora</string>
   <string name="bluetooth_advanced_feat_description">Recurso avançado de navegação Bluetooth</string>
+  <string name="bluetooth_broadcast_status">Transmissão ativada</string>
   <string name="bluetooth_connected">Áudio Bluetooth conectado</string>
   <string name="bluetooth_disconnected">Áudio Bluetooth desconectado</string>
   <string name="bluetooth_map_remote_advance_feature_support">Recursos avançados de acesso às mensagens suportados</string>
@@ -71,6 +72,7 @@
   <string name="bluetooth_sap_notif_message">Pedir ao cliente para desconectar?</string>
   <string name="bluetooth_sap_notif_ticker">Acessar o SIM via Bluetooth</string>
   <string name="bluetooth_sap_notif_title">Acessar o SIM via Bluetooth</string>
+  <string name="broadcast_notification_name">Status de transmissão</string>
   <string name="bt_audio_share_notification_content">Toque para ver as opções</string>
   <string name="bt_audio_share_notification_title">Compartilhando áudio</string>
   <string name="bt_enable_cancel">Cancelar</string>

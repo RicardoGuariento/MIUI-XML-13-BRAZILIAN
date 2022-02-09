@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Accounts_settings_title">Contas</string>
+  <string name="Intelligentpickfree">Detectar voz</string>
   <string name="a11y_settings_label">Configurações de acessibilidade</string>
   <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
   <string name="abc_action_bar_up_description">Navegar para cima</string>
@@ -597,7 +598,10 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
   <string name="ambient_display_tap_screen_title">Tocar na tela para verificar smartphone</string>
   <string name="ambient_display_title">Tocar duas vezes na tela para verificar o smartphone</string>
   <string name="ambient_display_wake_screen_title">Ativar a tela</string>
-  <string name="android_beam_disabled_summary">Ative o NFC primeiro</string>
+  <string name="anc_auto">"Auto"</string>
+  <string name="anc_depth">Forte</string>
+  <string name="anc_mild">Leve</string>
+  <string name="android_beam_disabled_summary">Primeiro ative o NFC </string>
   <string name="android_beam_explained">Você pode transferir uma página web, um vídeo ou outro conteúdo de sua tela para outro dispositivo, ao unir os dispositivos (normalmente traseira com traseira).</string>
   <string name="android_beam_label">"Android Beam"</string>
   <string name="android_beam_off_summary">Compartilhamento de conteúdo por NFC desativado</string>
@@ -827,6 +831,11 @@ Alterar as configurações agora?"</string>
   <string name="audio_share_confirm">Compartilhar</string>
   <string name="auto_adjst_effect_summary">Ajusta a temperatura de cor de acordo com a luz ambiente automaticamente</string>
   <string name="auto_adjust_effect_title">Ajustar a temperatura de cor automaticamente</string>
+  <string name="auto_anc_closed">Desativado</string>
+  <string name="auto_anc_fifteen_recover">%d segundos</string>
+  <string name="auto_anc_five_recover">%d segundos</string>
+  <string name="auto_anc_not_recover">Continuar</string>
+  <string name="auto_anc_ten_recover">%d segundos</string>
   <string name="auto_brightness_default_title">Padrão</string>
   <string name="auto_brightness_description">O brilho da tela será ajustado automaticamente ao seu ambiente e às suas atividades. Mova o controle deslizante para ajudar o brilho adaptável a memorizar suas preferências.</string>
   <string name="auto_brightness_disclaimer">Otimizar brilho conforme luz disponível. Quando o recurso está ativado, é possível ajustar o brilho temporariamente.</string>
@@ -3119,6 +3128,8 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
   <string name="done_button">Concluído</string>
   <string name="double_click_power_key">Dois toques no botão [Liga/Desliga]</string>
   <string name="double_click_volume_down_when_lock">Pressione [Volume -] duas vezes quando a tela estiver bloqueada</string>
+  <string name="double_connect">Conexão dupla</string>
+  <string name="double_connect_summary">Para conectar a dois dispositivos</string>
   <string name="double_knock">Toque duplo com o nó dos dedos</string>
   <string name="double_tap_power_for_camera_suggestion_title">Abrir a câmera rapidamente</string>
   <string name="double_tap_power_for_camera_summary">Para abrir a câmera rapidamente, pressione o botão [Liga/Desliga] duas vezes. O recurso funciona em qualquer tela.</string>
@@ -4282,6 +4293,9 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="input_pattern_hint_text">Desenhe seu padrão de desbloqueio</string>
   <string name="input_settings">Configurações de entrada</string>
   <string name="input_text">Barra de entrada de texto</string>
+  <string name="inputdebuglog_select_level">Nível de registro de entrada</string>
+  <string name="inputdebuglog_select_level_show">Nível %d</string>
+  <string name="inputdebuglog_select_level_summary">Selecione o nível</string>
   <string name="insert_sim_card_and_try_again">Insira seu cartão SIM e tente novamente.</string>
   <string name="install_all_warning">Seu dispositivo e seus dados pessoais estão mais vulneráveis a ataques de apps desconhecidos. Ao instalar apps dessa fonte, você concorda que é responsável por qualquer dano causado ao seu telefone ou pela perda de dados que possa resultar do uso desses apps.</string>
   <string name="install_applications">Fontes desconhecidas</string>
@@ -5339,6 +5353,7 @@ Não poderá reverter esta ação."</string>
   <string name="menu_stats_total">Total de uso</string>
   <string name="menu_stats_unplugged">%1$s desde que foi desconectado</string>
   <string name="menu_use_uss">Usar Uss</string>
+  <string name="mi_headset_healthy">Saúde auditiva</string>
   <string name="mi_pay">"Carteira Mi"</string>
   <string name="mi_pay_indonesia">Conta Mi Pay</string>
   <string name="mi_pay_summary">Cartão de transporte/Mi Pay/Cartão de acesso</string>
@@ -9159,6 +9174,9 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
   <string name="transcode_settings_title">Configurações de transcodificação de mídia.</string>
   <string name="transcode_user_control">Substituir padrões de transcodificação</string>
   <string name="transition_animation_scale_title">Escala anim. de transição</string>
+  <string name="transparent_human_voice">Voz</string>
+  <string name="transparent_normal">Normal</string>
+  <string name="transparent_surroundings">Ambiente</string>
   <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">Colaboradores</string>
   <string name="trigger_carrier_provisioning">Acionar aprovisionamento da operadora</string>
