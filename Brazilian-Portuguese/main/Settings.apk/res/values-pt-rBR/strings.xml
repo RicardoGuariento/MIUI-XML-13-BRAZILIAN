@@ -4578,7 +4578,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="ks_launch_control_center">Centro de controle</string>
   <string name="ks_launch_notification_center">Sombra de notificação</string>
   <string name="ks_reset_title">Restaurar preferências padrão</string>
-  <string name="ks_screenshot">Captura de tela</string>
+  <string name="ks_screenshot">Capturar tela</string>
   <string name="ks_search_summary">Pesquisar</string>
   <string name="ks_title">Atalhos do teclado</string>
   <string name="label_available">Redes disponíveis</string>
@@ -8822,11 +8822,11 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
   <string name="style_suggestion_title">Personalize o seu dispositivo</string>
   <string name="stylus_btn_continue">Próximo</string>
   <string name="stylus_btn_learn">"Tutorial"</string>
-  <string name="stylus_btn_quick_write">Escrevendo</string>
-  <string name="stylus_btn_screen_shot">Captura de tela</string>
+  <string name="stylus_btn_quick_write">Escrita</string>
+  <string name="stylus_btn_screen_shot">Capturar tela</string>
   <string name="stylus_btn_skip">Pular</string>
   <string name="stylus_connect">Toque para conectar</string>
-  <string name="stylus_connect_fail">"Não foi possível conectar. Anexar novamente."</string>
+  <string name="stylus_connect_fail">"Não foi possível conectar. Anexe novamente."</string>
   <string name="stylus_connect_fail_no_battery">Carregue sua caneta agora</string>
   <string name="stylus_connect_fail_no_reason">"Não foi possível conectar"</string>
   <string name="stylus_connect_fail_not_open_gps">"Não foi possível conectar. Ative os serviços de localização e tente novamente."</string>
@@ -8867,8 +8867,8 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
   <string name="stylus_settings_title">Caneta</string>
   <string name="stylus_shortcut_actions_summary">Pressione e segure o primeiro botão para escrever. Pressione e segure o segundo botão para fazer uma captura de tela.</string>
   <string name="stylus_shortcut_actions_title">Ações rápidas</string>
-  <string name="stylus_shortcut_title_note">Escrevendo</string>
-  <string name="stylus_shortcut_title_screenshot">Captura de tela</string>
+  <string name="stylus_shortcut_title_note">Escrita</string>
+  <string name="stylus_shortcut_title_screenshot">Capturar tela</string>
   <string name="stylus_success">Feito</string>
   <string name="stylus_vice_key">Segundo botão</string>
   <string name="stylus_welcome">Conheça a Xiaomi Smart Pen</string>
