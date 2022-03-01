@@ -1981,7 +1981,7 @@ Nenhuma reserva, número de telefone celular Esqueceu ou foi descontinuado, entr
     <string name="pa_cancel">Cancelar</string>
     <string name="pa_clear">Limpar</string>
     <string name="pa_covid_card_title">COVID-19</string>
-    <string name="pa_cta_dialog_all_purpose">Bem-vindo ao Assistente! Este app é um local único para serviços de trabalho, estilo de vida e viagens.</string>
+    <string name="pa_cta_dialog_all_purpose">"Bem-vindo ao Assistente! Este app é um local único para serviços de trabalho, estilo de vida e viagens. "</string>
     <string name="pa_cta_dialog_desc_location">Para fornecer sugestões de deslocamento</string>
     <string name="pa_cta_dialog_desc_phone_state">Para identificar seu dispositivo com base em IMEI</string>
     <string name="pa_cta_dialog_desc_storage">Para itens de cache</string>
@@ -2103,7 +2103,7 @@ Nenhuma reserva, número de telefone celular Esqueceu ou foi descontinuado, entr
     <string name="pa_express_widget_post">Enviar pacote</string>
     <string name="pa_finish">Feito</string>
     <string name="pa_font_mi_lan_pro_medium">mipro-medium</string>
-    <string name="pa_guide_dialog_desc">Pressione e segure um widget para reorganizar. Toque em mais para adicionar mais widgets.</string>
+    <string name="pa_guide_dialog_desc">Pressione e segure um widget para reorganizar. Toque em (+) para adicionar mais widgets.</string>
     <string name="pa_guide_dialog_sure">Entendi</string>
     <string name="pa_guide_dialog_title">Confira nossa loja de widgets</string>
     <string name="pa_half_day_time">h:mm</string>

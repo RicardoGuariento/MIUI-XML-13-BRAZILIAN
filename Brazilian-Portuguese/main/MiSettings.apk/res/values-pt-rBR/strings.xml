@@ -691,7 +691,12 @@ não são geradas no Segundo Espaço"</string>
   <string name="usage_beat_fans">Melhor que %s dos Mi Fãs</string>
   <string name="usage_continuous_days">Sequência</string>
   <string name="usage_creating_weekly_report">Criando relatório semanal…</string>
-  <string name="usage_cta_desc">"Bem-vindo às Configurações Mi! Para fornecer estatísticas de Tempo de tela e Modo foco para você, este app precisa coletar os seguintes dados: o número de vezes que você desbloqueia o dispositivo, a lista de seus apps junto com a duração de uso correspondente, o número de vezes que sua tela acende, e configurações do Modo foco. Os dados coletados serão armazenados apenas localmente neste dispositivo.
+  <string name="usage_cta_desc">"Bem-vindo às Configurações Mi! Para fornecer estatísticas de Tempo de tela e Modo foco para você, este app precisa coletar os seguintes dados:
+• O número de vezes que você desbloqueia o dispositivo
+• A lista de seus apps junto com a duração de uso correspondente
+• O número de vezes que sua tela acende, e configurações do Modo foco.
+
+Os dados coletados serão armazenados apenas localmente neste dispositivo.
 "</string>
   <string name="usage_current_week_usage">%s em média nos últimos 7 dias</string>
   <string name="usage_device_limit_app_prolong">Adicionar tempo</string>

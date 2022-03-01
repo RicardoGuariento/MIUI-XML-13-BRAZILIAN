@@ -573,7 +573,7 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
   <string name="allow_mock_location_summary">Permitir locais fictícios</string>
   <string name="allow_oaid_used">Usar a ID Virtual</string>
   <string name="allow_oaid_used_desc">A MIUI não fornecerá a ID Virtual (OAID) aos apps instalados. Alguns recursos de recomendação pessoal podem não funcionar corretamente em decorrer disso.</string>
-  <string name="allow_overlay_description">Permite que este app seja exibido em sobreposição a outros apps que você esteja usando. Este app será capaz de ver ou alterar o que é exibido na tela.</string>
+  <string name="allow_overlay_description">Permite que este app seja sobreposto a outros apps que você esteja usando. Este app será capaz de ver ou alterar o que é exibido na tela.</string>
   <string name="allow_sound_title">Permitir som</string>
   <string name="allow_vibrate_title">Permitir vibração</string>
   <string name="alpha_build">"Alpha"</string>
@@ -3878,7 +3878,7 @@ Este recurso funciona apenas quando a navegação do sistema está definida para
   <string name="full_screen_keyboard_optimization">Aprimorar teclado</string>
   <string name="full_screen_keyboard_settings">Configurações de teclado para Tela infinita</string>
   <string name="full_transparent_smarrcover_title">Capa frontal transparente</string>
-  <string name="fullbackup_data_summary">"Fazer backup automático de dados do dispositivo (como senhas de Wi-Fi e histórico de chamadas) e dados de apps (como configurações e arquivos armazenados por apps) remotamente.
+  <string name="fullbackup_data_summary">"Faça backup automático de dados do dispositivo (como senhas de Wi-Fi e histórico de chamadas) e dados de apps (como configurações e arquivos armazenados por apps) remotamente.
 
 Quando você ativa o backup automático, os dados do dispositivo e de apps são salvos periodicamente de modo remoto. Dados de apps podem ser quaisquer dados que um app tenha salvo (com base nas configurações de desenvolvedores), incluindo dados potencialmente confidenciais, como contatos, mensagens e fotos."</string>
   <string name="fullbackup_erase_dialog_message">Interromper o backup de dados do dispositivo (como senhas de Wi-Fi e histórico de chamadas) e de dados de apps (como configurações e arquivos armazenados por apps) e limpar todas as cópias em servidores remotos?</string>
