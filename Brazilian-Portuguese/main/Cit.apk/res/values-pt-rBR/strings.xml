@@ -380,6 +380,7 @@ Toque na tela para iniciar o GPS…"</string>
   <string name="cit_hvdcp_charger_in">Carregando via (USB_HVDCP)</string>
   <string name="cit_hide_menu">Esconder menu</string>
   <string name="cit_init_fp_fod_test_tip">Iniciar ambiente de teste de impressão digital</string>
+  <string name="cit_ispv3_test">Teste ISPv3</string>
   <string name="cit_kayboard_home_down">Botão INÍCIO</string>
   <string name="cit_kayboard_power_down">Botão [LIGA/DESLIGA]</string>
   <string name="cit_kayboard_volume_down">Botão [VOLUME -]</string>

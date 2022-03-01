@@ -329,6 +329,7 @@
   <string name="calllog_menu_blacklist">Bloquear</string>
   <string name="calllog_menu_edit_before_call">Editar</string>
   <string name="calllog_menu_send_sms">Enviar uma mensagem</string>
+  <string name="calllog_record_none_toast">Nenhuma gravação de chamadas para mostrar</string>
   <string name="callrecordview_item_op_time_minutes_seconds">"%1$dm %2$ds"</string>
   <string name="callrecordview_item_op_time_missed">Não atendida</string>
   <string name="callrecordview_item_op_time_only_minutes">"%d min"</string>
@@ -903,6 +904,12 @@ Motivo: \"%s\""</string>
   <string name="name_phonetic_middle">Nome do meio fonético</string>
   <string name="name_prefix">Prefixo do nome</string>
   <string name="name_suffix">Sufixo do nome</string>
+  <string name="new_saf_permission_dialog_content">"As permissões do app Contatos foram atualizadas. Permita que os Contatos acessem as gravações de chamadas.
+
+Como conceder permissão
+Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
+  <string name="new_saf_permission_dialog_grant_permission_immediately">Next</string>
+  <string name="new_saf_permission_dialog_title"><b>Permissions required</b></string>
   <string name="next">Avançar</string>
   <string name="next_birthday">Próximo aniversário: %s</string>
   <string name="nfc_vcard_file_name">Contato recebido via NFC</string>
@@ -1308,6 +1315,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
   <string name="the_united_nations_day">Dia das Nações Unidas</string>
   <string name="the_valentines_day">Dia dos Namorados</string>
   <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
+  <string name="this_folder">Usar esta pasta</string>
   <string name="thursday">Quinta</string>
   <string name="thursday_short">Qui</string>
   <string name="thursday_shortest">Qui</string>
