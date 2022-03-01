@@ -5234,6 +5234,11 @@ Não poderá reverter esta ação."</string>
   <string name="material_timepicker_select_time">Selecione tempo</string>
   <string name="material_timepicker_text_input_mode_description">Mude para o modo de entrada de texto para a entrada de tempo.</string>
   <string name="max_aspect_settings_all_app_display_loading">Aguarde…</string>
+  <string name="max_cpu10_info">"Deca-core Máx "</string>
+  <string name="max_cpu2_info">"Dual-core Máx "</string>
+  <string name="max_cpu4_info">"Quad-core Máx "</string>
+  <string name="max_cpu6_info">"Hexa-core Máx "</string>
+  <string name="max_cpu8_info">"Octa-core Máx "</string>
   <string name="max_fingerprint_number_reached">Não é possível adicionar mais de 5 impressões digitais. Para adicionar uma nova impressão digital, remova uma existente primeiro.</string>
   <string name="max_fingerprint_reached_toast">Você pode adicionar até 5 impressões digitais</string>
   <string name="maximum_memory_use">Uso máximo de memória</string>
