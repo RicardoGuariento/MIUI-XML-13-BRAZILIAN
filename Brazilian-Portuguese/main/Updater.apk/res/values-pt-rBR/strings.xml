@@ -38,7 +38,7 @@
   <string name="fastboot_update_warning">Esta atualização é apenas para instalação via fastboot!</string>
   <string name="fetch_notification_default_channel_name">"Downloads"</string>
   <string name="fetch_notification_download_cancel">Cancelar</string>
-  <string name="fetch_notification_download_complete">Complete</string>
+  <string name="fetch_notification_download_complete">Concluído</string>
   <string name="fetch_notification_download_downloading">Baixando</string>
   <string name="fetch_notification_download_eta_hrs">%1$dh %2$dm %3$ds restantes</string>
   <string name="fetch_notification_download_eta_min">%1$dm %2$ds restantes</string>

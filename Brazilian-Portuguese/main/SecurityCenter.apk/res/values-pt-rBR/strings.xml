@@ -1222,7 +1222,7 @@ A sua operadora poderá cobrar tarifas adicionais se você ativar os dados móve
   <string name="deep_power_save_item_title_bluetooth">Desativar Bluetooth</string>
   <string name="deep_power_save_item_title_lock_screen_time">Desligar tela em inatividade</string>
   <string name="deep_save_memory_clean_summary">Limpar cache quando o dispositivo for bloqueado para prevenir que apps usem muita bateria</string>
-  <string name="deep_save_ontime_boot_shutdown_summary">Programe para ligar ou desligar dispositivo</string>
+  <string name="deep_save_ontime_boot_shutdown_summary">Programe para [ligar\desligar] o dispositivo</string>
   <string name="default_condition_summary">Ex.: \"A bateria está abaixo de %s\"</string>
   <string name="default_condition_title">Adicionar condição</string>
   <string name="default_condition_title_continue">Adicionar condição</string>
@@ -1671,6 +1671,7 @@ monitoramento de terremotos"</string>
   <string name="first_aid_card_consume_power_button2">Desativar</string>
   <string name="first_aid_card_consume_power_summary1">Mais de 5 apps estão iniciando automaticamente. Restrinja-os para economizar bateria.</string>
   <string name="first_aid_card_consume_power_summary2">Desative o ponto de acesso portátil para economizar bateria</string>
+  <string name="first_aid_card_consume_power_summary_app">Mais de %d apps têm permissão para auto iniciar. Restrinja para economizar bateria.</string>
   <string name="first_aid_card_consume_power_title">Uso da bateria</string>
   <string name="first_aid_card_kadun_button1">Liberar espaço</string>
   <string name="first_aid_card_kadun_button2">Restringir</string>
@@ -3681,7 +3682,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="privacy_input_model_guide_choose">Baixe a entrada de voz offline</string>
   <string name="privacy_input_model_guide_text">Este recurso protege sua privacidade enquanto você insere texto. Quando esse recurso está ativado, algumas das funcionalidades baseadas em rede (ex.: opções de personalização, emoji, digitação preditiva) não estarão disponíveis.</string>
   <string name="privacy_input_model_tips">A entrada segura está ativada. Seu teclado não pode exibir janelas pop-up ou acessar contatos, informações de localização e histórico de chamadas.</string>
-  <string name="privacy_lab_empty">Não há recursos aqui ainda</string>  
+  <string name="privacy_lab_empty">Não há recursos aqui ainda</string>
   <string name="privacy_location_info_summary">Gerenciar o acesso à sua localização</string>
   <string name="privacy_location_info_title">Informações de localização</string>
   <string name="privacy_look_all_permission_status">Todas as permissões</string>
@@ -4086,7 +4087,7 @@ Retirar consentimento agora?"</string>
   <string name="signed_rule_one">1. Faça o check-in por 10, 20 ou 28 dias seguidos mensalmente para ganhar a aceleração Xunyou por 1, 2 ou 3 dias respectivamente.</string>
   <string name="signed_rule_three">3. Os dias de check-in são redefinidos no início de cada mês. Os dias restantes do mês anterior não são cumulativos.</string>
   <string name="signed_rule_two">2. Você só pode ganhar 1 aceleração Xunyou por mês.</string>
-<string name="sim_car_absent__tip">Confirme o bloqueio de tela para desativar o Modo perdido</string>
+  <string name="sim_car_absent__tip">Confirme o bloqueio de tela para desativar o Modo perdido</string>
   <string name="sim_car_absent_intercept_action">Confirme o bloqueio de tela (%d)</string>
   <string name="sim_car_absent_intercept_action_last">Confirme o bloqueio de tela</string>
   <string name="sim_car_absent_intercept_item_summary">O Encontrar dispositivo está ativado. A confirmação do bloqueio da tela é necessária para desligar o dispositivo ou remover o cartão SIM.</string>

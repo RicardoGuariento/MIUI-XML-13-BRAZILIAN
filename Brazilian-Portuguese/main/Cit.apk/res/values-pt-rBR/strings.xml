@@ -780,14 +780,16 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
   <string name="close_third_color_led">fechar led de três cores</string>
   <string name="continue_vibrator">Vibração contínua</string>
   <string name="current_angle">"Ângulo atual: "</string>
+  <string name="dispaly_sar_sensor_values">Exibir todos os valores atuais do sensor</string>
+  <string name="display_test_finish">Teste de tela concluído</string>
   <string name="dsi_sar_on_off_tips">Interruptor Dsi Sar Ativar/Desativar</string>
-    <string name="edittextdisplay">"
+  <string name="edittextdisplay">"
 \u0009\u0009\u0009Bem-vindo à ferramenta SAR! 
 \u0009\u0009\u0009Todas as permissões foram ativadas 
 
 \u0009\u0009\u0009Atualmente o SAR está desativado, por favor ative-o manualmente 
 \u0009\u0009\u0009SAR bloqueado, defina o valor DSI"</string>
-    <string name="edittextdisplayf">"
+  <string name="edittextdisplayf">"
 \u0009\u0009\u0009As permissões foram limitadas 
 
 \u0009\u0009Certifique-se de passar o arquivo xml na rede interna \u0009\u0009\u0009 e no caminho de resposta: 

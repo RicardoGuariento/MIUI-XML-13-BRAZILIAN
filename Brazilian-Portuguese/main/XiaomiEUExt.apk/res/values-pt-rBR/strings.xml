@@ -32,6 +32,7 @@
   <string name="afternoon">"PM"</string>
   <string name="am">"AM"</string>
   <string name="app_name">Extensões Xiaomi.eu</string>
+  <string name="auto">Automático</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="close">Fechar</string>
   <string name="confirm_reset">Confirmar redefinição</string>
@@ -230,5 +231,6 @@
   <string name="wednesday">Quarta</string>
   <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Qua</string>
+  <string name="wifi_region">Região do Wi-Fi</string>
   <string name="yesterday">Ontem</string>
 </resources>

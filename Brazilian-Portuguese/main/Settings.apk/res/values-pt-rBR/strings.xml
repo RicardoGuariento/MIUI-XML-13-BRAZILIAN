@@ -10397,8 +10397,10 @@ A configuração da rede como oculta não altera as configurações do seu rotea
   <string name="wifi_protection_tip">A MIUI protegerá seus dados pessoais de pedidos de sondagem por Wi-Fi provenientes de endereços MAC aleatórios e sniffers de sondagem Wi-Fi quando seu dispositivo estiver pesquisando por redes Wi-Fi.</string>
   <string name="wifi_quick_toggle_summary">Ativar Wi-Fi</string>
   <string name="wifi_quick_toggle_title">"Wi-Fi"</string>
+  <string name="wifi_region_summary">Requer que o Wi-Fi seja reiniciado para entrar em vigor.</string>
+  <string name="wifi_region_title">Região do Wi-Fi</string>
   <string name="wifi_remembered">Salva</string>
-  <string name="wifi_remembered_disabled_auto_connect">Salvo. Não será conectado automaticamente.</string>
+  <string name="wifi_remembered_disabled_auto_connect">Salvo. Não conectará automaticamente.</string>
   <string name="wifi_require_sim_card_to_connect">Requer Sim para se conectar</string>
   <string name="wifi_require_specific_sim_card_to_connect">Requer %s SIM para se conectar</string>
   <string name="wifi_required_info_text">Para concluir a configuração, seu dispositivo precisa acessar uma rede Wi-Fi. Após a instalação, você poderá alternar entre a conexão de dados móveis e o Wi-Fi.</string>
