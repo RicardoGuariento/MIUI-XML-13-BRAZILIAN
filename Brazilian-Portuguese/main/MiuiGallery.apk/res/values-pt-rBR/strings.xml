@@ -198,7 +198,7 @@
   <string name="alert_secret_album_message_new">Deslize para baixo em \"Álbuns\" para ver itens privados.</string>
   <string name="alert_secret_album_title">Como ver o álbum privado</string>
   <string name="alert_secret_album_title_new">Adicionado com sucesso</string>
-  <string name="alert_selection_description">A MIUI analisará fotos similares e marcar as melhores fotos para você.</string>
+  <string name="alert_selection_description">A MIUI analisará fotos similares e marcará as melhores fotos para você.</string>
   <string name="alert_selection_title">Selecione a melhor foto</string>
   <string name="all_faces">Fotos com esta pessoa</string>
   <string name="all_items_synced">Todos os álbuns foram sincronizados com a nuvem</string>
