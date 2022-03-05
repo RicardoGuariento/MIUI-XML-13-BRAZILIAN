@@ -42,9 +42,9 @@
   <string name="abc_slice_updated">Atualizado às %1$s</string>
   <string name="abc_slices_permission_request">%1$s quer mostrar partes do app %2$s</string>
   <string name="abc_toolbar_collapse_description">Recolher</string>
-  <string name="about_ad_service_instructions">Sobre o serviço de anúncios e privacidade</string>
+  <string name="about_ad_service_instructions">Sobre os serviços de anúncios e privacidade</string>
   <string name="about_ad_service_instructions_for_global">Sobre serviços de anúncios e privacidade em apps do sistema Miui</string>
-  <string name="about_phone_device_name_warning">O nome do seu dispositivo está visível para os apps no seu dispositivo. Ele também pode ser visto por outras pessoas quando você se conecta a dispositivos Bluetooth ou configura um ponto de acesso Wi-Fi.</string>
+  <string name="about_phone_device_name_warning">O nome do seu dispositivo está visível para os apps no seu dispositivo. Ele também pode ser visto por outras pessoas quando você se conecta a dispositivos Bluetooth ou a uma rede Wi-Fi ou quando configura um ponto de acesso Wi-Fi.</string>
   <string name="about_phone_enter_xiaomi_net">Saiba mais</string>
   <string name="about_settings">Sobre o telefone</string>
   <string name="about_settings_summary">Ver informações legais, status, versão do software</string>
@@ -1067,7 +1067,7 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela Internet.
   <string name="battery_detail_power_usage">Uso da bateria</string>
   <string name="battery_detail_since_full_charge">Detalhamento desde a última carga completa</string>
   <string name="battery_details_title">Uso da bateria</string>
-  <string name="battery_footer_summary">Os dados de uso da bateria são aproximados e podem mudar conforme o uso</string>
+  <string name="battery_footer_summary">Os dados de uso da bateria são aproximados e podem mudar conforme o uso.</string>
   <string name="battery_full_charge_last">A carga completa dura cerca de</string>
   <string name="battery_header_title_alternate">^1<small> <font size="20">%</font></small></string>
   <string name="battery_indicator_style">Indicador da bateria</string>
@@ -2131,6 +2131,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="choose_sim_activating">Ativando...</string>
   <string name="choose_sim_could_not_activate">Não pode ser ativado agora</string>
   <string name="choose_sim_item_summary_unknown">Número desconhecido</string>
+  <string name="choose_sim_text">{count,plural, =1{Há 1 número disponível neste dispositivo. É possível usar apenas um por vez}=2{Há 2 números disponíveis neste dispositivo, mas é possível usar apenas um por vez}one{Há # número disponível neste dispositivo. É possível usar apenas um por vez}other{Há # números disponíveis neste dispositivo, mas é possível usar apenas um por vez}}</string>
   <string name="choose_sim_title">Escolha um número para usar</string>
   <string name="choose_smartcover_type">Selecionar tipo de capa</string>
   <string name="choose_spell_checker">Escolher corretor ortográfico</string>
@@ -2259,6 +2260,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
   <string name="color_unspecified">Padrão</string>
   <string name="color_white">Branco</string>
   <string name="color_yellow">Amarelo</string>
+  <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
   <string name="common_issue">Perguntas frequentes</string>
   <string name="common_settings">Configurações rápidas</string>
   <string name="complete_parameters">Todas as especificações</string>
@@ -3222,7 +3224,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
   <string name="emergency_gesture_entrypoint_summary">Gerenciado por %1$s</string>
   <string name="emergency_gesture_number_override_notes">"Se você inserir um número de que não seja de emergência:
  • Seu dispositivo deve ser desbloqueado para usar o SOS de emergência
- • Sua chamada pode não ser respondida"</string>
+ • Pode ser que sua ligação não seja atendida"</string>
   <string name="emergency_gesture_screen_summary">Pressione o botão liga/desliga rapidamente 5 vezes ou mais para iniciar as ações abaixo</string>
   <string name="emergency_gesture_screen_title">SOS de Emergência</string>
   <string name="emergency_gesture_sound_setting_summary">Toque um som alto quando o SOS de emergência estiver começando</string>
@@ -4484,7 +4486,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="keywords_install_other_apps">instalar apps fontes desconhecidas</string>
   <string name="keywords_internet">conexão de rede, internet, rede sem fio, dados, wifi, wi-fi, wi fi, celular, Móvel, operadora de celular, 4g, 3g, 2g, lte</string>
   <string name="keywords_keyboard_and_ime">correção de texto, corrigir, som, vibrar, automático, idioma, gesto, sugerir, sugestão, tema, ofensivo, palavra, digitar, emoji, internacional</string>
-  <string name="keywords_live_caption">Legendas, legendas fechadas, CC, Transcreva ao vivo, Difícil de ouvir, perda auditiva, carrinho, discurso ao texto, legendas</string>
+  <string name="keywords_live_caption">Legendas, legendas fechadas, CC, Transcrição instantânea, deficiência auditiva, perda auditiva, voz em texto, legendas</string>
   <string name="keywords_location">próximo, local, histórico, relatório, GPS</string>
   <string name="keywords_lock_screen_notif">notificação de tela de bloqueio, notificações</string>
   <string name="keywords_lockscreen">deslizar para desbloquear, senha, padrão, pin</string>
@@ -4497,7 +4499,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="keywords_more_mobile_networks">celular, dispositivo móvel, operadora de celular, sem fio, dados, 4g, 3g, 2g, lte</string>
   <string name="keywords_network_reset">redefinir, restaurar, configurações originais</string>
   <string name="keywords_notification_vibration">funcionalidade tátil, vibração, sensibilidade</string>
-  <string name="keywords_one_handed">acessibilidade</string>
+  <string name="keywords_one_handed">acesso com uma mão</string>
   <string name="keywords_paper_mode">Fluxo;Leitura;Modo leitura;Luz azul;Proteger olhos</string>
   <string name="keywords_payment_settings">pagar, tocar, pagamentos</string>
   <string name="keywords_printing">impressora</string>
@@ -4506,7 +4508,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="keywords_reduce_bright_colors">sensibilidade à luz, fotofobia, tema escuro, enxaqueca, dor de cabeça, modo de leitura, modo noturno, reduzir o brilho, ponto branco</string>
   <string name="keywords_reset_apps">redefinir, preferências, padrão</string>
   <string name="keywords_ring_vibration">funcionalidade tátil, vibração, telefone, chamada, sensibilidade, toque</string>
-  <string name="keywords_rtt">Duro de audição, perda auditiva, legendas, teletipo, tty</string>
+  <string name="keywords_rtt">Deficiência auditiva, perda auditiva, legendas, teletipo, TTD</string>
   <string name="keywords_screen_timeout">tela, tempo até o bloqueio, tempo limite, tela de bloqueio</string>
   <string name="keywords_silent">Silencioso;Mudo;Desativar toque</string>
   <string name="keywords_sim_status">rede, estado da rede móvel, status do serviço, intensidade do sinal, tipo de rede móvel, roaming, iccid, eid</string>
@@ -4516,7 +4518,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
   <string name="keywords_storage">espaço, disco, disco rígido, uso do dispositivo</string>
   <string name="keywords_storage_files">Baixar</string>
   <string name="keywords_storage_menu_free">limpeza, armazenamento</string>
-  <string name="keywords_storage_settings">memória, cache dados, excluir, limpar, liberar, espaço</string>
+  <string name="keywords_storage_settings">memória, cache de dados, excluir, limpar, liberar, espaço</string>
   <string name="keywords_styles">forma do ícone, cor de destaque, tipo de letra</string>
   <string name="keywords_sync">Sincronização;Sincronizar;Xiaomi Cloud</string>
   <string name="keywords_system_navigation">navegação no sistema, navegação com dois botões, navegação com três botões, navegação por gestos, deslizar</string>
@@ -5098,12 +5100,12 @@ Você está atualmente conectado às seguintes contas:
 "<li>Dados e configurações do sistema e do app</li>"
 "<li>Apps baixados.</li></string>
   <string name="main_clear_desc_also_erases_esim"><li>eSIMs</li></string>
-  <string name="main_clear_desc_also_erases_external"><li>Music</li>"
+  <string name="main_clear_desc_also_erases_external"><li>Músicas</li>"
 "<li>Fotos</li>"
 "<li>Outros dados do usuário</li></string>
   <string name="main_clear_desc_erase_external_storage">"
 
-Para limpar música, fotos e outros dados do usuário, o "<b>armazenamento USB</b> precisa ser apagado.</string>
+Para limpar músicas, fotos e outros dados do usuário, o "<b>armazenamento USB</b> precisa ser apagado.</string>
   <string name="main_clear_desc_no_cancel_mobile_plan">"
 
 Isso não cancelará seu plano de serviço móvel."</string>
@@ -10816,6 +10818,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
   <string name="zen_mode_bypassing_apps_header">Apps que podem interromper</string>
   <string name="zen_mode_bypassing_apps_none">Nenhum app selecionado</string>
   <string name="zen_mode_bypassing_apps_some_summary">Algumas notificações</string>
+  <string name="zen_mode_bypassing_apps_subtext">{count,plural,offset:2 =0{Nenhum app pode interromper}=1{{app_1} pode interromper}=2{{app_1} e {app_2} podem interromper}=3{{app_1}, {app_2} e {app_3} podem interromper}one{{app_1}, {app_2} e mais # podem interromper}other{{app_1}, {app_2} e mais # podem interromper}}</string>
   <string name="zen_mode_bypassing_apps_subtext_none">Nenhum app pode interromper</string>
   <string name="zen_mode_bypassing_apps_summary_all">Todas as notificações</string>
   <string name="zen_mode_bypassing_apps_summary_some">Algumas notificações</string>
@@ -10828,7 +10831,9 @@ Parece que o armazenamento de credenciais não está ativado."</string>
   <string name="zen_mode_calls_title">Chamadas</string>
   <string name="zen_mode_choose_rule_type">Escolher o tipo de programação</string>
   <string name="zen_mode_contacts_callers">contatos</string>
+  <string name="zen_mode_contacts_count">{count,plural, =0{Nenhum}=1{1 contato}one{# contato}other{# contatos}}</string>
   <string name="zen_mode_contacts_count_none">Nenhum</string>
+  <string name="zen_mode_conversations_count">{count,plural, =0{Nenhuma}=1{1 conversa}one{# conversa}other{# conversas}}</string>
   <string name="zen_mode_conversations_count_none">Nenhuma</string>
   <string name="zen_mode_conversations_section_title">Conversas que podem interromper</string>
   <string name="zen_mode_conversations_title">Conversas</string>
@@ -10846,6 +10851,8 @@ Parece que o armazenamento de credenciais não está ativado."</string>
   <string name="zen_mode_duration_settings_title">Duração</string>
   <string name="zen_mode_duration_summary_always_prompt">Perguntar sempre</string>
   <string name="zen_mode_duration_summary_forever">Até você desativar</string>
+  <string name="zen_mode_duration_summary_time_hours">{count,plural, =1{1 hora}one{# hora}other{# horas}}</string>
+  <string name="zen_mode_duration_summary_time_minutes">{count,plural, =1{1 minuto}one{# minuto}other{# minutos}}</string>																														  
   <string name="zen_mode_effected_always">Sempre</string>
   <string name="zen_mode_enable_dialog_turn_on">Ativar</string>
   <string name="zen_mode_end_time">Horário de término</string>
@@ -10893,6 +10900,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
   <string name="zen_mode_other_options">outras opções</string>
   <string name="zen_mode_other_sounds_list_count">mais %d</string>
   <string name="zen_mode_other_sounds_none">Sem interrupções</string>
+  <string name="zen_mode_other_sounds_summary">{count,plural,offset:2 =0{Nada pode interromper}=1{{sound_category_1} pode interromper}=2{{sound_category_1} e {sound_category_2} podem interromper}=3{{sound_category_1}, {sound_category_2} e {sound_category_3} podem interromper}one{{sound_category_1}, {sound_category_2} e mais # podem interromper}other{{sound_category_1}, {sound_category_2} e mais # podem interromper}}</string>
   <string name="zen_mode_people_all">Todas as pessoas podem interromper</string>
   <string name="zen_mode_people_calls_messages_section_title">Quem pode interromper</string>
   <string name="zen_mode_people_none">Ninguém pode interromper</string>
@@ -10955,17 +10963,20 @@ Após desativar o Não perturbe, deslize de cima para baixo na tela para ver as 
   <string name="zen_mode_settings_dnd_custom_settings_footer_link">" "<annotation id="link">Ver configurações personalizadas</annotation></string>
   <string name="zen_mode_settings_dnd_manual_end_time">O modo \"Não perturbe\" fica ativado até %s</string>
   <string name="zen_mode_settings_dnd_manual_indefinite">O modo \"Não perturbe\" ficará ativado até que você o desative</string>
+  <string name="zen_mode_settings_schedules_summary">{count,plural, =0{Nenhum}=1{1 programação definida}one{# programação definida}other{# programações definidas}}</string>
   <string name="zen_mode_settings_summary">Receber notificações apenas de pessoas e apps importantes</string>
   <string name="zen_mode_settings_summary_off">Nenhuma</string>
   <string name="zen_mode_settings_title">Não perturbe</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Ativar o \"Não perturbe\"</string>
   <string name="zen_mode_slice_subtitle">Limitar interrupções</string>
+  <string name="zen_mode_sound_summary_off">{count,plural, =0{Desativado}=1{Desativado / 1 programação pode ser ativada automaticamente}one{Desativado / # programação pode ser ativada automaticamente}other{Desativado / # programações podem ser ativadas automaticamente}}</string>
   <string name="zen_mode_sound_summary_off_with_info">Desativado / %1$s</string>
   <string name="zen_mode_sound_summary_on">Ativado</string>
   <string name="zen_mode_sound_summary_on_with_info">Ativado / %1$s</string>
   <string name="zen_mode_sounds_none">Nada pode interromper</string>
   <string name="zen_mode_starred_callers">contatos marcados com estrela</string>
   <string name="zen_mode_starred_contacts_empty_name">(Sem nome)</string>
+  <string name="zen_mode_starred_contacts_summary_contacts">{count,plural,offset:2 =0{Nenhum}=1{{contact_1}}=2{{contact_1} e {contact_2}}=3{{contact_1}, {contact_2} e {contact_3}}one{{contact_1}, {contact_2} e mais #}other{{contact_1}, {contact_2} e mais #}}</string>
   <string name="zen_mode_starred_contacts_summary_none">Nenhum</string>
   <string name="zen_mode_starred_contacts_title">Contatos marcados com estrela</string>
   <string name="zen_mode_start_time">Horário de início</string>
@@ -11021,7 +11032,7 @@ Atualizar configurações para:
   <string name="zen_suggestion_title">Atualizar o modo Não perturbe</string>
   <string name="zone_auto_summaryOff">Use a hora fornecida pela operadora de rede</string>
   <string name="zone_auto_summaryOn">Use a hora fornecida pela operadora de rede</string>
-  <string name="zone_auto_title">Usar fuso horário fornecido pela rede</string>
+  <string name="zone_auto_title">Definir fuso horário automaticamente</string>
   <string name="zone_change_to_from_dst">O %1$s começa em: %2$s.</string>
   <string name="zone_info_footer">Usa o %1$s. %2$s começa em %3$s.</string>
   <string name="zone_info_footer_no_dst">Usa o %1$s. Sem horário de verão.</string>

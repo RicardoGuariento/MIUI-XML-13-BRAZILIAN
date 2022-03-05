@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="accessibility_button_gesture_selector_titles">
+        <item>Botão</item>
+        <item>Gesto</item>
+    </string-array>
     <string-array name="accessibility_button_location_selector_titles">
         <item>Flutuando sobre outros apps</item>
         <item>Barra de navegação</item>
@@ -296,7 +300,7 @@
         <item>Otimizado para qualidade de áudio (990kbps/909kbps)</item>
         <item>Qualidade balanceada de áudio e conexão (660kbps/606kbps)</item>
         <item>Otimizado para qualidade de conexão (330kbps/303kbps)</item>
-        <item>Melhor resultado (Taxa de bits adaptável)</item>
+        <item>Melhor efeito (Taxa de bits adaptável)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
         <item>Latência curta</item>
@@ -849,9 +853,9 @@
         <item>PWD</item>
     </string-array>
     <string-array name="eap_ocsp_type">
-        <item>Não validar</item>
+        <item>Não verificar</item>
+        <item>Solicitar status de certificados</item>
         <item>Exigir status de certificados</item>
-        <item>Exigir todos os status de certificados não confiáveis</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nenhum</item>
@@ -881,11 +885,6 @@
         <item>4.5\u2033</item>
         <item>4.0\u2033</item>
         <item>3.5\u2033</item>
-    </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Desativado</item>
@@ -953,6 +952,11 @@
         <item>Após 2 minutos</item>
         <item>Após 5 minutos</item>
         <item>Nunca</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_list_titles">
+        <item>Curto</item>
+        <item>Médio</item>
+        <item>Longo</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Curto</item>
@@ -1498,8 +1502,8 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Completo</item>
     </string-array>
     <string-array name="wifi_link_turbo_mode_summary_entries">
-        <item>Aumente a velocidade usando dados móveis apenas quando o sinal de Wi-Fi for fraco</item>
-        <item>Combine Wi-Fi e dados móveis para aumentar a velocidade de conexão</item>
+        <item>Acelere a velocidade com dados móveis apenas quando o sinal do Wi-Fi for fraco</item>
+        <item>Combine Wi-Fi e dados móveis para acelerar a velocidade de conexão</item>
     </string-array>
     <string-array name="wifi_metered_entries">
         <item>Detectar automaticamente</item>
