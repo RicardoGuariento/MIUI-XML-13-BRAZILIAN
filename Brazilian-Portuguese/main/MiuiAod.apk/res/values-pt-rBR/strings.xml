@@ -84,7 +84,7 @@ dd/MM"</string>
   <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
   <string name="chip_text">Texto do chip</string>
   <string name="choose_aod_style">Selecionar tema</string>
-  <string name="chosen_picture">Selecionar plano de fundo</string>
+  <string name="chosen_picture">Selecione o plano de fundo</string>
   <string name="clear_text_end_icon_content_description">Limpar texto</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="clock_panel_icon">Face do relógio</string>
@@ -267,12 +267,12 @@ dd/MM"</string>
   <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção de um dia</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
   <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção de um ano</string>
-  <string name="my_style_title">Meu tema</string>
+  <string name="my_style_title">Meus temas</string>
   <string name="night">"PM"</string>
   <string name="noon">"PM"</string>
   <string name="not_set">Não definido</string>
-  <string name="notification_anim_pulse">Pulsação</string>
-  <string name="notification_anim_rhythm">Ritmo</string>
+  <string name="notification_anim_pulse">Pulsar (Vermelho)</string>
+  <string name="notification_anim_rhythm">Pulsar (Azul)</string>
   <string name="notification_anim_star">Luz das estrelas</string>
   <string name="notification_channel_alerts">Alertas</string>
   <string name="notification_nothing">Nenhum</string>
