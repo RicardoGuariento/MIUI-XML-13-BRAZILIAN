@@ -794,6 +794,9 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
 
 \u0009\u0009Certifique-se de passar o arquivo xml na rede interna \u0009\u0009\u0009 e no caminho de resposta: 
 \u0009\u0009/sdcard/debug/UrlSign.xml"</string>
+  <string name="enrol">Registrar</string>
+  <string name="enrolCount">Contagem de registros</string>
+  <string name="enrolQuality">Qualidade do registro</string>
   <string name="error_app_internal">Erro no app</string>
   <string name="error_app_unsupported">Formato não suportado</string>
   <string name="error_sdcard_access">Não é possível acessar o cartão SD</string>

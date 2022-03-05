@@ -587,7 +587,13 @@ Verifique seu cartão SIM."</string>
 Esta mensagem pode não ter sido solicitada."</string>
   <string name="mms_block_hint_highlight">Bloquear MMS</string>
   <string name="mms_main_purpose">Para ter acesso a todos os recursos do app Mensagens, ative o Mi Message e as Mensagens Inteligentes.</string>
+  <string name="mms_mi_message_main_purpose">Bem-vindo ao Mi Mensagens! Uma mensagem SMS é necessária para ativar o Mi Mensagens. Sua operadora cobrará por esta mensagem.</string>
+  <string name="mms_mi_message_request_notice">Queremos que você aproveite ao máximo o Mi Mensagens.</string>
+  <string name="mms_mx_privacy_policy">Política de privacidade do Mi Mensagens</string>
+  <string name="mms_smart_msg_main_purpose">As Mensagens Inteligentes pode reconhecer IDs de remetentes, fornecer serviços de menu inteligente e identificar mensagens suspeitas.</string>
+  <string name="mms_smart_msg_privacy_policy">Política de Privacidade de Mensagens Inteligentes</string>
   <string name="mms_title">Mensagens</string>
+  <string name="mms_user_agreement">Contrato do Usuário</string>
   <string name="mobile_charge">Recarregar</string>
   <string name="monday">Segunda</string>
   <string name="monday_short">Seg</string>
@@ -1345,6 +1351,7 @@ Se você não aceitar em conceder estas permissões ou compartilhar e fazer o en
   <string name="system_permission_declare_single_link">Leia e aceite a nossa %1s antes de usar este recurso.</string>
   <string name="system_permission_declare_triple_link" formatted="false">Leia e aceite o nosso %1s, a %2s e a %3s antes de usar estes recursos.</string>
   <string name="system_permission_declare_use_network">Conectar-se à rede</string>
+  <string name="system_permission_declare_user_agree">Aceitar</string>
   <string name="system_permission_disabled">Não permitido</string>
   <string name="system_permission_enabled">Permitido</string>
   <string name="system_permission_perm_agree_desc">Permita que este app se conecte à Internet e conceda as permissões opcionais para poder usar todos os seus recursos.</string>

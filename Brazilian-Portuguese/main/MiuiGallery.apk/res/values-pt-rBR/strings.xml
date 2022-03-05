@@ -151,7 +151,7 @@
   <string name="album_permission_state_granted">Permitido</string>
   <string name="album_permission_state_non_granted">Permitir</string>
   <string name="album_permission_subtitle_single">%2$d álbum (%1$s)</string>
-  <string name="album_permission_tip_text">A Galeria precisa de permissões para sincronizar, editar e gerenciar os itens mostrados abaixo.</string>
+  <string name="album_permission_tip_text">A Galeria precisa de permissões para sincronizar, editar e gerenciar os itens exibidos abaixo.</string>
   <string name="album_permission_title_granted">Permitido</string>
   <string name="album_permission_title_non_granted">Não permitido</string>
   <string name="album_quota_fulfiled">Limite de álbuns excedido. Exclua alguns álbuns e tente novamente.</string>
@@ -2171,7 +2171,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="saf_operation_guide_1">"A Galeria precisa de sua permissão para proteger e gerenciar seus dados. "</string>
   <string name="saf_operation_guide_2">Para conceder a permissão, toque em \"%1$s\" e então selecione \"%2$s\".</string>
   <string name="saf_operation_guide_param1">Avançar</string>
-  <string name="saf_operation_guide_param2">Acesse esta pasta</string>
+  <string name="saf_operation_guide_param2">Usar esta pasta</string>
   <string name="saf_requester_cancel">Cancelar</string>
   <string name="saf_requester_title">Permitir que a Galeria acesse \"%s\"</string>
   <string name="saf_secret_album">Álbum privado</string>
@@ -2194,7 +2194,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
   <string name="scope_storage_dialog_guide_title">Como conceder permissão</string>
   <string name="scope_storage_dialog_title">Permissões necessárias</string>
   <string name="scope_storage_operation_btn_1">Salvar</string>
-  <string name="scope_storage_operation_btn_2">Acesse esta pasta</string>
+  <string name="scope_storage_operation_btn_2">Usar esta pasta</string>
   <string name="screen_doodle_talkback_size">Comprimento da linha do desenho</string>
   <string name="screen_editor_btn_delete">Excluir</string>
   <string name="screen_editor_btn_save">Salvar</string>
