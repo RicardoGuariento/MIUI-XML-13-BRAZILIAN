@@ -139,8 +139,8 @@
         <item quantity="one">%d dispositivo disponível</item>
     </plurals>
     <plurals name="clean_time">
-      <item quantity="other">%d segundos</item>
-      <item quantity="one">%d segundo</item>
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
     </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">A cada %d segundos</item>
