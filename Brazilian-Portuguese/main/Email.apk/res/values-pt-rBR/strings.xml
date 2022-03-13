@@ -58,7 +58,8 @@ Para compreender totalmente os seus direitos como usuário, bem como as maneiras
     <string name="account_permission_dialog_title">Retirada de consentimento</string>
     <string name="account_permission_private_policy">Política de Privacidade</string>
     <string name="account_permission_user_privacy">Contrato de Licença de Usuário Final</string>
-    <string name="account_security_dialog_content_fmt">%s requer que você atualize suas configurações de segurança</string>
+    <string name="account_security_dialog_content_fmt">"%s requer que você atualize suas configurações de
+         segurança."</string>
     <string name="account_security_dialog_title">Atualização de segurança</string>
     <string name="account_security_policy_explanation_fmt">O servidor %s requer que você permita o controle remoto
          alguns recursos de segurança do seu dispositivo Android.</string>

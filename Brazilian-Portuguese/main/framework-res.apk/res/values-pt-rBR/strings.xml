@@ -1892,7 +1892,7 @@ Ouvir em volume alto por longos períodos pode danificar sua audição."</string
     <string name="tutorial_double_tap_to_zoom_message_short">Toque duas vezes para ter controle do zoom</string>
     <string name="twilight_service">Serviço de crepúsculo</string>
     <string name="ui_translation_accessibility_translated_text">%1$s Traduzido.</string>
-        <string name="ui_translation_accessibility_translation_finished">Mensagem traduzida de %1$s para %2$s.</string>
+    <string name="ui_translation_accessibility_translation_finished">Mensagem traduzida de %1$s para %2$s.</string>
     <string name="undo">Desfazer</string>
     <string name="unknownName">Desconhecido</string>
     <string name="unpin_specific_target">Liberar %1$s</string>

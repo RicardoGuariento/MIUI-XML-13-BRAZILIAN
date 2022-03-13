@@ -174,7 +174,7 @@ O botão Acessibilidade flutua na tela sobre outros apps. Toque para ampliar."</
     <string name="accessibility_menu_description">"O menu de acessibilidade fornece atalhos convenientes que permitem que você controle o seu dispositivo.
 
 Ative este recurso e toque no botão de Acessibilidade na parte inferior da tela para abrir o menu."</string>
-        <string name="accessibility_menu_description_pad">"O menu de acessibilidade fornece atalhos convenientes que permitem que você controle o seu dispositivo.
+    <string name="accessibility_menu_description_pad">"O menu de acessibilidade fornece atalhos convenientes que permitem que você controle o seu dispositivo.
 
 Ative este recurso e toque no botão de Acessibilidade na parte inferior da tela para abrir o menu."</string>
     <string name="accessibility_menu_item_settings">Configurações</string>
@@ -1510,8 +1510,8 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_fastConnect_resource_load">Carregamento de recurso Bluetooth fastConnect</string>
     <string name="bluetooth_footer_mac_message">Endereço Bluetooth do smartphone: %1$s</string>
     <string name="bluetooth_grp_source_selection_options_detail">"Fonte de transmissão
-         %1$s está sendo adicionado aos membros do grupo conectados.
-         (Deixe o PIN de transmissão em branco se for uma fonte de transmissão não criptografada)"</string>
+       %1$s está sendo adicionado aos membros do grupo conectados.
+       (Deixe o PIN de transmissão em branco se for uma fonte de transmissão não criptografada)"</string>
     <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do telefone</string>
     <string name="bluetooth_headset_profile_summary_use_for">Usado para áudio do telefone</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Conectado ao aparelho auditivo</string>
@@ -1725,9 +1725,9 @@ Enquanto conectado, %2$s receberá todas as chamadas feitas a %3$s."</string>
     <string name="bluetooth_source_selection_error_message">Fonte de transmissão inválida selecionada para o receptor %1$s.</string>
     <string name="bluetooth_source_selection_error_src_unavail_message">Fonte selecionada para receptor %1$s está indisponível</string>
     <string name="bluetooth_source_selection_options_detail">"Fonte de transmissão
-        %1$s está sendo adicionado ao receptor.
-        (Deixe o PIN de transmissão em branco se
-        caso for uma fonte de transmissão não criptografada)"</string>
+       %1$s está sendo adicionado ao receptor.
+       (Deixe o PIN de transmissão em branco se
+       caso for uma fonte de transmissão não criptografada)"</string>
     <string name="bluetooth_source_selection_options_detail_title">Configure o receptor de transmissão</string>
     <string name="bluetooth_source_setpin_error_message">"Não foi possível atualizar o código PIN de radiodifusão para %1$s."</string>
     <string name="bluetooth_source_update_error_message">"Não foi possível atualizar detalhes da fonte de transmissão do receptor %1$s."</string>
