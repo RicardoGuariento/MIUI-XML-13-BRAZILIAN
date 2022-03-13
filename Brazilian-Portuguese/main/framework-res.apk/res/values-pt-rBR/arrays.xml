@@ -12,7 +12,7 @@
         <item>sair</item>
         <item>captura de tela</item>
         <item>relatório de erro</item>
-    </string-array>		 
+    </string-array>
     <string-array name="config_system_condition_providers">
         <item>contagem regressiva</item>
         <item>cronograma</item>

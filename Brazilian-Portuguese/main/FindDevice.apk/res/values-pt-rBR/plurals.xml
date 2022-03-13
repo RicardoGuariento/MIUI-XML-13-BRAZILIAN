@@ -66,6 +66,6 @@
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
-        <item quantity="one">1 minuto atrás</item>												   
+        <item quantity="one">1 minuto atrás</item>
     </plurals>
 </resources>
