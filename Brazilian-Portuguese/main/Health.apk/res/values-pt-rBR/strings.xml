@@ -315,9 +315,9 @@ Se decidir excluir os seus dados, poderá ser feito no Mi Saúde &gt; Fonte de d
     <string name="date_format_y_m_d_h_m_s">dd/MM/yyyy | HH:mm:ss</string>
     <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
     <string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Defina a data e hora</string>
     <string name="date_week_index">"yyyy 'S' ww"</string>
@@ -447,7 +447,7 @@ O Mi Saúde irá notificá-lo apenas sobre itens importantes"</string>
     <string name="emergency_contact">Contato de emergência</string>
     <string name="emergency_lock_show_subtitle">Encontre sua ID médica de emergência tocando em \"Emergência\" e \"ID médica de emergência\" enquanto sua tela está bloqueada.</string>
     <string name="emergency_lock_show_title">Mostrar quando bloqueado</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="enable">Ativado</string>
     <string name="enable_go_now">Ativar</string>
     <string name="enable_not_now">Agora não</string>

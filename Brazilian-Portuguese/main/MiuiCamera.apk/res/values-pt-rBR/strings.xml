@@ -592,9 +592,9 @@ e ajustar preferências automaticamente"</string>
     <string name="custom_watermark_words">"Marca d'água personalizada"</string>
     <string name="custom_watermark_words_input_hint">Inserir texto</string>
     <string name="custom_watermark_words_save_success">Salvo com sucesso</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="dd_frn_f_t">Dobre o seu dispositivo para usar a câmera frontal</string>
@@ -698,7 +698,7 @@ A gravação em dois telefones também permite que você se conecte a outro disp
     <string name="edit_smile">Sorriso</string>
     <string name="edit_solid">Contorno</string>
     <string name="emoticon">Pacote de stickers</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_fail_to_start_audio_capture">Não foi possível iniciar a captura por áudio</string>
@@ -711,7 +711,7 @@ A gravação em dois telefones também permite que você se conecte a outro disp
     <string name="eye_light_comic">Mangá</string>
     <string name="eye_light_crescent">Crescente</string>
     <string name="eye_light_nature">Natureza</string>
-    <string name="eye_light_off"/>
+    <string name="eye_light_off" />
     <string name="eye_light_rainbow">Arco-íris</string>
     <string name="eye_light_star">Estrelas</string>
     <string name="eye_light_window">Janela</string>
@@ -824,7 +824,7 @@ e criará uma única foto onde todos estão no seu melhor."</string>
     <string name="id_card_mode_use_hint_text_body">"Combine dois lados da sua Identidade em uma imagem.
 Imprima uma cópia em papel A4 através do Wi-Fi."</string>
     <string name="id_card_mode_use_hint_text_title">Digitalizar Identidade</string>
-    <string name="ijkplayer_dummy"/>
+    <string name="ijkplayer_dummy" />
     <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
     <string name="install_confirmed">Instalar</string>
     <string name="invisible_mode_dialog_cancel">Cancelar</string>
@@ -1344,7 +1344,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_beautify_entry_normal">Médio</string>
     <string name="pref_camera_beauty">Embelezador</string>
     <string name="pref_camera_beauty_deep">Embelezador Pro</string>
-    <string name="pref_camera_coloreffect_entry_aqua"/>
+    <string name="pref_camera_coloreffect_entry_aqua" />
     <string name="pref_camera_coloreffect_entry_big_face">Ampliar</string>
     <string name="pref_camera_coloreffect_entry_blackwhite">P&amp;B</string>
     <string name="pref_camera_coloreffect_entry_fisheye">Olho de peixe</string>
@@ -1357,10 +1357,10 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_coloreffect_entry_mirror">Espelho</string>
     <string name="pref_camera_coloreffect_entry_mono">"Mono"</string>
     <string name="pref_camera_coloreffect_entry_mosaic">Mosaico</string>
-    <string name="pref_camera_coloreffect_entry_negative"/>
+    <string name="pref_camera_coloreffect_entry_negative" />
     <string name="pref_camera_coloreffect_entry_none">"Normal"</string>
-    <string name="pref_camera_coloreffect_entry_posterize"/>
-    <string name="pref_camera_coloreffect_entry_sepia"/>
+    <string name="pref_camera_coloreffect_entry_posterize" />
+    <string name="pref_camera_coloreffect_entry_sepia" />
     <string name="pref_camera_coloreffect_entry_sketch">Rascunho</string>
     <string name="pref_camera_coloreffect_entry_small_face">Espremer</string>
     <string name="pref_camera_coloreffect_entry_vivid">Vívido</string>

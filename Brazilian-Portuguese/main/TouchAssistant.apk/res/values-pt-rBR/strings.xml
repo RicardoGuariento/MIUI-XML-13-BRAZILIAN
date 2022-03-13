@@ -40,9 +40,9 @@
     <string name="close_panel">Desativar botões de Acesso rápido</string>
     <string name="copy">Copiar</string>
     <string name="customize_entries">Selecionar atalhos</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="early_morning">"AM"</string>
@@ -51,7 +51,7 @@
     <string name="edge_mode_custom_summary">Ajuste o tamanho das áreas de acionamento próximas da borda da tela</string>
     <string name="edge_mode_custom_title">Personalizado</string>
     <string name="edge_mode_default_title">Padrão</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="enable_touch_assistant">Ativar botões de Acesso rápido</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>

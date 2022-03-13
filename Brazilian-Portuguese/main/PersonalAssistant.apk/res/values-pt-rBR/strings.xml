@@ -675,7 +675,7 @@ Você também pode rastrear a entrega expressa nos sites oficiais das empresas d
     <string name="app_stock_name_szzs">SSE</string>
     <string name="app_stock_network_unavailable">"Couldn't connect to the network"</string>
     <string name="app_stock_search_fail">"Couldn't find results"</string>
-    <string name="app_stock_search_hint"/>
+    <string name="app_stock_search_hint" />
     <string name="app_stock_search_loading">Just a sec…</string>
     <string name="app_stock_title">Stocks</string>
     <string name="app_stock_title_add_stock">Adicionar</string>
@@ -861,7 +861,7 @@ Você também pode rastrear a entrega expressa nos sites oficiais das empresas d
     <string name="card_title_sportassist">Assistente de esporte</string>
     <string name="card_trip_arrive">Chegada</string>
     <string name="card_trip_dep">Departure</string>
-    <string name="cashier_str_null"/>
+    <string name="cashier_str_null" />
     <string name="category_atm">ATM withdrawal</string>
     <string name="category_catering">Comida</string>
     <string name="category_education">Educação</string>
@@ -1121,7 +1121,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="express_inquiry_and_send">Rastreamento e envio</string>
     <string name="express_inquiry_clipboard_number_message">Rastrear o número copiado?</string>
     <string name="express_inquiry_data_owner_prefix">"Informações de rastreamento fornecidas por "</string>
-    <string name="express_inquiry_data_owner_suffix"/>
+    <string name="express_inquiry_data_owner_suffix" />
     <string name="express_inquiry_delete_warning_multiple">Excluir %d entradas?</string>
     <string name="express_inquiry_delete_warning_single">Excluir esta entrada?</string>
     <string name="express_inquiry_delivered">Entregue</string>

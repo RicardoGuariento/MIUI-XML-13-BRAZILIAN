@@ -92,7 +92,7 @@
 "</string>
     <string name="access_control_need_to_unlock_nofingerprint">Insira a senha do Bloqueio de apps</string>
     <string name="accessibility_gameboosterservice_description">Ative para silenciar chamadas do WeChat quando você estiver jogando</string>
-    <string name="accessibility_service_description"/>
+    <string name="accessibility_service_description" />
     <string name="action_button_text_100">Otimizar</string>
     <string name="action_button_text_60">Corrigir</string>
     <string name="action_button_text_60_80">Corrigir</string>
@@ -1207,9 +1207,9 @@ A sua operadora poderá cobrar tarifas adicionais se você ativar os dados móve
     <string name="data_usage_warning_title_notify">Você ultrapassou seu limite de dados</string>
     <string name="databooster_tips_message">Ative para restringir todos os cartões SIM exceto o chip de dados. Desative este recurso se ocorrerem erros durante a partida.</string>
     <string name="databooster_tips_title">Atenção</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="day_overflow_tips">Aviso sobre o uso de dados diários</string>
@@ -1354,7 +1354,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="edit_new_task_name">Insira o nome da tarefa</string>
     <string name="eew_privacy_revoke_title">Retirar consentimento para a Política de Privacidade de aviso de terremoto</string>
     <string name="email">E-mail</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="empty_app">Nenhum app</string>
     <string name="empty_title_auto_start_list">Nenhum app com início automático.</string>
     <string name="empty_title_garbage_virus_white_list">Segure os resultados na lista para ignorá-los na próxima verificação</string>
@@ -3244,9 +3244,6 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_scan_item_title_power_saver">Ativar Economia de bateria</string>
     <string name="power_center_scan_item_title_running_app">Apps executando em 2º plano</string>
     <string name="power_center_scan_result_safe">Nenhum problema na bateria encontrado</string>
-    <string name="power_center_state_off">Desativado</string>
-    <string name="power_center_state_on">Ativado</string>
-    <string name="power_center_stop_scan_title">Parar verificação</string>
     <string name="power_center_speed_mode_dialog_text">O Modo velocidade aumenta o desempenho do seu dispositivo aumentando o consumo de energia e sua temperatura. Evite usar o Modo velocidade por longos períodos de tempo.</string>
     <string name="power_center_speed_mode_dialog_title">Modo velocidade</string>
     <string name="power_center_speed_mode_dialog_warning">O Modo velocidade será desligado automaticamente quando a bateria ficar abaixo de %s.</string>
@@ -3265,6 +3262,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_speed_mode_title">Modo velocidade</string>
     <string name="power_center_speed_mode_toast_open_fail">"Não é possível mudar para o Modo velocidade quando a bateria estiver menor do que %s"</string>
     <string name="power_center_speed_mode_toast_text">Alternado para o Modo velocidade</string>
+    <string name="power_center_state_off">Desativado</string>
+    <string name="power_center_state_on">Ativado</string>
+    <string name="power_center_stop_scan_title">Parar verificação</string> 
     <string name="power_center_super_save_summary_text">Aumente o tempo restante em até %1$dh %2$dm</string>
     <string name="power_center_super_save_title_text">Ultra economia de bateria</string>
     <string name="power_center_super_wireless_charge">Carregamento rápido sem fio</string>
@@ -3944,7 +3944,7 @@ Retirar consentimento agora?"</string>
     <string name="risk_app_install_history">Histórico de autorização</string>
     <string name="risk_app_install_item_des">Versão: %1$s</string>
     <string name="risk_app_install_manager">Apps com possíveis riscos</string>
-    <string name="risk_count_suffix"/>
+    <string name="risk_count_suffix" />
     <string name="risk_detail_app">Apresenta riscos</string>
     <string name="risk_detail_title">Possíveis riscos</string>
     <string name="risk_info_title">Descrição</string>
@@ -4827,7 +4827,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="tether_over_limit_warning_notify_title">Limite de dados do ponto de acesso atingido</string>
     <string name="text_button">Entendi</string>
     <string name="text_cycle_day">%s</string>
-    <string name="text_day"/>
+    <string name="text_day" />
     <string name="text_done">"OK"</string>
     <string name="text_security">Privacidade</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>

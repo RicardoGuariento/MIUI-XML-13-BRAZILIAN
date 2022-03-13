@@ -42,9 +42,9 @@
     <string name="data_received">Recebido:</string>
     <string name="data_transmitted">Enviado:</string>
     <string name="data_value_format">%1$s bytes/%2$s pacotes</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Defina a data e hora</string>
     <string name="disconnect">Desconectar</string>

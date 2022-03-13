@@ -203,9 +203,9 @@
     <string name="cw_wallpaper_empty_dlg_content">Você não adicionou nenhum item à sua apresentação de slides. Trocado para recomendações</string>
     <string name="cw_wallpaper_empty_dlg_title">Sem itens</string>
     <string name="cw_wallpaper_manager">Gerenciar papéis de parede</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="day">Diariamente</string>
@@ -258,7 +258,7 @@ Envie este código para o supervisor."</string>
     <string name="double_click_to_exit_activity">Toque novamente para sair</string>
     <string name="early_morning">"AM"</string>
     <string name="edit_wallpaper">Gerenciar papéis de parede</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="enable_toast_ar">Alterado para recomendações</string>
     <string name="enable_toast_cw">Alterado para apresentação</string>
     <string name="enable_toast_cwo">Carrossel de Planos de fundo ativado e a apresentação de slides iniciada</string>
@@ -327,7 +327,7 @@ Envie este código para o supervisor."</string>
     <string name="get_phone_bind_exceed_limit">Você pode associar até 3 Contas Mi com um número de telefone. Não é possível adicionar mais contas.</string>
     <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
     <string name="getverifycode_seconde">"s"</string>
-    <string name="google_application_id"/>
+    <string name="google_application_id" />
     <string name="goto_confirm">Configurações</string>
     <string name="goto_sign_up">Criar conta</string>
     <string name="header_help">Ajuda</string>

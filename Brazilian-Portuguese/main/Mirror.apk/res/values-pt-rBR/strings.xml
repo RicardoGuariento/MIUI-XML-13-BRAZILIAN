@@ -45,9 +45,9 @@
     <string name="copy">Copiar</string>
     <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Para transmitir áudio durante a transmissão</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para transferir arquivos entre dispositivos</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="default_boss_terminal_name">"Mi Notebook"</string>
@@ -65,7 +65,7 @@
     <string name="download_succeeded_title">Recebidos %1$s</string>
     <string name="downloading">Baixando…</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="enable_wifi_alert_cancel">Cancelar</string>
     <string name="enable_wifi_alert_message">A MIUI+ utiliza o Wi-Fi para conectar-se aos dispositivos. Deseja ativar o Wi-Fi agora?</string>
     <string name="enable_wifi_alert_message_china">A MIUI+ utiliza o Wi-Fi para conectar-se aos dispositivos. Ativar o Wi-Fi agora?</string>

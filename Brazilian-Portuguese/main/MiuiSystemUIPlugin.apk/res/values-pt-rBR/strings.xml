@@ -91,9 +91,9 @@
     <string name="controls_seeding_in_progress">Carregando recomendações</string>
     <string name="controls_structure_tooltip">Deslize para ver mais</string>
     <string name="copy">Copiar</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="disabled">Indisponível</string>
@@ -101,7 +101,7 @@
     <string name="dnd_popup_message">É posssível ativar o modo Não perturbe para silenciar chamadas e notificações sem desativar os sons de mídia.</string>
     <string name="dolby_atoms_sound_effect_label">"Dolby Atmos"</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_icon_content_description">Erro</string>

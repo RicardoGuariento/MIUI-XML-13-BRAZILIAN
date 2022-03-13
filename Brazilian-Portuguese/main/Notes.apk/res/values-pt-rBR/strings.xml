@@ -150,9 +150,9 @@
     <string name="data_empty_note">Nenhuma anotação aqui ainda</string>
     <string name="data_empty_todo">Nenhuma tarefa aqui ainda</string>
     <string name="date_calculate_today">0 dias</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_alarm_reminder">Alarme</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
@@ -231,7 +231,7 @@
     <string name="edit_header_done_description">Concluído</string>
     <string name="edit_header_lock_description">Anotação oculta</string>
     <string name="edit_note_hint_title">Título</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="empty_folder_import_notes">Importar anotações</string>
     <string name="empty_folder_no_notes">Nenhuma anotação aqui</string>
     <string name="enable_sync">Sincronizar</string>

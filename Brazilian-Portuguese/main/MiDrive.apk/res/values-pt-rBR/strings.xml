@@ -99,9 +99,9 @@
     <string name="create_other_pdf">Novo PDF</string>
     <string name="create_pdf_manual">Novo PDF</string>
     <string name="current_speed_content">Velocidade atual: %1$s</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Defina a data e hora</string>
     <string name="delete_file_success">Excluído com sucesso</string>
@@ -151,7 +151,7 @@
     <string name="download_to">"Salvar em "</string>
     <string name="downloading">Baixando</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_filename_contain_illegal_char">"O nome do arquivo não pode conter caracteres especiais"</string>

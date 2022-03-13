@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="alert_preferences_title">Preferências de alerta</string>
-    <string name="alert_reminder_interval_summary"/>
+    <string name="alert_reminder_interval_summary" />
     <string name="alert_reminder_interval_title">Som de lembrete de alerta</string>
-    <string name="alert_sound_duration_summary"/>
+    <string name="alert_sound_duration_summary" />
     <string name="alert_sound_duration_title">Duração do som de alerta</string>
     <string name="app_label">"Alertas de emergência"</string>
     <string name="app_name">"Alertas de emergência"</string>

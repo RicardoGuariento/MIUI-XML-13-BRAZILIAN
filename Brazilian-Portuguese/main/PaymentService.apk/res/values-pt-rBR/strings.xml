@@ -81,9 +81,9 @@
     <string name="confirm_bundled_phone_dialog_title">Confirmar número de telefone associado</string>
     <string name="confirm_new_pwd">Confirme a nova senha</string>
     <string name="confirm_unbundled_phone_dialog_message">Este número de telefone foi associado à Conta Mi %2$s em %1$s. Ele não será mais associado à Conta Mi %3$s se você continuar. Continuar?</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="diagnosis_log_send_failed">Não foi possível enviar os logs. Tente novamente.</string>
@@ -91,7 +91,7 @@
 ID: %s
 Envie este código para o supervisor."</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>
@@ -343,7 +343,7 @@ Envie este código para o supervisor."</string>
     <string name="pm">"PM"</string>
     <string name="psw_hint">Senha</string>
     <string name="psw_sign_in">Entrar usando a senha</string>
-    <string name="qq_application_id"/>
+    <string name="qq_application_id" />
     <string name="request_camera_permission_message">Este serviço precisa das permissões a seguir, cumpriremos rigorosamente as leis relevantes para proteger suas informações pessoais: &lt;br&gt;&lt;br&gt;&lt;b&gt; Acesso à Câmera: experimente serviços de gravação em tempo real para a escolha do avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Se você não concordar em conceder as permissões acima, essa função não funcionará corretamente, mas não afetará o uso das funções básicas deste app. Você pode optar por desativar a solicitação de permissão acima nas configurações do sistema para retirar seu consentimento.</string>
     <string name="resend_active_email">Reenviar</string>
     <string name="resend_email_reach_limit_message">Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não está na pasta de Spam do seu e-mail.</string>

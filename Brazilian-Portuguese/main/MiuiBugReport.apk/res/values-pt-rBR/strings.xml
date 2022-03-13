@@ -149,9 +149,9 @@
     <string name="customer_service_apply">Solicitar suporte ao cliente</string>
     <string name="customer_service_complain">Reportar suporte ao cliente</string>
     <string name="customer_service_station">Local de serviços</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="description">Descreva o problema</string>
@@ -167,7 +167,7 @@ Envie este código ao supervisor."</string>
     <string name="doing_query_account">Verificando informações da conta…</string>
     <string name="doing_register">Criando conta…</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="err_type">Tipo de problema</string>

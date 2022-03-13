@@ -107,9 +107,9 @@ para visualizá-las a qualquer momento"</string>
     <string name="cta_declaration_title">Termos e Condições</string>
     <string name="current_space">Espaço atual</string>
     <string name="dataSafe">Usar o Segundo Espaço é como ter dois dispositivos diferentes.</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="declare_dialog_title">Sobre o dual apps</string>
@@ -136,7 +136,7 @@ para visualizá-las a qualquer momento"</string>
     <string name="dual_animation">Animação de início</string>
     <string name="dual_animation_description">Exibe uma animação sempre que um dual app for iniciado</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="enable">Ativar</string>
     <string name="ent_activating">Ativando…</string>
     <string name="ent_activation">Ativar</string>

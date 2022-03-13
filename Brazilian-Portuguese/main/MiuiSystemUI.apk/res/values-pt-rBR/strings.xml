@@ -59,9 +59,9 @@
     <string name="accessibility_action_stop_one_handed">Sair do modo para uma mão</string>
     <string name="accessibility_airplane_mode">Modo avião.</string>
     <string name="accessibility_ambient_display_charging">Carregando</string>
-    <string name="accessibility_aspect_button">Modo Tela cheia</string>
     <string name="accessibility_authenticate_hint">autenticar</string>
     <string name="accessibility_assistant">Acesso rápido</string>
+    <string name="accessibility_aspect_button">Modo Tela cheia</string>
     <string name="accessibility_back">Voltar</string>
     <string name="accessibility_banner_message_dismiss">Ocultar</string>
     <string name="accessibility_battery_details">Abrir detalhes da bateria</string>
@@ -456,9 +456,9 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="available_via_carrier">Disponível via %1$s</string>
     <string name="available_via_passpoint">Disponível via %1$s</string>
     <string name="back">Voltar</string>
-    <string name="basic_status">Abrir conversa</string>
     <string name="band_24G">" (2.4G)"</string>
     <string name="band_5G">" (5G)"</string>
+    <string name="basic_status">Abrir conversa</string>
     <string name="battery">Bateria</string>
     <string name="battery_detail_charging_summary">A Economia de bateria não está disponível durante o carregamento</string>
     <string name="battery_detail_switch_summary">Reduz o desempenho e dados em segundo plano</string>
@@ -677,7 +677,6 @@ Taxa de amostra"</string>
     <string name="call_status_holding">Em espera</string>
     <string name="call_status_ringing">Tocando</string>
     <string name="camera_hint">Deslize do ícone para acessar a Câmera</string>
-    <string name="camera_label">Abrir Câmera</string>
     <string name="camera_key_action_app_title">Abrir app</string>
     <string name="camera_key_action_category_title">Usar se o app da Câmera não estiver aberto</string>
     <string name="camera_key_action_none_title">Nenhuma ação</string>
@@ -689,6 +688,7 @@ Taxa de amostra"</string>
     <string name="camera_key_action_shortcut_title">Atalho</string>
     <string name="camera_key_action_shortcut_wake">Bloquear/Desbloquear dispositivo</string>
     <string name="camera_key_action_toggle_title">Acionar atalho</string>
+    <string name="camera_label">Abrir Câmera</string>
     <string name="camera_recording_announcement">Câmera está gravando</string>
     <string name="camera_stopped_recording_announcement">Câmera parou de gravar</string>
     <string name="cancel">Cancelar</string>
@@ -723,7 +723,7 @@ Taxa de amostra"</string>
     <string name="clipboard">Área de transferência</string>
     <string name="clock">Relógio</string>
     <string name="clock_city_name_local">"Local"</string>
-    <string name="clock_component_name"/>
+    <string name="clock_component_name" />
     <string name="clock_seconds">Mostrar segundos no relógio</string>
     <string name="clock_seconds_desc">Mostrar segundos do relógio na barra de status. Pode afetar a duração da bateria.</string>
     <string name="clock_title_analog">Analógico</string>
@@ -826,9 +826,9 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="data_usage_ota">Atualizações do sistema</string>
     <string name="data_usage_uninstalled_apps">Apps removidos</string>
     <string name="data_usage_uninstalled_apps_users">Apps e usuários removidos</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="days_timestamp">%1$s dias atrás</string>
@@ -906,7 +906,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">A Tela dividida não é suportada na Tela de bloqueio.</string>
     <string name="dock_non_resizeble_failed_to_dock_text">O app não suporta Tela dividida.</string>
     <string name="download_lock_wallpaper">Toque duas vezes para baixar o Carrossel de Planos de fundo</string>
-    <string name="doze_brightness_sensor_type"/>
+    <string name="doze_brightness_sensor_type" />
     <string name="drag_to_add_tiles">Pressione e segure para adicionar ou reordenar os itens</string>
     <string name="drag_to_rearrange_tiles">Segure e arraste para organizar os atalhos</string>
     <string name="drag_to_remove_disabled">Você precisa de pelo menos %1$d atalhos</string>
@@ -917,7 +917,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="drive_mode_tip_notch">Modo Carro</string>
     <string name="early_morning">"AM"</string>
     <string name="emergency_call_string">Emergência</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="empty_shade_text">Nenhuma notificação</string>
     <string name="empty_status">Vamos conversar esta noite!</string>
     <string name="empty_user_name">Amigos</string>
@@ -1137,7 +1137,7 @@ Digite seu PIN para desbloquear."</string>
     <string name="gxzw_quick_open_qr_code">Código QR</string>
     <string name="gxzw_quick_open_qr_code_sub">"Scanner"</string>
     <string name="gxzw_quick_open_search">Pesquisar</string>
-    <string name="gxzw_quick_open_search_sub"/>
+    <string name="gxzw_quick_open_search_sub" />
     <string name="gxzw_quick_open_skip_teach">Pular tutorial</string>
     <string name="gxzw_quick_open_title">Menu de atalhos aberto</string>
     <string name="gxzw_quick_open_wechat_pay">Código de pagamento</string>
@@ -1168,7 +1168,7 @@ Digite seu PIN para desbloquear."</string>
     <string name="high_temp_alarm_notify_message">Há um problema ao carregar este dispositivo. Desconecte o adaptador de energia e tome cuidado, pois o cabo pode estar quente.</string>
     <string name="high_temp_alarm_title">Retire o carregador</string>
     <string name="high_temp_dialog_help_text">Veja as etapas de cuidado</string>
-    <string name="high_temp_dialog_help_url"/>
+    <string name="high_temp_dialog_help_url" />
     <string name="high_temp_dialog_message">"Seu dispositivo tentará ser resfriado automaticamente. Você ainda pode usar o dispositivo, mas ele poderá funcionar mais lentamente.
 
 Assim que ele tiver resfriado, ele voltará ao normal."</string>
@@ -1313,6 +1313,7 @@ prioridades"</string>
     <string name="keyguard_carrier_default">Sem serviço</string>
     <string name="keyguard_charged">Carregada</string>
     <string name="keyguard_charging_back_to_lockscreen">Voltar à Tela de bloqueio</string>
+    <string name="keyguard_charging_double_fast_and_level_tip">Aumentando a velocidade de carregamento %s</string>
     <string name="keyguard_charging_info_battery_used_time_text">Na bateria</string>
     <string name="keyguard_charging_info_click_to_detail">Ver detalhes</string>
     <string name="keyguard_charging_info_data_c">%s°C</string>
@@ -1320,7 +1321,6 @@ prioridades"</string>
     <string name="keyguard_charging_info_data_percent">%s%%</string>
     <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Descarregou</string>
-    <string name="keyguard_charging_double_fast_and_level_tip">Aumentando a velocidade de carregamento %s</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Hoje %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Ontem %s</string>
@@ -1337,7 +1337,7 @@ prioridades"</string>
     <string name="keyguard_enter_your_password">Digite sua senha</string>
     <string name="keyguard_enter_your_pattern">Desenhe seu padrão</string>
     <string name="keyguard_enter_your_pin">Digite seu PIN</string>
-    <string name="keyguard_fancy_colon"/>
+    <string name="keyguard_fancy_colon" />
     <string name="keyguard_indication_charging_time">%2$s • Carregando (%1$s até completar)</string>
     <string name="keyguard_indication_charging_time_fast">%2$s • Carregamento rápido (%1$s até completar)</string>
     <string name="keyguard_indication_charging_time_slowly">%2$s • Carregando lentamente (%1$s até completar)</string>
@@ -1656,15 +1656,15 @@ d 'de' MMMM"</string>
     <string name="miui_snooze_until_unlock_screen">Até bloquear</string>
     <string name="miui_snooze_user_set_fail">Vá para as Configurações > Notificações e centro de controle para mais opções</string>
     <string name="miui_snooze_user_set_success">Aplicado com sucesso. Vá para as Configurações > Notificações e Centro de controle para mais opções.</string>
-    <string name="miui_unimportant_notifications">Notificações sem importância</string>
-    <string name="miuix_access_state_desc">Selecionado</string>
-    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miui_toast_zen_dnd_to_off">Não perturbe desativado. Os sons e vibrações foram restaurados.</string>
     <string name="miui_toast_zen_standard_to_off">Modo silencioso desativado. Toques restaurados.</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Modo silencioso desativado. Toques, sons de notificação e multimídia, serão reproduzidos.</string>
     <string name="miui_toast_zen_to_dnd">Alternado para Não perturbe. Os sons estão silenciados e a vibração desativada.</string>
     <string name="miui_toast_zen_to_standard">Alternado para o Modo silencioso. Toques para chamadas e notificações estão silenciados agora.</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Alternado para o Modo silencioso. Toques, sons de notificação e multimídias, estão silenciados agora.</string>
+    <string name="miui_unimportant_notifications">Notificações sem importância</string>
+    <string name="miuix_access_state_desc">Selecionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -1891,7 +1891,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="no_weather_description">Obtenha informações de clima ></string>
     <string name="not_default_data_content_description">Não definido para usar dados</string>
     <string name="not_set">Não definido</string>
-    <string name="notice_header"/>
+    <string name="notice_header" />
     <string name="notif_inline_reply_remove_attachment_description">Remover anexo</string>
     <string name="notification_alert_title">Padrão</string>
     <string name="notification_app_settings">Personalizar</string>
@@ -1929,8 +1929,8 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="notification_channel_summary_priority_dnd">Mostra na parte superior das notificações de conversa e como uma foto do perfil na Tela de bloqueio, interrompe o Não perturbe</string>
     <string name="notification_channel_switch_accessibility">Permitir notificações deste canal</string>
     <string name="notification_channel_tv_pip">"Picture-in-Picture"</string>
-    <string name="notification_channel_usb">"USB"</string>
     <string name="notification_channel_unsilenced">Essas notificações irão alertá-lo</string>
+    <string name="notification_channel_usb">"USB"</string>
     <string name="notification_content_gesture_nav_available">Vá para Configurações para atualizar a navegação do sistema</string>
     <string name="notification_content_system_nav_changed">Navegação do sistema atualizada. Para fazer alterações, vá para Configurações.</string>
     <string name="notification_control_center">Notificações e centro de controle</string>
@@ -1981,19 +1981,19 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="notification_otg_trackball_out">Trackball desconectado</string>
     <string name="notification_otg_unknow_in">Dispositivo OTG conectado</string>
     <string name="notification_otg_unknow_out">Dispositivo OTG desconectado</string>
-    <string name="notification_storage_float">Armazenamento externo</string>
     <string name="notification_priority_title">Prioridade</string>
     <string name="notification_section_header_alerting">Notificações</string>
     <string name="notification_section_header_conversations">Conversas</string>
     <string name="notification_section_header_gentle">Silencioso</string>
     <string name="notification_section_header_incoming">Novo</string>
     <string name="notification_silence_title">Silencioso</string>
+    <string name="notification_storage_float">Armazenamento externo</string>
     <string name="notification_tap_again">Toque novamente para abrir</string>
     <string name="notification_template_text">" tem uma notificação. Toque para ver."</string>
     <string name="notification_unblockable_desc">"Essas notificações não podem ser modificadas."</string>
     <string name="notification_vpn_connected">VPN conectada</string>
     <string name="notification_vpn_disconnected">VPN desconectada</string>
-    <string name="oem_preferred_feedback_reporter"/>
+    <string name="oem_preferred_feedback_reporter" />
     <string name="oem_unlock_enable">Desbloqueio de OEM</string>
     <string name="oem_unlock_enable_summary">Permitir que o bootloader seja desbloqueado</string>
     <string name="okay">"OK"</string>
@@ -2135,8 +2135,8 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="power_save_ps_close_setting">Desativar serviços de segundo plano (sincronização, GPS) para economizar energia</string>
     <string name="power_save_ps_freeze">Congelar apps em segundo plano</string>
     <string name="power_save_ps_limit">Restringir a atividade de apps do sistema</string>
-    <string name="power_suggestion_extend_battery">Estender duração da bateria até %1$s</string>
     <string name="power_suggestion_battery_run_out">A bateria pode acabar em %1$s</string>
+    <string name="power_suggestion_extend_battery">Estender duração da bateria até %1$s</string>
     <string name="pref_show_lunar_calendar_title">Mostrar calendário Chinês Tradicional na Tela de bloqueio</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="preference_summary_default_combination">%1$s / %2$s</string>
@@ -2503,8 +2503,8 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="screenshot_failed_to_save_user_locked_text">O dispositivo deve ser desbloqueado antes que a captura de tela possa ser salva</string>
     <string name="screenshot_feedback_txt">"Feedback"</string>
     <string name="screenshot_insert_failed">Não foi possível carregar a captura de tela. Tire uma nova ou veja a imagem na Galeria.</string>
-    <string name="screenshot_long_screenshot">Estender</string>
     <string name="screenshot_left_boundary_pct">"Limite esquerdo %1$d%%"</string>
+    <string name="screenshot_long_screenshot">Estender</string>
     <string name="screenshot_preview_description">Visualizar a captura de tela</string>
     <string name="screenshot_right_boundary_pct">"Limite direito %1$d%%"</string>
     <string name="screenshot_saved_text">Toque para ver a captura de tela.</string>
@@ -2513,8 +2513,8 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="screenshot_saving_ticker">Salvando captura de tela…</string>
     <string name="screenshot_saving_title">Salvando captura de tela…</string>
     <string name="screenshot_scroll_label">Capture mais</string>
-    <string name="screenshot_top_boundary_pct">"Limite superior %1$d%%"</string>
     <string name="screenshot_send">Enviar</string>
+    <string name="screenshot_top_boundary_pct">"Limite superior %1$d%%"</string>
     <string name="search_hint">Pesquisar por sites, apps, contatos e vídeos…</string>
     <string name="search_menu">Configurações de pesquisa</string>
     <string name="search_menu_title">Pesquisar</string>
@@ -2541,8 +2541,8 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="sensor_privacy_start_use_mic_camera_dialog_title">Desbloquear câmera e microfone do dispositivo?</string>
     <string name="sensor_privacy_start_use_mic_dialog_content">Isso desbloqueia o acesso a todos os apps e serviços com permissão para usar seu microfone.</string>
     <string name="sensor_privacy_start_use_mic_dialog_title">Desbloquear o microfone do dispositivo?</string>
-    <string name="settings_label">Configurações</string>
     <string name="settings_custom_notification">Gerenciar notificações</string>
+    <string name="settings_label">Configurações</string>
     <string name="settings_toggle_position">Gerenciar atalhos</string>
     <string name="settings_toggle_position_divider_list">Atalhos acima desta barra estão ativos</string>
     <string name="settings_toggle_position_reset">Redefinir atalhos</string>
@@ -2691,8 +2691,8 @@ Deslize para baixo para bloquear"</string>
     <string name="switch_system_user">Voltar ao Primeiro Espaço</string>
     <string name="system_ui_aod_date_pattern">eeedMMM</string>
     <string name="system_ui_tuner">Customizador da Interf. do sistema</string>
-    <string name="tap_to_renew_subscription_and_connect">Toque para renovar a assinatura e conectar</string>
     <string name="tap_again">Toque novamente</string>
+    <string name="tap_to_renew_subscription_and_connect">Toque para renovar a assinatura e conectar</string>
     <string name="tap_to_sign_up">Toque para registrar-se</string>
     <string name="task_access_locked_app_msg">Bloqueio de apps ativado</string>
     <string name="tether_settings_title_all">Ancoragem e ponto de acesso portátil</string>
@@ -3123,7 +3123,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="wifitrackerlib_connected_via_app">Conectado via %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Conectado automaticamente via %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Conectado automaticamente via provedor de classificação de rede</string>
-    <string name="wifitrackerlib_help_url_imsi_protection"/>
+    <string name="wifitrackerlib_help_url_imsi_protection" />
     <string name="wifitrackerlib_imsi_protection_warning">Esta rede recebe um ID SIM que pode ser usado para rastrear o local do dispositivo. <annotation id="url">Saiba mais</annotation></string>
     <string name="wifitrackerlib_osu_completing_sign_up">Concluindo a inscrição…</string>
     <string name="wifitrackerlib_osu_connect_failed">Não foi possível conectar</string>

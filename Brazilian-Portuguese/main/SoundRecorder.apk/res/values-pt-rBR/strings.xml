@@ -71,9 +71,9 @@
     <string name="data_connection_body">Usar sua conexão de dados móveis para baixar este arquivo, aumentará seu uso de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrar o excedente.</string>
     <string name="data_connection_button_text">"OK"</string>
     <string name="data_connection_title">Aviso sobre o uso de dados</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="delete">Excluir</string>
@@ -90,7 +90,7 @@
     <string name="duration_format_minute">%sm</string>
     <string name="duration_format_second">%ss</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="empty_recognition_tip">Vazio</string>
     <string name="empty_tips">Toque no botão para iniciar a gravação</string>
     <string name="eras_ad">d.C</string>
@@ -470,7 +470,7 @@
     <string name="record_list_item_recognize_text">Texto</string>
     <string name="record_mark_point">Marcar %s</string>
     <string name="record_name_hour">.</string>
-    <string name="record_name_minute"/>
+    <string name="record_name_minute" />
     <string name="record_permission_dialog_title">Permissões de microfone necessárias</string>
     <string name="record_quliaty_preference_title">Qualidade de gravação</string>
     <string name="record_resotre">Recuperar registros</string>

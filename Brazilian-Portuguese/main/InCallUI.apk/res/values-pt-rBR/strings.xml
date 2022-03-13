@@ -134,9 +134,9 @@
     <string name="crbt_second_hold_prompt">%s está em espera…</string>
     <string name="crbt_second_hold_prompt_conference">A chamada de conferência está em espera…</string>
     <string name="crbt_second_hold_prompt_no_name">A chamada anterior está em espera…</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="description_icon_sim_card">"SIM %1$d"</string>
@@ -175,7 +175,7 @@
     <string name="do_not_support_video_calls_by_remote">Chamadas de vídeo não são suportadas no outro dispositivo</string>
     <string name="early_morning">"AM"</string>
     <string name="emergency_call_dialog_number_for_display">Número de emergência</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="enter_ai_assistant">Usar</string>
     <string name="enter_ai_assistant_tip">A IA pode converter texto em fala se não for conveniente para você falar agora. Usar a IA para esta ligação?</string>
     <string name="eras_ad">d.C</string>

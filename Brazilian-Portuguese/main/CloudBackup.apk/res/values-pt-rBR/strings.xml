@@ -163,9 +163,9 @@ Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud
     <string name="copy">Copiar</string>
     <string name="customization"><u>Personalizar</u></string>
     <string name="date_format">HH:mm:ss, dd/MM/yyyy</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="deskclock_backup">Alarmes</string>
@@ -212,10 +212,10 @@ Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud
     <string name="dump_app_data_record_complete_title">Backup dos dados do WeChat foir realizado com sucesso</string>
     <string name="dump_app_data_record_not_found_msg">Parece que você não fez backup dos dados do WeChat antes</string>
     <string name="dump_app_data_record_not_found_title">Não foi possível encontrar backups do WeChat</string>
-    <string name="dump_app_data_record_running_msg"/>
+    <string name="dump_app_data_record_running_msg" />
     <string name="dump_app_data_record_running_title">Fazendo backup dos dados do WeChat…</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_num_placeholder">--</string>

@@ -132,9 +132,9 @@
     <string name="data_consumption_confirm">"OK"</string>
     <string name="data_consumption_message">Este app precisa de uma conexão com a Internet através de Wi-Fi para funcionar normalmente</string>
     <string name="data_consumption_title">Conectar na Internet</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Chinês Tradicional</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="decompress_cancel">Cancelar</string>
@@ -182,7 +182,7 @@
     <string name="drag_not_support_with_dir">Não é possível reorganizar ou enviar pastas</string>
     <string name="early_morning">"AM"</string>
     <string name="edit_quick_category">Editar</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="enable_sd_card">Insira o cartão SD ou desative o armazenamento em massa USB</string>
     <string name="enable_usb">Ligar dispositivo USB</string>
     <string name="encrypt_error">Não foi possível ocultar arquivos. Tente novamente</string>

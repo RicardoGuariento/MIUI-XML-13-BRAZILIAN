@@ -61,9 +61,9 @@
     <string name="copy">Copiar</string>
     <string name="cta_agree_desc">Permita que este app conecte-se à Internet e conceda as permissões opcionais para poder usar todos os seus recursos.</string>
     <string name="cta_v2_app_purpose">mostrar direções, coordenadas, pressão atmosférica e altitude atual</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="dialog_body_no_network">Conecte-se ao Wi-Fi ou ative os dados móveis.</string>
@@ -80,7 +80,7 @@
     <string name="direction_west">"O"</string>
     <string name="do_not_show_next_time">Não mostrar novamente</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_camera_unavailable">Verifique se outro app está usando a Câmera.</string>

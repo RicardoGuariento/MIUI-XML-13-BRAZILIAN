@@ -223,9 +223,9 @@
     <string name="conn_of_function_safe">Conexão de rede para Segurança</string>
     <string name="connecting">Conectando…</string>
     <string name="copy">Copiar</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="dc_activity_title">Limpeza Profunda</string>
@@ -659,7 +659,7 @@
     <string name="no_network_btn">Repetir</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
-    <string name="nothing"/>
+    <string name="nothing" />
     <string name="notification_apk_clean_button_text">Limpar</string>
     <string name="notification_checker_installed_apk_hint">Não há necessidade de manter APKs depois da instalação</string>
     <string name="notification_checker_picture_hint_a">Imagens em cache podem ocupar muito espaço de armazenamento</string>

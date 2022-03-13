@@ -50,9 +50,9 @@
     <string name="customization_continue">Continuar</string>
     <string name="customization_pause_tip">Parar o teste agora? Conecte os fones para continuar.</string>
     <string name="customization_quit">Sair</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="dolby_atoms">"Dolby Atmos"</string>
@@ -67,7 +67,7 @@
     <string name="effect_3dsurround_summary_headphone">Aumenta a profundidade da reprodução de sons para fones de ouvido</string>
     <string name="effect_virtual_surround">Som virtual imersivo</string>
     <string name="effect_virtual_surround_summary">"Enriqueça a profundidade do som para reprodução de áudio e vídeo em fones de ouvido (este recurso não funcionará quando o áudio %.1f for reproduzido)"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="end_wireless_transmission">Parar</string>
     <string name="eq_auto">Personalizado</string>
     <string name="eq_blues">"Blues"</string>

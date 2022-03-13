@@ -114,12 +114,12 @@
     <string name="currency_update_support">Taxas de câmbio fornecidas por Webull.</string>
     <string name="currency_update_time_format">Taxas de câmbio fornecidas por Webull (%s)</string>
     <string name="currency_update_updating">Atualizando taxas…</string>
-    <string name="current_rate_remind_commercial"/>
-    <string name="current_rate_remind_fund"/>
+    <string name="current_rate_remind_commercial" />
+    <string name="current_rate_remind_fund" />
     <string name="date_format">"dd 'de' MMMM 'de' yyyy"</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="dateformat">dd/MM/yyyy</string>
@@ -209,7 +209,7 @@
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="from_unit_en">Quilômetro por hora</string>
-    <string name="fund"/>
+    <string name="fund" />
     <string name="fund_loan">Empréstimos</string>
     <string name="further_education">Educação</string>
     <string name="global_network_confirm_content">O conversor de moedas precisa de uma conexão à internet para funcionar normalmente.</string>
@@ -238,7 +238,7 @@
     <string name="home_loan">Juros de hipotecas</string>
     <string name="home_title_calculator">Calculadora</string>
     <string name="house_rent">Aluguel</string>
-    <string name="income_type"/>
+    <string name="income_type" />
     <string name="install">Instalar</string>
     <string name="install_scanner_to_continued_use">O Scanner não está instalado. Instalá-lo novamente?</string>
     <string name="interest_rate_hint">Insira a taxa de juros</string>
@@ -374,7 +374,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
-    <string name="month"/>
+    <string name="month" />
     <string name="month_april">Abril</string>
     <string name="month_april_short">Abr</string>
     <string name="month_april_shortest">Abr</string>
@@ -473,7 +473,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="not_set">Não definido</string>
     <string name="not_supported_due_to_language">Este recurso só está disponível no idioma Chinês</string>
     <string name="ok">"OK"</string>
-    <string name="percent"/>
+    <string name="percent" />
     <string name="percentDesc">porcento</string>
     <string name="piDesc">pi</string>
     <string name="plusDesc">adição</string>
@@ -531,9 +531,9 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="sin">sen</string>
     <string name="sinDesc">seno</string>
     <string name="sin_mathematical_value">sen</string>
-    <string name="social_security"/>
+    <string name="social_security" />
     <string name="sqrtDesc">raiz quadrada</string>
-    <string name="start_calculate"/>
+    <string name="start_calculate" />
     <string name="statistic_label_balance">Saldo</string>
     <string name="statistic_label_interest">Juros</string>
     <string name="statistic_label_month">Mês</string>
@@ -575,7 +575,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="tax_detail_rate">Taxa de imposto</string>
     <string name="tax_detail_take_off">Dedução</string>
     <string name="tax_detail_tax_payed">Valor pago</string>
-    <string name="tax_edittext_hint"/>
+    <string name="tax_edittext_hint" />
     <string name="tax_endowment">Aposentadoria</string>
     <string name="tax_fixed_salary_hint">Insira sua renda bruta</string>
     <string name="tax_income_annual_bonus_list">Bônus anuais</string>
@@ -605,8 +605,8 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="tax_thershold_native_new">%s (novo)</string>
     <string name="tax_thershold_native_new_description">Os impostos serão calculados de acordo com a nova lei de impostos de 1 de Outubro de 2018</string>
     <string name="tax_threshold">Limite de isenção</string>
-    <string name="tax_title_primary"/>
-    <string name="tax_title_secondary"/>
+    <string name="tax_title_primary" />
+    <string name="tax_title_secondary" />
     <string name="tax_total_insurance_provident_fund">Fundo de seguro e habitação</string>
     <string name="tax_unemployment">Desemprego</string>
     <string name="tax_update_time_format">Dados fornecidos por HeXun (%s)</string>
@@ -654,7 +654,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
     <string name="time_picker_dialog_title">Ajuste a hora</string>
-    <string name="times"/>
+    <string name="times" />
     <string name="title_bar">Conversor de comprimento</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
@@ -1005,7 +1005,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="unit_meter">Metros</string>
     <string name="unit_myriads">×10K</string>
     <string name="unit_pound">Libras</string>
-    <string name="unit_times"/>
+    <string name="unit_times" />
     <string name="unit_year">A</string>
     <string name="unit_year_format">Ano %s</string>
     <string name="unit_yuan">CNY</string>
@@ -1060,7 +1060,7 @@ Tamanho: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Introduzindo a versão %1$s
 Tamanho da atualização: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Atualização para %1$s!</string>
-    <string name="year"/>
+    <string name="year" />
     <string name="yesterday">Ontem</string>
     <string name="younger_brother">Irmão mais novo</string>
     <string name="younger_sister">Irmã mais nova</string>

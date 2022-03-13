@@ -55,7 +55,7 @@
     <string name="application_permissions">Permissões do app</string>
     <string name="back">Voltar</string>
     <string name="backup_introduction">Você pode usar este app para fazer backup e restaurá-los em seu dispositivo.</string>
-    <string name="boot_video_desc"/>
+    <string name="boot_video_desc" />
     <string name="boot_video_replay">Reproduzir novamente</string>
     <string name="boot_video_skip">Pular</string>
     <string name="calculator_introduction">Você pode usar este app para cálculos, conversão de unidades e de moedas, e estimar as parcelas de sua hipoteca.</string>
@@ -83,13 +83,13 @@
     <string name="cookies_title">Conteúdo personalizado e cookies</string>
     <string name="copy">Copiar</string>
     <string name="data_traffic_enable_dialog_title">Se você não estiver conectado ao Wi-Fi agora, seu dispositivo usará os dados móveis. O uso de dados móveis pode gerar cobranças adicionais da operadora.</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
-    <string name="desc_extra_fingerprint"/>
-    <string name="desc_extra_international_fingerprint"/>
+    <string name="desc_extra_fingerprint" />
+    <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">Use sua impressão digital para desbloquear o dispositivo, verificar transações no Mi Pay, ou para fazer login em apps e serviços.</string>
     <string name="desc_international_fingerprint">Use sua impressão digital para desbloquear seu dispositivo ou fazer login em apps e serviços.</string>
     <string name="diagnose_report">Enviar dados de diagnóstico para localizar e analisar problemas do sistema e melhorar a experiência do usuário. Esses dados podem incluir informações pessoais (por exemplo, IP, localização, etc.)</string>

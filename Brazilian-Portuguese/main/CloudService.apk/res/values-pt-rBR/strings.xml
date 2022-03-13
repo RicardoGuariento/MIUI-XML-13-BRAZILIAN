@@ -120,9 +120,9 @@
     <string name="data_merge_dialog_loading">Verificando dados…</string>
     <string name="data_merge_dialog_title">Mesclar itens</string>
     <string name="data_protection_title">Proteger dados</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="detect_sim_card">Verificar por cartão SIM</string>
@@ -144,7 +144,7 @@
     <string name="disable_find_device_error">"Não é possível desativar o 'Encontrar dispositivo'. %1$s"</string>
     <string name="do_not_merge">Cancelar</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="enable_find_device_error">"Não é possível ativar o 'Encontrar dispositivo'. %1$s"</string>
     <string name="enable_find_device_success">Encontrar dispositivo ativado.</string>
     <string name="enable_micloud">Faça o login para usar a Xiaomi Cloud</string>
@@ -1091,6 +1091,6 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização disponível</string>
-    <string name="xmpp_server_addr"/>
+    <string name="xmpp_server_addr" />
     <string name="yesterday">Ontem</string>
 </resources>

@@ -210,9 +210,9 @@
     <string name="data_usage_warning_summary">Usar sua conexão de dados móveis para streaming de músicas em alta qualidade pode aumentar a tarifa do consumo de dados.</string>
     <string name="data_use_desc">Documentos legais</string>
     <string name="date_format_str">dd-MM-yyyy</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Defina a data e hora</string>
     <string name="delete">Excluir</string>

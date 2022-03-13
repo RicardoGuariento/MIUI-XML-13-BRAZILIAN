@@ -47,9 +47,9 @@
     <string name="close">Fechar</string>
     <string name="copy">Copiar</string>
     <string name="cta_main_purpose">Bem-vindo ao Game Turbo!</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="delete_kid_mode">Desativar Espaço infantil</string>

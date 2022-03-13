@@ -54,11 +54,11 @@ Toque para ver."</string>
     <string name="close">Fechar</string>
     <string name="close_screen_record">Gravação parada</string>
     <string name="copy">Copiar</string>
-    <string name="date_day"/>
+    <string name="date_day" />
     <string name="date_month">/</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="date_year">/</string>
@@ -66,7 +66,7 @@ Toque para ver."</string>
     <string name="description_title">Sobre o Gravador de Tela</string>
     <string name="deselect_all">Desmarcar tudo</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_open_file_failed_no_app_found">Não foi possível encontrar um app para abrir este arquivo</string>

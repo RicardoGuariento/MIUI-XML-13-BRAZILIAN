@@ -410,9 +410,9 @@ Páginas que você visitar não aparecerão no histórico."</string>
     <string name="data_traffic_prompt_message">Usar a conexão de dados móveis para navegar entre vídeos aumentará seu consumo de dados móveis. Caso você exceda seu limite de uso de dados, sua operadora poderá cobrar tarifas adicionais.</string>
     <string name="data_traffic_prompt_title">Você está usando dados móveis</string>
     <string name="data_traffic_stop">Parar</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Defina a data e hora</string>
     <string name="debug_crash">Habilitar depuração de falha</string>
@@ -560,7 +560,7 @@ Envie este código para o supervisor."</string>
     <string name="edit_bookmark">Editar favorito</string>
     <string name="edit_bookmark_tips">Adicionado aos favoritos com sucesso. &lt;font color=\"#247BFF\">Editar&lt;/font></string>
     <string name="edit_quicklink">Editar</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="empty_app_name">Outro app</string>
     <string name="empty_bookmark">Vazio</string>
     <string name="empty_history_hint">O histórico está vazio</string>

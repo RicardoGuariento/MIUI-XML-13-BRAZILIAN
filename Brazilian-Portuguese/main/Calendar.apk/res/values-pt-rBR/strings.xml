@@ -87,7 +87,7 @@
     <string name="birthday_notification_text_today">Não se esqueça de dar os parabéns.</string>
     <string name="birthday_notification_title_days_later">O %2$s de %1$s está chegando.</string>
     <string name="birthday_notification_title_today">%3$s de %1$s</string>
-    <string name="birthday_notification_type_term_lunar"/>
+    <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">Aniversário salvo</string>
     <string name="birthday_term">Aniversário</string>
     <string name="button_record_menstruation">Registrar</string>
@@ -177,9 +177,9 @@
     <string name="date_interval_text_to">Até %1$s</string>
     <string name="date_jump_hint">Ir diretamente a um determinado dia</string>
     <string name="date_jump_title">Ir para a data</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Defina a data e hora</string>
     <string name="date_today">" (hoje)"</string>
@@ -192,8 +192,8 @@
     <string name="delete_this_event_title">Excluir este evento?</string>
     <string name="description_calendar">Apps do sistema/Agenda</string>
     <string name="description_calendar_edit_event">Apps do sistema/Agenda/Agenda</string>
-    <string name="description_calendar_huangli"/>
-    <string name="description_calendar_subscribe_group"/>
+    <string name="description_calendar_huangli" />
+    <string name="description_calendar_subscribe_group" />
     <string name="directory_searching_fmt">Pesquisando %s…</string>
     <string name="discard_label">Cancelar</string>
     <string name="does_not_repeat">Evento único</string>
@@ -568,7 +568,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="notes_week_name_three">%1$s, %2$s, e %3$s</string>
     <string name="notes_week_name_two">%1$s e %2$s</string>
     <string name="notes_weekly">Semanalmente</string>
-    <string name="notification_channel_description"/>
+    <string name="notification_channel_description" />
     <string name="notification_channel_name">Lembretes da Agenda</string>
     <string name="numbers">%d</string>
     <string name="panchang_amanta">Amanta</string>
@@ -672,7 +672,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="repeat_label_frequency">Frequência</string>
     <string name="repeat_label_interval">A cada</string>
     <string name="repeat_label_week">Semana</string>
-    <string name="repeat_lunar_yearly"/>
+    <string name="repeat_lunar_yearly" />
     <string name="repeat_month_day_splitter">" "</string>
     <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="repeats_label">Repetir</string>
@@ -694,9 +694,9 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="saving_event_with_guest">Enviando atualizações…</string>
     <string name="search_calendar">Data;Termos solares;Lunar;Almanaque;Sorte;Agenda;Reunião;Lembrete;Férias;Feriado;Aniversário;2016;2017;Festival da Primavera;Ano Novo;Dia do trabalho;Festival de outono</string>
     <string name="search_calendar_edit_event">Reunião;Lembrete;Agenda</string>
-    <string name="search_calendar_huangli"/>
+    <string name="search_calendar_huangli" />
     <string name="search_calendar_settings">Agenda;Calendário;Lembrete</string>
-    <string name="search_calendar_subscribe_group"/>
+    <string name="search_calendar_subscribe_group" />
     <string name="search_menu_title">Pesquisar</string>
     <string name="second_saturday_holiday">Todo 2º Sábado é um dia de folga</string>
     <string name="select_date">Pular para a data</string>

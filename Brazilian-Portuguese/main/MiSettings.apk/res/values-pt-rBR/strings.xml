@@ -145,9 +145,9 @@
     <string name="customize_radio_btn_title">Personalizada</string>
     <string name="dall_sheep">Carneiro-de-dall</string>
     <string name="dart_frog_info">Sua pele azul brilhante e suas glândulas venenosas são mecanismos de defesa contra potenciais predadores.</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="dc_light_hint_enable_title">Atenção</string>
@@ -175,7 +175,7 @@ não são geradas no Segundo Espaço"</string>
     <string name="elk">Alce</string>
     <string name="elk_info">Os alces vivem em climas subárticos. Eles são herbívoros de pastoreio e são capazes de consumir muitos tipos de plantas ou frutas.</string>
     <string name="emperor_penguin">Pinguim-imperador</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="emu">"Emu"</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>

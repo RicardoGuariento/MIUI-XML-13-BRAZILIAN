@@ -827,9 +827,9 @@ Seleção"</string>
     <string name="data_usage_title">Uso de dados</string>
     <string name="data_usage_uninstalled_apps">Apps removidos</string>
     <string name="data_usage_uninstalled_apps_users">Apps e usuários removidos</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="dc_alert_dialog_message">Alguns apps precisam de uma conexão de dados móveis. Você pode entrar em contato com sua operadora para saber quais %s estão disponíveis para você.</string>
@@ -970,7 +970,7 @@ Seleção"</string>
     <string name="emm_cause_3">Não foi possível verificar o usuário. Desligue o seu dispositivo, depois ligue-o e tente novamente.</string>
     <string name="emm_cause_6">Não foi possível verificar o dispositivo. Desligue o seu dispositivo, depois ligue-o e tente novamente.</string>
     <string name="emm_cause_7_8_12_13_15_16_17_22">Você não pode usar o roaming agora. Desligue o seu aparelho, depois ligue-o e tente novamente. Se ainda encontrar este problema depois disso, entre em contato com o atendimento ao cliente da operadora (SKT: +82-2-6346-9000).</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="empty_alert">"%s é obrigatório e não pode ser deixado em branco."</string>
     <string name="empty_networks_list">Nenhuma rede encontrada.</string>
     <string name="enable">Ativar</string>

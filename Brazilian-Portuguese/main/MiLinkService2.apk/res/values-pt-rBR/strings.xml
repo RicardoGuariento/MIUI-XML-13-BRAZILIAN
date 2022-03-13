@@ -48,9 +48,9 @@
     <string name="console_guide_subtitle_small_window">Minimize a janela que está sendo transmitida para poder usar outros recursos do seu telefone</string>
     <string name="copy">Copiar</string>
     <string name="current_wifi_tv">Rede atual</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="debug_mode_idm_version">Versão do IDM</string>

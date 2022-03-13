@@ -244,9 +244,9 @@ adicionado à lista de bloqueio"</string>
     <string name="copy_verification_code_tip">Copiado com sucesso</string>
     <string name="current_data_version">Versão do Mi Mensagens</string>
     <string name="date">Data</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="debug_about_mms">Sobre o MMS</string>
@@ -316,7 +316,7 @@ adicionado à lista de bloqueio"</string>
     <string name="edit_phrase">Editar respostas rápidas</string>
     <string name="edit_slide_activity">Editar slide</string>
     <string name="edit_slideshow_activity">Editar apresentação de slides</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="enable_classify_tip_dialog_content">Isso reiniciará o app de Mensagens. Continuar mesmo assim?</string>
     <string name="enabled">Ativado</string>
     <string name="english_subject_limit">40 caracteres</string>

@@ -275,9 +275,9 @@
     <string name="country_name_zm">ZM</string>
     <string name="country_name_zw">ZW</string>
     <string name="date_picker_dialog_title">Definir data</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Chinês Tradicional</string>
     <string name="date_time_done">Concluído</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
@@ -288,7 +288,7 @@
     <string name="download_right_now">Baixar</string>
     <string name="early_morning">"AM"</string>
     <string name="email">E-mail</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_forbidden">A sincronização foi desativada devido a problemas com sua Conta Mi.</string>

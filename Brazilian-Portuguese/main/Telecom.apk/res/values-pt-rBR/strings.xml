@@ -312,9 +312,9 @@ taxa de amostragem"</string>
     <string name="data_usage_ota">Atualizações do sistema</string>
     <string name="data_usage_uninstalled_apps">Apps removidos</string>
     <string name="data_usage_uninstalled_apps_users">Apps e usuários removidos</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="debug_app">Selecionar app de depuração</string>
@@ -356,7 +356,7 @@ taxa de amostragem"</string>
     <string name="do_not_show_again">"Não mostra novamente"</string>
     <string name="duplicate_video_call_not_allowed">Não é possível adicionar mais chamadas</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="enable_account_preference_title">Contas de chamada</string>
     <string name="enable_adb">Depuração USB</string>
     <string name="enable_adb_summary">Modo de depuração quando o USB estiver conectado</string>
@@ -730,7 +730,7 @@ taxa de amostragem"</string>
     <string name="respond_via_sms_confirmation_format">Mensagem enviada para %s.</string>
     <string name="respond_via_sms_edittext_dialog_title">Resposta rápida</string>
     <string name="respond_via_sms_failure_format">"Não foi possível enviar mensagem para %s."</string>
-    <string name="respond_via_sms_setting_summary"/>
+    <string name="respond_via_sms_setting_summary" />
     <string name="respond_via_sms_setting_title">Respostas rápidas</string>
     <string name="respond_via_sms_setting_title_2">Editar respostas rápidas</string>
     <string name="retail_demo_reset_message">Digite a senha para redef. p/ configuração original em modo demo</string>

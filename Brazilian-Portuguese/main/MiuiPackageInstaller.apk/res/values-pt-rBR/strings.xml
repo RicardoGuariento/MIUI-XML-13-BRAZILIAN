@@ -114,9 +114,9 @@
     <string name="cta_dialog_title">Conexão de Internet</string>
     <string name="current_permission_template">%1$s de %2$s</string>
     <string name="current_permissions_category">Permissões atuais</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="default_permission_description">executar uma ação desconhecida</string>
@@ -145,7 +145,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
     <string name="do_not_show_again">Não mostra de novamente</string>
     <string name="done">Concluído</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="empty_app">Nenhum app</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -212,7 +212,7 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
     <string name="grant_dialog_button_allow">Permitir</string>
     <string name="grant_dialog_button_deny">Negar</string>
     <string name="grant_dialog_button_deny_anyway">Negar mesmo assim</string>
-    <string name="help_app_permissions"/>
+    <string name="help_app_permissions" />
     <string name="high_risk_perms">Permissões de alto risco</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="ignore_virus_install_text">Eu entendo todos os riscos possíveis. %1$s</string>

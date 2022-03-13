@@ -69,13 +69,13 @@ dd/MM"</string>
     <string name="contentDescripton_vertical_left">Layout vertical. Alinhado à esquerda.</string>
     <string name="contentDescripton_vertical_right">Layout vertical. Alinhado à direita.</string>
     <string name="copy">Copiar</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_icon_content_description">Erro</string>

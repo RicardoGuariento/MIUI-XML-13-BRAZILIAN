@@ -20,7 +20,7 @@ Se você tiver alguma dúvida, sinta-se à vontade para nos enviar uma mensagem:
     <string name="appindex_search_label">Funções dos apps</string>
     <string name="application_desc">App</string>
     <string name="applications_search_label">"Apps"</string>
-    <string name="apps_search_activity"/>
+    <string name="apps_search_activity" />
     <string name="autologin_bar_hide_text">Ocultar</string>
     <string name="autologin_bar_login_text">Entrar</string>
     <string name="barcode_description">Digitalizador</string>

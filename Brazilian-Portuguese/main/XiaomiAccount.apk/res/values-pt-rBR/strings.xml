@@ -180,9 +180,9 @@ Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="continue_action">Continuar</string>
     <string name="copy">Copiar</string>
     <string name="copy_to_clipboard_successful">Copiado com sucesso</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="delete_action">Excluir</string>
@@ -203,7 +203,7 @@ ID: %s
 Envie este código para o supervisor."</string>
     <string name="download_file">Baixando %s…</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="empty_device_list_notice">Nenhum dispositivo</string>
     <string name="enable">Configurações</string>
     <string name="ep_unsupported">Não é possível fazer login na Conta Mi em seu dispositivo</string>

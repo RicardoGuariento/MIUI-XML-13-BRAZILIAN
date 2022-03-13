@@ -88,9 +88,9 @@
     <string name="creat_task_success">Adicionado à fila de downloads</string>
     <string name="create_task">Criar tarefa</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para baixar itens, bem como exibir e gerenciar downloads</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="delete">Excluir</string>

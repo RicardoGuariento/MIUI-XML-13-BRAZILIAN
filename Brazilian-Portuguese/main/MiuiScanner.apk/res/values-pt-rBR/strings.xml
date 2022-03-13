@@ -140,9 +140,9 @@
     <string name="crop_title_translation">Selecione o texto para traduzir</string>
     <string name="cropping">Cortando…</string>
     <string name="current_word_is_locked">A palavra atual está bloqueada</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="delete">Excluir</string>
@@ -190,7 +190,7 @@
     <string name="editnull">O conteúdo está vazio</string>
     <string name="email">E-mail:</string>
     <string name="emails">E-mail</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_camera_disabled">Por motivos de segurança, o acesso à Câmera foi negado</string>

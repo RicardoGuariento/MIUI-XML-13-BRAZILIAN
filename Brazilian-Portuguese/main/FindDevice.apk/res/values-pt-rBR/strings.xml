@@ -41,9 +41,9 @@
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">"Para acessar o número de telefone a fim de localizar este dispositivo quando não estiver conectado à internet"</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">"Para localizar este dispositivo quando não estiver conectado à Internet"</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para localizar seu dispositivo e alternar para o modo perdido</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="default_debt_msg_words">"Este dispositivo está bloqueado devido a uma mensalidade atrasada.

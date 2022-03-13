@@ -439,8 +439,8 @@
     <string name="talk_back_water_mark_string2">Pressione e segure \"Volume +\" e \"Volume -\" por 3 segundos para desativar</string>
     <string name="throwing_print">Imprimir</string>
     <string name="throwing_screen">Transmitir</string>
-    <string name="tip_close_screen_phone"/>
-    <string name="tip_use_front_camera"/>
+    <string name="tip_close_screen_phone" />
+    <string name="tip_use_front_camera" />
     <string name="tips_prompt_enable_midrop">Compartilhamento Mi</string>
     <string name="total">Não perturbe</string>
     <string name="total_description">Silenciar sons e desativar vibração para todos os itens exceto o alarme</string>

@@ -113,9 +113,9 @@
     <string name="continue_backup">Continuar</string>
     <string name="copy">Copiar</string>
     <string name="date_format_str">dd-MM-yyyy</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Defina a data e hora</string>
     <string name="diagnosis_log_send_failed">Não foi possível enviar os logs. Tente novamente.</string>
@@ -131,7 +131,7 @@ Envie este código para o supervisor."</string>
     <string name="download_added_to_list">Adicionado à lista de download</string>
     <string name="download_allow_switch">Baixar usando dados móveis</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>

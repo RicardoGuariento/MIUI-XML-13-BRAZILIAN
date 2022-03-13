@@ -38,9 +38,9 @@
     <string name="confirm_reset">Confirmar redefinição</string>
     <string name="confirm_reset_message">Redefinir para os apps padrão?</string>
     <string name="contributors">Colaboradores</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Defina a data e hora</string>
     <string name="delete">Excluir</string>

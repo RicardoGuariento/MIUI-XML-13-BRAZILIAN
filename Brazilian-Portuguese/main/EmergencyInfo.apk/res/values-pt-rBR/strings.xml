@@ -241,7 +241,7 @@ Seleção"</string>
     <string name="cached_apps_freezer_disabled">Desabilitado</string>
     <string name="cached_apps_freezer_enabled">Habilitado</string>
     <string name="cached_apps_freezer_reboot_dialog_text">Seu dispositivo deve ser reinicializado para que essa alteração seja aplicada. Reinicie agora ou cancele.</string>
-    <string name="calendar_component_name"/>
+    <string name="calendar_component_name" />
     <string name="cancel">Cancelar</string>
     <string name="carrier_network_change_mode">Mudança de rede da operadora</string>
     <string name="category_personal">Pessoal</string>
@@ -258,7 +258,7 @@ Seleção"</string>
     <string name="clear_all">Limpar tudo</string>
     <string name="clear_all_message">Limpar todas as informações e contatos?</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
-    <string name="clock_component_name"/>
+    <string name="clock_component_name" />
     <string name="confirm_enable_oem_unlock_text">AVISO: Os recursos de proteção do dispositivo não funcionarão neste dispositivo enquanto esta configuração estiver ativada.</string>
     <string name="confirm_enable_oem_unlock_title">Permitir desbloqueio de OEM?</string>
     <string name="connected_to_metered_access_point">Conectado à uma rede limitada</string>
@@ -399,7 +399,7 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="inactive_app_active_summary">Ativo. Toque para alternar.</string>
     <string name="inactive_app_inactive_summary">Inativo. Toque para alternar.</string>
     <string name="inactive_apps_title">Apps de espera</string>
-    <string name="injection_summary_empty"/>
+    <string name="injection_summary_empty" />
     <string name="install_other_apps">Instale apps desconhecidos.</string>
     <string name="item_view_role_description">Aba</string>
     <string name="keep_screen_on">Fique acordado</string>
@@ -512,10 +512,10 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="no_info_provided">"Nenhuma informação sobre o proprietário do telefone"</string>
     <string name="not_default_data_content_description">Não definido para usar dados</string>
     <string name="not_set">Não definido</string>
-    <string name="notice_header"/>
+    <string name="notice_header" />
     <string name="o_negative">O negativo</string>
     <string name="o_positive">O positivo</string>
-    <string name="oem_preferred_feedback_reporter"/>
+    <string name="oem_preferred_feedback_reporter" />
     <string name="oem_unlock_enable">Desbloqueio de OEM</string>
     <string name="oem_unlock_enable_summary">Permitir que o bootloader seja desbloqueado</string>
     <string name="ok">"OK"</string>
@@ -638,7 +638,7 @@ Qualquer pessoa pode ler essas informações da sua tela de bloqueio e discar se
     <string name="strict_mode">Modo rigoroso habilitado</string>
     <string name="strict_mode_summary">Tela Flash Quando os apps fazem operações longas no segmento principal</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="summary_empty"/>
+    <string name="summary_empty" />
     <string name="tab_title_contacts">Contatos</string>
     <string name="tab_title_info">Informação</string>
     <string name="tap_pencil">Se este é o seu telefone, toque no ícone de lápis para adicionar informações que serão exibidas aqui em caso de emergência</string>
@@ -840,7 +840,7 @@ O armazenamento de credenciais pode não ativar"</string>
     <string name="wifitrackerlib_connected_via_app">Conectado via %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Conectado automaticamente via %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Conectado automaticamente via provedor de classificação de rede</string>
-    <string name="wifitrackerlib_help_url_imsi_protection"/>
+    <string name="wifitrackerlib_help_url_imsi_protection" />
     <string name="wifitrackerlib_imsi_protection_warning">Esta rede recebe um ID SIM que pode ser usado para rastrear o local do dispositivo. <annotation id="url">Saiba mais</annotation></string>
     <string name="wifitrackerlib_osu_completing_sign_up">Completando inscrição…</string>
     <string name="wifitrackerlib_osu_connect_failed">Não foi possível conectar</string>

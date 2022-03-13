@@ -232,7 +232,7 @@ Você pode alterar este atalho para outro recurso em Configurações &gt; Acessi
     <string name="aerr_process_repeated">%1$s apresenta falhas continuamente</string>
     <string name="aerr_report">Enviar feedback</string>
     <string name="aerr_restart">Abrir app novamente</string>
-    <string name="aerr_title"/>
+    <string name="aerr_title" />
     <string name="aerr_wait">Aguarde</string>
     <string name="alert_windows_notification_channel_group_name">Sobrepor a outros apps</string>
     <string name="alert_windows_notification_channel_name">%s sendo exibido sobre outros apps</string>
@@ -254,7 +254,7 @@ Você pode alterar este atalho para outro recurso em Configurações &gt; Acessi
     <string name="anr_activity_process">%1$s não está respondendo</string>
     <string name="anr_application_process">%1$s não está respondendo</string>
     <string name="anr_process">O processo %1$s não está respondendo</string>
-    <string name="anr_title"/>
+    <string name="anr_title" />
     <string name="app_blocked_message">O app %1$s não está disponível no momento.</string>
     <string name="app_blocked_title">O app não está disponível</string>
     <string name="app_category_accessibility">Acessibilidade</string>
@@ -521,7 +521,7 @@ usando %s"</string>
     <string name="error_message_title">Erro</string>
     <string name="etws_primary_default_message_earthquake">Fique calmo e procure um abrigo por perto.</string>
     <string name="etws_primary_default_message_earthquake_and_tsunami">Fique calmo e procure um abrigo por perto.</string>
-    <string name="etws_primary_default_message_others"/>
+    <string name="etws_primary_default_message_others" />
     <string name="etws_primary_default_message_test">Teste de mensagens de emergência</string>
     <string name="etws_primary_default_message_tsunami">Saia imediatamente de regiões costeiras e áreas ribeirinhas e vá para um lugar mais seguro, como terrenos elevados.</string>
     <string name="eventTypeAnniversary">Data comemorativa</string>
@@ -722,7 +722,7 @@ Isso geralmente desliga/liga sua tela."</string>
     <string name="granularity_label_line">linha</string>
     <string name="granularity_label_link">"link"</string>
     <string name="granularity_label_word">palavra</string>
-    <string name="gsm_alphabet_default_charset"/>
+    <string name="gsm_alphabet_default_charset" />
     <string name="hardware">Mostrar teclado virtual</string>
     <string name="harmful_app_warning_open_anyway">ABRIR MESMO ASSIM</string>
     <string name="harmful_app_warning_title">App nocivo detectado</string>
@@ -888,7 +888,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="launch_warning_title">App redirecionado</string>
     <string name="leave_accessibility_shortcut_on">Usar atalho</string>
     <string name="loading">Carregando…</string>
-    <string name="locale_replacement"/>
+    <string name="locale_replacement" />
     <string name="locale_search_menu">Pesquisa</string>
     <string name="location_changed_notification_text">Fale com o administrador de TI para saber mais</string>
     <string name="location_changed_notification_title">Os apps podem acessar seu local</string>
@@ -1125,8 +1125,8 @@ Tente novamente em %2$d segundos."</string>
     <string name="mmiErrorWhileRoaming">Não é possível alterar as configurações de encaminhamento de chamada do seu telefone em roaming.</string>
     <string name="mmiFdnError">A operação é limitada somente a números de discagem fixa.</string>
     <string name="mobile_no_internet">A rede móvel não tem acesso à Internet</string>
-    <string name="mobile_provisioning_apn"/>
-    <string name="mobile_provisioning_url"/>
+    <string name="mobile_provisioning_apn" />
+    <string name="mobile_provisioning_url" />
     <string name="more_item_label">Mais</string>
     <string name="move_button_text">Toque no botão da moldura para mover toda a janela</string>
     <string name="music_recognition_manager_service">Serviço de gerenciamento de reconhecimento de músicae</string>
@@ -2025,8 +2025,8 @@ Quer fechá-la?"</string>
     <string name="whichViewApplication">Abrir com</string>
     <string name="whichViewApplicationLabel">Abrir</string>
     <string name="whichViewApplicationNamed">Abrir com %1$s</string>
-    <string name="widget_default_class_name"/>
-    <string name="widget_default_package_name"/>
+    <string name="widget_default_class_name" />
+    <string name="widget_default_package_name" />
     <string name="wifi_available_sign_in">Fazer login na rede Wi-Fi</string>
     <string name="wifi_calling_off_summary">Desativado</string>
     <string name="wifi_no_internet">%1$s não tem acesso à Internet</string>

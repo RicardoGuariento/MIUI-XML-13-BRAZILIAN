@@ -255,7 +255,7 @@ Taxa de amostragem"</string>
     <string name="cached_apps_freezer_disabled">Desativado</string>
     <string name="cached_apps_freezer_enabled">Ativado</string>
     <string name="cached_apps_freezer_reboot_dialog_text">Seu dispositivo precisa ser reiniciado para que esta alteração seja aplicada. Reinicie agora ou cancele.</string>
-    <string name="calendar_component_name"/>
+    <string name="calendar_component_name" />
     <string name="cancel">Cancelar</string>
     <string name="carrier_network_change_mode">Mudança de rede da operadora</string>
     <string name="category_personal">Pessoal</string>
@@ -269,7 +269,7 @@ Taxa de amostragem"</string>
     <string name="clear_adb_keys">Revogar autorizações de depuração USB</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
-    <string name="clock_component_name"/>
+    <string name="clock_component_name" />
     <string name="close">Fechar</string>
     <string name="confirm">"OK"</string>
     <string name="confirm_enable_oem_unlock_text">ALERTA: os recursos de proteção do dispositivo não funcionarão neste dispositivo enquanto esta configuração estiver ativada.</string>
@@ -299,9 +299,9 @@ Taxa de amostragem"</string>
     <string name="data_usage_ota">Atualizações do sistema</string>
     <string name="data_usage_uninstalled_apps">Apps removidos</string>
     <string name="data_usage_uninstalled_apps_users">Apps e usuários removidos</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="debug_app">Selecione o app de depuração</string>
@@ -340,7 +340,7 @@ Taxa de amostragem"</string>
     <string name="disconnect_Channel">Desconectar canal</string>
     <string name="disconnect_device">Desconectar dispositivo</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="enable_adb">Depuração USB</string>
     <string name="enable_adb_summary">Modo de depuração quando o USB estiver conectado</string>
     <string name="enable_adb_wireless">Depuração sem fios</string>
@@ -494,7 +494,7 @@ Protocolo de conexão mais rápido"</string>
     <string name="headset_updating">Atualizando</string>
     <string name="help_feedback_label">Ajuda e feedback</string>
     <string name="help_label">Ajuda e feedback</string>
-    <string name="help_url_imsi_protection"/>
+    <string name="help_url_imsi_protection" />
     <string name="home">Configurações da Tela inicial</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="ime_security_warning">Este método de entrada pode coletar todo o texto digitado, incluindo dados pessoais, como senhas e números de cartão de crédito. Ele vem do app %1$s. Usar este método de entrada?</string>
@@ -739,10 +739,10 @@ Protocolo de conexão mais rápido"</string>
     <string name="noon">"PM"</string>
     <string name="not_default_data_content_description">Não definido para usar dados</string>
     <string name="not_set">Não definido</string>
-    <string name="notice_header"/>
+    <string name="notice_header" />
     <string name="notify_device_lose_connection_text">Toque para desparear %1$s</string>
     <string name="notify_device_lose_connection_title">Conexão perdida com %1$s</string>
-    <string name="oem_preferred_feedback_reporter"/>
+    <string name="oem_preferred_feedback_reporter" />
     <string name="oem_unlock_enable">Desbloqueio de OEM</string>
     <string name="oem_unlock_enable_summary">Permite que o bootloader seja desbloqueado</string>
     <string name="ok_button">"OK"</string>
@@ -911,7 +911,7 @@ Protocolo de conexão mais rápido"</string>
     <string name="string_offed">Desativado</string>
     <string name="stylus_ota_check_update">Atualizar</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="summary_empty"/>
+    <string name="summary_empty" />
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -1188,7 +1188,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="wifitrackerlib_connected_via_app">Conectado via %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Conectado automaticamente via %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Conectado automaticamente via provedor de classificação de rede</string>
-    <string name="wifitrackerlib_help_url_imsi_protection"/>
+    <string name="wifitrackerlib_help_url_imsi_protection" />
     <string name="wifitrackerlib_imsi_protection_warning">Esta rede recebe um SIM ID que pode ser usado para rastrear a localização do dispositivo. <annotation id="url">Saiba mais</annotation></string>
     <string name="wifitrackerlib_osu_completing_sign_up">Concluindo inscrição…</string>
     <string name="wifitrackerlib_osu_connect_failed">Não foi possível conectar</string>

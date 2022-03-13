@@ -279,9 +279,9 @@
     <string name="continue_play">Retomar</string>
     <string name="controller_bar_edit">Editar</string>
     <string name="data_empty">Não há itens aqui</string>
-    <string name="date_picker_label_day"/>
-    <string name="date_picker_label_month"/>
-    <string name="date_picker_label_year"/>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="day">dia</string>
@@ -371,7 +371,7 @@ Envie este código para o supervisor."</string>
     <string name="download_video">Baixando vídeo</string>
     <string name="downloading">Baixando…</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty"/>
+    <string name="empty" />
     <string name="empty_channels">Gerenciar canais</string>
     <string name="empty_subscribe">Você ainda não se inscreveu em nada.</string>
     <string name="eras_ad">d.C</string>
@@ -1742,8 +1742,8 @@ Aumentar a segurança da sua conta."</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
-    <string name="weibo_application_id"/>
-    <string name="weibo_redirect_uri"/>
+    <string name="weibo_application_id" />
+    <string name="weibo_redirect_uri" />
     <string name="welcome_tip_content1">Reprodutor de vídeos locais poderoso</string>
     <string name="welcome_tip_content2">Milhões de vídeos para assistir online ou baixar</string>
     <string name="welcome_tip_explore_more">Descobrir</string>
