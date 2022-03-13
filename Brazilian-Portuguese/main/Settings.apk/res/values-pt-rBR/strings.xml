@@ -1402,10 +1402,10 @@ para ^2"</string>
     <string name="bluetooth_broadcast_pin_configure_dialog">Transmissão: Configure o código de privacidade Bluetooth</string>
     <string name="bluetooth_broadcasting">Transmissão</string>
     <string name="bluetooth_col_grp_source_selection_options_detail">"Fonte de transmissão
-         %1$s está sendo adicionado aos membros do
-	     grupo conectados."</string>
+       %1$s está sendo adicionado aos membros do
+       grupo conectados."</string>
     <string name="bluetooth_col_source_selection_options_detail">"Fonte de transmissão
-         %1$s está sendo adicionado ao receptor"</string>
+       %1$s está sendo adicionado ao receptor"</string>
     <string name="bluetooth_companion_app_body">%1$s app não vai mais se conectar ao seu %2$s</string>
     <string name="bluetooth_companion_app_remove_association_confirm_button">Desconectar app.</string>
     <string name="bluetooth_companion_app_remove_association_dialog_title">Desconectar app?</string>
@@ -10852,7 +10852,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="zen_mode_duration_summary_always_prompt">Perguntar sempre</string>
     <string name="zen_mode_duration_summary_forever">Até você desativar</string>
     <string name="zen_mode_duration_summary_time_hours">{count,plural, =1{1 hora}one{# hora}other{# horas}}</string>
-    <string name="zen_mode_duration_summary_time_minutes">{count,plural, =1{1 minuto}one{# minuto}other{# minutos}}</string>																														    
+    <string name="zen_mode_duration_summary_time_minutes">{count,plural, =1{1 minuto}one{# minuto}other{# minutos}}</string>
     <string name="zen_mode_effected_always">Sempre</string>
     <string name="zen_mode_enable_dialog_turn_on">Ativar</string>
     <string name="zen_mode_end_time">Horário de término</string>

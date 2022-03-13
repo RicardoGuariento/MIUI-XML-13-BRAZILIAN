@@ -32,7 +32,7 @@
     <string name="abc_searchview_description_voice">Pesquisa por voz</string>
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
-    <string name="abc_toolbar_collapse_description">Recolher</string>	     
+    <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="about">Sobre</string>
     <string name="action_back">Voltar</string>
     <string name="action_settings">Configurações</string>
@@ -608,7 +608,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="test_speed">Teste</string>
     <string name="test_speed_detail">Detalhes</string>
     <string name="test_speed_please">Toque para testar a velocidade...</string>
-    <string name="test_speed_result">Resultado do teste</string>													     
+    <string name="test_speed_result">Resultado do teste</string>
     <string name="text_showmore_infoflow">Ver mais fontes</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
