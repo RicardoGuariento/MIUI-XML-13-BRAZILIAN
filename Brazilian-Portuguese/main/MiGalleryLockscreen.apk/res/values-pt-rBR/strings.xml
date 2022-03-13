@@ -170,7 +170,7 @@
     <string name="current_network_invalid">Conecte-se à rede primeiro</string>
     <string name="current_no_more_pictures">Sem mais imagens</string>
     <string name="current_permission_network_denied">Permitir que o Carrossel de Planos de fundo conecte-se à rede</string>
-    <string name="custom_wallpaper_des">Ative o Carrossel de Planos de fundo, adicione suas fotos e imagens online ao mix para que apareçam na apresentação de slides automaticamente.</string>    
+    <string name="custom_wallpaper_des">Ative o Carrossel de Planos de fundo, adicione suas fotos e imagens online ao mix para que apareçam na apresentação de slides automaticamente.</string>
     <string name="cw_add">Adicionar</string>
     <string name="cw_add2">Adicionar (%1$d)</string>
     <string name="cw_add_fail">Não foi possível adicionar à apresentação de slides</string>

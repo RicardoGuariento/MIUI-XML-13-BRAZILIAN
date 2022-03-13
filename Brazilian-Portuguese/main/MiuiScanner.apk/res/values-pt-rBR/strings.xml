@@ -653,7 +653,7 @@ Por favor, consulte o ângulo na imagem para colocar o dispositivo e tente novam
     <string name="shopping_vendor_info">Desenvolvido por Taobao</string>
     <string name="smart_scan_code">Scanner inteligente</string>
     <string name="spaceIsLow_content">Espaço insuficiente no armazenamento interno. Libere algum espaço.</string>
-    <string name="storage_permissions_text">Permitir que o Scanner acesse o armazenamento do dispositivo para poder usar esse recurso.</string>    
+    <string name="storage_permissions_text">Permitir que o Scanner acesse o armazenamento do dispositivo para poder usar esse recurso.</string>
     <string name="store_feedback_prompt">Digite seu feedback primeiro</string>
     <string name="store_location_dialog">Este serviço é fornecido pela Dianping. Todas as fotos que você tira ao usar este serviço, incluindo as informações de localização relacionadas, serão compartilhadas com a Dianping para obter informações sobre as lojas.</string>
     <string name="store_location_fail">Não foi possível obter informações de localização</string>

@@ -1682,7 +1682,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="risk_setting_des">Permita que o Navegador Mi verifique websites por problemas de segurança</string>
     <string name="risk_setting_title">Navegação sergura</string>
     <string name="risk_stop">Parar</string>
-    <string name="risk_unspecified_url">Há um problema com o certificado de segurança deste website.</string> 
+    <string name="risk_unspecified_url">Há um problema com o certificado de segurança deste website.</string>
     <string name="rlv_last_refreshing_time">Atualizado %1$s</string>
     <string name="rlv_loading_more">Aguarde…</string>
     <string name="rlv_pull_to_refresh">Puxe para baixo para atualizar</string>

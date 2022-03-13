@@ -1228,7 +1228,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Definir localização</string>
     <string name="super_wallpaper_setting_coordinate_title">Coordenadas</string>
     <string name="super_wallpaper_setting_view_height_title">"Altitude"</string>
-    <string name="supersave_mode_toast_message">"Esse recurso não está disponível ao usar o Ultra economia de bateria. Desative a Ultra economia de bateria para poder usá-lo."</string> 
+    <string name="supersave_mode_toast_message">"Esse recurso não está disponível ao usar o Ultra economia de bateria. Desative a Ultra economia de bateria para poder usá-lo."</string>
     <string name="superwallpaper_has_bound_account_dialog_content">Este papel de parede já está associado a outra Conta Mi. Faça login com essa Conta Mi e tente novamente.</string>
     <string name="support_theme_store_des">Bons temas são sempre criados por designers talentosos. Nosso app contém uma pequena quantidade de anúncios que nos permitem apoiar o trabalho deles.</string>
     <string name="support_theme_store_supported">Obrigado pelo seu apoio!</string>

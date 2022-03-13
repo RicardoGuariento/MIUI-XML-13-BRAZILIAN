@@ -129,7 +129,7 @@
     <string name="accessibility_divider">Separador da Tela dividida</string>
     <string name="accessibility_drag_hint_message">Arraste itens para o topo da tela</string>
     <string name="accessibility_enter_hint">insira o dispositivo</string>
-    <string name="accessibility_enter_lock_setting">Toque para abrir as configurações do Carrossel de Planos de fundo</string> 
+    <string name="accessibility_enter_lock_setting">Toque para abrir as configurações do Carrossel de Planos de fundo</string>
     <string name="accessibility_enter_lock_wallpaper">Toque para abrir o Carrossel de Planos de fundo</string>
     <string name="accessibility_ethernet_connected">Ethernet conectado.</string>
     <string name="accessibility_ethernet_disconnected">Ethernet desconectado.</string>
@@ -1236,7 +1236,7 @@ Continuar mostrando elas?"</string>
     <string name="input_pin_after_boot_msg">É necessário inserir seu PIN sempre que o dispositivo for reiniciado</string>
     <string name="input_pin_code">Inserir PIN</string>
     <string name="input_puk_code">Inserir PUK</string>
-        <string name="input_second_pattern_after_restart_msg">Confirme a senha do Segundo Espaço para continuar</string>
+    <string name="input_second_pattern_after_restart_msg">Confirme a senha do Segundo Espaço para continuar</string>
     <string name="install_other_apps">Instalar apps desconhecidos</string>
     <string name="installer_cd_button_title">Instale o app Android File Transfer para Mac</string>
     <string name="instant_apps">Apps instantâneos</string>
@@ -3124,13 +3124,13 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Conectado automaticamente via %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Conectado automaticamente via provedor de classificação de rede</string>
     <string name="wifitrackerlib_help_url_imsi_protection"/>
-        <string name="wifitrackerlib_imsi_protection_warning">Esta rede recebe um ID SIM que pode ser usado para rastrear o local do dispositivo. <annotation id="url">Saiba mais</annotation></string>
-        <string name="wifitrackerlib_osu_completing_sign_up">Concluindo a inscrição…</string>
-        <string name="wifitrackerlib_osu_connect_failed">Não foi possível conectar</string>
-        <string name="wifitrackerlib_osu_opening_provider">Abrindo %1$s</string>
-        <string name="wifitrackerlib_osu_sign_up_complete">Inscrição completa. Conectando…</string>
-        <string name="wifitrackerlib_osu_sign_up_failed">Não foi possível concluir a inscrição. Toque para tentar novamente.</string>
-        <string name="wifitrackerlib_private_dns_broken">Servidor DNS privado não pode ser acessado</string>
+    <string name="wifitrackerlib_imsi_protection_warning">Esta rede recebe um ID SIM que pode ser usado para rastrear o local do dispositivo. <annotation id="url">Saiba mais</annotation></string>
+    <string name="wifitrackerlib_osu_completing_sign_up">Concluindo a inscrição…</string>
+    <string name="wifitrackerlib_osu_connect_failed">Não foi possível conectar</string>
+    <string name="wifitrackerlib_osu_opening_provider">Abrindo %1$s</string>
+    <string name="wifitrackerlib_osu_sign_up_complete">Inscrição completa. Conectando…</string>
+    <string name="wifitrackerlib_osu_sign_up_failed">Não foi possível concluir a inscrição. Toque para tentar novamente.</string>
+    <string name="wifitrackerlib_private_dns_broken">Servidor DNS privado não pode ser acessado</string>
     <string name="wifitrackerlib_saved_network">Salvo por %1$s</string>
     <string name="wifitrackerlib_speed_label_fast">Rápida</string>
     <string name="wifitrackerlib_speed_label_medium">Regular</string>

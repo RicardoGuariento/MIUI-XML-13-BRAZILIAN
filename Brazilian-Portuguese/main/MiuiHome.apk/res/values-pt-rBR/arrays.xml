@@ -42,7 +42,7 @@
         <item>"M"</item>
         <item>G</item>
         <item>EG</item>
-    </string-array>        
+    </string-array>
     <string-array name="transformation_entries">
         <item>Deslizar</item>
         <item>Suavizar</item>

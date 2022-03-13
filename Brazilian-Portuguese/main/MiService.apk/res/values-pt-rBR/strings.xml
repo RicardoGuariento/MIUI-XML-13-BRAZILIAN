@@ -253,7 +253,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="miui_mine_top_bar_title">Serviço pós-venda</string>
     <string name="miui_mine_unlogin">Toque para entrar</string>
     <string name="miuix_access_state_desc">Selecionado</string>
-    <string name="miuix_alphabet_indexer_name">Barra de índice</string>    
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -268,7 +268,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="miuix_appcompat_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
-    <string name="miuix_indexer_selected">Selecionado: %s</string>    
+    <string name="miuix_indexer_selected">Selecionado: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -352,7 +352,7 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="public_net_error_retry">Tentar novamente</string>
     <string name="public_net_error_sub_title">Verifique suas configurações de rede e tente novamente</string>
     <string name="public_net_error_title">Não foi possível conectar-se à rede</string>
-    <string name="public_open_feedback_service">Serviço aberto</string>    
+    <string name="public_open_feedback_service">Serviço aberto</string>
     <string name="public_please_authorize">Permissões requeridas para continuar</string>
     <string name="public_welcome_use_feedback_service">Bem-vindo a usar o Serviços e feedback. Se você tiver alguma dúvida no processo de uso de produtos Xiaomi, poderá enviar seu feedback, visualizar problemas comuns e enviar apps pós-venda do produto na seção Serviços e feedback.</string>
     <string name="rationale_ask">Este app pode não funcionar corretamente sem as permissões solicitadas.</string>

@@ -418,7 +418,7 @@ Taxa de amostra"</string>
     <string name="local_backup_password_title">Senha de backup local</string>
     <string name="local_backup_password_toast_confirmation_mismatch">A nova senha e a confirmação não coincidem.</string>
     <string name="local_backup_password_toast_success">Nova senha de backup definida</string>
-    <string name="local_backup_password_toast_validation_failure">Falha ao definir a senha de backup</string> 
+    <string name="local_backup_password_toast_validation_failure">Falha ao definir a senha de backup</string>
     <string name="long_traces">Traços longos</string>
     <string name="long_traces_summary">Salvo continuamente no armazenamento do dispositivo</string>
     <string name="managed_user_title">Todos os apps de trabalho</string>

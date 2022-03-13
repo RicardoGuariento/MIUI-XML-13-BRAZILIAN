@@ -389,7 +389,7 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="thursday_shortest">Qui</string>
     <string name="time_picker_dialog_title">Ajuste a hora</string>
     <string name="title_dry_history">História a seco</string>
-    <string name="title_history">Historia de vida</string> 
+    <string name="title_history">Historia de vida</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tuesday">Terça</string>
@@ -406,5 +406,5 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
-    <string name="yesterday">Ontem</string>    
+    <string name="yesterday">Ontem</string>
 </resources>

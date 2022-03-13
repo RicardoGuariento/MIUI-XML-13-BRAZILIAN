@@ -587,7 +587,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="receiver_finish_title">"Você está pronto!"</string>
     <string name="receiver_video_summary">Desbloquear seu dispositivo antigo, toque em \"Transferir\" e digitalize esta imagem</string>
     <string name="receiver_video_title">Transferência do dispositivo antigo</string>
-    <string name="recommend_hint">Recomendado</string> 
+    <string name="recommend_hint">Recomendado</string>
     <string name="reconnect">Conectar novamente</string>
     <string name="recreate_soft_ap_tips">Toque no botão abaixo e tente novamente.</string>
     <string name="request_all_permission_content">"O Mi Mover precisa acessar os seguintes itens para poder transferir itens para um novo dispositivo:
@@ -659,7 +659,7 @@ Libere pelo menos %s."</string>
     <string name="set_new_device_more">Mais configurações do sistema…</string>
     <string name="set_new_device_navigationbar">Definir navegação do sistema</string>
     <string name="set_new_device_title">Configurando novo dispositivo…</string>
-    <string name="set_new_device_wlan">Configurar Wi-Fi</string>    
+    <string name="set_new_device_wlan">Configurar Wi-Fi</string>
     <string name="settings_phone">Configurações do telefone</string>
     <string name="settings_powerkeeper">Dados do contador de passos</string>
     <string name="settings_sms">Configurações de mensagens</string>
