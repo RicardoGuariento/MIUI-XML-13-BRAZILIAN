@@ -3264,7 +3264,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_speed_mode_toast_text">Alternado para o Modo velocidade</string>
     <string name="power_center_state_off">Desativado</string>
     <string name="power_center_state_on">Ativado</string>
-    <string name="power_center_stop_scan_title">Parar verificação</string> 
+    <string name="power_center_stop_scan_title">Parar verificação</string>
     <string name="power_center_super_save_summary_text">Aumente o tempo restante em até %1$dh %2$dm</string>
     <string name="power_center_super_save_title_text">Ultra economia de bateria</string>
     <string name="power_center_super_wireless_charge">Carregamento rápido sem fio</string>
