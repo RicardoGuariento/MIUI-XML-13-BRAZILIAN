@@ -957,8 +957,8 @@ Você não perderá nenhum dado de apps."</string>
     <string name="bl_no_block_call">Nenhuma chamada bloqueada.</string>
     <string name="bl_no_block_sms">Nenhuma mensagem bloqueada.</string>
     <string name="blacklist_prefix_add_hint">Bloquear todos os números começando com este prefixo</string>
-    <string name="block_message_number">Mensagens: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
-    <string name="block_phone_number">Chamadas: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+    <string name="block_message_number">Mensagens: &lt;font color=#5fab1b>%d&lt;/font></string>
+    <string name="block_phone_number">Chamadas: &lt;font color=#5fab1b>%d&lt;/font></string>
     <string name="boost_done">Otimizado com sucesso</string>
     <string name="boost_stop">Desativar Otimização de velocidade</string>
     <string name="booster_immediately">Otimizar</string>
@@ -1252,7 +1252,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="dialog_app_roaming_title">%1$s não pode usar o roaming de dados</string>
     <string name="dialog_change_package_type_summary">Alterar o tipo do plano de dados redefinirá as configurações de uso de dados (ex.: limites de dados) para seus valores padrão. Alterar o tipo do plano de dados agora?</string>
     <string name="dialog_change_package_type_title">Alterando tipo do plano de dados</string>
-    <string name="dialog_msg_auto_start_declare">Alguns apps podem indicar incorretamente que a MIUI os impediu de serem iniciados. Verifique as permissões que foram concedidas individualmente aos apps em Configurações &gt; Apps.</string>
+    <string name="dialog_msg_auto_start_declare">Alguns apps podem indicar incorretamente que a MIUI os impediu de serem iniciados. Verifique as permissões que foram concedidas individualmente aos apps em Configurações > Apps.</string>
     <string name="dialog_msg_stop_virus_scan">Parar verificação de segurança antes de sua conclusão?</string>
     <string name="dialog_no_longer_alert">Não mostrar novamente</string>
     <string name="dialog_restrict_all_mobile_summary">A conexão de dados móveis será restringida para todos os apps depois disso. %s</string>
@@ -1304,7 +1304,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="dlg_import_blacklist">Adicionando…</string>
     <string name="dlg_import_whitelist">Adicionando…</string>
     <string name="dlg_keyword_ok">Salvar</string>
-    <string name="dlg_message_not_open_stranger_identify">Para ativar esta funcionalidade, vá a Configurações &gt; Telefone.</string>
+    <string name="dlg_message_not_open_stranger_identify">Para ativar esta funcionalidade, vá a Configurações > Telefone.</string>
     <string name="dlg_move_to_white">Adicionar às exceções</string>
     <string name="dlg_no_block">"Desbloquear este número de telefone?
 Ele será adicionado às exceções, mas os itens bloqueados anteriormente não vão aparecer no histórico de chamadas."</string>
@@ -1390,8 +1390,8 @@ cartão médico"</string>
     <string name="ew_alert_help_place_title">Abrigo próximo</string>
     <string name="ew_alert_help_safe_title">Evitar perigo</string>
     <string name="ew_alert_help_tips">Mantenha a calma e fique alerta. Fique longe de objetos pendurados, não pegue o elevador. Encontre um espaço seguro e amplo, abrigue-se e aguarde</string>
-    <string name="ew_alert_no_contact">Defina um contato de emergência em Segurança &gt; Aviso de terremoto primeiro</string>
-    <string name="ew_alert_no_emergency">Adicione os seus dados médicos em Segurança &gt; Aviso de terremoto</string>
+    <string name="ew_alert_no_contact">Defina um contato de emergência em Segurança > Aviso de terremoto primeiro</string>
+    <string name="ew_alert_no_emergency">Adicione os seus dados médicos em Segurança > Aviso de terremoto</string>
     <string name="ew_alert_text_from">Dados fornecidos por %s</string>
     <string name="ew_app_name">Aviso de terremoto</string>
     <string name="ew_app_name_exercise">Aviso de terremoto (Demo)</string>
@@ -1552,12 +1552,12 @@ monitoramento de terremotos"</string>
     <string name="exit">Sair</string>
     <string name="exit_dialog_exit">Sair</string>
     <string name="exit_dialog_garbage_clean_message">O lixo em seu dispositivo está ocupando mais de %s. Limpar lixo?</string>
-    <string name="exit_dialog_garbage_clean_message_new"><Data>A Limpeza pode liberar &lt;font color=#0099ff&gt;%s&lt;/font&gt; de espaço de armazenamento. Limpar agora?</Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>A Limpeza pode liberar &lt;font color=#0099ff>%s&lt;/font> de espaço de armazenamento. Limpar agora?</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Limpar</string>
     <string name="exit_dialog_garbage_clean_title">Liberar espaço de armazenamento</string>
     <string name="exit_dialog_homepage_optimise_message">A pontuação de desempenho do dispositivo está abaixo de 80 pontos. Otimizar agora?</string>
     <string name="exit_dialog_release_memory_positive_button">Fechar</string>
-    <string name="exit_dialog_release_memory_title"><Data>Acelere seu dispositivo em &lt;font color=#0099ff&gt;%d%%&lt;/font&gt;</Data></string>
+    <string name="exit_dialog_release_memory_title"><Data>Acelere seu dispositivo em &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Mais de 80% do armazenamento está ocupado. Libere espaço desinstalando apps que você não usa.</string>
     <string name="exit_dialog_release_storage_message_new">Mais de %s do armazenamento está ocupado. Libere espaço desinstalando apps que você não usa.</string>
     <string name="exit_dialog_release_storage_positive_button">Liberar espaço</string>
@@ -2151,7 +2151,7 @@ das suas sessões de jogos"</string>
     <string name="gs_autobooster_dialog_message">Se você está usando o otimizador Xunyoum abra os jogos na página designada.</string>
     <string name="gs_call_handsfree">Atender chamadas automaticamente</string>
     <string name="gs_call_handsfree_mute">Modo silencioso</string>
-    <string name="gs_dialog_confirm_close_msg">O atalho será removido de sua Tela inicial. Vá em Segurança &gt; Configurações para restaurá-lo.</string>
+    <string name="gs_dialog_confirm_close_msg">O atalho será removido de sua Tela inicial. Vá em Segurança > Configurações para restaurá-lo.</string>
     <string name="gs_dialog_confirm_close_title">Desativar</string>
     <string name="gs_forbid_autosync">Restringir sincronização em 2º plano</string>
     <string name="gs_game_ai_record">Grave usando IA</string>
@@ -2187,7 +2187,7 @@ das suas sessões de jogos"</string>
     <string name="gtb_content_switch_summary">Receba recomendações de conteúdo relacionado a jogos</string>
     <string name="gtb_dialog_btn_close">Desativar</string>
     <string name="gtb_dialog_btn_open">Ativar</string>
-    <string name="gtb_dialog_hint_smart_5g">Você pode ativar ou desativar este recurso em Game Turbo &gt; Configurações.</string>
+    <string name="gtb_dialog_hint_smart_5g">Você pode ativar ou desativar este recurso em Game Turbo > Configurações.</string>
     <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Turbo Xunyou. Este serviço coletará seu ID de conta Mi para registrar a duração da sua associação."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>"Eu li e concordo com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Turbo."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Game Turbo</string>
@@ -2231,7 +2231,7 @@ para se juntar à nossa caça ao ovo!"</string>
     <string name="gtb_spring_festival_push_see">Visualizar</string>
     <string name="gtb_spring_festival_shortcut_create">Criar um atalho na ela inicial</string>
     <string name="gtb_wlan_speed_tips">Usando o Mi WiFi…</string>
-    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operadora errada?&lt;/U&gt;&lt;/font&gt;"</string>
+    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Operadora errada?&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">"Sua operadora atual: "</string>
     <string name="guide_quck_open">Ativar</string>
     <string name="guide_second_text">Após você definir a sua operadora, a MIUI monitorará seu uso diário de dados enviando um SMS gratuito para a sua operadora. Quando a MIUI detectar que você excedeu o limite do seu plano de dados, ele irá desconectá-lo da rede e o notificará.</string>
@@ -3657,8 +3657,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_dialog_camera_message">Para proteger a sua privacidade, a MIUI não permite que apps usem a sua câmera em 2º plano.</string>
     <string name="privacy_dialog_camera_title">Restringir uso de câmera em 2º plano</string>
     <string name="privacy_dialog_content_part1">Bem-vindo à Segurança! Este app verifica seu dispositivo em busca de lixo e vírus, além de permitir que você gerencie apps, controle o uso de dados móveis, bloqueie chamadas e mensagens e muito mais.</string>
-    <string name="privacy_dialog_content_part2"><Data>O app Segurança precisa coletar informações pessoais necessárias para lhe fornecer seus serviços e para poder aprimorar os seus recursos. Você pode saber mais sobre como gerenciamos as informações que coletamos em nossa &lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt;. Você pode retirar o seu consentimento à Política de Privacidade do app Segurança a qualquer momento nas Configurações.</Data></string>
-    <string name="privacy_dialog_content_part3"><Data>Leia e aceite o nosso &lt;a href=\"%2$s\"&gt;Contrato do Usuário&lt;/a&gt; e a &lt;a href=\"%1$s\"&gt;Política de Privacidade&lt;/a&gt; antes de usar o app Segurança. Se você não aceitar em usar os serviços mencionados, você não poderá usar alguns recursos do app; no entanto, a sua funcionalidade básica ainda estará disponível para você.</Data></string>
+    <string name="privacy_dialog_content_part2"><Data>O app Segurança precisa coletar informações pessoais necessárias para lhe fornecer seus serviços e para poder aprimorar os seus recursos. Você pode saber mais sobre como gerenciamos as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Você pode retirar o seu consentimento à Política de Privacidade do app Segurança a qualquer momento nas Configurações.</Data></string>
+    <string name="privacy_dialog_content_part3"><Data>Leia e aceite o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de usar o app Segurança. Se você não aceitar em usar os serviços mencionados, você não poderá usar alguns recursos do app; no entanto, a sua funcionalidade básica ainda estará disponível para você.</Data></string>
     <string name="privacy_dialog_danger_mission_message">O Android possui várias permissões de alto risco (ex.: a permissão para enviar notificações push para você). Para proteger a sua privacidade, a MIUI perguntará se você permite tais comportamentos, e fornecerá opções de restrição.</string>
     <string name="privacy_dialog_danger_mission_title">Permissões de alto risco</string>
     <string name="privacy_dialog_feedback">"Feedback"</string>
@@ -4001,7 +4001,7 @@ Retirar consentimento agora?"</string>
     <string name="sd_format_summary">Apaga todos os dados no cartão SD (incluindo músicas e fotos)</string>
     <string name="sd_insert_summary">Insira o cartão SD para montá-lo</string>
     <string name="sd_mount">Montar cartão SD</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_result_text">Não foi possível encontrar nenhum app</string>
     <string name="section_clear_acc_item_title">%s. Se ainda não houver espaço suficiente, tente usar a Limpeza.</string>
@@ -4067,7 +4067,7 @@ Retirar consentimento agora?"</string>
     <string name="settings_share_enable_summary">Os itens que você compartilha no WeChat aparecerão com um emblema da MIUI</string>
     <string name="settings_share_info">Aqui estão as opções de compartilhamento seguro disponíveis para itens compartilhados da Galeria e dos Arquivos:</string>
     <string name="settings_show_detail">Ver detalhes</string>
-    <string name="settings_tip">Vá em Galeria &gt; Configurações para ver mais opções</string>
+    <string name="settings_tip">Vá em Galeria > Configurações para ver mais opções</string>
     <string name="settings_title">Compartilhamento seguro</string>
     <string name="share_uid_app">Apps com permissões compartilhadas</string>
     <string name="share_uid_instruction">Este app precisa compartilhar permissões com os seguintes apps para fornecer serviços de sistema relacionados. Sempre que você alterar o status de uma permissão para este app, o status correspondente também será alterado para os seguintes apps.</string>
@@ -4480,10 +4480,10 @@ Retirar consentimento agora?"</string>
     <string name="status_bar_network_flow_content">Hoje: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Restante: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">Hoje: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Este mês: %2$s</string>
     <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
-    <string name="status_bar_network_flow_exceed_content">Hoje: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Excedido do plano: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+    <string name="status_bar_network_flow_exceed_content">Hoje: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Excedido do plano: &lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_phone_balance">"     Saldo do telefone: %1$s"</string>
-    <string name="status_bar_network_flow_purchase">"     Comprar &gt;"</string>
-    <string name="status_bar_network_flow_setup_data_plan">"     Configurar plano de dados &gt;"</string>
+    <string name="status_bar_network_flow_purchase">"     Comprar >"</string>
+    <string name="status_bar_network_flow_setup_data_plan">"     Configurar plano de dados >"</string>
     <string name="still_retain_btn">Manter</string>
     <string name="stop_collecting_data">O teclado não aprende seus hábitos</string>
     <string name="stop_collecting_data_detail">O teclado não coleta dados para melhorar a digitação preditiva e sugerir frases frequentes com base em seus hábitos.</string>
@@ -4804,7 +4804,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="tc_sms_report_notify_get_timeout_body">O processo expirou. Confirme com a sua operadora se o código de requisição SMS que você inseriu está correto.</string>
     <string name="tc_sms_report_notify_get_timeout_title">Não é possível obter SMS de uso de dados</string>
     <string name="tc_sms_report_receive_content">Conteúdo do SMS de relatório de uso de dados (Confirme as estatísticas de uso)</string>
-    <string name="tc_sms_report_receive_content_null">Ajude a melhorar este recurso!&lt;br/&gt;Veja como:&lt;br/&gt;1. Vá a \"Verifique o comando SMS\" e \"Número de destinatário\"&lt;br/&gt;2. Toque \"Obter modelo SMS\"&lt;br/&gt;3. Aguarde até receber uma mensagem da sua operadora &lt;br/&gt;4. Toque \"Enviar para a MIUI\"</string>
+    <string name="tc_sms_report_receive_content_null">Ajude a melhorar este recurso!&lt;br/>Veja como:&lt;br/>1. Vá a \"Verifique o comando SMS\" e \"Número de destinatário\"&lt;br/>2. Toque \"Obter modelo SMS\"&lt;br/>3. Aguarde até receber uma mensagem da sua operadora &lt;br/>4. Toque \"Enviar para a MIUI\"</string>
     <string name="tc_sms_report_receive_num">Número do destinatário</string>
     <string name="tc_sms_report_send_num">Telefone da operadora</string>
     <string name="tc_sms_report_summary">Ajude-nos a melhorar este recurso através do envio de um relatório quando a sua informação de utilização de dados estiver incorreta ou não atualizar.</string>
@@ -5074,7 +5074,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="traffic_limit_error_alert_title">Lembrete de limite de dados %s</string>
     <string name="traffic_limit_input">Limite de dados (obrigatório)</string>
     <string name="traffic_none">Nenhum</string>
-    <string name="traffic_over_purchase_link">"Você atingiu seu limite de dados em seu plano. &lt;br/&gt; Se você exceder seu limite de dados, sua operadora poderá cobrar pelo uso excedente.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Toque para recarregar agora.&lt;/U&gt;&lt;/font&gt;"</string>
+    <string name="traffic_over_purchase_link">"Você atingiu seu limite de dados em seu plano. &lt;br/> Se você exceder seu limite de dados, sua operadora poderá cobrar pelo uso excedente.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Toque para recarregar agora.&lt;/U>&lt;/font>"</string>
     <string name="traffic_provider_no_sim">O cartão SIM não está instalado</string>
     <string name="traffic_purchase_body">Toque para recarregar.</string>
     <string name="traffic_setting_fragment_area">Localização</string>
@@ -5348,7 +5348,7 @@ Experimente interpolar a resolução!"</string>
     <string name="warningcenter_disaster_type_update">Atualizado</string>
     <string name="warningcenter_earthquake_info">Avisos de terremoto</string>
     <string name="warningcenter_mijia_alert_close">Fechar</string>
-    <string name="warningcenter_mijia_alert_settings">Alterar configurações em Segurança&gt; Alertas de dispositivos domésticos inteligentes</string>
+    <string name="warningcenter_mijia_alert_settings">Alterar configurações em Segurança> Alertas de dispositivos domésticos inteligentes</string>
     <string name="warningcenter_mijia_alert_tips_1">Detectada alta concentração de gás</string>
     <string name="warningcenter_mijia_alert_tips_2">Fumaça detectada</string>
     <string name="warningcenter_mijia_alert_tips_3">Inundação detectada</string>
@@ -5394,7 +5394,7 @@ Experimente interpolar a resolução!"</string>
     <string name="weight_light">Leve</string>
     <string name="whitelist_prefix_add_hint">Adicionar todos os números com prefixo às exceções</string>
     <string name="wifi_danger_dialog_messgae">A rede Wi-Fi atual pode apresentar riscos de segurança. Use-a com cuidado.</string>
-    <string name="wifi_danger_dialog_tips">Você pode gerenciar a segurança do Wi-Fi em Segurança &gt; Verificação de segurança &gt; Configurações &gt; Wi-Fi.</string>
+    <string name="wifi_danger_dialog_tips">Você pode gerenciar a segurança do Wi-Fi em Segurança > Verificação de segurança > Configurações > Wi-Fi.</string>
     <string name="wifi_danger_dialog_title">A rede Wi-Fi não é segura</string>
     <string name="wifi_exception_summary">Testar redes Wi-Fi disponíveis</string>
     <string name="wifi_exception_title">Teste da conexão Wi-Fi</string>
