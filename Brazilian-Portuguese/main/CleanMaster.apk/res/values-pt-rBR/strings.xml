@@ -52,6 +52,7 @@
     <string name="activity_title_uninstall_apps">"Apps"</string>
     <string name="activity_title_video">Excluir vídeos</string>
     <string name="activity_title_white_list">Exceções</string>
+    <string name="ad_description" formatted="false">%s | Versão %s | %s | %s</string>
     <string name="ad_install_success_dialog_lunch">Abrir</string>
     <string name="ad_install_success_dialog_title">%1$s instalado com sucesso. Abrir agora?</string>
     <string name="afternoon">"PM"</string>
@@ -67,9 +68,13 @@
     <string name="app_clean_group_document_send">Arquivos enviados</string>
     <string name="app_clean_group_image_recv">Imagens recebidas</string>
     <string name="app_clean_group_image_send">Imagens enviadas</string>
+    <string name="app_cleaned">Limpo com sucesso</string>
     <string name="app_description_content">O app Limpeza encontra lixo em seu dispositivo para liberar espaço no armazenamento. Certifique-se de que não precisará deste recurso antes de desinstalar o app.</string>
     <string name="app_description_title">Sobre o app Limpeza</string>
     <string name="app_name">Preferência</string>
+    <string name="app_reset">Redefinir</string>
+    <string name="app_specific_clean">Limpador de apps</string>
+    <string name="app_unload">Desinstalar</string>
     <string name="app_usage_never">Sem uso recente</string>
     <string name="app_usage_recently">Usado recentemente</string>
     <string name="appcleaner_g_audio_summary_qq">Excluir mensagens de voz do QQ permanentemente</string>
@@ -187,6 +192,7 @@
     <string name="cached_garbage">"Cache"</string>
     <string name="call_log">Registros de chamadas</string>
     <string name="cancel">Cancelar</string>
+    <string name="cancel_select_all">Desmarcar todos</string>
     <string name="cd_back">voltar</string>
     <string name="cd_check_box_checked">selecionado</string>
     <string name="cd_check_box_middle">selecionado parcialmente</string>
@@ -202,6 +208,10 @@
     <string name="clean_content_three">3 itens</string>
     <string name="clean_content_two">2 itens</string>
     <string name="clean_content_zero">Nenhum</string>
+    <string name="clean_ing">Limpeza…</string>
+    <string name="clean_item_tip_data_app">Limpar dados para %s</string>
+    <string name="clean_item_tip_reset_app">Redefinir %s</string>
+    <string name="clean_item_tip_unload_app">Desinstalar %s</string>
     <string name="clean_master_icon_recall_button_text">Adicionar</string>
     <string name="clean_master_icon_recall_dialog_button_negative">Não, obrigado</string>
     <string name="clean_master_icon_recall_dialog_button_positive">Adicionar</string>
@@ -212,6 +222,7 @@
     <string name="clean_master_icon_recall_title">Limpar o lixo rapidamente</string>
     <string name="clean_master_icon_recall_toast_text">Adicionado atalho à tela inicial com sucesso</string>
     <string name="clean_summary">%1$s limpo(s)</string>
+    <string name="clear_app_data">Limpar</string>
     <string name="clear_bigfiles">Exclua arquivos grandes, fotos duplicadas ou outros itens obsoletos</string>
     <string name="clear_immediately">Limpar agora</string>
     <string name="clear_safe_notify">Widget na Área de notificações</string>
@@ -222,7 +233,10 @@
     <string name="confirm_auto_cleaner">"OK"</string>
     <string name="conn_of_function_safe">Conexão de rede para Segurança</string>
     <string name="connecting">Conectando…</string>
+    <string name="continue_check">Selecionar</string>
+    <string name="continue_to_do">Continuar</string>
     <string name="copy">Copiar</string>
+    <string name="data_selected">Itens selecionados</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -288,6 +302,7 @@
     <string name="default_cache_type">Arquivos de dados</string>
     <string name="delete_confirm">Excluir</string>
     <string name="delete_confirm_msg">Excluir os arquivos selecionados permanentemente?</string>
+    <string name="delete_slected_data">Redefinir</string>
     <string name="desc_image">imagem</string>
     <string name="dialog_content_checkbox_delete_cloud_image">Excluir também as fotos da Xiaomi Cloud</string>
     <string name="dialog_content_select_all_confirm">Manter uma cópia desta foto?</string>
@@ -536,7 +551,10 @@
     <string name="install_time_format">dd/MM/yyyy</string>
     <string name="installed">Instalado</string>
     <string name="installing">Instalando</string>
+    <string name="is_Scanning">Verificando…</string>
+    <string name="item_content_app_reset">%s ocupado</string>
     <string name="item_title_process_mode">Escolha uma ação</string>
+    <string name="jump_to_next">Pular</string>
     <string name="junk_tag_RF_EmptyFolders">Pastas vazia</string>
     <string name="junk_tag_RF_ImageThumbnails">Miniaturas da galeria</string>
     <string name="junk_temporary_file">Arquivos temporários</string>
@@ -654,10 +672,12 @@
     <string name="nb_clear_set">Limpar cache, ver informações de bateria e lista de bloqueio na Área de notificações</string>
     <string name="network_not_available">Não é possível conectar-se à rede</string>
     <string name="news_change">Alterar</string>
+    <string name="next_step">Próximo</string>
     <string name="night">"PM"</string>
     <string name="no_network">Não foi possível conectar-se à rede, tente novamente mais tarde</string>
     <string name="no_network_btn">Repetir</string>
     <string name="noon">"PM"</string>
+    <string name="not_selected_tips">Primeiro selecione os apps .</string>
     <string name="not_set">Não definido</string>
     <string name="nothing" />
     <string name="notification_apk_clean_button_text">Limpar</string>
@@ -721,6 +741,8 @@
     <string name="notification_whatsapp_clean_size">O cache do WhatsApp atingiu %s</string>
     <string name="notify_when">Receber notificação quando o lixo atingir 100MB</string>
     <string name="ok">"OK"</string>
+    <string name="one_tap_clean_GB">"%sGB"</string>
+    <string name="one_tap_clean_M">"%dMB"</string>
     <string name="onekeyclean_boost_available">%s disponível</string>
     <string name="onekeyclean_boost_cleaned">%s limpo(s)</string>
     <string name="onekeyclean_boosted_title">Limpo com sucesso</string>
@@ -818,6 +840,9 @@
     <string name="recommend_news">Receber recomendações</string>
     <string name="recommend_the_following">Tome as seguintes ações para tirar o máximo proveito de seu dispositivo</string>
     <string name="recommended">Destaque</string>
+    <string name="reset_app_dialog_summary">"Você está prestes a redefinir os apps selecionados. Todos os dados destes apps (incluindo seu status de login, configurações, imagens em cache, vídeos, arquivos e bate-papos) serão excluídos permanentemente, trazendo o app de volta ao estado inicial."</string>
+    <string name="reset_app_dialog_title">Redefinindo apps</string>
+    <string name="reset_selected">Redefinir %s</string>
     <string name="resutl_function_deep_clean_summary"><Data>&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; mais arquivos podem ser limpos. Libere mais espaço.</Data></string>
     <string name="resutl_function_qq_clean_summary"><Data>Você pode limpar &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; de cache gerado pelo QQ;</Data></string>
     <string name="resutl_function_wechat_clean_summary"><Data>&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; de cache do WeChat. Libere mais espaço.;</Data></string>
@@ -834,6 +859,7 @@
     <string name="search_menu_title">Pesquisar</string>
     <string name="security_center_slogan">Mantenha seu dispositivo rápido e seguro</string>
     <string name="see_more">Mais</string>
+    <string name="select_all">Selecionar tudo</string>
     <string name="send">Enviar</string>
     <string name="set_immediately">Definir</string>
     <string name="seton_immediately">Ativar</string>
@@ -842,8 +868,15 @@
     <string name="similar_image_empty">Nenhuma foto duplicada encontrada</string>
     <string name="similar_image_scaning">Verificando…</string>
     <string name="similar_image_title">Fotos</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_tera_byte">TB</string>
     <string name="sms">"SMS/MMS"</string>
     <string name="sponsored">Patrocinado</string>
+    <string name="start_clean">Iniciar</string>
     <string name="start_downloading_app">Iniciando o download: %1$s</string>
     <string name="start_install">Instalar agora</string>
     <string name="storage_activity_title">Espaço de armazenamento</string>
@@ -930,7 +963,12 @@
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
+    <string name="tips_app_reset_dialog">A redefinição libera espaço de armazenamento ao máximo sem desinstalar o app. No entanto, todos os dados do app (incluindo seu status de login, configurações, imagens em cache, vídeos, arquivos e bate-papos) do app redefinido serão excluídos permanentemente.</string>
+    <string name="tips_app_reset_result_page">Redefina os apps para apagar todos os seus dados e trazê-los de volta ao estado inicial</string>
+    <string name="tips_app_reset_top">A redefinição traz os apps de volta ao estado inicial e apaga todos os dados</string>
+    <string name="tips_app_specific_clean_result_page">Liberar espaço de armazenamento</string>
+    <string name="tips_data_page">Tente limpar os dados do app para liberar armazenamento</string>
     <string name="tips_low_storage_dialog_cancel">Cancelar</string>
     <string name="tips_low_storage_dialog_msg_qq">O cache do QQ atingiu 3GB. Isto pode reduzir o desempenho do seu dispositivo. Limpar o cache do QQ agora?</string>
     <string name="tips_low_storage_dialog_msg_qq_new">O cache do QQ atingiu %dGB. Isto pode reduzir o desempenho do seu dispositivo. Limpar o cache do QQ agora?</string>
@@ -953,6 +991,9 @@
     <string name="tips_of_traffic_notification">Ver estatísticas de dados móveis na Área de notificações</string>
     <string name="tips_of_traffic_pack_threshold">Comprar mais dados quando você estiver prestes a atingir o limite do tráfego</string>
     <string name="tips_of_virus_scan">Verifique o seu dispositivo regularmente para mantê-lo seguro</string>
+    <string name="tips_reset_page">Tente redefinir apps para apagar todos os dados e liberar armazenamento</string>
+    <string name="tips_result_ad">Experimentar esses apps no espaço liberado?</string>
+    <string name="tips_unload_page">"Tente desinstalar os apps que você não usa há %d dias"</string>
     <string name="title_auto_cleaner">Lembrar de limpar</string>
     <string name="title_delete_cache">Limpar cache de apps</string>
     <string name="title_delete_clipboard">Conteúdo da área de transferência</string>
@@ -969,6 +1010,7 @@
     <string name="title_of_traffic_notification">Barra de estatísticas de dados</string>
     <string name="title_optimizer">Termos e Condições</string>
     <string name="title_share_link">Compartilhar URL</string>
+    <string name="to_reset_app">Redefinir</string>
     <string name="toast_add_white_list_success">Adicionado às exceções com sucesso</string>
     <string name="toast_app_no_residual_on_sdcard">O app não tem nenhum arquivo armazenado em seu cartão SD</string>
     <string name="toast_backup_is_running">O backup já está sendo executado</string>
@@ -1001,6 +1043,7 @@
     <string name="unit_mb">%sMB</string>
     <string name="unlike">Não, obrigado</string>
     <string name="update_date_format">dd/MM/yyyy</string>
+    <string name="updating_tips">Arguarde…</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="video_clean">Limpar vídeos em cache</string>

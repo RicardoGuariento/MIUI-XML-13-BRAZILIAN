@@ -42,6 +42,10 @@
     <string name="antispam_notification_title">Número desconhecido</string>
     <string name="antispam_provider">Identificado por %s</string>
     <string name="app_name">Ui de chamadas</string>
+    <string name="bluetooth_permission_content">As permissões do sistema foram atualizadas. Permita que este app acesse os nomes dos seus dispositivos Bluetooth para visualizá-los.</string>
+    <string name="bluetooth_permission_grant_immediately">Permitir</string>
+    <string name="bluetooth_permission_later">Agora não</string>
+    <string name="bluetooth_permission_title">Permissões necessárias</string>
     <string name="callFailed_cb_enabled">Você não pode fazer chamadas enquanto o bloqueio de chamadas estiver ativado.</string>
     <string name="callFailed_congestion">Rede ocupada</string>
     <string name="callFailed_dialToDial">Requisição DIAL modificada para DIAL com um número diferente.</string>
@@ -220,6 +224,7 @@
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
+    <string name="font_camera_tip">Dobre o dispositivo para usar a câmera frontal</string>
     <string name="inCallLabel">Ui de chamadas</string>
     <string name="incall_bubble_hangup_click_hint">Toque novamente para voltar à chamada</string>
     <string name="incall_call_type_label_sip">Chamada pela internet</string>
@@ -359,8 +364,21 @@
     <string name="relay_call_device_name">Dispositivo conectado (%1$s)</string>
     <string name="relay_deny_permission_msg">"Não é possível fazer chamadas sem a permissão para gravar áudio"</string>
     <string name="relay_grant_permissions_on_phone">Permita a permissão para gravar áudio em seu dispositivo</string>
+    <string name="relay_known">Entendi</string>
+    <string name="relay_network_error">Erro de rede</string>
+    <string name="relay_network_error_msg">"Não é possível atender chamadas neste dispositivo devido a um erro de rede. Em vez disso, volte para o seu telefone."</string>
     <string name="remind_unlock_message">Seu dispositivo está bloqueado agora. \"%s\" estará disponível após desbloquear seu dispositivo. Desbloquear agora?</string>
+    <string name="remind_unlock_screen_message">Desbloqueie seu dispositivo para poder usar \"%s\". Desbloquear agora?</string>
     <string name="respond_via_sms_custom_message">SMS personalizado</string>
+    <string name="saf_permission_content">"As permissões do sistema foram atualizadas. Para poder gravar chamadas, primeiro conceda a permissão.
+
+Como conceder permissão
+Toque \"%1$s\" e depois selecione \"%2$s\"."</string>
+    <string name="saf_permission_grant_permission_immediately">Próximo</string>
+    <string name="saf_permission_later">Agora não</string>
+    <string name="saf_permission_refused">"Não é possível gravar chamadas devido a ausência de permissões"</string>
+    <string name="saf_permission_title">Permissões necessárias</string>
+    <string name="saf_permission_use_this_folder">Usar esta pasta</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
@@ -374,7 +392,10 @@
     <string name="send">Enviar</string>
     <string name="separate_from_conference">Separar chamada</string>
     <string name="sim1_description">SIM 1</string>
+    <string name="sim1_heduohao_card">Sub 1</string>
     <string name="sim2_description">SIM 2</string>
+    <string name="sim2_heduohao_card">Sub 2</string>
+    <string name="sim3_heduohao_card">Sub 3</string>
     <string name="sip_call_not_support_record">Não é possível gravar chamadas SIP</string>
     <string name="speakerphone_tip">Dobre o dispositivo para usar o fone de ouvido ou alto-falante</string>
     <string name="sunday">Domingo</string>

@@ -171,6 +171,9 @@
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="functions_are_being_developed">Este recurso estará disponível em breve. Fique ligado!</string>
+    <string name="global_pad">Meu tablet</string>
+    <string name="global_pc">Meu laptop</string>
+    <string name="global_phone">Meu telefone</string>
     <string name="go_to_settings">Configurações</string>
     <string name="guide_summary_1">A outra pessoa pode tocar no seletor na Área de notificações</string>
     <string name="guide_summary_2">Selecione o dispositivo que você deseja enviar os arquivos e toque no seu ícone</string>
@@ -223,6 +226,7 @@ Este recurso é suportado pela OPPO, Vivo, Realme e outros fabricantes de smartp
     <string name="miuix_appcompat_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
+    <string name="miuix_indexer_collect">Coleções</string>
     <string name="miuix_indexer_selected">Selecionado: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
@@ -290,6 +294,8 @@ Este recurso é suportado pela OPPO, Vivo, Realme e outros fabricantes de smartp
     <string name="oppo_phone">OPPO</string>
     <string name="pad_device_model_name">"Mi Pad"</string>
     <string name="pc_device_model_name">Computador</string>
+    <string name="pc_redmi_device_model_name">Notebook Redmi</string>
+    <string name="pc_xiaomi_device_model_name">Notebook Xiaomi</string>
     <string name="permission_denied_hint">Conceda as permissões requeridas para poder usar o Compartilhamento Mi</string>
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
@@ -342,6 +348,8 @@ Antes de usar o Compartilhamento Mi, você precisa conceder as seguintes permiss
     <string name="scanning_device_tips">Procurando dispositivos próximos… Certifique-se de que o outro dispositivo esteja no modo detectável.</string>
     <string name="scanning_only_xiaomi_device">Este item só pode ser transferido para dispositivos Xiaomi ou Black Shark</string>
     <string name="search_menu_title">Pesquisar</string>
+    <string name="seize_content">Pare de compartilhar sua tela para poder transferir itens. Parar de compartilhar agora?</string>
+    <string name="seize_title">Parar de compartilhar tela</string>
     <string name="send">Enviar</string>
     <string name="send_file">ENVIAR ARQUIVO</string>
     <string name="send_files_by">Compartilhar arquivos via</string>

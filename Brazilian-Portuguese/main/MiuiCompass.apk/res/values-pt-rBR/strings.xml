@@ -129,8 +129,8 @@
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
-    <string name="gradienter_title">Nível</string>
     <string name="get_location">Acessar localização</string>
+    <string name="gradienter_title">Nível</string>
     <string name="guide_toast">Para calibrar, mova seu dispositivo conforme mostrado abaixo.</string>
     <string name="keywords_search_compass">Bússola;Calibrar bússola;Pressão;Altitude;Latitude;Longitude;Verificar longitude;Verificar latitude;MIUI Bússola;App Bússola;App MIUI Bússola;Onde está a Bússola;Baixe a Bússola;Pressão atmosférica;Verifique a altitude;Qual é a altitude</string>
     <string name="latitude">"LAT"</string>
@@ -221,8 +221,8 @@
     <string name="night">"PM"</string>
     <string name="noon">"PM"</string>
     <string name="not_allowed">Não permitido</string>
-    <string name="open_camera">Usar a câmera</string>
     <string name="not_set">Não definido</string>
+    <string name="open_camera">Usar a câmera</string>
     <string name="open_perm_msg">A Bússola precisa de acesso às informações de localização e câmera. Isto é necessário para determinar as coordenadas e fornecer pré-visualizações ao vivo. Permitir?</string>
     <string name="open_perm_msg_no_camera">A Bússola precisa acessar as informações de localização para poder determinar as coordenadas. Permitir?</string>
     <string name="open_perm_title">Permissões necessárias</string>

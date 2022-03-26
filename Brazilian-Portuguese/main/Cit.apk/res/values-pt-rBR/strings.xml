@@ -239,6 +239,7 @@ Nenhum dispositivo Bluetooth encontrado."</string>
     <string name="cit_camera_rearsub">O teste da câmera traseira secundária está em progresso, aguarde…</string>
     <string name="cit_camera_sdcard_error">Não é possível tirar fotografia. O cartão SD está cheio</string>
     <string name="cit_camerasfr_test">Analisando a imagem, por favor aguarde....</string>
+    <string name="cit_capture_fail">Falha ao tirar foto</string>
     <string name="cit_charge_usb_dcp">Carregando： USB_DCP</string>
     <string name="cit_charge_usb_hvdcp">Carregando： USB_HVDCP</string>
     <string name="cit_charge_usb_pd">Carregando: USB_PD</string>
@@ -260,7 +261,11 @@ Nenhum dispositivo Bluetooth encontrado."</string>
     <string name="cit_charger_waiting_out">Desconecte o carregador agora</string>
     <string name="cit_cust_img_version">Consultar informações da versão CUST</string>
     <string name="cit_def_torch_on_one">Ative o flash primeiro</string>
-    <string name="cit_diag_signal_summary">Copie os arquivos do log de estabilidade de sinal para o cartão SD</string>
+    <string name="cit_depth_camera_check_title">Câmera de profundidade</string>
+    <string name="cit_diag_chaging_summary">Copia os arquivos do registrador de carga para o sdcard</string>
+    <string name="cit_diag_chaging_title">Ler registrador de carga</string>
+    <string name="cit_diag_jank_summary">Copia os arquivos do registrador de jank para sdcard</string>
+    <string name="cit_diag_signal_summary">Copia os arquivos do log de estabilidade de sinal para o cartão SD</string>
     <string name="cit_diag_signal_title">Ler log de estabilidade de sinal</string>
     <string name="cit_diag_wait">Por favor, aguarde... Copiando arquivos</string>
     <string name="cit_dial_emergencycall">Discar 112</string>
@@ -274,6 +279,8 @@ Nenhum dispositivo Bluetooth encontrado."</string>
     <string name="cit_earpiece">Receptor</string>
     <string name="cit_earpiece_summary">"Você ouvirá dois números aleatórios
 Clique no botão apropriado de acordo com o número que você ouvir"</string>
+    <string name="cit_emergencycall_check_summary">Por favor, clique no botão para discar 112 e verificar se 112 pode ser colocado.</string>
+    <string name="cit_emergencycall_check_title">Ligação de emergência</string>
     <string name="cit_exit_test_summary">Ao sair, todos os resultados serão excluídos</string>
     <string name="cit_exit_test_title">Sair do teste</string>
     <string name="cit_external_keyboard_test_get_sn">Toque para obter o número de série SN do teclado externo (mantenha o teclado conectado ao dispositivo)</string>
@@ -977,6 +984,8 @@ Toque no botão apropriado de acordo com o número que você ouvir"</string>
     <string name="top_mic_check_record_tip">Gravando, por favor, diga algo ao Microfone na parte superior do dispositivo</string>
     <string name="top_right_high_speaker">Teste de saída de agudos do lado superior direito</string>
     <string name="top_right_low_speaker">Teste de saída de graves do lado superior direito</string>
+
+    <string name="touch_auto">Autoteste do touchscreen em andamento, aguarde....</string>
     <string name="tp_color">Cor TP:</string>
     <string name="tp_version">Versão TP:</string>
     <string name="verified_boot_lock">Bloqueado</string>

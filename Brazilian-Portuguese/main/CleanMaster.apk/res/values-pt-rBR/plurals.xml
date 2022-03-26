@@ -48,6 +48,10 @@
         <item quantity="other">Sem uso por %d anos</item>
         <item quantity="one">Sem uso por %d ano</item>
     </plurals>
+    <plurals name="clean_app_data_selected_app">
+        <item quantity="other">%d apps selecionados para limpar dados</item>
+        <item quantity="one">%d app selecionado para limpar dados</item>
+    </plurals>
     <plurals name="clean_long_msg_p1">
         <item quantity="other">"Limpando %1$d arquivos (%2$d%%)
 "</item>
@@ -73,6 +77,10 @@
     <plurals name="dc_item_summary_app_data">
         <item quantity="other">&lt;Data&gt;Pode limpar os dados de &lt;font color=#0097FF>%d&lt;/font> apps&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;Pode limpar os dados de &lt;font color=#0097FF>%d&lt;/font> app&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="dc_item_summary_app_reset">
+        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> apps usam muito espaço de armazenamento&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> app usa muito espaço de armazenamento&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_image">
         <item quantity="other">&lt;Data&gt;Remova &lt;font color=#0097FF>%d&lt;/font> fotos desnecessárias&lt;/Data&gt;</item>
@@ -230,6 +238,10 @@
         <item quantity="other">Baixado por %1$d pessoas</item>
         <item quantity="one">Baixado por %1$d pessoa</item>
     </plurals>
+    <plurals name="reset_app_selected_app">
+        <item quantity="other">%d apps selecionados para redefinir</item>
+        <item quantity="one">%d app selecionado para redefinir</item>
+    </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; não foram usados por um bom tempo, dê uma olhada.&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; não foi usado por um bom tempo, dê uma olhada.&lt;/Data&gt;</item>
@@ -245,6 +257,14 @@
     <plurals name="second">
         <item quantity="other">%1$d segundos</item>
         <item quantity="one">%1$d segundo</item>
+    </plurals>
+    <plurals name="select_app">
+        <item quantity="other">%d apps selecionados</item>
+        <item quantity="one">%d app selecionado</item>
+    </plurals>
+    <plurals name="unload_app_selected_app">
+        <item quantity="other">%d apps selecionados para desinstalar</item>
+        <item quantity="one">%d app selecionado para desinstalar</item>
     </plurals>
     <plurals name="video_clean_scan_app_result">
         <item quantity="other">%d apps com vídeos em cache</item>

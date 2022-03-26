@@ -35,6 +35,9 @@
     <string name="align_type">Alinhamento</string>
     <string name="am">"AM"</string>
     <string name="aod_component">Tela sempre ativa</string>
+    <string name="aod_dual_togother">"HH:mm"</string>
+    <string name="aod_hours_12">"hh"</string>
+    <string name="aod_hours_24">"HH"</string>
     <string name="aod_lock_screen_date">EEE, dd/MM</string>
     <string name="aod_lock_screen_date_signature">dd/MM</string>
     <string name="aod_lock_screen_date_v">"EEE
@@ -263,10 +266,12 @@ dd/MM"</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="send">Enviar</string>
+    <string name="service_name">Áudio Miplay</string>
     <string name="small_display_style">Tela traseira</string>
     <string name="sps_cancel">Pressione e segure para sair</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_to_image_community">Encontre mais na Mi Community</string>
+    <string name="subscreen_brightness">Brilho da tela traseira</string>
     <string name="sub_screen_app_name">Tela traseira</string>
     <string name="subscreen_could_edit_pic">Arraste imagens para ajustá-las, pressione e segure para excluir</string>
     <string name="subscreen_nightmode_summary">Depois de abrir, entre 22:00-7:00, desligue automaticamente a Tela traseira</string>
@@ -348,6 +353,7 @@ dd/MM"</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_style">Estilo do relógio</string>
+    <string name="title_activity_sub_screen_main">Atividade principal do SunScreen</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tuesday">Terça</string>

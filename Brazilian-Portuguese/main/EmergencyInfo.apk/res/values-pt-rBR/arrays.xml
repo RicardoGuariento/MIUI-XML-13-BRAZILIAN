@@ -108,11 +108,6 @@
         <item>Ativado (filtrado)</item>
         <item>Ativado</item>
     </string-array>
-    <string-array name="cached_apps_freezer_entries">
-        <item>@string/cached_apps_freezer_device_default</item>
-        <item>@string/cached_apps_freezer_enabled</item>
-        <item>@string/cached_apps_freezer_disabled</item>
-    </string-array>
     <string-array name="color_mode_descriptions">
         <item>Cores aprimoradas</item>
         <item>Cores naturais como visto pelo olho</item>

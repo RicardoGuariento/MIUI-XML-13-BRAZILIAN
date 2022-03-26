@@ -141,6 +141,7 @@
     <string name="dialog_storage_low_title">Armazenamento insuficiente na nuvem</string>
     <string name="dialog_storage_upgrade_later">Não, obrigado</string>
     <string name="dialog_storage_upgrade_now">Atualizar</string>
+    <string name="dialog_title_prompt">Atenção</string>
     <string name="disable_find_device_error">"Não é possível desativar o 'Encontrar dispositivo'. %1$s"</string>
     <string name="do_not_merge">Cancelar</string>
     <string name="early_morning">"AM"</string>

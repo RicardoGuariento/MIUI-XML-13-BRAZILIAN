@@ -108,6 +108,14 @@
         <item quantity="other">em %d minutos</item>
         <item quantity="one">em 1 minuto</item>
     </plurals>
+    <plurals name="intercept_panel_img_text">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+    </plurals>
+    <plurals name="intercept_panel_protection_total">
+        <item quantity="other">Protegido %d vezes</item>
+        <item quantity="one">Protegido %d vez</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="other">%d itens baixados com sucesso</item>
         <item quantity="one">%d item baixado com sucesso</item>
@@ -227,5 +235,45 @@
     <plurals name="vote_all_people">
         <item quantity="other">%d pessoas já votaram</item>
         <item quantity="one">%d pessoa já votou</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_ad">
+        <item quantity="other">%d anúncios bloqueados</item>
+        <item quantity="one">%d anúncio bloqueado</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_allow_times">
+        <item quantity="other">Permitido %d vezes</item>
+        <item quantity="one">Permitido %d vez</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_disallow_times">
+        <item quantity="other">Restringido %d vezes</item>
+        <item quantity="one">Restringido %d vez</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_privacy">
+        <item quantity="other">Interrompido %d vezes</item>
+        <item quantity="one">Interrompido %d vez</item>
+    </plurals>
+    <plurals name="web_permission_ad_subtitle">
+        <item quantity="other">%s anúncios bloqueados</item>
+        <item quantity="one">%s anúncio bloqueado</item>
+    </plurals>
+    <plurals name="web_permission_allow_default_subtitle">
+        <item quantity="other">Permitido %s vezes</item>
+        <item quantity="one">Permitido %s vez</item>
+    </plurals>
+    <plurals name="web_permission_deny_default_subtitle">
+        <item quantity="other">Restringido %s vezes</item>
+        <item quantity="one">Restringido %s vez</item>
+    </plurals>
+    <plurals name="web_permission_privacy_subtitle">
+        <item quantity="other">Interrompido %s vezes</item>
+        <item quantity="one">Interrompido %s vez</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_day">
+        <item quantity="other">%s dias</item>
+        <item quantity="one">%s dia</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_time">
+        <item quantity="other">%s vezes</item>
+        <item quantity="one">%s vez</item>
     </plurals>
 </resources>

@@ -1257,6 +1257,7 @@ fiquem maiores nas fotos"</string>
     <string name="popup_tips_near_range_mode">Foco aproximado</string>
     <string name="popup_tips_privacy_watermark_edit">"Editar marca d'água"</string>
     <string name="portait_effect_entry_blackwhite">P&amp;B</string>
+    <string name="portait_effect_entry_cold_white">Luz das estrelas</string>
     <string name="portait_effect_entry_cool">"Mint"</string>
     <string name="portait_effect_entry_dusk">Crepúsculo</string>
     <string name="portait_effect_entry_fairytale">Infância</string>
@@ -1274,6 +1275,7 @@ fiquem maiores nas fotos"</string>
     <string name="portait_effect_entry_riddle">Doce</string>
     <string name="portait_effect_entry_romance">Romântico</string>
     <string name="portait_effect_entry_sepia">Sépia</string>
+    <string name="portait_effect_entry_shallots">Raio de Sol</string>
     <string name="portait_effect_entry_story">História</string>
     <string name="portait_effect_entry_tea">Chá</string>
     <string name="portrait_bokeh_first_tips">"Use o Modo Retrato para desfocar
@@ -1430,6 +1432,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_focus_shoot_summary">Toque para focar, toque novamente para tirar uma foto.</string>
     <string name="pref_camera_focus_shoot_title">Focar e disparar</string>
     <string name="pref_camera_focusmode_entry_auto">"AUTO"</string>
+    <string name="pref_camera_focusmode_entry_auto_abbr">"AUTO"</string>
     <string name="pref_camera_focusmode_entry_infinity">Infinito</string>
     <string name="pref_camera_focusmode_entry_macro">"Macro"</string>
     <string name="pref_camera_focusmode_entry_manual">"Manual"</string>
@@ -1446,6 +1449,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_hdr_entry_live">"Live"</string>
     <string name="pref_camera_hdr_entry_normal">"Pro"</string>
     <string name="pref_camera_hdr_entry_off">Desativado</string>
+    <string name="pref_camera_hdr_title">"HDR"</string>
     <string name="pref_camera_heic_image_format_description">Fotos HEIF ocupam menos espaço de armazenamento, mas não são suportadas por todos os apps</string>
     <string name="pref_camera_heic_image_format_description2">"O formato HEIF (High Efficiency Image File Format) economiza espaço de armazenamento, mas não é suportado por alguns apps de terceiros. Você não pode tirar fotos com movimento e remover marcas d'água no HEIF."</string>
     <string name="pref_camera_heic_image_format_title">Formato HEIF</string>
@@ -1458,7 +1462,9 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_histogram_entry_disable">Desativar</string>
     <string name="pref_camera_histogram_entry_enable">Ativar</string>
     <string name="pref_camera_iso_entry_auto">"AUTO"</string>
+    <string name="pref_camera_iso_entry_auto_abbr">"AUTO"</string>
     <string name="pref_camera_iso_title">"ISO"</string>
+    <string name="pref_camera_iso_title_abbr">"ISO"</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_low">Baixa</string>
     <string name="pref_camera_jpegquality_entry_normal">Padrão</string>
@@ -1499,6 +1505,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_peak_entry_off">Desativado</string>
     <string name="pref_camera_peak_entry_on">Ativado</string>
     <string name="pref_camera_peak_title">Pico de foco</string>
+    <string name="pref_camera_picture_format_entry_raw">"RAW"</string>
     <string name="pref_camera_picturesize_entry_1_1">1:1</string>
     <string name="pref_camera_picturesize_entry_3_4">3:4</string>
     <string name="pref_camera_picturesize_entry_9_16">9:16</string>
@@ -1589,6 +1596,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_ultra_wide_ldc_description">Corrige objetos distorcidos automaticamente</string>
     <string name="pref_camera_ultra_wide_ldc_title">Corrigir distorção em capturas com a Grande angular</string>
     <string name="pref_camera_ultra_wide_mode_title">Modo Grande angular</string>
+    <string name="pref_camera_video_8k_tips">"8K"</string>
     <string name="pref_camera_video_ai_scene_title">Câmera IA</string>
     <string name="pref_camera_video_bokeh_off">Bokeh de vídeo está desativado</string>
     <string name="pref_camera_video_bokeh_on">Bokeh de vídeo</string>
@@ -1603,6 +1611,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_video_tag_description">Toque em \"Marcar\" durante uma gravação de vídeo para poder voltar a momentos marcados durante a reprodução</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Disparador</string>
     <string name="pref_camera_volumekey_function_entry_timer">Contagem regressiva do disparador</string>
+    <string name="pref_camera_volumekey_function_entry_timer_new">Temporizador (%ds)</string>
     <string name="pref_camera_volumekey_function_entry_volume">"Volume"</string>
     <string name="pref_camera_volumekey_function_entry_zoom">"Zoom"</string>
     <string name="pref_camera_volumekey_function_title">Função dos botões de volume</string>
@@ -1670,6 +1679,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_groupshot_with_primitive_title">Salvar também a foto original</string>
     <string name="pref_hdr10_hdr10plus_video_mode_description">Otimizar cores para vídeos 4K (HDR10+) e 8K (HDR10). Este recurso só funciona em dispositivos compatíveis com HDR10+/HDR10.</string>
     <string name="pref_hdr10_video_mode_description">Otimiza cores e contraste para vídeos 4K e 8K automaticamente. Vídeos otimizados só podem ser reproduzidos em dispositivos compatíveis com HDR10.</string>
+    <string name="pref_hdr10_video_mode_title">"HDR10"</string>
     <string name="pref_hdr10plus_video_mode_description">Otimizar cores e ajustar o contraste para vídeos em 4K e 8K. Este recurso só funciona em dispositivos compatíveis com HDR10+.</string>
     <string name="pref_hybrid_video_mode_description">Usa a tecnologia HLG para aprimorar as cores e o alcance dinâmico dos vídeos gravados em alta resolução</string>
     <string name="pref_hybrid_video_mode_title">Híbrido</string>
@@ -1680,6 +1690,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_lens_dirty_detect_title">Notificar sobre lentes sujas</string>
     <string name="pref_live_duration_title">Duração da Live</string>
     <string name="pref_manual_exposure_title">"S"</string>
+    <string name="pref_manual_exposure_title_abbr">"S"</string>
     <string name="pref_menu_ai_ultra_pixel_photography">IA %s</string>
     <string name="pref_menu_ultra_pixel_photography">"%s Ultra HD"</string>
     <string name="pref_module_settings">Modos</string>
@@ -1993,9 +2004,11 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="ubifocus_capture_warning_message">Para melhores resultados, sua imagem deve conter objetos próximos (a menos de 1 metro da lente) e distantes</string>
     <string name="ultra_ai_pixel_photography_close_tip">IA %s Ultra HD desativado</string>
     <string name="ultra_ai_pixel_photography_open_tip">IA %s Ultra HD</string>
+    <string name="ultra_pixel_100mp">100MP</string>
     <string name="ultra_pixel_108mp">108MP</string>
     <string name="ultra_pixel_32mp">32MP</string>
     <string name="ultra_pixel_48mp">48MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
     <string name="ultra_pixel_64mp">64MP</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD desativado</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD ativado</string>

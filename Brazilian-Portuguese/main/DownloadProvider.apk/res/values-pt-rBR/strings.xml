@@ -79,7 +79,6 @@
     <string name="download_running_percent">Em andamento, %d%%</string>
     <string name="download_unknown_title">&lt;Sem nome></string>
     <string name="early_morning">"AM"</string>
-    <string name="empty" />
     <string name="enter_garbage_clean">Limpar armazenamento interno</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>

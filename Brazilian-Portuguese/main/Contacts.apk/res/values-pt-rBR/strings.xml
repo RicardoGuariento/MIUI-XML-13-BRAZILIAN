@@ -377,6 +377,7 @@
     <string name="chat_qq">Bater papo usando o QQ</string>
     <string name="chat_skype">Bater papo usando o Skype</string>
     <string name="chat_yahoo">Bater papo usando o Yahoo</string>
+    <string name="china_mobile_palm_hall">Sala de Atendimento Online CMCC</string>
     <string name="clearCallLogProgress_title">Limpando o registro de chamadas…</string>
     <string name="clear_default">Limpar padrão</string>
     <string name="clear_digits">Excluir número de telefone</string>
@@ -702,7 +703,10 @@ Motivo: \"%s\""</string>
     <string name="group_sms_progress_msg">Agrupando…</string>
     <string name="groupsLabel">Grupos</string>
     <string name="groups_list_empty">Nenhum grupo</string>
+    <string name="heduohao_fuhao_call_menu_title">Discar no sub %d</string>
+    <string name="heduohao_fuhao_order">Sub %d</string>
     <string name="heduohao_main_call_menu_title">Discar no principal</string>
+    <string name="heduohao_popup_txt">Sub %d</string>
     <string name="hide_app_description_content">Contatos é um app do sistema. Você ainda poderá usá-lo através do app Telefone ao remover o seu atalho da Tela inicial.</string>
     <string name="hide_app_description_title">Remover \"Contatos\" da Tela inicial?</string>
     <string name="hint_distance" />
@@ -1042,6 +1046,7 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="preference_smart_group_location_title">Localização</string>
     <string name="preference_smart_group_title">Grupos inteligentes</string>
     <string name="preference_tone_title">Tons</string>
+    <string name="preference_yellowpage_function_setting">Configurações de páginas amarelas</string>
     <string name="previous">Voltar</string>
     <string name="privacy_password_message1">A Senha de proteção de privacidade funciona para fotos, anotações e pastas ocultas.</string>
     <string name="privacy_password_message2">Usar a Senha de proteção de privacidade. Ela funciona para fotos, anotações e pastas ocultas.</string>

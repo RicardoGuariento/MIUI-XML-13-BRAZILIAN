@@ -173,7 +173,6 @@
     <string name="edit_label">Editar descrição do alarme</string>
     <string name="edit_systemtime">Editar hora do sistema</string>
     <string name="edit_systemtime_setting_summary">Data, hora, e relógio duplo</string>
-    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="evening">"PM"</string>
@@ -427,6 +426,10 @@
     <string name="reach_upper_limit">Não é possível adicionar mais temporizadores</string>
     <string name="read_external_storage_permission_desc">Para configurar toques personalizados</string>
     <string name="read_internal_storage">Acessar Armazenamento</string>
+    <string name="read_phone_state">Acessar informações do dispositivo</string>
+    <string name="read_phone_state_desc">Acesse o status da chamada quando o alarme estiver tocando</string>
+    <string name="read_phone_state_desc_when_request">Para acessar o status da chamada para pausar automaticamente os alarmes ao receber chamadas</string>
+    <string name="remark_hint">Digite o nome</string>
     <string name="remind_ringtone">Toque</string>
     <string name="repeat_count">Vezes</string>
     <string name="repeat_count_value_five">5</string>
@@ -471,6 +474,8 @@
     <string name="shortcut_new_alarm">Definir alarme</string>
     <string name="shortcut_start_timer">Iniciar temporizador</string>
     <string name="shortcut_stop_watch">Iniciar cronômetro</string>
+    <string name="show_life_post_desc">"Os relatórios matinais não serão exibidos se você desativar esse recurso"</string>
+    <string name="show_life_post_lable">Exibir relatório matinal</string>
     <string name="shut_down_keep_screen">A tela não será mantida ligada</string>
     <string name="shutdown_alarm_alert_enable_summary">O alarme com o telefone desligado tocará a pelo menos 10 minutos depois que você desligar seu dispositivo</string>
     <string name="shutdown_alarm_alert_enable_summary_new">Ative para que os alarmes definidos, toquem quando o seu dispositivo estiver desligado. Apenas alarmes definidos por pelo menos %d minutos após você desligar o dispositivo, irão tocar.</string>
@@ -484,6 +489,7 @@
     <string name="sleep_analysis">Estatísticas</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
     <string name="sleep_date_provider_text">Os dados do sono são fornecidos pelo Mi Saúde</string>
+    <string name="sleep_date_provider_text_new">Os dados do sono são fornecidos pela Mi Fitness</string>
     <string name="sleep_duration">"Duração do sono: "</string>
     <string name="sleep_duration_avg_text_diff">Duração média do sono (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Dormiu por %1$s %2$s</string>
@@ -497,6 +503,7 @@
     <string name="sleep_record">Analise o sono</string>
     <string name="sleep_record_desc">Ative para começar a registrar seus dados de sono</string>
     <string name="sleep_record_desc_detailed">O recurso de análise de sono é fornecido pelo Mi Saúde. Uma vez ativado, o Mi Saúde registrará automaticamente o seu sono com base no seu uso do telefone, estatísticas de atividades e o horário definido para e acordar, mostrando suas estatísticas na forma de gráficos. Para analisar o sono com mais precisão, permita que o Mi Saúde inicie automaticamente. Todos os dados relacionados serão armazenados localmente no seu dispositivo, o que permite que você os gerencie com facilidade.</string>
+    <string name="sleep_record_desc_detailed_new">A análise do sono é fornecido pelo recurso Sono do Mi Fitness. Se você ativar esse recurso, o Mi Fitness coletará e exibirá automaticamente os dados do seu sono com base no uso do telefone, na atividade e na hora de dormir e acordar que você definiu. Para analisar o sono com mais precisão, permita que o Mi Fitness inicie automaticamente.</string>
     <string name="sleep_record_no_data">As suas estatísticas aparecerão aqui após o Mi Saúde analisar dados suficientes</string>
     <string name="sleep_remind">Lembrete para dormir</string>
     <string name="sleep_time">Dormiu</string>
@@ -644,6 +651,8 @@
     <string name="upcoming_alarm_hint">Pode desativá-lo com antecedência</string>
     <string name="update_health_app">Atualizar Mi Saúde</string>
     <string name="update_health_app_desc">O recurso de análise de sono é fornecido pelo Xiaomi Saúde. Atualize o Xiaomi Saúde para sua versão mais recente para poder acessar os recursos relacionados.</string>
+    <string name="update_health_app_desc_new">O recurso de análise do sono é fornecido pelo Mi Fitness. Atualize o Mi Fitness para sua versão mais recente para acessar os recursos relacionados.</string>
+    <string name="update_health_app_new">Atualizar Mi Fitness</string>
     <string name="update_it">Atualizar</string>
     <string name="update_notification_info">Atualizando os dados em segundo plano…</string>
     <string name="usage_start">Iniciar</string>

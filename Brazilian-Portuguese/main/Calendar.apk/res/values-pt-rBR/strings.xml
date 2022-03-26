@@ -735,6 +735,12 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="show_menstruation_info">Mostrar informações de menstruação</string>
     <string name="simple_date_format">dd/MM/yyyy</string>
     <string name="single_selected_holiday">%1$s é um dia de folga</string>
+    <string name="size_byte">"B"</string>
+    <string name="size_giga_byte">"GB"</string>
+    <string name="size_kilo_byte">"KB"</string>
+    <string name="size_mega_byte">"MB"</string>
+    <string name="size_peta_byte">"PB"</string>
+    <string name="size_tera_byte">"TB"</string>
     <string name="skip">Pular</string>
     <string name="small_week_date_format">EEE dd/MM/yyyy</string>
     <string name="spec_agenda_view">Eventos especiais</string>
@@ -849,8 +855,8 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Ajuste a hora</string>
     <string name="time_numbers">%02d</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
     <string name="time_zone">Fuso horário</string>
     <string name="timezone_label">Fuso horário</string>
     <string name="title_click_record_menstruation">Registre um período</string>

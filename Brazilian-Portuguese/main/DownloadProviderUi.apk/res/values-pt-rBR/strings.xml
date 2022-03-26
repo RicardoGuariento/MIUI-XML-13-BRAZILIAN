@@ -70,6 +70,7 @@
     <string name="cancel">Cancelar</string>
     <string name="cancel_running_download">Cancelar</string>
     <string name="cancle">Cancelar</string>
+    <string name="category">Categoria</string>
     <string name="choose_open_picture">Selecionar ação</string>
     <string name="character_counter_content_description">Limite de caracteres excedido, %1$d de %2$d</string>
     <string name="choose_open_time">Escolher quando quer começar</string>
@@ -145,6 +146,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="do_not_support_url">Este tipo de URL não é suportado</string>
     <string name="doc_filter">Documentos</string>
     <string name="download">"Downloads"</string>
+    <string name="downloadCount">"Downloads"</string>
     <string name="download_auth">Obtendo autorização…</string>
     <string name="download_complete">Concluído</string>
     <string name="download_description_content">"Downloads é um app do sistema. Você não poderá gerenciar seus downloads depois de removê-lo. "</string>
@@ -405,6 +407,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="notify_install_guide_title">Instalado %s com sucesso</string>
     <string name="notify_not_support">Estas notificações não são suportadas. Atualize agora</string>
     <string name="notify_only_wifi_download">Aguardando Wi-Fi</string>
+    <string name="nowInstall">Instalar</string>
     <string name="ok">"OK"</string>
     <string name="one_month">1 mês</string>
     <string name="only_support_torrent">Apenas arquivos torrents são suportados</string>
@@ -530,6 +533,13 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="shortcut_dialog_create">Criar</string>
     <string name="shortcut_dialog_title">Criar atalho na tela inicial?</string>
     <string name="show_more">Mostrar mais %s</string>
+    <string name="size">Size</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_tera_byte">TB</string>
     <string name="sniff_associate_text">"Popular"</string>
     <string name="sniff_bt_text">Arquivo torrent</string>
     <string name="sniff_btn_text">Fonte</string>

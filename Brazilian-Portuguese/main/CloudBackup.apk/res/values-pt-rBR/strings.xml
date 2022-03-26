@@ -215,7 +215,6 @@ Nota: os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud
     <string name="dump_app_data_record_running_msg" />
     <string name="dump_app_data_record_running_title">Fazendo backup dos dados do WeChat…</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_num_placeholder">--</string>
@@ -488,7 +487,7 @@ Verifique sua conexão e tente novamente."</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
-    <string name="time_picker_dialog_title">Ajustar hora</string>
+    <string name="time_picker_dialog_title">Ajuste a hora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="title_alert_cancel_restore">Parar restauração</string>

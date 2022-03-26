@@ -44,7 +44,9 @@
     <string name="app_name">Calculadora</string>
     <string name="app_name_danfa">Calculadora</string>
     <string name="app_notification_info">Sendo executada em segundo plano</string>
-    <string name="arcsin">arcsen</string>
+    <string name="arccos">"arccos"</string>
+    <string name="arcsin">"arcsen"</string>
+    <string name="arctan">"arctan"</string>
     <string name="base_rate">Taxa de juro base</string>
     <string name="bmi_error_text">Este IMC não parece estar certo. Certifique-se de que a altura e peso inseridos estão corretos.</string>
     <string name="bmi_label_information">Informação</string>
@@ -73,6 +75,7 @@
     <string name="clear">C</string>
     <string name="clearDesc">limpar</string>
     <string name="clear_history">Limpar histórico</string>
+    <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
     <string name="combine_loan">Empréstimo combinado</string>
     <string name="commercial_loan">Empréstimo comercial</string>
@@ -361,8 +364,8 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="miuix_appcompat_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
-    <string name="miuix_indexer_selected">Selecionado: %s</string>
     <string name="miuix_indexer_collect">Coleções</string>
+    <string name="miuix_indexer_selected">Selecionado: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>

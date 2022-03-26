@@ -101,9 +101,18 @@
         <item>Novemnro</item>
         <item>Dezembro</item>
     </string-array>
-    <string-array name="english_premium_league">
-        <item>4</item>
-        <item>@string/english_premium_league</item>
+    <string-array name="fortune_random_birthday">
+        <item>01-01-1992</item>
+        <item>04-02-2013</item>
+        <item>05-04-1995</item>
+        <item>06-08-1999</item>
+        <item>21-06-1996</item>
+        <item>18-01-2014</item>
+        <item>23-01-2006</item>
+        <item>13-01-2012</item>
+        <item>17-01-1993</item>
+        <item>08-01-1980</item>
+        <item>10-01-1982</item>
     </string-array>
     <string-array name="gemini_info">
         <item>gêmeos</item>

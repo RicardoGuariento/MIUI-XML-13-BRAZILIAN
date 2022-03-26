@@ -38,7 +38,15 @@
     <string name="app_update_64_dialog_title">Atualização para arquitetura de 64-bits</string>
     <string name="app_update_64_notfication_body">Atualize para impulsionar o desempenho do app</string>
     <string name="app_update_title">Atualize todos os apps</string>
+    <string name="apple_calendar">Eventos da Agenda</string>
+    <string name="apple_contacts">Contatos</string>
+    <string name="apple_image">Fotos</string>
+    <string name="apple_video">Vídeos</string>
     <string name="appname_app_data_suffix">Dados do app %1$s</string>
+    <string name="apps_cannot_be_transfered_confirm_button">Iniciar</string>
+    <string name="apps_cannot_be_transfered_next_button">Próximo</string>
+    <string name="apps_cannot_be_transfered_summary">"Esses apps de 64-bits não podem ser transferidos para um dispositivo de 32-bits. Você pode baixá-los diretamente do GetApps após a transferência."</string>
+    <string name="apps_cannot_be_transfered_title">"Não é possível transferir estes aplicativos"</string>
     <string name="audio">Áudio</string>
     <string name="audio_video_document">Áudio, vídeo e documentos</string>
     <string name="back">Voltar</string>
@@ -77,6 +85,7 @@
     <string name="calendar_permission_desc">Para transferir eventos para outros dispositivos</string>
     <string name="calllog">Histórico de chamadas</string>
     <string name="cancel">Cancelar</string>
+    <string name="cancel_btn">Cancelar</string>
     <string name="cancel_moving_dialog_message">Parar a importação agora?</string>
     <string name="cancel_moving_dialog_title">Parar importação</string>
     <string name="cancel_tranfer">Cancelar</string>
@@ -243,6 +252,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="guest_unfinished_task_alert_btn_positive">Continuar</string>
     <string name="guest_unfinished_task_alert_message">Parece que você tem tarefas de transferência inacabadas. Continuar com a transferência?</string>
     <string name="guest_unfinished_task_alert_title">Tarefas inacabadas</string>
+    <string name="guest_wainting_title">Continuar no seu novo dispositivo</string>
     <string name="hide_password_description">Ocultar senha</string>
     <string name="high_temp_summary">Seu dispositivo pode esquentar durante a transferência de grandes quantidades de dados. Isso é normal e seu dispositivo esfriará após a conclusão da transferência.</string>
     <string name="host_boot_installation_bottom_tips">Não encontrou o Mi Mover? Toque para baixar.</string>
@@ -270,6 +280,10 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="host_memory_insuff_summary">Não há espaço de armazenamento suficiente no novo dispositivo para iniciar a transferência</string>
     <string name="host_memory_insuff_title">Espaço de armazenamento insuficiente</string>
     <string name="host_new_device_hint">Este dispositivo</string>
+    <string name="host_verify_lock_hint">Insira o bloqueio de tela</string>
+    <string name="host_verify_lock_retry">Confirmar bloqueio de tela</string>
+    <string name="host_verify_lock_summary">"Isso se tornará o bloqueio de tela do seu novo dispositivo"</string>
+    <string name="host_verify_lock_title">"Digite o bloqueio de tela do seu dispositivo antigo"</string>
     <string name="hsa_code_null">O código de verificação não pode estar vazio</string>
     <string name="hsa_input_tip">Seu Apple ID usa verificação de dois fatores. Digite o código</string>
     <string name="hsa_send_again">Enviar novamente</string>
@@ -300,6 +314,9 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="icloud_signin_fail_message">O seu Apple ID foi bloqueado por razões de segurança. Vá para iforgot.apple.com e siga as instruções.</string>
     <string name="icloud_start_now">Use dados móveis</string>
     <string name="icloud_verify_tips">Toque em Permitir no seu dispositivo iOS e digite o código que aparece aqui.</string>
+    <string name="idm_discovery_positive_text">Transferir</string>
+    <string name="idm_discovery_summary">"Parece que você está ativando um novo dispositivo agora. Transferir itens deste dispositivo para o novo?"</string>
+    <string name="idm_discovery_title">Transferir itens para o seu novo dispositivo</string>
     <string name="im_recipient">Eu sou destinatário</string>
     <string name="im_sender">Eu sou remetente</string>
     <string name="image">Imagens</string>
@@ -590,6 +607,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="recommend_hint">Recomendado</string>
     <string name="reconnect">Conectar novamente</string>
     <string name="recreate_soft_ap_tips">Toque no botão abaixo e tente novamente.</string>
+    <string name="refuse_accept">"Não concordo"</string>
     <string name="request_all_permission_content">"O Mi Mover precisa acessar os seguintes itens para poder transferir itens para um novo dispositivo:
 • Localização
 • Contatos
@@ -628,6 +646,7 @@ Libere pelo menos %s."</string>
     <string name="scanner_time_remained">Tempo estimado de transferência: %s</string>
     <string name="scanner_title_tip">Selecione itens para transferir</string>
     <string name="scanner_wechat_overwrite_hit">Devido a restrições de apps de terceiros, os históricos de bate-papo e outros dados do app no seu novo dispositivo serão substituídos pelos do antigo após a conclusão da transferência.</string>
+    <string name="search_menu_title">Pesquisar</string>
     <string name="search_action_mode_cancel">Cancelar</string>
     <string name="searching_for_new_device">Procurando pelo novo dispositivo…</string>
     <string name="select_android_summary">Huawei, OPPO, Vivo e mais</string>
@@ -758,8 +777,6 @@ Libere pelo menos %s."</string>
     <string name="trans_apple_hint_2_title">%d. Conecte dispositivos</string>
     <string name="trans_apple_interrupt_sub">Toque abaixo para se conectar novamente.</string>
     <string name="trans_apple_interrupt_title">Transferência foi interrompida</string>
-    <string name="trans_sync_transfer_data_list_apple">"Selecione itens para transferir
-no seu iPhone"</string>
     <string name="trans_detail_item_app_data_skip_data">Não é possível transferir os dados do app</string>
     <string name="trans_detail_item_app_skip_data">Não é possível mover este app</string>
     <string name="trans_detail_qq_data">Dados do QQ (incluindo histórico de conversas)</string>
@@ -777,6 +794,8 @@ Baixar e instalar o Mi Mover."</string>
     <string name="trans_show_qr_code_label">Abra o Mi Mover no antigo dispositvo</string>
     <string name="trans_show_qr_code_label_for_pad">Abra o Mi Mover no antigo dispositvo</string>
     <string name="trans_sync_transfer_data_list">Selecione itens para transferir no antigo dispositvo</string>
+    <string name="trans_sync_transfer_data_list_apple">"Selecione itens para transferir
+no seu iPhone"</string>
     <string name="trans_sync_transfer_data_list_hint">Aguarde…</string>
     <string name="trans_sync_transfer_data_list_summary_for_pad">Selecione os itens em seu antigo dispositvo e toque em \"Enviar\".</string>
     <string name="trans_time_format_second">Menos de 1 minuto</string>

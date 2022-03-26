@@ -27,7 +27,9 @@
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="accessibility_airplane_mode">Modo avião.</string>
     <string name="accessibility_back">Voltar</string>
+    <string name="accessibility_brightness">Brilho da tela</string>
     <string name="accessibility_desc_close">Fechar</string>
     <string name="accessibility_desc_edit">Editar</string>
     <string name="accessibility_description_hours">Horas</string>
@@ -35,10 +37,12 @@
     <string name="accessibility_description_seconds">Segundos</string>
     <string name="accessibility_menu">"Menu"</string>
     <string name="accessibility_quick_settings_page">Página %1$d de %2$d</string>
+    <string name="accessibility_settings">Configurações</string>
     <string name="accessibility_volume_collapse">Recolher</string>
     <string name="accessibility_volume_expand">Expandir</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
+    <string name="airplane_mode">Modo avião</string>
     <string name="already_in_small_freeform">Alguns apps são abertos em janelas flutuantes</string>
     <string name="am">"AM"</string>
     <string name="app_name">Plug-in da Ui do Sistema</string>

@@ -62,6 +62,24 @@
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Restringir</item>
+        <item>Perguntar</item>
+        <item>Permitir</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Restringir</item>
+        <item>Perguntar</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Restringir</item>
+        <item>Permitir</item>
+    </string-array>
+    <string-array name="protection_name">
+        <item>"Auto"</item>
+        <item>Nenhum</item>
+        <item>Novo usuário</item>
+    </string-array>
     <string-array name="setting_swipe_up_target">
         <item>Pesquisar</item>
         <item>Notícias</item>

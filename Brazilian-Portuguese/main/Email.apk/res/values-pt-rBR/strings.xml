@@ -80,6 +80,7 @@ Para compreender totalmente os seus direitos como usuário, bem como as maneiras
     <string name="account_settings_description_label">Nome da conta</string>
     <string name="account_settings_display">Exibição</string>
     <string name="account_settings_does_not_support_pop">Este recurso não é compatível com POP3</string>
+    <string name="account_settings_does_not_support_pop_attachment">"POP3 pode baixar anexos automaticamente, mas não pode editá-los"</string>
     <string name="account_settings_edit_quick_responses_label">Resposta rápida</string>
     <string name="account_settings_edit_quick_responses_summary">Editar mensagens curtas para colar em e-mails</string>
     <string name="account_settings_incoming_summary">Usuário, senha e outras configurações do servidor</string>
@@ -262,6 +263,9 @@ Alterá-los agora?"</string>
     <string name="attachment_decoding">Descompactando anexos…</string>
     <string name="attachment_detail_empty_prompt">Selecione os arquivos</string>
     <string name="attachment_download_all">Fazer download de todos</string>
+    <string name="attachment_drag_add_inline">Embutir</string>
+    <string name="attachment_drag_add_picture_prompt">Deseja incorporar ou anexar as imagens selecionadas?</string>
+    <string name="attachment_drag_create_email_prompt">Anexar os arquivos selecionados a um novo e-mail?</string>
     <string name="attachment_image">Imagem</string>
     <string name="attachment_list_search_hint">Pesquisar anexos</string>
     <string name="attachment_mgr_name">Anexos</string>
@@ -366,11 +370,16 @@ Alterá-los agora?"</string>
     <string name="collapse_recipient_details">Recolher detalhes do destinatário</string>
     <string name="compose">Escrever</string>
     <string name="compose_add_attachment_permission_denied">Não é possível encaminhar e-mail. São necessárias permissões para acessar o armazenamento externo.</string>
+    <string name="compose_encrypt_lock_description">Criptografar</string>
+    <string name="compose_encrypt_unlock_description">Descriptografar</string>
+    <string name="compose_encrypt_unlock_w_description">Não é um contato confiável</string>
     <string name="compose_event">Convite</string>
     <string name="compose_paste_address_oob">Muitos caracteres</string>
     <string name="compose_picturesexceedlimits">Você pode adicionar mais imagens como anexos</string>
     <string name="compose_send">Enviar</string>
     <string name="compose_sent">E-mail enviado</string>
+    <string name="compose_smime_sign_description">Aplicar assinatura</string>
+    <string name="compose_smime_unsign_description">Remover assinatura</string>
     <string name="compose_to_label">Para</string>
     <string name="compress_failed_and_retry">Não foi possível compactar. Tente novamente.</string>
     <string name="compress_img">Comprimir imagens</string>
@@ -465,7 +474,7 @@ Alterá-los agora?"</string>
     <string name="default_">PADRÃO</string>
     <string name="default_exchange">"EXCHANGE"</string>
     <string name="default_imap">"IMAP"</string>
-    <string name="default_opening_attchemnt_mode">Abrir anexos usando apps padrão</string>
+    <string name="default_opening_attchemnt_mode">Abrir anexos usando app padrão</string>
     <string name="default_pop3">"POP3"</string>
     <string name="default_setup">CONFIGURAÇÕES PADRÃO</string>
     <string name="default_signature">Enviado de meu Mi Phone</string>
@@ -474,6 +483,10 @@ Alterá-los agora?"</string>
     <string name="default_signature_phone">Enviado do meu Mi Phone</string>
     <string name="delete">Excluir</string>
     <string name="delete_contact_content">Excluir este contato agora?</string>
+    <string name="delete_message_dialog_content">Deseja excluir este e-mail e bloquear o remetente?</string>
+    <string name="delete_message_dialog_left_button">Excluir e bloquear</string>
+    <string name="delete_message_dialog_right_button">Apenas excluir</string>
+    <string name="delete_message_dialog_title">Excluindo e-mail</string>
     <string name="delete_message_event">Excluir este convite?</string>
     <string name="deleted">Excluído</string>
     <string name="device_activity_btn_str">Ativar</string>
@@ -708,6 +721,7 @@ Alterá-los agora?"</string>
     <string name="from_heading">"De: "</string>
     <string name="general_preference_confirm_delete_label">Confirmar antes de excluir</string>
     <string name="general_preference_confirm_send_label">Confirmar antes de enviar</string>
+    <string name="general_preference_delete_message_prompt_title">Pergunte antes de excluir</string>
     <string name="general_preference_load_picture">Carregar imagens online</string>
     <string name="general_preference_str_auto_translation">Tradução rápida</string>
     <string name="general_preference_str_auto_translation_prompt">Copie o texto para ver a tradução</string>
@@ -769,6 +783,8 @@ Alterá-los agora?"</string>
     <string name="installing_module">Módulo de instalação:</string>
     <string name="interact_with_server_error">Não foi possível conectar-se ao servidor</string>
     <string name="invalid_recipient">O endereço %s é inválido.</string>
+    <string name="invalid_recipient_dialog_message">Insira um endereço de e-mail de destinatário válido</string>
+    <string name="invalid_recipient_dialog_title">"Não foi possível enviar"</string>
     <string name="invalid_recipient_title">Erro de destinatário</string>
     <string name="invoice_card_amount">Quantia</string>
     <string name="invoice_card_buyer">Consignatário</string>
@@ -816,6 +832,7 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="login_qq_psw">Inserir código manualmente</string>
     <string name="login_tip">O protocolo %s será usado para entrar por padrão. Se você quiser usar um protocolo diferente, selecione-o manualmente entre as opções de login.</string>
     <string name="long_press_to_select_tip">Toque e segure para selecionar uma mensagem, toque em outras para selecionar mais.</string>
+    <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooongo</string>
     <string name="mail">E-mail</string>
     <string name="mail_body_turncated">O e-mail é muito grande para ser carregado, acesse-o através de um PC para ver o conteúdo completo</string>
     <string name="mail_description_content">O E-mail é um cliente de e-mails que pode gerenciar várias contas, enviar e receber mensagens e sincronizar suas informações de agenda e contatos. Certifique-se de que não precisará destes recursos antes de desinstalar o app. Suas informações de conta Exchange também serão excluídas.</string>
@@ -948,6 +965,7 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="message_invite_tentative">Talvez</string>
     <string name="message_saved">Mensagem salva como rascunho.</string>
     <string name="message_view_attachment_background_load">O download de anexos em sua mensagem encaminhada será feito antes do envio.</string>
+    <string name="mi_slide_menu">Barra Lateral</string>
     <string name="mibill_privacy_policy_button1">Depois</string>
     <string name="mibill_privacy_policy_button2">Concordar</string>
     <string name="mibill_privacy_policy_description">Permitir que o Mi Wallet analise e gerencie suas faturas automaticamente. Este recurso é desativado por padrão para endereços de e-mail comerciais.</string>
@@ -1081,6 +1099,7 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="next_action">Avançar</string>
     <string name="night">"PM"</string>
     <string name="no">Não</string>
+    <string name="no_address_email">noaddressemail@123.com</string>
     <string name="no_application_found">Nenhum app foi encontrado para abrir este anexo.</string>
     <string name="no_application_found_title">Abrir este anexo.</string>
     <string name="no_bill_discribe">"Nenhuma conta ou fatura encontrada.
@@ -1198,9 +1217,12 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="pdf_save_error">Não é possível converter para PDF. Esta mensagem é muito longa</string>
     <string name="pdf_save_no_body">Espere até que a mensagem esteja totalmente carregada antes de converter para PDF</string>
     <string name="pdf_save_to">"Salvo em "</string>
+    <string name="pdf_signature_add">Adicionar uma nova assinatura</string>
     <string name="pdf_signature_create_title">Desenhe sua assinatura</string>
+    <string name="pdf_signature_delete">Excluir assinatura</string>
     <string name="pdf_signature_manager_max_count">Não é possível adicionar mais assinaturas. Exclua as assinaturas mais antigas para adicionar novas.</string>
     <string name="pdf_signature_manager_title">Gerenciar assinaturas</string>
+    <string name="pdf_signature_select">Selecionar assinatura</string>
     <string name="pdf_viewer_actionbar_more_other">Outros apps</string>
     <string name="pdf_viewer_actionbar_more_wps">Abrir com WPS</string>
     <string name="pdf_viewer_file_damage_toast">O arquivo PDF está corrompido. Verifique este arquivo e tente novamente.</string>
@@ -1355,6 +1377,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="request_entity_large">O arquivo é muito grande</string>
     <string name="request_permission_activity">Permissões requeridas</string>
     <string name="respond_inline">"     Responder em linha"</string>
+    <string name="respond_inline_text">Editar e-mail original</string>
     <string name="retry">Tentar novamente</string>
     <string name="retry_login">Fazer login novamente</string>
     <string name="saturday">Sábado</string>
@@ -1384,6 +1407,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="select_attachment_type">Escolher anexo de</string>
     <string name="select_no_file">Nenhum anexo selecionado</string>
     <string name="select_path">Selecionar caminho</string>
+    <string name="selected">selecionado</string>
     <string name="send">Enviar</string>
     <string name="send_encrypt_dialog_fail_content">Parece que o destinatário não possui o certificado de confiança necessário para criptografar este e-mail. Enviar como um e-mail normal?</string>
     <string name="send_encrypt_dialog_fail_title">Não é possível enviar e-mails criptografados</string>
@@ -1443,6 +1467,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="show_images_all">Carregar e exibir todas as imagens</string>
     <string name="show_password">Mostrar senha</string>
     <string name="show_server_cet">Ver certificado</string>
+    <string name="shrink">Colapso</string>
     <string name="sign_in_dialog_office365">"Office 365"</string>
     <string name="sign_in_dialog_outlook_enterprise">Outlook para negócios (sem agenda)</string>
     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (com agenda)</string>
@@ -1600,6 +1625,7 @@ Remover conta?"</string>
     <string name="undo">Desfazer</string>
     <string name="unknow">Desconhecido</string>
     <string name="unread_string">mensagem não lida</string>
+    <string name="unselected">Desmarcado</string>
     <string name="unzip_file_failed">Não foi possível descompactar arquivo</string>
     <string name="update_domain_summary">Atualizar lista de configurações e domínios disponíveis</string>
     <string name="update_domain_title">Atualizar configurações de domínio</string>

@@ -172,6 +172,7 @@
     <string name="open_maintenance_mode">Abrir o Modo de manutenção</string>
     <string name="open_maintenance_mode_msg">"Para evitar a perda de dados, é recomendável enviá-los para reparo após "</string>
     <string name="open_maintenance_mode_msg_sub">fazendo backup de seus dados</string>
+    <string name="open_maintenance_mode_tips">Você acabou de desativar o Modo de manutenção e está excluindo os dados relacionados. Tente novamente mais tarde</string>
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="reached_max_user">Número máximo de usuários atingido</string>

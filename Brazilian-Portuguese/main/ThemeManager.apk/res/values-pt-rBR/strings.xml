@@ -83,12 +83,12 @@
     <string name="apply_font_btn_exclude">Agora não</string>
     <string name="apply_font_btn_reboot">Reiniciar</string>
     <string name="apply_font_tip">Reinicie o telefone para aplicar a fonte do tema.</string>
-    <string name="apply_not_support_aod">Este dispositivo não suporta o Ambiente Display</string>
+    <string name="apply_not_support_aod">Este dispositivo não suporta a Tela sempre ativa</string>
     <string name="apply_not_support_in_second_space">Não é possível aplicar este item no segundo espaço</string>
-    <string name="apply_not_support_maml_aod">Este dispositivo não suporta a combinação de Ambiente Display com temas</string>
+    <string name="apply_not_support_maml_aod">Este dispositivo não suporta a combinação da Tela sempre ativa com temas</string>
     <string name="apply_succeed">Aplicado com sucesso</string>
-    <string name="apply_success_not_enable_aod">Ative primeiro o Ambiente Display nas Configurações</string>
-    <string name="apply_success_not_support_aod">Não é possível combinar o Ambiente Display com temas neste dispositivo. Os componentes restantes deste tema forma aplicados com sucesso</string>
+    <string name="apply_success_not_enable_aod">Ative primeiro a Tela sempre ativay nas Configurações</string>
+    <string name="apply_success_not_support_aod">Não é possível combinar a Tela sempre ativa com temas neste dispositivo. Os componentes restantes deste tema forma aplicados com sucesso</string>
     <string name="apply_theme_with_ringtones">Usar toques do tema</string>
     <string name="apply_warning_get_device_dialog_message">Para poder usar o conteúdo baixado, permita que este recurso acesse a ID do seu dispositivo primeiro. Você pode conceder essa permissão em Configurações > Privacidade.</string>
     <string name="apply_warning_tip_get_device_status">Primeiro permita que este app acesse a ID do seu dispositivo em Perfil > Configurações.</string>
@@ -190,7 +190,7 @@
     <string name="de_icon_text_share">Compartilhar</string>
     <string name="de_mix">Criar</string>
     <string name="de_mix_dialog_title">Crie seu tema</string>
-    <string name="de_mix_mode_aod">Ambiente Display</string>
+    <string name="de_mix_mode_aod">Tela sempre ativa</string>
     <string name="de_mix_mode_aod_desc">Personalize o fundo e o formato do relógio</string>
     <string name="de_mix_mode_desktop">Tela inicial</string>
     <string name="de_mix_mode_desktop_desc">Plano de fundo e relógio</string>
@@ -272,7 +272,7 @@
     <string name="enable_accessibility">Permissões de acessibilidade requeridas</string>
     <string name="enable_accessibility_hint">"Você pode ativar este serviço em Temas. Depois disso, você poderá escolher quais apps irão trabalhar com planos de fundo transparentes."</string>
     <string name="enable_all_free_mode">Resgatar</string>
-    <string name="enable_aod_list">Ativar Ambiente Display</string>
+    <string name="enable_aod_list">Ativar a Tela sempre ativa</string>
     <string name="enable_transparent_wallpaper">Usar plano de fundo transparente</string>
     <string name="enabling_all_free_mode">Resgatando…</string>
     <string name="eras_ad">d.C</string>
@@ -743,7 +743,7 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="personalize">Personalização</string>
     <string name="personalize_alarm_ringtone_title">Alarmes</string>
-    <string name="personalize_aod_title">Ambiente Display</string>
+    <string name="personalize_aod_title">Tela sempre ativa</string>
     <string name="personalize_call_ringtone_title">Toques</string>
     <string name="personalize_charge_style_title">Carregando</string>
     <string name="personalize_default_font">Fonte padrão</string>
@@ -1234,7 +1234,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="support_theme_store_supported">Obrigado pelo seu apoio!</string>
     <string name="support_theme_store_title">Apoie nossos designers</string>
     <string name="swipe_find_more">Deslize para cima para ver mais</string>
-    <string name="system_aod_dialog_message">Ative primeiro o Ambiente Display nas Configurações</string>
+    <string name="system_aod_dialog_message">Ative primeiro a Tela sempre ativa nas Configurações</string>
     <string name="system_aod_dialog_positive_button">Configurações</string>
     <string name="system_aod_dialog_title">A exibição está desativada</string>
     <string name="system_cta_agree_desc">Permita que este app conecte-se à Internet e conceda as permissões obrigatórias listadas acima.</string>
@@ -1314,12 +1314,12 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="theme_comment_dialog_ok">Análise</string>
     <string name="theme_comment_sub_comment_bar_hint">Compartilhe suas ideias com a comunidade</string>
     <string name="theme_community">Comunidade</string>
-    <string name="theme_component_aod">Ambiente Display</string>
+    <string name="theme_component_aod">Tela sempre ativa</string>
     <string name="theme_component_icon">Ícones</string>
     <string name="theme_component_title_alarm">Alarmes</string>
     <string name="theme_component_title_alarmstyle">Estilo do alarme</string>
     <string name="theme_component_title_all">Temas</string>
-    <string name="theme_component_title_aod">Ambiente Display</string>
+    <string name="theme_component_title_aod">Tela sempre ativa</string>
     <string name="theme_component_title_audio_effect">Sons</string>
     <string name="theme_component_title_boot_animation">Animação de boot</string>
     <string name="theme_component_title_boot_audio">Som de boot</string>
@@ -1536,7 +1536,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="wallpaper_set_as_lockscreen_large">Aplicar na Tela de bloqueio interna</string>
     <string name="wallpaper_set_as_lockscreen_small">Aplicar na Tela de bloqueio externa</string>
     <string name="wallpaper_setting_all">Todos os planos de fundo</string>
-    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Ambiente Display</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Tela sempre ativa</string>
     <string name="wallpaper_setting_find_more_text">Mais planos de fundo online</string>
     <string name="wallpaper_setting_home_wallpaper_banner_button_text">Tela inicial</string>
     <string name="wallpaper_setting_library">Biblioteca</string>

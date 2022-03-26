@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="control_center_independent_tiles_mobile">
+        <item>Telefone</item>
+        <item>Wi-Fi</item>
+    </string-array>
+    <string-array name="control_center_independent_tiles_wifi">
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+    </string-array>
+</resources>
