@@ -945,6 +945,7 @@ estão disponíveis"</string>
     <string name="filter_popular_smokegreen">Sálvia</string>
     <string name="filter_popular_summercloud">Nuvem de verão</string>
     <string name="filter_popular_sunset">Entardecer</string>
+    <string name="filter_popular_sunset_gold">Radiância</string>
     <string name="filter_popular_wakakusa">"Wakakusa"</string>
     <string name="filter_popular_watergreen">Esmeralda</string>
     <string name="filter_popular_windchime">"Chime"</string>
@@ -2931,7 +2932,6 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="video_post_download_sdk_without_wifi_msg_china">O seu dispositivo não está conectado ao Wi-Fi. Baixar o plugin usando os dados móveis?</string>
     <string name="video_post_download_sdk_without_wifi_title">Baixar plugin de \"Efeitos de vídeo\"</string>
     <string name="video_post_load_data_fail">Não foi possível carregar os dados</string>
-    <string name="video_post_module_failed">@string/error_install_connect_fail</string>
     <string name="video_post_module_finish">Plugin de \"Efeitos de vídeo\" baixado com sucesso</string>
     <string name="video_post_module_loading">Baixando o plugin \"Efeitos de vídeo\"…</string>
     <string name="video_quality_1080p">1080P</string>
@@ -3182,7 +3182,6 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Bem-vindo à Xiaomi Cloud</string>
     <string name="where_is_barcode">Onde está o código QR?</string>
     <string name="who_is_this">Quem é?</string>

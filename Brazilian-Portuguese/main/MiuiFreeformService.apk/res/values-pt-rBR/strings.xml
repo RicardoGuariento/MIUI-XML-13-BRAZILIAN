@@ -182,9 +182,9 @@
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
     <string name="multi_window_cvw">Janela flutuante</string>
-    <string name="multi_window_cvw_title">Janela flutuante</string>
     <string name="multi_window_cvw_summary">Arraste o canto para mudar para uma janela flutuante e ajustar seu tamanho</string>
     <string name="multi_window_cvw_summary_global">Arraste o canto para mudar para uma janela flutuante e ajustar seu tamanho</string>
+    <string name="multi_window_cvw_title">Janela flutuante</string>
     <string name="night">"PM"</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>

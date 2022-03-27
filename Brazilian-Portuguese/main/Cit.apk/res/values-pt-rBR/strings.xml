@@ -984,7 +984,6 @@ Toque no botão apropriado de acordo com o número que você ouvir"</string>
     <string name="top_mic_check_record_tip">Gravando, por favor, diga algo ao Microfone na parte superior do dispositivo</string>
     <string name="top_right_high_speaker">Teste de saída de agudos do lado superior direito</string>
     <string name="top_right_low_speaker">Teste de saída de graves do lado superior direito</string>
-
     <string name="touch_auto">Autoteste do touchscreen em andamento, aguarde....</string>
     <string name="tp_color">Cor TP:</string>
     <string name="tp_version">Versão TP:</string>
