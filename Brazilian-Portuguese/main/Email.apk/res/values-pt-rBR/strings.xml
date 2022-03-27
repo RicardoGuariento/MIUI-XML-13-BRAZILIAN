@@ -136,7 +136,7 @@ Alterá-los agora?"</string>
     <string name="account_setup_correct_address_tips">O endereço de e-mail inserido é inválido.</string>
     <string name="account_setup_creating_account_msg">Criando conta…</string>
     <string name="account_setup_deleting_account_msg">"    Removendo conta…"</string>
-     <string name="account_setup_domain_invalid_toast">O nome de domínio de e-mail que você digitou está incorreto, verifique</string>
+     <string name="account_setup_domain_invalid_toast">Insira um domínio de e-mail válido</string>
     <string name="account_setup_exchange_certificate_title">Certificado do cliente</string>
     <string name="account_setup_exchange_no_certificate">Nenhum</string>
     <string name="account_setup_failed_auth_required">Este método de autenticação não é suportado pelo servidor.</string>
@@ -366,7 +366,7 @@ Alterá-los agora?"</string>
     <string name="click_download_all_content">[ Toque para baixar o conteúdo ]</string>
     <string name="click_to_reload">Toque na tela para atualizar</string>
     <string name="close">Fechar</string>
-    <string name="close_custom_folder">Recolher subpasta</string>
+    <string name="close_custom_folder">Ocultar subpastas</string>
     <string name="collapse_recipient_details">Recolher detalhes do destinatário</string>
     <string name="compose">Escrever</string>
     <string name="compose_add_attachment_permission_denied">Não é possível encaminhar e-mail. São necessárias permissões para acessar o armazenamento externo.</string>
@@ -1160,7 +1160,7 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="one_month">1 mês</string>
     <string name="one_week">1 semana</string>
     <string name="open_calendar_and_contacts_permission">Permita que o E-mail acesse contatos e informações da agenda nas Configurações</string>
-    <string name="open_custom_folder">Expandir subpasta</string>
+    <string name="open_custom_folder">Exibir subpastas</string>
     <string name="open_external_storage_and_calendar_permission">Permita que o E-mail acesse o armazenamento e informações da agenda nas Configurações</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">Permita que o E-mail acesse o armazenamento, contatos e informações da agenda nas Configurações</string>
     <string name="open_external_storage_and_contacts_permission">Permita que o E-mail acesse o armazenamento e contatos nas Configurações</string>
@@ -1663,7 +1663,7 @@ Toque em "<b>Sincronizar Agora</b> para sincronizar os e-mails uma vez, ou <b>Al
     <string name="wait_for_sync_title">Aguardando sincronização</string>
     <string name="wait_help_context">espere</string>
     <string name="wait_while_update_db">Atualizando o banco de dados…</string>
-    <string name="web_view_load_error_tip">O corpo deste e-mail não pode ser exibido corretamente. Relate esse problema para nós em nosso grupo QQ (952315061).</string>
+    <string name="web_view_load_error_tip">Seu navegador travou. Baixe a versão mais recente do Webview do Google Play para ajudar a resolver esse problema.</string>
     <string name="webview_logout">Você pode tentar fazer o login novamente</string>
     <string name="webview_logout_cancel">Agora não</string>
     <string name="webview_logout_sure">Tentar novamete</string>

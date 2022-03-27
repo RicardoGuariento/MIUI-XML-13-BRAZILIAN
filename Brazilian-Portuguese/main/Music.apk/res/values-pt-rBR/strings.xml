@@ -806,6 +806,7 @@
     <string name="mtrl_picker_a11y_next_month">Alterar para o próximo mês</string>
     <string name="mtrl_picker_a11y_prev_month">Alterar para o mês anterior</string>
     <string name="mtrl_picker_announce_current_selection">Seleção atual: %1$s</string>
+    <string name="mtrl_picker_confirm">"OK"</string>
     <string name="mtrl_picker_date_header_title">Selecione a data</string>
     <string name="mtrl_picker_date_header_unselected">Data selecionada</string>
     <string name="mtrl_picker_day_of_week_column_header">Coluna de dias: %1$s</string>
@@ -1081,7 +1082,7 @@ Seja feliz"</string>
     <string name="select">Selecionar</string>
     <string name="select_all">Selecionar tudo</string>
     <string name="select_clip_desc">Selecione uma parte da música</string>
-    <string name="select_desc_sub">Pode selecionar até 3 idiomas</string>
+    <string name="select_desc_sub">Pode selecionar até %d idiomas</string>
     <string name="select_device">Selecione o dispositivo</string>
     <string name="select_displayed_folders">Escolher pastas para exibir</string>
     <string name="select_local_album_cover">Selecione a imagem</string>
@@ -1089,8 +1090,8 @@ Seja feliz"</string>
     <string name="select_local_lyric">Selecionar arquivo</string>
     <string name="select_local_lyric_file">Selecionar arquivo de letras local</string>
     <string name="select_none">Desmarcar tudo</string>
-    <string name="select_one_language">Selecione pelo menos 1 idioma</string>
-    <string name="select_three_languages">Pode selecionar até 3 idiomas</string>
+    <string name="select_one_language">Selecione pelo menos %d idioma</string>
+    <string name="select_three_languages">Pode selecionar até %d idiomas</string>
     <string name="selected_count">%1$d de %2$d selecionados</string>
     <string name="send">Enviar</string>
     <string name="send_to_title">(%1$s) enviar para</string>

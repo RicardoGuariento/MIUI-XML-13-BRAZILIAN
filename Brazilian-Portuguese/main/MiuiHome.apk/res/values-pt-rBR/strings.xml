@@ -161,7 +161,7 @@
     <string name="auto_add_app_shortcut">Adicionar novos apps à Tela inicial</string>
     <string name="auto_delete_category_dialog_content">Os apps atuais serão removidos desta categoria e a categoria será excluída. Excluir esta categoria agora?</string>
     <string name="auto_delete_category_dialog_title">Excluindo categoria</string>
-    <string name="auto_disable_screenbuttons_summary">Toque duas vezes em qualquer botão de navegação para reativar</string>
+    <string name="auto_disable_screenbuttons_summary">Desativa automaticamente os botões de navegação quando a barra de status não for exibida. Toque duas vezes em qualquer botão de navegação para reativar</string>
     <string name="auto_disable_screenbuttons_title">Desativar automaticamente os botões de navegação</string>
     <string name="back">Voltar</string>
     <string name="backup_fail">Não foi possível fazer o backup do launcher</string>

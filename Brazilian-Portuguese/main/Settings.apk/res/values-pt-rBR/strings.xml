@@ -861,7 +861,7 @@ Alterar as configurações agora?"</string>
     <string name="auto_clean_summary_new">Reproduza um áudio de %d segundos para limpar o alto-falante. Use este recurso várias vezes consecutivas para quantidades substanciais de sujeira.</string>
     <string name="auto_clean_description">"Sobre este recurso
 1. Execute-o uma ou duas vezes se sentir que seu alto-falante está bloqueado por partículas de poeira.
-2. Se o alto-falante estiver muito bloqueado, execute o teste de duas a cinco vezes enquanto agita seu telefone com o alto-falante virado para baixo."</string>
+2. Se o alto-falante estiver muito bloqueado, execute o teste %1$d-%2$d vezes enquanto agita seu telefone com o alto-falante virado para baixo."</string>
     <string name="auto_clean_description_pad">"Sobre este recurso
 • Execute-o uma ou duas vezes se sentir que seu alto-falante está bloqueado por partículas de poeira.
 • Se o alto-falante estiver muito bloqueado, execute o teste de %1$d-%2$d vezes enquanto agita seu telefone com o alto-falante virado para baixo."</string>
@@ -2150,7 +2150,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="clear_cache_btn_text">Limpar cache</string>
     <string name="clear_data_alert_info">Todos os backups armazenados neste dispositivo serão excluídos permanentemente. Faça o backup de itens importantes para o computador e Xiaomi Cloud antes de executar uma redefinição para os dados de fábrica.</string>
     <string name="clear_data_alert_info_pad">Todos os backups armazenados neste dispositivo serão excluídos permanentemente. Faça o backup de itens importantes para o computador e Xiaomi Cloud antes de continuar.</string>
-    <string name="clear_data_dlg_text">Todos os dados deste app serão excluídos permanentemente. Isso inclui todos os arquivos, configurações, contas, bancos de dados e outros.</string>
+    <string name="clear_data_dlg_text">Os dados deste app serão excluídos permanentemente. Isso inclui arquivos, configurações, bancos de dados e outros dados de apps.</string>
     <string name="clear_data_dlg_title">Excluir os dados do app?</string>
     <string name="clear_failed_dlg_text">Não foi possível limpar o armazenamento do app.</string>
     <string name="clear_instant_app_confirmation">Quer remover esse app instantâneo?</string>
@@ -4647,7 +4647,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="led_settings">Luz de LED</string>
     <string name="left_edge">Borda esquerda</string>
     <string name="left_function_key">Atalho da esquerda</string>
-    <string name="left_shoulder_key">Esquerda</string>
+    <string name="left_shoulder_key" />
     <string name="legacy_control_center_desc">Puxe a barra de status para baixo para ver seletores e notificações</string>
     <string name="legacy_control_center_title">Versão antiga</string>
     <string name="legacy_navigation_summary">Volte, vá para a Tela inicial e alterne entre apps usando os botões na parte inferior da tela.</string>
@@ -7213,7 +7213,7 @@ Reinicie o dispositivo e tente novamente."</string>
     <string name="rgb_manage_facerecoginition_text">Gerenciar dados faciais 2D</string>
     <string name="right_edge">Borda direita</string>
     <string name="right_function_key">Atalho da direita</string>
-    <string name="right_shoulder_key">Direita</string>
+    <string name="right_shoulder_key" />
     <string name="ring_to_you">Toque personalizado</string>
     <string name="ring_to_you_info">Defina um toque personalizado que outras pessoas ouvirão antes de você atender</string>
     <string name="ring_volume_option_title">Toques</string>
@@ -8029,11 +8029,11 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="set_jeejen_prompt_message">O Modo simplificado será definido como seu launcher padrão. Você pode alterar o launcher padrão em Configurações > Configurações do sistema > Tela inicial e Recentes > Launcher padrão.</string>
     <string name="set_jeejen_prompt_title">Confirmar alterações</string>
     <string name="set_screen_paper_mode">Modo leitura</string>
-    <string name="set_shoulder_key_shortcut_checkbox_message">Não mostrar novamente</string>
-    <string name="set_shoulder_key_shortcut_message">"Você ainda não atribuiu nenhum atalho aos botões superiores. Configurar botões superiores agora?"</string>
-    <string name="set_shoulder_key_shortcut_negative_button">Não</string>
-    <string name="set_shoulder_key_shortcut_positive_button">Sim</string>
-    <string name="set_shoulder_key_shortcut_title">Configurar botões superiores</string>
+    <string name="set_shoulder_key_shortcut_checkbox_message" />
+    <string name="set_shoulder_key_shortcut_message" />
+    <string name="set_shoulder_key_shortcut_negative_button" />
+    <string name="set_shoulder_key_shortcut_positive_button" />
+    <string name="set_shoulder_key_shortcut_title" />
     <string name="setting_privacy_password">Definir Senha de proteção de privacidade</string>
     <string name="settings_ad_loading">Carregando…</string>
     <string name="settings_ad_loading_unavailable">Não foi possível carregar as informações.</string>
@@ -8102,22 +8102,22 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="sharing_remote_bugreport_dialog_message">Este relatório de erro está sendo compartilhado com seu administrador de TI. Entre em contato com ele para saber mais detalhes.</string>
     <string name="short_summary_font_size">Tornar o texto maior ou menor</string>
     <string name="short_time">10 minutos.</string>
-    <string name="shoulder_key_diagram">Demonstração</string>
+    <string name="shoulder_key_diagram" />
     <string name="shoulder_key_game_light_settings">Animações</string>
-    <string name="shoulder_key_settings">Botões superiores</string>
-    <string name="shoulder_key_settings_title">Botões superiores</string>
-    <string name="shoulder_key_shortcut_double_click">Pressionar duas vezes</string>
-    <string name="shoulder_key_shortcut_launch_camera">Câmera</string>
-    <string name="shoulder_key_shortcut_launch_screen_recorder">Gravar tela</string>
-    <string name="shoulder_key_shortcut_launch_sound_recorder">Gravar audio</string>
-    <string name="shoulder_key_shortcut_launch_video">Gravar vídeo</string>
-    <string name="shoulder_key_shortcut_long_press">Pressionar e segurar</string>
-    <string name="shoulder_key_shortcut_mute">Modo silencioso</string>
-    <string name="shoulder_key_shortcut_none">Nenhum</string>
-    <string name="shoulder_key_shortcut_settings">Botões superiores</string>
-    <string name="shoulder_key_shortcut_single_click">Pressionar</string>
-    <string name="shoulder_key_shortcut_turn_on_torch">Lanterna</string>
-    <string name="shoulder_key_shortcut_vibrate">Vibrar</string>
+    <string name="shoulder_key_settings" />
+    <string name="shoulder_key_settings_title" />
+    <string name="shoulder_key_shortcut_double_click" />
+    <string name="shoulder_key_shortcut_launch_camera" />
+    <string name="shoulder_key_shortcut_launch_screen_recorder" />
+    <string name="shoulder_key_shortcut_launch_sound_recorder" />
+    <string name="shoulder_key_shortcut_launch_video" />
+    <string name="shoulder_key_shortcut_long_press" />
+    <string name="shoulder_key_shortcut_mute" />
+    <string name="shoulder_key_shortcut_none" />
+    <string name="shoulder_key_shortcut_settings" />
+    <string name="shoulder_key_shortcut_single_click" />
+    <string name="shoulder_key_shortcut_turn_on_torch" />
+    <string name="shoulder_key_shortcut_vibrate" />
     <string name="shoulder_key_sound_settings">Efeitos sonoros</string>
     <string name="shoulder_key_sound_switch_title">Efeitos sonoros</string>
     <string name="shoulder_key_sound_text_bullet">Bala carregada</string>
@@ -10536,14 +10536,14 @@ você pode usar a rede de outros usuários também."</string>
     <string name="wifi_switch_to_gsm_message">Conexão Wi-Fi perdida. Usar dados móveis em vez disso?</string>
     <string name="wifi_switch_to_gsm_title">Usar GSM?</string>
     <string name="wifi_tap_to_sign_in">Toque aqui para fazer login na rede</string>
-    <string name="wifi_tether_checkbox_kddi_text">Ancoragem do Wi-Fi</string>
-    <string name="wifi_tether_checkbox_text">Ponto de acesso Wi-Fi</string>
-    <string name="wifi_tether_configure_ap_kddi_text">Configurar ancoragem do Wi-Fi</string>
-    <string name="wifi_tether_configure_ap_text">Configurar ponto de acesso Wi-Fi</string>
+    <string name="wifi_tether_checkbox_kddi_text">Ancoragem Wi-Fi</string>
+    <string name="wifi_tether_checkbox_text">Ponto de acesso portátil</string>
+    <string name="wifi_tether_configure_ap_kddi_text">Configurar ancoragem Wi-Fi</string>
+    <string name="wifi_tether_configure_ap_text">Configurar ponto de acesso portátil</string>
     <string name="wifi_tether_configure_ssid_default">Ponto de acesso Android</string>
     <string name="wifi_tether_configure_subtext">Ponto de acesso %1$s %2$s</string>
     <string name="wifi_tether_enabled_subtext">A rede %1$s está ativa</string>
-    <string name="wifi_tether_enabled_summary">%1$s está ativo</string>
+    <string name="wifi_tether_enabled_summary">%1$s</string>
     <string name="wifi_tether_failed_subtext">Erro no ponto de acesso Wi-Fi</string>
     <string name="wifi_tether_setting_title">Configurações</string>
     <string name="wifi_tether_settings_title">Ponto de acesso</string>

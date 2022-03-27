@@ -1157,7 +1157,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="cta_dialog_negative">Sair</string>
     <string name="cta_dialog_positive">Aceitar</string>
     <string name="cta_dialog_title">Conexão com a internet</string>
-    <string name="cta_main_purpose">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança MIUI e serviços do sistema) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais.</string>
+    <string name="cta_main_purpose">Bem-vindo ao app Segurança! Pode usar este app e seus módulos (incluindo componentes de segurança MIUI e serviços do sistema) para liberar espaço de armazenamento, verificar a presença de vírus no seu dispositivo, controlar o uso da bateria, otimizar o seu dispositivo para jogos, gerenciar apps, receber alertas antecipados de terremotos, e mais. Os componentes de segurança MIUI se conectarão à Internet e realizarão verificações de segurança enquanto você instala aplicativos e faz pagamentos.</string>
     <string name="cta_settings">Permita o acesso à internet e à localização</string>
     <string name="current_network_state_not_need_diagnose">A conexão com a internet está normal.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para usar a lista de bloqueio e fazer chamadas para contatos de emergência quando avisos de terremoto forem emitidos</string>
@@ -1998,8 +1998,8 @@ Grave sequências e use-as a qualquer momento!"</string>
     <string name="gb_performance_balance">Modo balanceado</string>
     <string name="gb_performance_high">Modo desempenho</string>
     <string name="gb_performance_mode">Modo jogo</string>
-    <string name="gb_performance_tips">"Usar o Modo desempenho por um longo tempo,
-pode descarregar a bateria e levar ao superaquecimento"</string>
+    <string name="gb_performance_tips">"O Modo desempenho melhora o desempenho gráfico,
+mas também aumenta o consumo de energia e permite que seu dispositivo superaqueça"</string>
     <string name="gb_shortcut_pref_title">Atalho na Tela inicial</string>
     <string name="gb_shoulder_key">Botões de gatilhos</string>
     <string name="gb_shoulder_key_add_show_btn">Mostrar botões virtuais durante os jogos</string>
@@ -2206,7 +2206,7 @@ das suas sessões de jogos"</string>
     <string name="gtb_guide_gtb_func_title">"Game Turbo"</string>
     <string name="gtb_guide_gtb_game_effected">Aplicado</string>
     <string name="gtb_guide_gtb_game_new">Novo</string>
-    <string name="gtb_guide_gtb_line_new">Intensifique o seu jogo com o novo Game Turbo!</string>
+    <string name="gtb_guide_gtb_line_new">Experimente o Modo performance no Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">Use outros apps enquanto você joga</string>
     <string name="gtb_guide_small_window_app_title">Janelas flutuantes</string>
     <string name="gtb_setting_item_summary_disable_ndds_sim">Bloqueie todos os serviços de comunicação no SIM secundário durante as sessões de jogos para manter a conexão estável e evitar alternar entre redes. O SIM secundário será desbloqueado quando você parar de jogar.</string>
@@ -2990,7 +2990,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_fast_charge_notifi_action_text_on">Impulsionar</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Definir o nível da bateria para lembretes</string>
     <string name="pc_fast_charge_notifi_summary">Carregando até %s mais rápido que o normal…</string>
-    <string name="pc_fast_charge_notifi_summary_on">Este recurso pode aquecer seu dispositivo</string>
+    <string name="pc_fast_charge_notifi_summary_on">A velocidade de carregamento é aumentada quando a tela está desligada. Seu dispositivo irá aquecer.</string>
     <string name="pc_fast_charge_notifi_switch_summary">Notifica sobre o aumento da velocidade de carregamento quando o carregador %dW fornecido estiver conectado e a bateria estiver abaixo do nível definido</string>
     <string name="pc_fast_charge_notifi_switch_title">Notificar sobre aumento</string>
     <string name="pc_fast_charge_notifi_title">%dW carregando</string>
@@ -5193,7 +5193,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="vb_video_effects_3d">Sistema surround</string>
     <string name="vb_video_effects_3d_summary">Aumente a profundidade da reprodução de som para fones de ouvido e alto-falantes</string>
     <string name="vb_video_effects_3d_summary_headset">Aumente a sensação de imersão e envolvimento ao ouvir áudio nos fones de ouvido</string>
-    <string name="vb_video_effects_3d_surround">Sistema surround</string>
+    <string name="vb_video_effects_3d_surround">Som virtual imersivo</string>
     <string name="vb_video_effects_display_style">Estilo</string>
     <string name="vb_video_effects_dolby">"Dolby Atmos"</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">Diálogos aprimorados</string>
@@ -5221,7 +5221,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="vb_video_effects_settings_stereo">"Volume"</string>
     <string name="vb_video_effects_some_headphone">Compatível com modelos de fone de ouvido selecionados</string>
     <string name="vb_video_effects_spatial">Rastreie o movimento da cabeça</string>
-    <string name="vb_video_effects_spatial_summary">"Ajuste o sistema surround com base no movimento da cabeça
+    <string name="vb_video_effects_spatial_summary">"Ajuste o som imersivo com base no movimento da cabeça
 • Suportado apenas em modelos de fone de ouvido para jogos"</string>
     <string name="vb_video_effects_srs_premium_sound">Som</string>
     <string name="vb_video_super_division">Interpolação</string>

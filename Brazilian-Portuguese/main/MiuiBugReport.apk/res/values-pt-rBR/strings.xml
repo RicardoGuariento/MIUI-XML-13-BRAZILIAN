@@ -693,7 +693,7 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="system_app_select">Apps integrados</string>
     <string name="system_error_info">O sistema está ocupado. Espere um momento e tente novamente.</string>
     <string name="tab_title_chat">Perguntas frequentes</string>
-    <string name="tab_title_my_reports">Meus relatórios</string>
+    <string name="tab_title_my_reports">Meus feedback</string>
     <string name="tab_title_preferences">Configurações</string>
     <string name="tab_title_report">"Feedback"</string>
     <string name="temporary_not_available">Este recurso ainda não está disponível</string>

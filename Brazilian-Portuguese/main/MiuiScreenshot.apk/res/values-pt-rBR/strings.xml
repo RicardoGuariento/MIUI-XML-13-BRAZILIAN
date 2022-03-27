@@ -87,6 +87,7 @@
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="garbage_count">Existem %1$s instâncias antigas</string>
+    <string name="long_screenshot_error">Um erro ocorreu. Tente novamente.</string>
     <string name="long_screenshot_guide_text">"Toque para fazer
 uma captura de tela estendida"</string>
     <string name="long_screenshot_intercepted_error">"Não foi possível fazer a captura de tela. Tente novamente."</string>

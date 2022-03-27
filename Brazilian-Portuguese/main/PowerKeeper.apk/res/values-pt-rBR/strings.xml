@@ -48,8 +48,9 @@
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
-    <string name="checking_intranet">Verificando a conexão da intranet, por favor, aguarde...</string>
+    <string name="checking_intranet">Verificando a conexão da intranet…</string>
     <string name="chip_text">Texto do chip</string>
+    <string name="clear_temperature">Temperatura final</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
@@ -73,7 +74,7 @@
 A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="config_suggest_suffix_title">Economia de bateria (recomendado)</string>
     <string name="confirm">"OK"</string>
-    <string name="connect_intranet_hint">Por favor, conecte-se à intranet</string>
+    <string name="connect_intranet_hint">Conecte-se à intranet</string>
     <string name="copy">Copiar</string>
     <string name="current_cloud_addr_is">O endereço do servidor de controle na nuvem é:</string>
     <string name="date_picker_label_day" />
@@ -81,7 +82,7 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
-    <string name="delete_data_confirm">Confirme para excluir estes dados</string>
+    <string name="delete_data_confirm">Excluir este item agora?</string>
     <string name="early_morning">"AM"</string>
     <string name="empty" />
     <string name="empty_title_apps_container_list">Nenhum app</string>
@@ -155,9 +156,9 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="important_warning">Atenção</string>
     <string name="insert_data">Inserir dados</string>
     <string name="item_view_role_description">Guia</string>
-    <string name="kill_all_back_pro_toast_message">"Não é possível usar todos os processos em segundo plano devido ao superaquecimento do dispositivo"</string>
+    <string name="kill_all_back_pro_toast_message">Seu dispositivo está superaquecido. Todos os apps em execução em segundo plano foram fechados por enquanto</string>
     <string name="kill_pkg_toast_message">Seu dispositivo está superaquecendo e o app será encerrado</string>
-    <string name="kill_some_back_pro_toast_message">"Não é possível usar processos em segundo plano devido ao superaquecimento do dispositivo"</string>
+    <string name="kill_some_back_pro_toast_message">Seu dispositivo está superaquecido. Alguns apps em execução em segundo plano foram fechados por enquanto</string>
     <string name="lasttime_applist_cloud">Apps atualizados:</string>
     <string name="lasttime_feature_cloud">Recursos atualizados:</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
@@ -321,6 +322,8 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="scenario_policies_summary">Aplicar estratégias diferentes de economia de acordo com cenários definidos.</string>
     <string name="scenario_policies_title">Cenários inteligentes</string>
     <string name="scenario_policies_warmcontrol">Controle de temperatura</string>
+    <string name="screen_off_current">Tela desligada DC</string>
+    <string name="screen_on_current">Tela ligada DC</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_result_text">Não foi possível encontrar nenhum app</string>
@@ -332,7 +335,7 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="sleep_config_enhance_title">Modo sono</string>
     <string name="sleepmode_disclaimer_agree">Aceitar</string>
     <string name="sleepmode_disclaimer_cancel">Cancelar</string>
-    <string name="sleepmode_privacy_content">Este recurso usará o sistema do seu dispositivo e informações do dispositivo. Eles não serão enviados aos nossos servidores.</string>
+    <string name="sleepmode_privacy_content">Este recurso precisa acessar informações sobre seu sistema e seu dispositivo. Estas informações não serão enviados aos nossos servidores.</string>
     <string name="sleepmode_privacy_link">Saiba mais sobre privacidade e segurança</string>
     <string name="sleepmode_privacy_title">Modo sono</string>
     <string name="softbank_high_temp_toast_time_10min">A lanterna foi desativada para evitar superaquecimento</string>
@@ -382,8 +385,8 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="the_united_nations_day">Dia das Nações Unidas</string>
     <string name="the_valentines_day">Dia dos Namorados</string>
     <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
-    <string name="thermal_cancel">NÃO</string>
-    <string name="thermal_confirm">SIM</string>
+    <string name="thermal_cancel">Cancelar</string>
+    <string name="thermal_confirm">"OK"</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
@@ -392,6 +395,7 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="title_history">Historia de vida</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
+    <string name="trig_temperature">Temperatura inicial</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>

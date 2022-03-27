@@ -514,9 +514,11 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="sim_card_detection_mobile_not_available">O cartão SIM não pôde se conectar à rede</string>
     <string name="sim_card_detection_sb_esim">Ativar o eSIM</string>
     <string name="sim_card_detection_sb_nonactivated">Não ativado</string>
+    <string name="sim_card_dial_card">SIM %d para chamadas</string>
     <string name="sim_card_dial_card1">SIM 1 para chamadas</string>
     <string name="sim_card_dial_card2">SIM 2 para chamadas</string>
     <string name="sim_card_do_not_select_dial_card">Selecione o cartão SIM ao discar</string>
+    <string name="sim_card_network_card">Dados SIM %d</string>
     <string name="sim_card_network_card1">Dados SIM 1</string>
     <string name="sim_card_network_card2">Dados SIM 2</string>
     <string name="sim_dectection_next">Continuar</string>

@@ -2098,8 +2098,8 @@ Nenhuma reserva, número de telefone celular Esqueceu ou foi descontinuado, entr
     <string name="pa_express_state_unknown">Sem dados ainda</string>
     <string name="pa_express_tail_number">Número do pedido: %1$s</string>
     <string name="pa_express_title">Entrega expressa</string>
-    <string name="pa_express_widget_logout">Entre para rastrear seus pacotes</string>
-    <string name="pa_express_widget_order_42">Pacote de pista</string>
+    <string name="pa_express_widget_logout">Faça login para ver seus pacotes de entrega expressa</string>
+    <string name="pa_express_widget_order_42">Digite o número de rastreamento</string>
     <string name="pa_express_widget_post">Enviar pacote</string>
     <string name="pa_finish">Feito</string>
     <string name="pa_font_mi_lan_pro_medium">mipro-medium</string>

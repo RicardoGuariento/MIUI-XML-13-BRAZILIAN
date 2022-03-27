@@ -1035,7 +1035,7 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="preference_privacy_settings_title">Privacidade</string>
     <string name="preference_remove_duplicate">Unir contatos duplicados</string>
     <string name="preference_show_firewall_calllog">Mostrar chamadas bloqueadas no histórico</string>
-    <string name="preference_show_yellowpage_tab_description">As Páginas amarelas podem não funcionar corretamente quando este recurso estiver desativado.</string>
+    <string name="preference_show_yellowpage_tab_description">As Páginas amarelas e seus serviços não serão exibidos se você desativar esse recurso.</string>
     <string name="preference_show_yellowpage_tab_title">Mostrar Páginas amarelas</string>
     <string name="preference_simple_mode_title">Mostrar fotos e informações</string>
     <string name="preference_smart_group_company_summary">Agrupa contatos por empresa</string>

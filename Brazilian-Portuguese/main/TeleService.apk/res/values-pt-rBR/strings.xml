@@ -2196,7 +2196,7 @@ Interface UT: %5$s"</string>
     <string name="reject_via_sms_summary">Exibe botões para encerrar chamadas e enviar SMS</string>
     <string name="reject_via_sms_title">Respostas rápidas</string>
     <string name="relay_call_answered_by_other_devices">Esta chamada foi atendida em outro dispositivo.</string>
-    <string name="relay_call_released_due_to_connect_lost">A conexão foi perdida. Continue com a chamada no seu outro dispositivo.</string>
+    <string name="relay_call_released_due_to_connect_lost">A conexão foi perdida. Continue com a chamada em seu outro dispositivo.</string>
     <string name="relay_connection_service_label">Chamada de RETRANSMISSÃO integrada</string>
     <string name="remaining_length_format">%1$s restante(s)</string>
     <string name="remove">Remover</string>

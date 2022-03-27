@@ -326,7 +326,7 @@ não são geradas no Segundo Espaço"</string>
     <string name="hsv_space_color_saturation">Saturação</string>
     <string name="hsv_space_color_value">Valor</string>
     <string name="intelligent_radio_btn_summary">Ajusta a taxa de atualização de forma dinamica com base em cenários para equilibrar o desempenho com o consumo de energia</string>
-    <string name="intelligent_radio_btn_title">Automático (recomendado)</string>
+    <string name="intelligent_radio_btn_title">Padrão (recomendado)</string>
     <string name="intelligent_recognition_item_summary">Atribua um toque personalizado para chamadas de serviços de entrega ou transporte. Este recurso funcionará quando %s estiver definido como seu toque padrão.</string>
     <string name="intelligent_recognition_item_title">Identificar serviços</string>
     <string name="item_anura">Anuros</string>
