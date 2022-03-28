@@ -195,6 +195,19 @@
         <item>4K (seguro e de alta qualidade)</item>
         <item>720p, 1080p (tela dupla)</item>
     </string-array>
+    <string-array name="qs_control_independent_tiles">
+        <item>Telefone</item>
+        <item>Bluetooth</item>
+        <item>Wi-Fi</item>
+        <item>Brilho automático</item>
+    </string-array>
+    <string-array name="qs_control_independent_tiles_global">
+        <item>cell</item>
+        <item>Bluetooth</item>
+        <item>Wi-Fi</item>
+        <item>Lanterna</item>
+        <item>Brilho automático</item>
+    </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Desativado</item>
         <item>64KB</item>

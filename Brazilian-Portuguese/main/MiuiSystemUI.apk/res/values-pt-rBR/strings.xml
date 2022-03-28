@@ -467,6 +467,7 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="battery_info_status_charging_fast">Carregamento rápido</string>
     <string name="battery_info_status_charging_lower">Carregando</string>
     <string name="battery_info_status_charging_slow">Carregamento lento</string>
+    <string name="battery_info_status_charging_wireless">Carregamento sem fio</string>
     <string name="battery_info_status_discharging">Não está carregando</string>
     <string name="battery_info_status_full">Carregada</string>
     <string name="battery_info_status_not_charging">Conectado, não é possível carregar agora</string>
@@ -1259,6 +1260,7 @@ prioridades"</string>
     <string name="invalid_confirm_pin_hint">Os PINs não correspondem</string>
     <string name="invalid_sim_pin_hint">O PIN deve conter de 4 a 8 números</string>
     <string name="invalid_sim_puk_hint">O PUK deve conter no mínimo 8 números</string>
+    <string name="item_view_role_description">Guia</string>
     <string name="keep_screen_on">Permanecer ativo</string>
     <string name="keep_screen_on_summary">A tela nunca entrará em inatividade enquanto estiver carregando</string>
     <string name="keyboard_key_back">Voltar</string>
@@ -1386,6 +1388,7 @@ Entre em contato com sua operadora para obter outro cartão SIM."</string>
     <string name="keyguard_unlock">Deslize para cima para desbloquear</string>
     <string name="keyguard_unlock_press">Pressione para abrir</string>
     <string name="keywords_adb_wireless">adb, depurar, programador</string>
+    <string name="keywords_alarms_and_reminders">agendar, alarme, lembrete, relógio</string>
     <string name="kg_enter_confirm_pin_hint">Confirmar o novo código PIN</string>
     <string name="kg_face_not_recognized">Não reconhecido</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">Você tentou desbloquear o dispositivo incorretamente %1$d vezes. Após mais %2$d tentativas incorretas, o perfil de trabalho será removido, o que apagará todos os dados do perfil.</string>
@@ -1663,6 +1666,10 @@ d 'de' MMMM"</string>
     <string name="miui_toast_zen_to_standard">Alternado para o Modo silencioso. Toques para chamadas e notificações estão silenciados agora.</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Alternado para o Modo silencioso. Toques, sons de notificação e multimídias, estão silenciados agora.</string>
     <string name="miui_unimportant_notifications">Notificações sem importância</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
@@ -1924,6 +1931,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="notification_channel_summary_default_with_bubbles">Pode tocar ou vibrar com base nas configurações do dispositivo. Conversas em bolha de %1$s por padrão.</string>
     <string name="notification_channel_summary_low">Sem som ou vibração</string>
     <string name="notification_channel_summary_priority">Mostra no topo da seção de conversa, aparece como uma bolha flutuante, exibe a foto do perfil na Tela de bloqueio</string>
+    <string name="notification_channel_summary_priority_all">Exibe na parte superior das notificações de conversas e como foto de perfil na tela de bloqueio, aparece como uma bolha, interrompe o Não perturbe</string>
     <string name="notification_channel_summary_priority_baseline">Mostra no topo das notificações de conversa e como uma foto do perfil na Tela de bloqueio</string>
     <string name="notification_channel_summary_priority_bubble">Mostra na parte superior das notificações de conversa e como uma foto do perfil na Tela de bloqueio, aparece como um bolha</string>
     <string name="notification_channel_summary_priority_dnd">Mostra na parte superior das notificações de conversa e como uma foto do perfil na Tela de bloqueio, interrompe o Não perturbe</string>
@@ -2149,9 +2157,12 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="priority_onboarding_show_at_top_text">Mostrar no topo da seção de conversas</string>
     <string name="priority_onboarding_show_avatar_text">Mostrar foto de perfil na tela de bloqueio</string>
     <string name="priority_onboarding_title">Conversa definida como prioritária</string>
+    <string name="privacy_dialog_title">Notificações sobre ações confidenciais</string>
+    <string name="privacy_recent_used_title">Recente</string>
     <string name="privacy_type_camera">câmera</string>
     <string name="privacy_type_location">localização</string>
     <string name="privacy_type_microphone">microfone</string>
+    <string name="privacy_using_title">Atual</string>
     <string name="private_dns_broken">O Servidor de DNS privado não pôde ser acessado</string>
     <string name="private_dns_mode_off">Desativado</string>
     <string name="private_dns_mode_opportunistic">Automático</string>
@@ -2167,6 +2178,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="prompt_safe">Seguro</string>
     <string name="prompt_unknown">Desconhecido</string>
     <string name="qs_alarm_tile_no_alarm">Nenhum alarme definido</string>
+    <string name="qs_bill_message_balance">%1$s %2$s restante</string>
     <string name="qs_control_big_tile_state_closed">Desativado</string>
     <string name="qs_control_big_tile_state_closing">Desativando…</string>
     <string name="qs_control_big_tile_state_connected">Conectado</string>
@@ -2198,6 +2210,9 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="qs_rearrange">Reordenar Configurações rápidas</string>
     <string name="qs_status_phone_muted">Telefone silenciado</string>
     <string name="qs_status_phone_vibrate">Vibrar telefone</string>
+    <string name="qs_traffic_message_type_exceed">%1$s %2$s acima do limite</string>
+    <string name="qs_traffic_message_type_remain">%1$s %2$s restante</string>
+    <string name="qs_traffic_message_type_used">Usado %1$s %2$s</string>
     <string name="quick_controls_setup_subtitle">Segure o botão de energia para acessar seus controles</string>
     <string name="quick_controls_setup_title">Configurar controles do dispositivo</string>
     <string name="quick_controls_subtitle">Adicionar controles para seus dispositivos conectados</string>
@@ -2332,6 +2347,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="quick_settings_sim_disabled">" (Desativado)"</string>
     <string name="quick_settings_sync_label">Sincronizar</string>
     <string name="quick_settings_tethering_label">Ancoragem</string>
+    <string name="quick_settings_tiles">padrão</string>
     <string name="quick_settings_time_label">Hora</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Para adicionar um item, pressione-o e segure-o, e então arraste-o para a parte de cima do painel.</string>
     <string name="quick_settings_ui_mode_night_label">Tema escuro</string>
@@ -2372,6 +2388,9 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="recent_task_cleaning">Liberando apps…</string>
     <string name="recent_task_lock_text">Bloquear</string>
     <string name="recent_task_unlock_text">Desbloquear</string>
+    <string name="recent_used_camera">Este app usou a câmera</string>
+    <string name="recent_used_camera_and_microphone">Este app gravou áudio e usou a câmera</string>
+    <string name="recent_used_microphone">Este app gravou áudio</string>
     <string name="recents_accessibility_split_screen_left">Dividir tela para a esquerda</string>
     <string name="recents_accessibility_split_screen_right">Dividir tela para a direita</string>
     <string name="recents_accessibility_split_screen_top">Dividir tela para o topo</string>
@@ -2938,6 +2957,9 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="user_setup_dialog_title">Configurar usuário agora?</string>
     <string name="user_setup_profile_dialog_message">Configurar o perfil agora?</string>
     <string name="user_switch_to_user">Alternar para %s</string>
+    <string name="using_camera">Este app está usando a câmera</string>
+    <string name="using_camera_and_microphone">Este app está gravando áudio e usando a câmera</string>
+    <string name="using_microphone">Este app gravou áudio</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="velocity_tracker_impl">plataforma</string>
@@ -3029,6 +3051,7 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="wifi_cant_connect">Não é possível conectar-se</string>
     <string name="wifi_cant_connect_to_ap">"Não é possível conectar-se à '%1$s'"</string>
     <string name="wifi_check_password_try_again">Verifique a senha e tente novamente</string>
+    <string name="wifi_connected_low_quality">Baixa qualidade</string>
     <string name="wifi_connected_mac_randomization">Randomização de MAC conectado</string>
     <string name="wifi_connected_no_internet">Sem Internet</string>
     <string name="wifi_coverage_extend">Ativar ampliação de cobertura de Wi-Fi</string>
