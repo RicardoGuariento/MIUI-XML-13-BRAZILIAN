@@ -704,6 +704,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="mx_on_sim_2">Mi Mensagem com o SIM 2</string>
     <string name="mx_online">Ativado</string>
     <string name="mx_privacy_policy">Política de Privacidade do Mi Mensagens</string>
+    <string name="mx_privacy_policy_revoke">Retirar o consentimento com a Política de Privacidade do Mi Messagens</string>
     <string name="mx_reactivate">Reativar Mi Mensagens</string>
     <string name="mx_recommend_msg">Toque para ativar o Mi Mensagens</string>
     <string name="mx_stranger_recommend_msg">Toque para bloquear Mi Mensagens de números desconhecidos</string>
@@ -786,6 +787,9 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="playing_failed">Não é possível reproduzir</string>
     <string name="pm">"PM"</string>
     <string name="pnr">PNR</string>
+    <string name="prefDefault_vibrateWhen">nunca</string>
+    <string name="prefDefault_vibrate_false">nunca</string>
+    <string name="prefDefault_vibrate_true">sempre</string>
     <string name="pref_advanced_settings_title">Configurações adicionais</string>
     <string name="pref_allow_network_access_summary">Obtenha as últimas informações em entregas e outros serviços</string>
     <string name="pref_cell_broadcast">Alertas de emergência</string>
@@ -909,6 +913,7 @@ Leia e concorde com a nova versão da Política de Privacidade antes de continua
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_policy_name_5g_mms">Mensagens 5G</string>
     <string name="privacy_policy_name_mms">Mensagens</string>
+    <string name="privacy_policy_name_smart_sms">Mensagens inteligentes</string>
     <string name="privacy_policy_name_websms">Mi Mensagem</string>
     <string name="privacy_revoke_nonetwork_msg">Seu dispositivo precisa conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="privacy_revoke_nonetwork_ok">Entendi</string>
@@ -1323,6 +1328,8 @@ Dê uma olhada nos recomendados!"</string>
     <string name="storage_limits_setting">Definir limites</string>
     <string name="storage_limits_setting_dismiss">Nenhum limite</string>
     <string name="storage_unavailable">Sem espaço disponível</string>
+    <string name="sub_sim_card">Sub</string>
+    <string name="sub_sim_card_indicator">Sub %d</string>
     <string name="sub_sim_not_support_mms">"Não é possível enviar MMS usando o SIM secundário"</string>
     <string name="subject_hint">Assunto</string>
     <string name="subject_label">"Assunto: "</string>
@@ -1342,13 +1349,16 @@ Dê uma olhada nos recomendados!"</string>
     <string name="system_permission_declare_disagree">Cancelar</string>
     <string name="system_permission_declare_double_link" formatted="false">Leia e aceite o nosso %1s e a %2s antes de usar este recurso.</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo ao %1s! %2s</string>
+    <string name="system_permission_declare_mi_message">Bem-vindo ao Mi Mensagens!</string>
     <string name="system_permission_declare_no_say_no">"Nós protegeremos suas informações pessoais de acordo com leis, regulamentos e políticas de privacidade relevantes.
 Se você não aceitar em conceder estas permissões ou compartilhar e fazer o envio de suas informações pessoais, você não poderá usar este app."</string>
     <string name="system_permission_declare_privacy_declare">%1s precisa coletar seus dados e requer as seguintes permissões para funcionar normalmente:</string>
     <string name="system_permission_declare_privacy_declare_new">Este app precisa se conectar à Internet e requer as seguintes permissões para funcionar normalmente:</string>
     <string name="system_permission_declare_privacy_link">Para entender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, Leia e aceite o nosso %1s.</string>
+    <string name="system_permission_declare_rcs">Bem-vindo às Mensagens 5G!</string>
     <string name="system_permission_declare_revoke_path">Você pode revogar sua autorização e desativar serviços nas configurações do app Mensagens.</string>
     <string name="system_permission_declare_single_link">Leia e aceite a nossa %1s antes de usar este recurso.</string>
+    <string name="system_permission_declare_smart_message">Bem-vindo às Mensagens inteligentes!</string>
     <string name="system_permission_declare_triple_link" formatted="false">Leia e aceite o nosso %1s, a %2s e a %3s antes de usar estes recursos.</string>
     <string name="system_permission_declare_use_network">Conectar-se à rede</string>
     <string name="system_permission_declare_user_agree">Aceitar</string>
@@ -1383,6 +1393,7 @@ Se você não aceitar em conceder estas permissões ou compartilhar e fazer o en
     <string name="system_permission_perm_write_mms">Permitir que o Mensagens escreva MMS</string>
     <string name="system_permission_perm_write_sms">Permitir que o Mensagens escreva SMS</string>
     <string name="system_permission_requested">Perguntar</string>
+    <string name="system_permission_user_privacy">Antes de continuar, leia e concorde com os seguintes termos e condições.</string>
     <string name="tab_finance">Finanças</string>
     <string name="tab_message">Mensagens</string>
     <string name="tab_promotions">Promoções</string>

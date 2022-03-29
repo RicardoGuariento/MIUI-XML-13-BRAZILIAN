@@ -145,7 +145,6 @@
     <string name="cast_forward">Avançar</string>
     <string name="cast_forward_10">Avançar dez segundos</string>
     <string name="cast_forward_30">Avançar trinta segundos</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">AO VIVO</string>
     <string name="cast_mute">Desativar som</string>
     <string name="cast_notification_connected_message">Conectado a %1$s</string>
@@ -394,6 +393,7 @@ Envie este código para o supervisor."</string>
     <string name="exo_controls_repeat_one_description">Repetir uma</string>
     <string name="exo_controls_rewind_description">Retroceder</string>
     <string name="exo_controls_show">Mostrar controles de reprodução</string>
+    <string name="exo_controls_shuffle_description">Aleatório</string>
     <string name="exo_controls_shuffle_off_description">Aleatório desativado</string>
     <string name="exo_controls_shuffle_on_description">Aleatório ativado</string>
     <string name="exo_controls_stop_description">Pare</string>
@@ -678,6 +678,7 @@ para vídeos"</string>
     <string name="language_setting_tips">Selecione suas preferências de idioma para receber recomendações de conteúdos mais relevantes. Você pode alterar suas preferências de idioma em Perfil > Idioma.</string>
     <string name="language_setting_tips_dialog">Você pode selecionar as preferências de idioma para o conteúdo em Conta > Idioma.</string>
     <string name="later">Depois</string>
+    <string name="library_roundedimageview_libraryDescription">Um ImageView rápido (e Drawable) que suporta cantos arredondados (e ovais ou círculos) com base no exemplo original de Romain Guy.</string>
     <string name="live_now">Ao vivo agora</string>
     <string name="live_title">Ao vivo</string>
     <string name="live_tv_title">TV ao vivo</string>
@@ -956,6 +957,7 @@ para uma melhor experiência de visualização"</string>
     <string name="mr_dialog_route_header">Reproduzir em um grupo</string>
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositivos</string>
+    <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
     <string name="my_favorite_channels">Meus canais favoritos</string>
     <string name="my_feedback_title">Meu feedback</string>
     <string name="need_update_app">Atualize o Mi Vídeo para usar todos os seus recursos</string>
@@ -1507,6 +1509,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="srl_header_pulling">Puxe para baixo para atualizar</string>
     <string name="srl_header_refreshing">Atualizando…</string>
     <string name="srl_header_release">Solte para atualizar</string>
+    <string name="srl_header_secondary">Liberação para o segundo andar</string>
     <string name="srl_header_update">"'Última atualização' d-M HH:mm"</string>
     <string name="start_download_tip">Adicionado à fila. Verifique o progresso em Perfil &gt; Downloads.</string>
     <string name="storage_external_sdcard">Cartão SD</string>
@@ -1726,6 +1729,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="video_resolution_kb_size_suffix">%.2fKB</string>
     <string name="video_resolution_mb_size_suffix">%.2fMB</string>
     <string name="video_resolution_tag_suffix">%dP</string>
+    <string name="videos_guide_tip">Encontre as tendências da Indonésia aqui</string>
     <string name="view">Ver</string>
     <string name="vp_VideoView_error_button">"OK"</string>
     <string name="vp_VideoView_error_text_unknown">Ocorreu um erro</string>

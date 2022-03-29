@@ -46,6 +46,7 @@
     <string name="download_button">Botão de download</string>
     <string name="download_failed">Não foi possível baixar</string>
     <string name="early_morning">"AM"</string>
+    <string name="earth_id">Terra</string>
     <string name="earth_summary">A Terra é o berço da civilização humana</string>
     <string name="earth_super_wallpaper_label">Terra</string>
     <string name="earth_title">Nosso planeta</string>
@@ -101,6 +102,7 @@
     <string name="mars_coordinate_latitude_0">73.287°L</string>
     <string name="mars_coordinate_latitude_1">323.483°L</string>
     <string name="mars_coordinate_latitude_2">340.780°L</string>
+    <string name="mars_id">Marte</string>
     <string name="mars_position_content_0">"Esta região contém falésias, mesas e vales grandes e planos, os quais acredita-se terem sido formados por geleiras cobertas de detritos. Minerais de argila também foram detectados aqui, que são de grande interesse na busca por evidências de vida em Marte. 
 
 NASA/JPL/Universidade do Arizona"</string>
@@ -133,6 +135,10 @@ d 'de' MMMM"</string>
 d 'de' MMMM"</string>
     <string name="miui_lock_screen_large_date_12">"EEEE
 d 'de' MMMM"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecione itens</string>
@@ -208,11 +214,13 @@ d 'de' MMMM"</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
+    <string name="saturn_id">Saturno</string>
     <string name="saturn_summary">Os anéis de Saturno são o espetáculo mais incrível do Sistema Solar</string>
     <string name="saturn_super_wallpaper_label">Saturno</string>
     <string name="saturn_title">Anéis distantes</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="send">Enviar</string>
+    <string name="snowmountain_id">Picos nevados</string>
     <string name="snowmountain_summary">Encostas ensolaradas do monte Siguniang</string>
     <string name="snowmountain_super_wallpaper_label">Picos nevados</string>
     <string name="snowmountain_title">Picos nevados</string>

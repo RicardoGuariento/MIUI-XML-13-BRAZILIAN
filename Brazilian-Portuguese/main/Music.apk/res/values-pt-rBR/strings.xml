@@ -314,6 +314,7 @@
     <string name="download_error_insufficient_space">Espaço insuficiente</string>
     <string name="download_fail_to_fetch_info">Não foi possível baixar, tente novamente</string>
     <string name="download_filesize_unknown">Desconhecido</string>
+    <string name="download_free">Baixar música</string>
     <string name="download_in_process">BAIXANDO</string>
     <string name="download_info_start_deleted_tasks">Remover downloads</string>
     <string name="download_manage">"Downloads"</string>
@@ -353,6 +354,7 @@
     <string name="download_while_playing_no_vip_summary">Baixar músicas do streaming automaticamente (exceto conteúdo pago)</string>
     <string name="download_while_playing_summary">Baixar músicas do streaming automaticamente</string>
     <string name="download_while_playing_title">Baixar durante o streaming</string>
+    <string name="downloaded">Baixado</string>
     <string name="downloaded_empty">Vazio</string>
     <string name="downloading_apk">Baixando… Veja o progresso na Área de notificações.</string>
     <string name="downloading_empty">Vazio</string>
@@ -467,6 +469,7 @@
     <string name="filter_by_size_prefix">"Ocultar arquivos menores que "</string>
     <string name="filter_by_size_summary">Ocultar arquivos de áudio pequenos</string>
     <string name="filter_size_unit">%dKB</string>
+    <string name="find_you_tunes">Encontre suas músicas</string>
     <string name="floating_view_dialog_desc">A música vai parar de reproduzir se você sair desta página agora. Sair mesmo assim?</string>
     <string name="floating_view_dialog_leave">Sair</string>
     <string name="floating_view_dialog_stay">Permanecer</string>
@@ -510,11 +513,15 @@
     <string name="format_not_support">Este formato não é suportado.</string>
     <string name="format_unsupported_or_corrupted">Este formato não é suportado ou o arquivo está corrompido</string>
     <string name="fragment_title_artist_album">Álbuns</string>
+    <string name="free">Grátis</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="gcm_fallback_notification_channel_label">Diversos</string>
     <string name="get_more_favorite_content_after_login">Faça o login para descobrir mais músicas e vídeos.</string>
+    <string name="get_one_day_vip">Você tem %d-dia VIP!</string>
+    <string name="get_one_hour_vip">Você tem %d horas VIP!</string>
+    <string name="get_vip">Obter VIP</string>
     <string name="google_account_login">Fazer login com o Google</string>
     <string name="goto_local_search">Procurar no dispositivo</string>
     <string name="goto_online_search">Procurar online</string>
@@ -525,6 +532,7 @@
     <string name="headset_and_audio_effect_title">Fones de ouvido e efeitos sonoros</string>
     <string name="hide_album">Ocultar capa do álbum</string>
     <string name="hide_lyric">Ocultar letra</string>
+    <string name="hifi_quality">Qualidade Hi-Fi</string>
     <string name="high_sound_quality">Alta</string>
     <string name="higher_quality_music">Músicas com alta qualidade</string>
     <string name="higher_quality_music_summary">Faça streaming e baixe arquivos com taxas de bits mais altas</string>
@@ -536,6 +544,7 @@
     <string name="home_tab_online">Música online</string>
     <string name="home_tab_recommend">"Online"</string>
     <string name="home_tab_search">Pesquisar</string>
+    <string name="home_tab_yandex">Música Yandex</string>
     <string name="hot_icon_in_fast_indexer">P</string>
     <string name="hungama_batch_download_alert_summary">Apenas membros PRO podem baixar várias músicas. Obter uma assinatura PRO agora?</string>
     <string name="hungama_batch_download_alert_summary_toast">Obtenha uma assinatura para baixar a playlist inteira.</string>
@@ -556,6 +565,7 @@
     <string name="hungama_subscribe_title">Assinatura PRO</string>
     <string name="i_know">"OK"</string>
     <string name="icon_content_description">Ícone de diálogo</string>
+    <string name="imported">Importado</string>
     <string name="impunity_declaration_content">Você precisa ler e concordar com nosso &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=pt_BR\">Contrato do Usuário&lt;/a> e a &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=pt_BR\">Política de Privacidade&lt;/a> antes de usar o produto.</string>
     <string name="impunity_declaration_ignore">Não mostrar novamente</string>
     <string name="impunity_declaration_negative_text">Sair</string>
@@ -639,6 +649,7 @@
     <string name="joox_search_subtitle_prefix_song">faixa</string>
     <string name="joox_vip_check_to_pay">Comprar</string>
     <string name="joox_vip_expired_hint">Sua assinatura VIP expirou. As músicas baixadas do JOOX só serão exibidas em seus downloads.</string>
+    <string name="just_hit_next">Basta bater em seguida</string>
     <string name="keep_queued_download">Manter</string>
     <string name="ktv_playlist">Playlist KTV</string>
     <string name="language_page_confirm">Confirmar</string>
@@ -648,6 +659,7 @@
     <string name="latest_song">Histórico de reprodução (%d)</string>
     <string name="like">Curtir</string>
     <string name="list_item_play_all_tracks">Reproduzir tudo</string>
+    <string name="listen_anywhere">Ouça em qualquer lugar</string>
     <string name="load_shuffle">Carregando…</string>
     <string name="loadercontainer_loading">Aguarde…</string>
     <string name="loading">Carregando</string>
@@ -707,6 +719,7 @@
     <string name="middle_sound_quality">Padrão</string>
     <string name="midnight">"AM"</string>
     <string name="milink_unavaliable_please_update">Mi Link indisponível. Atualize a MIUI.</string>
+    <string name="millions_songs">Milhões de músicas</string>
     <string name="missing_title">(Desconhecido)</string>
     <string name="miuishare_account_login_ok">Fazer login</string>
     <string name="miuishare_no_network">Não é possível conectar-se à rede.</string>
@@ -832,6 +845,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção de um dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção de um ano</string>
+    <string name="mtrl_timepicker_confirm">"OK"</string>
     <string name="mulit_choice_management">Gerenciar vários itens</string>
     <string name="music_browser_label">Música</string>
     <string name="music_filter">Filtrar arquivos de áudio</string>
@@ -907,6 +921,8 @@
     <string name="offline_opt_in_message">"Enviaremos uma notificação com um link para o site do anunciante."</string>
     <string name="offline_opt_in_title">"Abra o anúncio quando estiver online novamente."</string>
     <string name="ok">"OK"</string>
+    <string name="one_day_vip">%d-dia VIP</string>
+    <string name="one_hour_vip">%d-horas VIP</string>
     <string name="online_apk_acquired">%d%% carregado</string>
     <string name="online_apk_acquiring">Carregando… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">Não foi possível baixar devido ao espaço de armazenamento ser insuficiente.</string>
@@ -1308,6 +1324,7 @@ Seja feliz"</string>
     <string name="upload_playlist_to_hungama_toast">As músicas online serão sincronizadas com o Hungama</string>
     <string name="user_agreement">Contrato do Usuário</string>
     <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=pt_br</string>
+    <string name="user_experience_program_open">Devido a restrições de direitos autorais, você precisa se inscrever no Programa de Experiência do Usuário para poder reproduzir as músicas baixadas. Você pode fazer isso em Configurações > Senhas e segurança > Privacidade > Inscreva-se no Programa de Experiência do Usuário.</string>
     <string name="user_playlist_plaza">"Playlists"</string>
     <string name="user_privacy_dialog_negative_text">Cancelar</string>
     <string name="user_privacy_dialog_positive_count_down_text">Retirar (%ss)</string>
@@ -1328,6 +1345,7 @@ Seja feliz"</string>
     <string name="vip_required">Obtenha o Pacote de Músicas Premium para reproduzir esta música. Pulando música agora.</string>
     <string name="vip_required_with_song">%s está disponível apenas para membros PRO. Ignorando esta música por enquanto.</string>
     <string name="voice_search_first_hint">Experimente a pesquisa por voz!</string>
+    <string name="watch_video">Assistir vídeo</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
