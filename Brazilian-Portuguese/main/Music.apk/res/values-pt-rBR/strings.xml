@@ -133,6 +133,7 @@
     <string name="back">Voltar</string>
     <string name="back_confirm">Toque novamente para colocar o app em segundo plano</string>
     <string name="banner_op">Música</string>
+    <string name="best_experience">Melhor experiência</string>
     <string name="bluetooth_device">Dispositivo de áudio Bluetooth</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="btn_text_edit">Editar</string>
@@ -417,7 +418,9 @@
     <string name="exo_media_action_repeat_all_description">Repetir tudo</string>
     <string name="exo_media_action_repeat_off_description">Não repetir</string>
     <string name="exo_media_action_repeat_one_description">Repetir uma</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">"Mono"</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternativo</string>
     <string name="exo_track_role_closed_captions">Legendas</string>
     <string name="exo_track_role_commentary">Comentário</string>
@@ -1311,6 +1314,7 @@ Seja feliz"</string>
     <string name="unknown_artist_name">Artista desconhecido</string>
     <string name="unlimited_downloads">Downloads ilimitados</string>
     <string name="unlimited_offline_songs">Músicas offline ilimitadas</string>
+    <string name="unlimited_skips">Saltos ilimitados</string>
     <string name="update_now">ATUALIZAR AGORA</string>
     <string name="upgrade_music">Atualizar Música</string>
     <string name="upgrade_music_message">As atualizações estão prontas. Reinicie para atualizar.</string>
@@ -1353,6 +1357,7 @@ Seja feliz"</string>
 
 Toque em %s para iniciar este download da próxima vez que você estiver conectado a uma rede Wi-Fi."</string>
     <string name="wifi_required_title">Você deve se conectar a uma rede Wi-Fi para baixar este arquivo</string>
+    <string name="xiaomi_update_sdk_bytes_unit">"%1$sB"</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Apresentando a versão %1$s
 Tamanho: %2$s"</string>
@@ -1360,6 +1365,8 @@ Tamanho: %2$s"</string>
 Tamanho de atualização delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s atualização!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Armazenamento indisponível, verifique o cartão SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">"%1$sKB"</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">"%1$sMB"</string>
     <string name="yesterday">Ontem</string>
     <string name="you_can_switch_mode_in_settings">Você pode alternar entre os modos nas Configurações</string>
     <string name="you_may_like">Você também pode gostar de</string>

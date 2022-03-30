@@ -2017,7 +2017,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="ongoing_privacy_dialog_phonecall">Chamada</string>
     <string name="ongoing_privacy_dialog_recent_op">Recentemente usado por %1$s</string>
     <string name="ongoing_privacy_dialog_separator">", "</string>
-    <string name="ongoing_privacy_dialog_using_op">Sendo usado por %1$s</string>
+    <string name="ongoing_privacy_dialog_using_op">Em uso por %1$s</string>
     <string name="open_camera_hint_text">Arraste o ícone para abrir a Câmera</string>
     <string name="open_lock_screen_magazine_hint_text">Deslize para a direita para mais opções</string>
     <string name="open_remote_center_hint_text">Deslize para a direita para ver os atalhos</string>
