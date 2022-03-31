@@ -151,6 +151,7 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="high_temp_benchmark_state_message">"Parece que este dispositivo está muito quente agora, use este app após o seu dispositivo esfriar: "</string>
     <string name="high_temp_state">Superaquecendo</string>
     <string name="high_temp_state_message">Seu dispositivo está superaquecendo. Os dados móveis, pontos de acesso Wi-Fi, GPS e câmera serão restringidos.</string>
+    <string name="high_temp_state_message_orange_es">Para melhorar o desempenho do dispositivo, alguns apps foram desativados temporariamente.</string>
     <string name="hints_loading_text">Aguarde…</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="important_warning">Atenção</string>
@@ -393,6 +394,7 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="time_picker_dialog_title">Ajuste a hora</string>
     <string name="title_dry_history">História a seco</string>
     <string name="title_history">Historia de vida</string>
+    <string name="title_home">Início</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="trig_temperature">Temperatura inicial</string>

@@ -48,6 +48,7 @@
     <string name="alert_message_delete_excerpt">Excluir esta anotação? O excerto também será excluído.</string>
     <string name="alert_message_delete_note">Excluir esta anotação?</string>
     <string name="alert_message_edit_anyway">Se você editar esta anotação, uma parte de seu conteúdo pode ser perdida.</string>
+    <string name="alert_message_edit_anyway_new">Esta anotação contém conteúdo não suportado. Editá-lo pode causar alterações de formato ou perda de dados.</string>
     <string name="alert_message_restore">Não foi possível abrir esta anotação. Restaure-a para editar o seu conteúdo.</string>
     <string name="alert_title_delete">Excluir anotação</string>
     <string name="alert_title_edit_anyway">Anotação com conteúdo não suportado</string>
@@ -247,6 +248,7 @@
     <string name="error_send_empty_note">Não é possível enviar uma anotação vazia</string>
     <string name="error_send_empty_note_to_weibo">Não é possível enviar uma anotação vazia para o Weibo</string>
     <string name="error_unsupport_content">Anotação com conteúdo não suportado, toque aqui para atualizar</string>
+    <string name="error_unsupport_content_format">Esta anotação contém conteúdo não suportado. Atualize para a versão %1$s ou posterior.</string>
     <string name="error_widget_exist_for_send_to_desktop">Esta anotação já está em sua Tela inicial</string>
     <string name="evening">"PM"</string>
     <string name="exceed_todo_text_limitation">A descrição da tarefa é muito longa.</string>
@@ -745,6 +747,12 @@
     <string name="select_account_prompt">Sincronizar anotações</string>
     <string name="send">Enviar</string>
     <string name="set_alarm_description">Definir alarme</string>
+    <string name="setting_big_screen_layout_columns">Barra Lateral</string>
+    <string name="setting_big_screen_layout_flat">Ladrilhos</string>
+    <string name="setting_big_screen_layout_title">Layout de tela grande</string>
+    <string name="setting_layout">"Layout"</string>
+    <string name="setting_micloud_sync_title">Sincronize com a nuvem</string>
+    <string name="setting_note_list_layout_title">"Layout"</string>
     <string name="setting_other">OUTROS</string>
     <string name="setting_privacy">Política de Privacidade</string>
     <string name="single_link_excerpt_saving">Salvando itens…</string>
@@ -968,6 +976,15 @@ Permita que o app Anotações grave áudio."</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="view_all_notes">Ver todos</string>
+    <string name="warn_cannot_add_new_bullet">"Não é possível adicionar uma nova lista com marcadores porque a anotação é muito longa"</string>
+    <string name="warn_cannot_add_new_checkbox">"Não é possível adicionar uma nova caixa de seleção porque a anotação é muito longa"</string>
+    <string name="warn_cannot_add_new_doodle">"Não é possível adicionar um novo rabisco porque a anotação é muito longa"</string>
+    <string name="warn_cannot_add_new_element">"Não é possível adicionar um novo item porque a anotação é muito longa"</string>
+    <string name="warn_cannot_add_new_link_card">"Não é possível adicionar um novo link porque a anotação é muito longa"</string>
+    <string name="warn_cannot_add_new_picture">"Não é possível adicionar uma nova imagem porque a anotação é muito longa"</string>
+    <string name="warn_cannot_add_new_style">"Não é possível adicionar um novo formato porque a anotação é muito longa"</string>
+    <string name="warn_disable_edit_in_browse_mode">"Você não pode editar anotações no modo somente leitura"</string>
+    <string name="warn_enter_browse_mode">"Você está no modo somente leitura"</string>
     <string name="web_sso_login_fail">Você precisa entrar novamente</string>
     <string name="web_sso_login_message">Entrando…</string>
     <string name="webview_reload">Tente novamente</string>

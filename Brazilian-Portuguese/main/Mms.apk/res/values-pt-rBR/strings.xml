@@ -700,8 +700,8 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="mx_msg">Mi Mensagens</string>
     <string name="mx_msg_pageview_setting_title">Configurações do Mi Mensagens</string>
     <string name="mx_offline">Desativado</string>
-    <string name="mx_on_sim_1">Mi Mensagem com o SIM 1</string>
-    <string name="mx_on_sim_2">Mi Mensagem com o SIM 2</string>
+    <string name="mx_on_sim_1">Mi Mensagens com o SIM 1</string>
+    <string name="mx_on_sim_2">Mi Mensagens com o SIM 2</string>
     <string name="mx_online">Ativado</string>
     <string name="mx_privacy_policy">Política de Privacidade do Mi Mensagens</string>
     <string name="mx_privacy_policy_revoke">Retirar o consentimento com a Política de Privacidade do Mi Messagens</string>
@@ -914,7 +914,7 @@ Leia e concorde com a nova versão da Política de Privacidade antes de continua
     <string name="privacy_policy_name_5g_mms">Mensagens 5G</string>
     <string name="privacy_policy_name_mms">Mensagens</string>
     <string name="privacy_policy_name_smart_sms">Mensagens inteligentes</string>
-    <string name="privacy_policy_name_websms">Mi Mensagem</string>
+    <string name="privacy_policy_name_websms">Mi Mensagens</string>
     <string name="privacy_revoke_nonetwork_msg">Seu dispositivo precisa conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="privacy_revoke_nonetwork_ok">Entendi</string>
     <string name="privacy_revoke_nonetwork_title">Não é possível conectar-se à rede</string>
@@ -1259,7 +1259,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="show_sender">Mostrar infos. do remetente</string>
     <string name="sim1">"Sim 1"</string>
     <string name="sim2">"Sim 2"</string>
-    <string name="sim_activation_service_retry_main_purpose">A ativação do SIM deve ser ativada para que o Mi Mensagem funcione normalmente. Você pode ativar a ativação do SIM em Configurações > Gerenciar apps.</string>
+    <string name="sim_activation_service_retry_main_purpose">A ativação do SIM deve ser ativada para que o Mi Mensagens funcione normalmente. Você pode ativar a ativação do SIM em Configurações > Gerenciar apps.</string>
     <string name="sim_card1">Cartão SIM 1</string>
     <string name="sim_card2">Cartão SIM 2</string>
     <string name="sim_card_cloud">%s (Mi Mensagens)</string>

@@ -396,8 +396,14 @@ Toque na tela para iniciar o GPS…"</string>
     <string name="cit_keyboard_current">Botão atual: %s</string>
     <string name="cit_keyboard_current_def">Botão atual:</string>
     <string name="cit_keyboard_menu">Botão MENU</string>
+    <string name="cit_keyboard_test_power_down">Botão [LIGA/DESLIGA]</string>
+    <string name="cit_keyboard_test_power_up">Botão [LIGA/DESLIGA]</string>
     <string name="cit_keyboard_test_summary">Quando apertar os botões, o texto correspondente na tela deverá ficar na cor verde (nota: os botões Início e de energia não estão incluídos no teste)</string>
     <string name="cit_keyboard_test_title">Botões</string>
+    <string name="cit_keyboard_test_volume_down_down">Botão [Volume -]</string>
+    <string name="cit_keyboard_test_volume_down_up">Botão [Volume -/+]</string>
+    <string name="cit_keyboard_test_volume_up_down">Botão [Volume +/-]</string>
+    <string name="cit_keyboard_test_volume_up_up">Botão [Volume +]</string>
     <string name="cit_label">Testes de hardware</string>
     <string name="cit_lcdlight_brightness">Luz de fundo</string>
     <string name="cit_lcdlight_brightness_max">MÁX</string>
@@ -956,9 +962,11 @@ Após a calibração ser concluída, controle o acessório perto e longe do disp
     <string name="status_running">Executando</string>
     <string name="status_text">"Status:"</string>
     <string name="temperature">Temperatura</string>
+    <string name="test_back_mic">Microfone inferior</string>
     <string name="testagain">Pode pressionar o botão Início para testar novamente</string>
     <string name="test_bottom_speaker">Alto-falante inferior</string>
     <string name="test_headset">Teste de fone de ouvido</string>
+    <string name="test_front_mic">Microfone frontal</string>
     <string name="test_main_mic">Microfone principal</string>
     <string name="test_top_mic">Microfone superior</string>
     <string name="test_top_speaker">Alto-falante superior</string>

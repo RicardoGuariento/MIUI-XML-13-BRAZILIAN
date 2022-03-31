@@ -55,10 +55,13 @@
     <string name="application_permissions">Permissões do app</string>
     <string name="back">Voltar</string>
     <string name="backup_introduction">Você pode usar este app para fazer backup e restaurá-los em seu dispositivo.</string>
+    <string name="bluetooth_introduction">O Bluetooth é usado pelo sistema para comunicação sem fio. Para poder funcionar normalmente, o Bluetooth precisa das seguintes permissões:</string>
+    <string name="bluetooth_usage_desc">A configuração inicial permite que você defina suas preferências básicas para este dispositivo. Para configurar seu dispositivo com sucesso, os serviços do sistema Bluetooth usarão as seguintes permissões:</string>
     <string name="boot_video_desc" />
     <string name="boot_video_replay">Reproduzir novamente</string>
     <string name="boot_video_skip">Pular</string>
     <string name="calculator_introduction">Você pode usar este app para cálculos, conversão de unidades e de moedas, e estimar as parcelas de sua hipoteca.</string>
+    <string name="camera_application_introduction">Você pode usar este app para tirar fotos e vídeos.</string>
     <string name="camera_introduction">Você pode usar a Câmera para tirar fotos e capturar vídeos.</string>
     <string name="carrier_introduction">Para lhe fornecer melhores serviços, o seu dispositivo pode enviar periodicamente informações sobre a versão do dispositivo, dados de identificação do dispositivo (incluindo o endereço IMEI/IMSI/MSISDN/MAC, MEID/ICCID) e informações aproximadas de localização (incluindo ID da estação base) para a operadora via Wi-Fi, rede de dados móveis ou SMS grátis. A operadora se compromete a analisar informações relevantes apenas para melhorar a qualidade dos serviços ou fornecer serviços ou tecnologias personalizadas, e não divulgará informações relevantes a terceiros de nenhuma forma que o identifique pessoalmente. A declaração específica da operadora deve prevalecer. Consulte sua operadora sobre o custo do uso deste serviço.</string>
     <string name="carrier_introduction_china">Para lhe fornecer melhores serviços, os processos em execução no seu dispositivo (incluindo SystemHelper, RegService e Carrier Services) podem enviar periodicamente as informações relacionadas do seu dispositivo e cartão SIM (incluindo IMEI, IMSI, MSISDN, MEID, ICCID, endereço MAC, versão da MIUI, versão do Android, modelo do dispositivo e especificações básicas de hardware), bem como informações de localização aproximada (incluindo região, coordenadas, identificador de área e ID da estação base) para a operadora via Wi-Fi, rede de dados móveis ou SMS gratuito. A operadora promete analisar informações relevantes apenas para melhorar a qualidade dos serviços ou fornecer serviços ou tecnologias personalizadas e não divulgará informações relevantes a terceiros de qualquer forma que o identifique pessoalmente. A declaração específica da operadora deve prevalecer. Consulte sua operadora sobre o custo de utilização deste serviço.</string>
@@ -117,6 +120,7 @@
     <string name="enable_accessibility_dialog_message">Você ativou o TalkBack ao pressionar a tela com 2 dedos por mais de 10 segundos. o TalkBack fornece retorno de voz para pessoas com deficiências visuais. Se você ativou a função por engano, toque no botão Cancelar e em seguida dê um toque duplo na tela.</string>
     <string name="enable_accessibility_dialog_negative_btn">Cancelar</string>
     <string name="enable_accessibility_dialog_positive_btn">"OK"</string>
+    <string name="enable_or_disable_bluetooth">Ativando e desativando o Bluetooth</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="evening">"PM"</string>
@@ -203,6 +207,7 @@
     <string name="mint_keyboard_oobe_checkbox">Eu li e aceito a Política de Privacidade do Teclado Mint</string>
     <string name="mint_keyboard_oobe_terms">Política de Privacidade do Teclado Mint</string>
     <string name="miui_privacy_policy_no_network">Você não tem uma conexão com a internet. Veja a Política de Privacidade em %s.</string>
+    <string name="miui_provision">Configuração inicial</string>
     <string name="miui_terms_no_network">Você não tem uma conexão com a internet. Veja o Contrato do Usuário em %s.</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -347,6 +352,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="permission_direct_call">Fazer chamadas</string>
     <string name="permission_direct_call_introduction">Para adicionar itens à Lista de bloqueio</string>
     <string name="permission_download_introduction">Para armazenar itens baixados em cache e salvá-los no seu dispositivo</string>
+    <string name="permission_enable_disable_bluetooth_summary">Para encontrar dispositivos próximos para conectar e transferir dados</string>
     <string name="permission_fast_pairing">Para ser capaz de encontrar dispositivos próximos, Mi Link precisa se conectar à Internet e requer as seguintes permissões:</string>
     <string name="permission_imei_service">Para acessar o IMEI e fornecer serviços associados ao seu dispositivo</string>
     <string name="permission_interaction_introduction">Para salvar fotos e vídeos no dispositivo</string>
@@ -578,6 +584,7 @@ Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade an
     <string name="terms_of_use_label_statistics">Estatisticas</string>
     <string name="terms_of_use_label_systemhelper">Serviço auto-registrado</string>
     <string name="terms_of_use_label_translation">Serviço de tradução</string>
+    <string name="terms_of_use_label_unionplay_security">Elemento seguro UnionPay TSM (versão Xiaomi)</string>
     <string name="terms_of_use_label_updater">Atualizações</string>
     <string name="terms_of_use_label_use_location_and_network_global">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e Política de Privacidade. Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Quando seu dispositivo for ativado, os seguintes serviços se conectarão à rede e acessarão sua localização:</string>
     <string name="terms_of_use_label_use_network_china">Antes de usar a MIUI, você deve ler e concordar com nosso Contrato do Usuário e Política de Privacidade. Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. Quando seu dispositivo for ativado, os seguintes serviços se conectarão à rede:</string>
@@ -647,6 +654,7 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
     <string name="title_set_fingerprint">Bloqueio de tela</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
+    <string name="trade_in">Troca</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>

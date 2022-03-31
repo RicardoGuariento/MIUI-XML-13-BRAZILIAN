@@ -4310,7 +4310,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="instruction_privacy_password">Esta senha protege os seguintes itens</string>
     <string name="instruction_title">Informações importantes de segurança</string>
     <string name="insufficient_storage">Não há espaço de armazenamento suficiente.</string>
-    <string name="intelligence_suppression_summary">Ajustar o tamanho da área próximo das laterais dinâmicamente onde toques acidentais serão ignorados</string>
+    <string name="intelligence_suppression_summary">Ajusta o tamanho da área próximo às bordas dinâmicamente onde toques acidentais serão ignorados</string>
     <string name="intelligence_suppression_title">Automático (recomendado)</string>
     <string name="intent_sender_account_label">Conta:</string>
     <string name="intent_sender_action_label">Ação:</string>
@@ -7985,7 +7985,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="security_update">Atualização de segurança</string>
     <string name="see_less">Ver menos</string>
     <string name="see_more">Ver mais</string>
-    <string name="seek_bar_info">Ajustar tamanho</string>
+    <string name="seek_bar_info">Ajuste o tamanho</string>
     <string name="seekbar_text">"Slider"</string>
     <string name="select_all">Selecionar tudo</string>
     <string name="select_application">Selecionar app</string>
@@ -8767,7 +8767,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="string_MB_per_log_buffer">%dMB por buffer de log</string>
     <string name="string_off">Desativado</string>
     <string name="string_offed">Desativado</string>
-    <string name="strong_suppression_summary">O seu dispositivo será menos responsivo a toques acidentais, alguns controles por gesto podem não funcionar perto das bordas</string>
+    <string name="strong_suppression_summary">Seu dispositivo será menos responsivo a toques acidentais, alguns controles por gesto podem não funcionar próximo das bordas</string>
     <string name="strong_suppression_title">Área grande</string>
     <string name="structure_add_facerecoginition_text">Adicionar dados faciais 3D</string>
     <string name="structure_face_data_delete_fail">Não foi possível excluir os dados faciais 3D. Tente novamente.</string>

@@ -1123,6 +1123,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="compatible_dialog_title">Atenção</string>
     <string name="comprehensive_protection_measures">Proteção abrangente</string>
     <string name="confirmSecondSpacePassword">Confirmar senha do Segundo Espaço</string>
+    <string name="confirm_ai_allow_all_permission">Alterar o status da permissão para \"Decida por mim\" para todos os apps?</string>
     <string name="confirm_allow_all_permission">Permitir que todos os apps usem este recurso?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Adicionando Conta Mi</string>
     <string name="confirm_fingerprint_msg">Verifique sua impressão digital</string>
@@ -1145,6 +1146,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="copy">Copiar</string>
     <string name="cpu_usage_android_system">Sistema Android</string>
     <string name="cpu_usage_process_run_time_little_time">Menos de 1 minuto</string>
+    <string name="cpu_usage_process_run_time_little_time_new">Menos de %d minuto</string>
     <string name="cpu_usage_view_action_btn_text">Toque para ver</string>
     <string name="create_gamebooster_destop">Atalho na Tela inicial criado com sucesso</string>
     <string name="create_shortcut">Criar um atalho na Tela inicial para o Game Turbo</string>
@@ -1558,6 +1560,7 @@ monitoramento de terremotos"</string>
     <string name="exit_dialog_homepage_optimise_message">A pontuação de desempenho do dispositivo está abaixo de 80 pontos. Otimizar agora?</string>
     <string name="exit_dialog_release_memory_positive_button">Fechar</string>
     <string name="exit_dialog_release_memory_title"><Data>Acelere seu dispositivo em &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
+    <string name="exit_dialog_release_memory_title_new"><Data>Acelere seu dispositivo em &lt;font color=#0099ff>%s&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Mais de 80% do armazenamento está ocupado. Libere espaço desinstalando apps que você não usa.</string>
     <string name="exit_dialog_release_storage_message_new">Mais de %s do armazenamento está ocupado. Libere espaço desinstalando apps que você não usa.</string>
     <string name="exit_dialog_release_storage_positive_button">Liberar espaço</string>
@@ -3196,7 +3199,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_batteryscan_normal">Sem problemas de uso da bateria. Veja os resultados.</string>
     <string name="power_center_charge_status">Carregando</string>
     <string name="power_center_charge_time">%1$s até carregar</string>
-    <string name="power_center_consume_fast">Consumindo bateria</string>
+    <string name="power_center_consume_fast">Drenando bateria</string>
     <string name="power_center_dialog_msg_bottom">Você pode aumentar a duração da bateria em até %1$dh %2$dm. Ativar a Economia de bateria?</string>
     <string name="power_center_dialog_msg_title">Ative para obter %1$s de tempo extra. As seguintes ações serão executadas para economizar bateria:</string>
     <string name="power_center_dialog_msg_top">Quando a Economia de bateria está ativada, a MIUI efetuará as seguintes otimizações:</string>
