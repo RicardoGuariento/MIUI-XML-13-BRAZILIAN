@@ -411,7 +411,7 @@
     <string name="quick_settings_wifi_detail_empty_text">Nenhuma rede Wi-Fi disponível</string>
     <string name="quick_settings_wifi_label">"Wi-Fi"</string>
     <string name="quick_settings_wireless_label">Carregamento sem fios reverso</string>
-    <string name="reboot_info_auto_boot">Próximo alarme: %s</string>
+    <string name="reboot_info_auto_boot">Dispositivo programado para ligar: %s</string>
     <string name="reboot_info_shutdown_alarm">Próximo alarme: %s</string>
     <string name="reset">Redefinir</string>
     <string name="restart">Reiniciar</string>
