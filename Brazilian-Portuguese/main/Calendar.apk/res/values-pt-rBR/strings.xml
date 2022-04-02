@@ -559,7 +559,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="not_set">Não definido</string>
     <string name="notes_hint">Toque para adicionar uma tarefa</string>
     <string name="notes_reminders_channel">Lembretes de anotações</string>
-    <string name="notes_settings_summary">Adicione suas tarefas diárias e notas na Agenda</string>
+    <string name="notes_settings_summary">Adicione suas tarefas diárias e anotações na Agenda</string>
     <string name="notes_title">Anotações</string>
     <string name="notes_week_name_five">%1$s, %2$s, %3$s, %4$s, e %5$s</string>
     <string name="notes_week_name_four">%1$s, %2$s, %3$s, e %4$s</string>

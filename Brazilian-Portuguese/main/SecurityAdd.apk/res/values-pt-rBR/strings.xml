@@ -152,6 +152,7 @@
     <string name="friday_shortest">Sex</string>
     <string name="game_booster">"Game Turbo"</string>
     <string name="gamebooster_network_dialog_message">Permitir que o app Segurança conecte-se à Internet para usar todos os recursos do Game Turbo?</string>
+    <string name="gamebooster_network_dialog_message_pad">Permitir que o app Segurança se conecte à rede para usar todos os recursos do Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">Alguns recursos não estão disponíveis</string>
     <string name="gamebox_no_network_btn">Recarregar</string>
     <string name="gb_adv_touch_adv_title">Modo clássico (padrão)</string>
@@ -199,6 +200,7 @@
     <string name="gb_game_speed_closed_fail">Não foi possível desativar o modo Velocidade da luz</string>
     <string name="gb_game_speed_open">O modo Velocidade da luz está ativado</string>
     <string name="gb_game_speed_open_fail">Não foi possível ativar o modo Velocidade da luz</string>
+    <string name="gb_global_settings">Configurações gerais</string>
     <string name="gb_gpu_control_anisotropic_filtering">Filtro anisotrópico</string>
     <string name="gb_gpu_control_anti_aliasing">"Anti-aliasing"</string>
     <string name="gb_gpu_control_fps">Taxa de quadros</string>

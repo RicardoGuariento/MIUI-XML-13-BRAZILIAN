@@ -829,9 +829,9 @@ Este app precisa se conectar à internet e requer as seguintes permissões para 
     <string name="usage_state_focus_call">Chamada de emergência</string>
     <string name="usage_state_focus_level1">Estrela em ascensão</string>
     <string name="usage_state_focus_level_summary">Nível atual: %s</string>
-    <string name="usage_state_focus_mode_experience_warning_message">O Modo foco só permite o uso da Câmera e de chamadas de emergência. Você não poderá desativar o Modo foco antecipadamente.</string>
-    <string name="usage_state_focus_mode_experience_warning_message_pad">O Modo foco só permite o uso da Câmera. Você não poderá desativar o Modo foco antecipadamente.</string>
-    <string name="usage_state_focus_mode_experience_warning_message_sim_pad">O Modo foco só permite o uso da Câmera e de chamadas de emergência. Você não poderá desativar o Modo foco antecipadamente.</string>
+    <string name="usage_state_focus_mode_experience_warning_message">O Modo foco só permite que você use a Câmera e faça chamadas de emergência. Você não poderá desativar o Modo foco antecipadamente.</string>
+    <string name="usage_state_focus_mode_experience_warning_message_pad">O Modo foco só permite que você use a Câmera. Você não poderá desativar o Modo foco antecipadamente.</string>
+    <string name="usage_state_focus_mode_experience_warning_message_sim_pad">O Modo foco só permite que você use a Câmera e e faça chamadas de emergência. Você não poderá desativar o Modo foco antecipadamente.</string>
     <string name="usage_state_focus_mode_summary">Restringir todos os recursos exceto chamadas de emergência e Câmera</string>
     <string name="usage_state_focus_mode_summary1">Um bom começo já é a metade do progresso</string>
     <string name="usage_state_focus_mode_summary2">Permaneça focado</string>

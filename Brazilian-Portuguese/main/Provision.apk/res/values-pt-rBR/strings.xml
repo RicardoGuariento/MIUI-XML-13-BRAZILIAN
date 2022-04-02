@@ -56,7 +56,7 @@
     <string name="back">Voltar</string>
     <string name="backup_introduction">Você pode usar este app para fazer backup e restaurá-los em seu dispositivo.</string>
     <string name="bluetooth_introduction">O Bluetooth é usado pelo sistema para comunicação sem fio. Para poder funcionar normalmente, o Bluetooth precisa das seguintes permissões:</string>
-    <string name="bluetooth_usage_desc">A configuração inicial permite que você defina suas preferências básicas para este dispositivo. Para configurar seu dispositivo com sucesso, os serviços do sistema Bluetooth usarão as seguintes permissões:</string>
+    <string name="bluetooth_usage_desc">A Configuração inicial permite que você defina suas preferências básicas para este dispositivo. Para configurar seu dispositivo com sucesso, os serviços do sistema Bluetooth usarão as seguintes permissões:</string>
     <string name="boot_video_desc" />
     <string name="boot_video_replay">Reproduzir novamente</string>
     <string name="boot_video_skip">Pular</string>

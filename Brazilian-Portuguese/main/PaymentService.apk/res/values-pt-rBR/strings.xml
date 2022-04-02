@@ -186,6 +186,7 @@ Envie este código para o supervisor."</string>
     <string name="miuix_appcompat_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
+    <string name="miuix_indexer_collect">Coleções</string>
     <string name="miuix_indexer_selected">Selecionado: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
@@ -236,6 +237,7 @@ Envie este código para o supervisor."</string>
     <string name="month_september_shortest">Set</string>
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
+    <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
     <string name="nick_name">Apelido</string>
     <string name="night">"PM"</string>
     <string name="no_account">Não conectado</string>
