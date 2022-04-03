@@ -513,6 +513,12 @@ Separe e proteja seus dados."</string>
     <string name="show_private_content">Mostrar itens privados</string>
     <string name="show_private_msg">Mostrar mensagens pessoais</string>
     <string name="show_private_msg_summary">Mostrar mensagens pessoais no Segundo Espaço</string>
+    <string name="size_byte">"B"</string>
+    <string name="size_giga_byte">"GB"</string>
+    <string name="size_kilo_byte">"KB"</string>
+    <string name="size_mega_byte">"MB"</string>
+    <string name="size_peta_byte">"PB"</string>
+    <string name="size_tera_byte">"TB"</string>
     <string name="skip">Pular</string>
     <string name="spaceSetting">Configurações</string>
     <string name="space_create_guide_desc_1">Armazene apps e fotos de forma segura</string>

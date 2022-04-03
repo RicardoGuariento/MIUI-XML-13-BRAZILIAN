@@ -110,6 +110,10 @@ d 'de' MMMM"</string>
 d 'de' MMMM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 d 'de' MMMM"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="mix">"Mix"</string>
     <string name="moment">Momentos</string>
     <string name="monet">Lagoa de lírio</string>

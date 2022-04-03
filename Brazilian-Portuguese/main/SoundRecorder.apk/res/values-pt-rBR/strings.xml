@@ -318,6 +318,11 @@
     <string name="network_tip_dialog_title">Conexão com a internet requerida</string>
     <string name="network_unavailable_tip">Conecte-se à rede e tente novamente.</string>
     <string name="new_record_name">Nova gravação</string>
+    <string name="new_saf_permission_dialog_content">"As permissões do Gravador foram atualizadas. Permita que o Gravador acesse as gravações de chamadas.
+
+Como conceder permissão
+Toque em \"%1$s\" e selecione \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Próximo</string>
     <string name="night">"PM"</string>
     <string name="no_content">Nenhum item aqui ainda</string>
     <string name="no_file">Vazio</string>
@@ -375,6 +380,8 @@
     <string name="permission_desc">Detalhes de permissões</string>
     <string name="permission_dialog_cancel">Cancelar</string>
     <string name="permission_dialog_ok">Configurações</string>
+    <string name="permission_read_phone_state">Acessar informações do dispositivo</string>
+    <string name="permission_read_phone_state_description">Para acessar o status da chamada para interromper automaticamente a gravação ao receber chamadas</string>
     <string name="permission_record">Gravar audio</string>
     <string name="permission_record_description">Para fornecer serviços de gravação de áudio</string>
     <string name="permission_storage">Acessar armazenamento</string>
@@ -611,6 +618,7 @@
     <string name="the_united_nations_day">Dia das Nações Unidas</string>
     <string name="the_valentines_day">Dia dos Namorados</string>
     <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
+    <string name="this_folder">Usar esta pasta</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>

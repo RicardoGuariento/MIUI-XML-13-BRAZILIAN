@@ -607,6 +607,7 @@ usando %s"</string>
     <string name="face_error_timeout">Tente usar o Desbloqueio facial novamente</string>
     <string name="face_error_unable_to_process">Não é possível verificar o rosto. Tente novamente.</string>
     <string name="face_error_user_canceled">Desbloqueio facial cancelado pelo usuário</string>
+    <string name="face_error_vendor_unknown">Algo deu errado. Tente novamente.</string>
     <string name="face_icon_content_description">Ícone facial</string>
     <string name="face_name_template">Rosto %d</string>
     <string name="face_or_screen_lock_app_setting_name">Usar dados faciais ou tela de bloqueio</string>
@@ -658,6 +659,7 @@ Em caso de dúvidas, entre em contato com o administrador da sua organização."
     <string name="fingerprint_error_timeout">Tempo máximo para captura da impressão digital atingido. Tente novamente.</string>
     <string name="fingerprint_error_unable_to_process">Tente novamente.</string>
     <string name="fingerprint_error_user_canceled">Operação de impressão digital cancelada pelo usuário.</string>
+    <string name="fingerprint_error_vendor_unknown">Algo deu errado. Tente novamente.</string>
     <string name="fingerprint_icon_content_description">Ícone de impressão digital</string>
     <string name="fingerprint_name_template">Dedo %d</string>
     <string name="fingerprint_or_screen_lock_app_setting_name">Use a impressão digital ou bloqueio de tela</string>
@@ -1327,6 +1329,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_persistentActivity">Permite que o app torne partes de si mesmo persistentes na memória. Pode limitar a memória disponível para outros apps, deixando o telefone mais lento.</string>
     <string name="permdesc_preferredPaymentInfo">Permite que o app acesse as informações preferidas de serviço de pagamento por NFC, como auxílios registrados ou destinos de trajetos.</string>
     <string name="permdesc_processOutgoingCalls">Permite que o app veja o número discado ao realizar uma chamada, com a opção de redirecionar a chamada para outro número ou abortá-la.</string>
+    <string name="permdesc_queryAllPackages">Permite que o app veja todos os pacotes instalados.</string>
     <string name="permdesc_readCalendar">Este app pode ler todos os eventos da agenda armazenados no seu smartphone e compartilhar ou salvar os dados da sua agenda.</string>
     <string name="permdesc_readCallLog">Este app pode ler seu histórico de chamadas.</string>
     <string name="permdesc_readCellBroadcasts">Permite que o app leia mensagens de difusão celular recebidas por seu dispositivo. Alertas de difusão celular são recebidos em alguns locais para avisar você de situações de emergência. Apps maliciosos podem interferir no desempenho ou funcionamento de seu dispositivo quando uma difusão celular de emergência é recebida.</string>
@@ -1583,6 +1586,7 @@ para a conta %s."</string>
     <string name="phoneTypeWork">Comercial</string>
     <string name="phoneTypeWorkMobile">Celular comercial</string>
     <string name="phoneTypeWorkPager">Pager comercial</string>
+    <string name="pin_specific_target">PIN %1$s</string>
     <string name="pin_target">Fixar guia</string>
     <string name="policydesc_disableCamera">Impede o uso de todas as câmeras do dispositivo.</string>
     <string name="policydesc_disableKeyguardFeatures">Impede o uso de alguns recursos do bloqueio de tela.</string>

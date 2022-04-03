@@ -51,6 +51,20 @@
         <item>Otimizado para qualidade de conexão (330kbps/303kbps)</item>
         <item>Melhor resultado (Taxa de bits adaptável)</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Usar seleção do sistema (Padrão)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Usar seleção do sistema (Padrão)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Usar preferência do sistema (Padrão)</item>
         <item>SBC</item>

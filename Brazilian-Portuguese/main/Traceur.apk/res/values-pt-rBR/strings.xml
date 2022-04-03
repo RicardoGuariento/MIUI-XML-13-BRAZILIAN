@@ -326,6 +326,7 @@ Taxa de amostra"</string>
     <string name="enabled_by_admin">Ativado pelo administrador</string>
     <string name="enhanced_connectivity">Conectividade melhorada</string>
     <string name="enhanced_connectivity_summary">Ativa o recurso \"Conectividade melhorada\".</string>
+    <string name="error_icon_content_description">Erro</string>
     <string name="expand_button_title">Avançado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="external_source_trusted">Permitido</string>
@@ -626,6 +627,7 @@ Taxa de amostra"</string>
     <string name="speed_label_very_fast">Muito rápida</string>
     <string name="speed_label_very_slow">Muito lenta</string>
     <string name="standby_bucket_summary">Estado em espera do app: %s</string>
+    <string name="start_new_trace">Iniciar novo rastreamento</string>
     <string name="status_unavailable">Não disponível</string>
     <string name="stop_on_bugreport">Parar de rastrear relatórios de bug</string>
     <string name="stop_on_bugreport_summary">Encerra as gravações de rastreamento ativo quando um relatório de bug é iniciado</string>

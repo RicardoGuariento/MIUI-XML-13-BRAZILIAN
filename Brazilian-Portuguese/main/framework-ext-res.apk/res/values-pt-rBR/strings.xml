@@ -13,6 +13,7 @@
     <string name="android_ringtone_default_with_actual">Toque padrão (%1$s)</string>
     <string name="android_ringtone_silent">Nenhum</string>
     <string name="android_ringtone_unknown">Toque desconhecido</string>
+    <string name="app_continuity_channel_name">Continuidade do app</string>
     <string name="application_cannot_open_alipay_health_code">Não foi possível abrir o código de saúde Alipay</string>
     <string name="application_cannot_open_alipay_payment_code">Não foi possível abrir o código de pagamento do Alipay</string>
     <string name="application_cannot_open_alipay_scanner">Não foi possível abrir o digitalizador do Alipay</string>
@@ -244,7 +245,12 @@
     <string name="miaudiovisual_notification_summary">Ative para exibir os efeitos na Tela de bloqueio</string>
     <string name="miaudiovisual_notification_title">Áudio e efeitos visuais</string>
     <string name="mihouse">Mi Eletrônica</string>
+    <string name="mijazz">"Mi Jazz"</string>
+    <string name="miremix">"Mi (Remix)"</string>
+    <string name="miui">Miui</string>
+    <string name="miui_device_name">"Android"</string>
     <string name="miui_forbid_poweroff_when_device_locked">Não é possível desligar, o dispositivo está bloqueado.</string>
+    <string name="miui_landscape_compat_toast">"Não pode ser adequado para dispositivo dobrável enquanto você estiver usando o app em modo paisagem, é recomendável usar em modo retrato"</string>
     <string name="miui_multiwindow_not_support_cvw">"Não é possível ajustar o tamanho da janela para este app"</string>
     <string name="miui_multiwindow_not_support_small_window">O app %1$s não suporta janelas flutuantes</string>
     <string name="miui_multiwindow_not_support_split">O app %1$s não suporta Tela dividida</string>
@@ -277,6 +283,8 @@
     <string name="passionflower">Paixão</string>
     <string name="paste">Colar</string>
     <string name="pc_device_model_name">Computador</string>
+    <string name="pc_redmi_device_model_name">Notebook Redmi</string>
+    <string name="pc_xiaomi_device_model_name">Notebook Xiaomi</string>
     <string name="perm_send_push_dspt">Permitir mensagens push Mi</string>
     <string name="perm_send_push_lab">Enviar mensagem push</string>
     <string name="permdesc_manageFingerprint">Permite que o app invoque métodos para adicionar e excluir modelos de impressão digital para uso.</string>
@@ -314,11 +322,15 @@
     <string name="reboot_info_auto_boot">Dispositivo programado para ligar: %s</string>
     <string name="reboot_info_shutdown_alarm">Próximo alarme: %s</string>
     <string name="reboot_progress">Reiniciando…</string>
+    <string name="relaunch_action">Reiniciar app</string>
     <string name="relaunch_dialog_alwaysUsePrompt">Lembrar da minha escolha</string>
     <string name="relaunch_dialog_button_cancel">Cancelar</string>
     <string name="relaunch_dialog_button_confirm">"OK"</string>
     <string name="relaunch_dialog_message">Não é possível ajustar o tamanho da janela enquanto você usa o app. Você pode reiniciar o app para ajustar o tamanho da janela, mas os dados do app gerados durante esta sessão serão perdidos. Reiniciar mesmo assim?</string>
     <string name="relaunch_dialog_title">Reiniciar \"%s\"?</string>
+    <string name="relaunch_fold_notification_content">\"%s\" o app pode ser exibido de forma anormal depois que o telefone é dobrado e precisa ser reiniciado para voltar ao normal.</string>
+    <string name="relaunch_notification_title">Reiniciar \"%s\" aplicativo</string>
+    <string name="relaunch_unfold_notification_content">\"%s\" o app pode ser exibido de forma anormal depois que o telefone é desdobrado e precisa ser reiniciado para voltar ao normal.</string>
     <string name="remain">Restante: %s</string>
     <string name="replace">Substituir</string>
     <string name="resolver_app_recommend_flag">Recomendado</string>
@@ -335,6 +347,10 @@
     <string name="rog_phone">ROG</string>
     <string name="samsung">"Samsung"</string>
     <string name="samsung_phone">"Samsung"</string>
+    <string name="sc_notification_warning_content">O layout pode ser anormal no modo tela cheia. Você pode reverter para o estado anterior à mudança ou ir para as configurações.</string>
+    <string name="sc_notification_warning_restore">Restaurar</string>
+    <string name="sc_notification_warning_settings">Configurar</string>
+    <string name="sc_relaunch_dialog_message">"Não pode ser adequado para dispositivo dobrável enquanto você estiver usando o app. Você pode reiniciar o app para alternar para o modo tela cheia. Reiniciar mesmo assim?"</string>
     <string name="scanning_device_tips">Procurando dispositivos próximos… Certifique-se de que o outro dispositivo está no modo detectável.</string>
     <string name="screen_button_notification_text">Para reativá-los, pressione os botões Início e Liga/Desliga simultaneamente.</string>
     <string name="screen_button_notification_title">Botões de navegação desativados</string>
@@ -440,6 +456,7 @@
     <string name="throwing_print">Imprimir</string>
     <string name="throwing_screen">Transmitir</string>
     <string name="tip_close_screen_phone" />
+    <string name="tip_for_phone_and_camera">Dobre seu dispositivo para usar o alto-falante embutido ou a câmera frontal</string>
     <string name="tip_use_front_camera" />
     <string name="tips_prompt_enable_midrop">Compartilhamento Mi</string>
     <string name="total">Não perturbe</string>

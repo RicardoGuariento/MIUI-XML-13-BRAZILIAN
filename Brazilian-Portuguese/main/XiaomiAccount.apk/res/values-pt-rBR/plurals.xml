@@ -36,6 +36,10 @@
         <item quantity="other">%d min atrás</item>
         <item quantity="one">1 min atrás</item>
     </plurals>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">Resultados encontrados: %d</item>
+        <item quantity="one">Resultados encontrados: %d</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
         <item quantity="one">Meia hora atrás</item>

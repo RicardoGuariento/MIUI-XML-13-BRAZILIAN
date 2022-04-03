@@ -863,6 +863,14 @@
         <item>Systrace (Gráficos)</item>
         <item>Pilha de chamadas em glGetError</item>
     </string-array>
+    <string-array name="enabled_networks_subsidy_locked_choices">
+        <item>Apenas LTE</item>
+        <item>GSM/WCDMA/LTE</item>
+    </string-array>
+    <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Nativo</item>
+    </string-array>
     <string-array name="entries_font_size">
         <item>Pequena</item>
         <item>Padrão</item>

@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="about_device_info">Ver detalhes do dispositivo</string>
     <string name="accept">Permitir</string>
+    <string name="access_denied_info">Muitas tentativas. Aguarde um momento e tente novamente.</string>
     <string name="access_token_expired_warning">A conta Weibo expirou</string>
     <string name="access_token_invalid_warning">A conta Weibo é inválida</string>
     <string name="account">Conta</string>
@@ -95,6 +96,8 @@ ID da sua conta: %s"</string>
     <string name="agreement_and_privacy">Termos e condições</string>
     <string name="am">"AM"</string>
     <string name="app_name">Conta Mi</string>
+    <string name="area_code_no_search_result">"Não foi possível encontrar resultados"</string>
+    <string name="area_code_search_hint">Pesquisar país ou região</string>
     <string name="auth_fail_warning">Sessão expirada, faça o login novamente mais tarde</string>
     <string name="authorize_title">Autorização</string>
     <string name="bind_facebook">Conectar sua conta do Facebook</string>
@@ -335,6 +338,7 @@ Envie este código para o supervisor."</string>
     <string name="login_check_find_device">Obtendo informações de segurança do dispositivo…</string>
     <string name="login_check_find_device_failed_title">Não foi possível verificar as informações de segurança do dispositivo</string>
     <string name="login_find_device_bind">Este dispositivo está associado à uma ID de Conta Mi existente (%s).</string>
+    <string name="login_with_other">Mais opções</string>
     <string name="logout_account">Sair</string>
     <string name="logout_failed">Não é possível sair</string>
     <string name="mi_account_identity_title">Verifique sua identidade</string>
@@ -428,7 +432,10 @@ Envie este código para o supervisor."</string>
     <string name="multi_user_not_show_sync_activity_title">Não ativar a sincronização com a nuvem</string>
     <string name="my_device_title">Dispositivo atual</string>
     <string name="need_install_wechat">Instale o WeChat primeiro</string>
+    <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="network_timeout_info">"Não foi possível conectar à rede. Tente novamente."</string>
     <string name="night">"PM"</string>
+    <string name="no_account_or_forget_password">Criar conta ou esqueceu a senha?</string>
     <string name="no_install">Não instalado</string>
     <string name="no_network_btn">Atualizar</string>
     <string name="no_network_title">Não é possível conectar-se à rede.</string>
@@ -722,6 +729,7 @@ Envie este código para o supervisor."</string>
     <string name="privacy_policy_reject_confirm_title">"Não consigo usar minha conta"</string>
     <string name="privacy_policy_update_msg">A Política de Privacidade da Conta Mi foi atualizada:&lt;br/>%1$s&lt;br/>Leia e concorde com a nova versão da &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de continuar.</string>
     <string name="privacy_policy_update_title">Política de Privacidade atualizada</string>
+    <string name="progressbar_title">Verificando problemas de segurança…</string>
     <string name="provision_back">Voltar</string>
     <string name="provision_next">Avançar</string>
     <string name="provision_skip_underline">Pular</string>
@@ -799,6 +807,7 @@ Envie este código para o supervisor."</string>
     <string name="system_ad_summary">"Ative este recurso para permitir uma pequena quantidade de anúncios nos apps de sistema. Estes anúncios nos ajudam a desenvolver e melhorar nossos produtos e serviços. Você pode optar por desativar este recurso a qualquer momento. Obrigado pelo seu apoio! "</string>
     <string name="system_ad_switch">Anúncios em apps de sistema</string>
     <string name="system_ad_switch_failed">Não foi possível aplicar a configuração</string>
+    <string name="system_error_info">O sistema está ocupado. Aguarde um momento e tente novamente.</string>
     <string name="talkback_scan_barcode">Digitalizar código QR</string>
     <string name="temporary_not_available">Este recurso ainda não está disponível.</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
@@ -863,6 +872,7 @@ Envie este código para o supervisor."</string>
     <string name="two_factor_auth_need_code_summary">Você verá um código em outros dispositivos Mi conectados. Insira este código no novo dispositivo para fazer o login.</string>
     <string name="two_factor_auth_summary">Quando você tenta fazer o login em um novo dispositivo ou em um novo local, você será notificado sobre isso em outros dispositivos conectados. Você deverá confirmar se tais tentativas de login foram autorizadas por você.</string>
     <string name="unbind_sns_description">Após você desconectar esta conta, você não será capaz de usar sua conta %s para fazer o login em sua Conta Mi.</string>
+    <string name="unknown_error_info">Erro desconhecido</string>
     <string name="unlock_help_notice">"Ajuda:
 1. Se você esqueceu a sua senha, acesse id.mi.com para redefini-la.
 2. Se você não puder redefinir a sua senha ou se alguém bloqueou o seu dispositivo, acesse i.mi.com para desbloqueá-lo.
@@ -898,3 +908,4 @@ Envie este código para o supervisor."</string>
     <string name="xiao_mi_vip">"Mi VIP"</string>
     <string name="yesterday">Ontem</string>
 </resources>
+

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Perm_External_Storage">Armazenamento</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Acessar e salvar arquivos e fotos no seu dispositivo</string>
+    <string name="HIPS_Perm_Read_Contact">Contatos</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Acessar seus contatos</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">PIN de desbloqueio RUIM corporativo</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">Pedido de desbloqueio RUIM Corporativo sem sucesso.</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">Solicitando desbloqueio do RUIM corporativo…</string>
@@ -654,6 +658,7 @@ Seleção"</string>
     <string name="cell_bc_sms_enable">SMS de difusão celular ativado</string>
     <string name="cell_broadcast_settings">Transmissões de emergência</string>
     <string name="cell_broadcast_sms">SMS de difusão celular</string>
+    <string name="cell_data_off_content_description">Dados móveis desativados</string>
     <string name="cf_setting_mobile_data_alert">Ative os dados móveis e certifique-se de que o Wi-Fi está desativado</string>
     <string name="cf_setting_mobile_data_roaming_alert">Ativar roaming de dados</string>
     <string name="cfb_title">Encaminhar quando ocupado</string>
@@ -1304,7 +1309,16 @@ Você ainda pode fazer chamadas de emergência."</string>
     <string name="keep_screen_on">Permanecer ativo</string>
     <string name="keep_screen_on_summary">A tela nunca entrará em inatividade enquanto estiver carregando</string>
     <string name="keywords_adb_wireless">adb, debug, dev</string>
+    <string name="keywords_alarms_and_reminders">agenda, alarme, lembrete, relógio</string>
     <string name="keywords_carrier_settings_euicc">operadora, esim, sim, euicc</string>
+    <string name="kr_emergency_111">Segurança nacional (111)</string>
+    <string name="kr_emergency_112">Polícia (112)</string>
+    <string name="kr_emergency_113">Denunciar espiões (113)</string>
+    <string name="kr_emergency_117">Linha direta de violência escolar (117)</string>
+    <string name="kr_emergency_118">Relatório de terrorismo cibernético (118)</string>
+    <string name="kr_emergency_119">Corpo de bombeiros, ambulância (119)</string>
+    <string name="kr_emergency_122">Emergência da Guarda Costeira (122)</string>
+    <string name="kr_emergency_125">Relatório de contrabando (125)</string>
     <string name="kr_emergency_message">Confirme para discar %s. Discar agora?</string>
     <string name="kr_emergency_with_number">Digite o número do telefone para discar</string>
     <string name="kt_lte_emm_cause_19_22">Registrando na rede… Aguarde alguns minutos e tente novamente.</string>
@@ -1653,6 +1667,8 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
     <string name="msim_sim_radio_off">Desativado</string>
     <string name="msim_switch_data_conn_toast">Cartões SIM alternados. O tipo de rede principal será alterado. Veja informações adicionais dos \"Cartões SIM e redes móveis\" no menu de Configurações.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">O cartão SIM 2 suporta apenas redes GSM. O tipo de rede preferencial para este cartão SIM foi alterado para apenas 2G.</string>
+    <string name="mtn_simlock_emergency">Emergência</string>
+    <string name="mtn_simlock_text_tip">O Cartão SIM inserido não atende ao requisito. Você precisa inserir um Cartão SIM exigido pelo contrato antes de usar o telefone. Para obter detalhes, entre em contato com sua operadora local.</string>
     <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
     <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Mais do que %1$d novas notificações</string>
@@ -2337,6 +2353,7 @@ Interface UT: %5$s"</string>
     <string name="simContacts_title">Selecionar contatos para importar</string>
     <string name="simFdnContacts_empty">Sem contatos FDN.</string>
     <string name="sim_accounts">Contas do SIM</string>
+    <string name="sim_can_not_read">O slot de Cartão %d só pode ler o Cartão SIM da operadora MTN</string>
     <string name="sim_card_num">Cartão SIM %s</string>
     <string name="sim_change_data_message">Usar o %1$s ao invés do %2$s para dados móveis?</string>
     <string name="sim_change_data_title">Alterar o sim de dados?</string>

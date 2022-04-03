@@ -417,6 +417,9 @@
         <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
     </plurals>
+    <plurals name="search_application_count">
+        <item quantity="other">Pesquisar apps</item>
+    </plurals>
     <plurals name="seconds">
         <item quantity="other">%s segundos</item>
         <item quantity="one">1 segundo</item>
