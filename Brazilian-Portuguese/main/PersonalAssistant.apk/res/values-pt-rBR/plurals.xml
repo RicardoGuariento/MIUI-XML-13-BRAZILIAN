@@ -81,8 +81,8 @@
         <item quantity="one">Total de medalhas: %d</item>
     </plurals>
     <plurals name="pa_accessibility_olympic_rank">
-        <item quantity="other">Lugar %d</item>
-        <item quantity="one">Lugar %d</item>
+        <item quantity="other">%dº lugar</item>
+        <item quantity="one">%dºlugar</item>
     </plurals>
     <plurals name="pa_accessibility_olympic_silver_medal_count">
         <item quantity="other">Medalhas de prata: %d</item>
