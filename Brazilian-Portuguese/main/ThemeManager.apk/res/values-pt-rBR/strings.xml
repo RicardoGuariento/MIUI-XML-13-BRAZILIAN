@@ -8,6 +8,16 @@
     <string name="abc_activitychooserview_choose_application">Selecione um app</string>
     <string name="abc_capital_off">DESATIVAR</string>
     <string name="abc_capital_on">ATIVAR</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">excluir</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Função+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">espaço</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Pesquisar…</string>
     <string name="abc_searchview_description_clear">Limpar consulta</string>
     <string name="abc_searchview_description_query">Consulta de pesquisa</string>
@@ -174,6 +184,7 @@
     <string name="current_version">Versão atual: %1$s</string>
     <string name="current_version_incompatible">Não compatível</string>
     <string name="custom_storage_permission_desc">Para poder alterar as preferências de personalização e salvar itens baixados, permita que este recurso acesse o armazenamento primeiro. Você pode conceder essa permissão em Configurações > Privacidade.</string>
+    <string name="custom_theme">nome,id</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Defina a data e hora</string>
     <string name="de_apply_icons">Ícones dos app</string>
@@ -1553,6 +1564,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="wallpaper_set_as_lockscreen">Aplicar na Tela de bloqueio</string>
     <string name="wallpaper_set_as_lockscreen_large">Aplicar na Tela de bloqueio interna</string>
     <string name="wallpaper_set_as_lockscreen_small">Aplicar na Tela de bloqueio externa</string>
+    <string name="wallpaper_set_as_loop_extra_msg">Todo mundo está usando</string>
     <string name="wallpaper_setting_all">Todos os planos de fundo</string>
     <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Tela sempre ativa</string>
     <string name="wallpaper_setting_find_more_text">Mais planos de fundo online</string>

@@ -456,6 +456,12 @@
     <string name="share_weather_save_pic_fail">Não foi possível capturar a tela</string>
     <string name="shortcut_short_label_24_hour_forecast">Previsão para 24 horas</string>
     <string name="shortcut_short_label_recent_forecast">Confira a previsão do tempo</string>
+    <string name="size_byte">"B"</string>
+    <string name="size_giga_byte">"GB"</string>
+    <string name="size_kilo_byte">"KB"</string>
+    <string name="size_mega_byte">"MB"</string>
+    <string name="size_peta_byte">"PB"</string>
+    <string name="size_tera_byte">"TB"</string>
     <string name="some_where_on_earth">Em algum lugar na Terra</string>
     <string name="suggestion_for_blizzard">Mantenha-se aquecido e viaje com segurança</string>
     <string name="suggestion_for_cloudy">Um céu nublado é perfeito para tirar selfies</string>
