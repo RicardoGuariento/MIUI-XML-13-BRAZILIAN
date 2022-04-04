@@ -2793,7 +2793,6 @@ Obtenha esta medalha"</string>
     <string name="nfc_mi_pay_user_proto_privacy">Política de Privacidade</string>
     <string name="nfc_mi_pay_user_proto_user">Contrato do Usuário</string>
     <string name="nfc_nextpay_more_settings_help">Perguntas frequentes</string>
-    <string name="nfc_nextpay_more_settings_help">Perguntas frequentes</string>
     <string name="nfc_not_active_bank_card_content_new">Adicionar um cartão com %1$s requer a verificação por SMS. Você pode continuar a configuração depois a qualquer momento por até 24 horas.</string>
     <string name="nfc_not_active_bank_card_finish">Sair</string>
     <string name="nfc_not_active_bank_card_title">Configuração incompleta</string>
