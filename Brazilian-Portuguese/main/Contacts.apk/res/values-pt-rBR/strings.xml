@@ -1056,6 +1056,7 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="privacy_password_title2">Usar Senha de proteção de privacidade</string>
     <string name="privacy_password_title3">Atualize sua senha</string>
     <string name="privacy_password_title4">Senha atualizada</string>
+    <string name="privacy_settings_blue_scan_connect">Conecte-se a dispositivos próximos</string>
     <string name="privacy_settings_call_phone">Fazer chamadas</string>
     <string name="privacy_settings_call_phone_description">Para fazer chamadas por meio de atalhos da Tela inicial</string>
     <string name="privacy_settings_call_phone_description_for_pad">Para fazer chamadas em apps de terceiros</string>
@@ -1338,6 +1339,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="toast_for_failed_saving_nickname">Não foi possível salvar o apelido</string>
     <string name="toast_for_saving_nickname">Apelido salvo</string>
     <string name="toast_join_with_empty_contact">Insira o nome de contato antes de uní-lo a outro</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">Permita que este recurso se conecte a dispositivos próximos via Bluetooth para poder importar contatos de outros dispositivos.</string>
     <string name="toast_not_show_camera_perm_req">Para poder usar a câmera para tirar fotos de perfil, primeiro permita que este app tire fotos e grave vídeos.</string>
     <string name="toast_not_show_location_perm_req">Para poder importar contatos de outros dispositivos via Bluetooth, primeiro permita que este app acesse sua localização.</string>
     <string name="toast_not_show_read_calllogs_perm_req">Para poder ver o histórico de chamadas, primeiro permita que este app acesse o histórico de chamadas.</string>

@@ -221,10 +221,10 @@
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="font_camera_tip">Dobre o dispositivo para usar a câmera frontal</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
-    <string name="font_camera_tip">Dobre o dispositivo para usar a câmera frontal</string>
     <string name="inCallLabel">Ui de chamadas</string>
     <string name="incall_bubble_hangup_click_hint">Toque novamente para voltar à chamada</string>
     <string name="incall_call_type_label_sip">Chamada pela internet</string>

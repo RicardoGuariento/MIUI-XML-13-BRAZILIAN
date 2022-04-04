@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="action_missing_private_key">Chave privada necessária para instalar um certificado</string>
+    <string name="action_missing_user_cert">Certificado necessário para instalar uma chave privada</string>
     <string name="app_name">Instalador de certificado</string>
     <string name="ca_cert_is_added">Certificado CA instalado</string>
     <string name="ca_certificate">Certificado CA</string>
@@ -47,6 +49,7 @@
     <string name="unable_to_save_cert">Não foi possível salvar o certificado. Armazenamento de credenciais desativado ou não inicializado corretamente.</string>
     <string name="user_cert_is_added">Certificado de usuário instalado</string>
     <string name="user_certificate">VPN e certificado de usuário do app</string>
+    <string name="userkey_type">Algoritmo:</string>
     <string name="wifi_cancel_label">Cancelar</string>
     <string name="wifi_cert_is_added">Certificado Wi-Fi instalado</string>
     <string name="wifi_certificate">Certificado Wi-Fi</string>

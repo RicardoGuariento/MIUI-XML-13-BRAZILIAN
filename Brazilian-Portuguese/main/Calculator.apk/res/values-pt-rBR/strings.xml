@@ -128,6 +128,7 @@
     <string name="dateformat">dd/MM/yyyy</string>
     <string name="day">dia</string>
     <string name="degDesc">Ângulo</string>
+    <string name="del">"DEL"</string>
     <string name="deleteDesc">excluir</string>
     <string name="description_content">Além dos recursos básicos, a Calculadora também funciona como um conversor universal, além de calcular impostos e hipotecas. Certifique-se de que não precisará destes recursos antes de desinstalar o app.</string>
     <string name="description_title">Sobre a Calculadora</string>

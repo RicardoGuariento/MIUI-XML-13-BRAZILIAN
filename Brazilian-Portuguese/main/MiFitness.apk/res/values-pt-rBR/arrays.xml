@@ -778,6 +778,7 @@
         <item>Índice UV</item>
         <item>Nascer e pôr do sol</item>
         <item>Vento</item>
+    </string-array>
     <string-array name="habit_date_week">
         <item>Segunda</item>
         <item>Terça</item>
@@ -795,7 +796,6 @@
         <item>Sex</item>
         <item>Sáb</item>
         <item>Dom</item>
-    </string-array>
     </string-array>
     <string-array name="health_blood_pressure_repeat_mode_mild_abnormal_array">
         <item>Seg, Qua, Sex</item>
