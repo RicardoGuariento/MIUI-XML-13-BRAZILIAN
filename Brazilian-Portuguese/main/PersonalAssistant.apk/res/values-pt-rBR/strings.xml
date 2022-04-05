@@ -43,6 +43,7 @@
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="evening">"PM"</string>
+    <string name="expand_button_title">Avançado</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">"dd 'de' MMMM"</string>
@@ -176,8 +177,8 @@
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_2">%s selecionado.</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_2">%s selecionado.</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">%s selecionado.</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Toque duas vezes para adicionar este item à Tela inicial.</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Toque duas vezes para adicionar este item ao Assistente.</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Adicionar este item à Tela inicial.</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Adicionar este item ao Assistente.</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Editar</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Widget selecionado. Arraste para adicionar este item à Tela inicial.</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Widget selecionado. Arraste para adicionar este item ao Assistente.</string>

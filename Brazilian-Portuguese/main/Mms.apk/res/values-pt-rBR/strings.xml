@@ -1455,6 +1455,7 @@ Se você não aceitar em conceder estas permissões ou compartilhar e fazer o en
     <string name="title_allow_network_access">Atualizar informações automaticamente</string>
     <string name="title_collapse_sp_messages">Agrupar informativos</string>
     <string name="title_hide_verification_code">Ocultar códigos de verificação na Tela de bloqueio</string>
+    <string name="title_not_show_read_mms_perm_req">Permissões necessárias</string>
     <string name="title_pref_cm_smart_sms">China Mobile SMS inteligente</string>
     <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
     <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
@@ -1477,6 +1478,7 @@ Se você não aceitar em conceder estas permissões ou compartilhar e fazer o en
     <string name="toast_not_show_email_perm_req">Permita que o app Mensagens acesse seu e-mail para usar este recurso</string>
     <string name="toast_not_show_location_perm_req">Permitir que o app Mensagens acesse sua localização para usar este recurso</string>
     <string name="toast_not_show_microphone_perm_req">Permita que o app Mensagens use o microfone para poder usar este recurso</string>
+    <string name="toast_not_show_read_mms_perm_req">Para poder visualizar as mensagens recebidas, você precisa conceder permissão ao Mensagens para ler SMS e MMS. Você pode conceder essa permissão nas Configurações.</string>
     <string name="toast_not_show_send_sms_perm_req">Para poder usar este recurso, primeiro permita que este app envie mensagens.</string>
     <string name="toast_not_show_storage_perm_req">Permita que o app Mensagens acesse o armazenamento para poder usar este recurso</string>
     <string name="toast_not_show_write_contacts_perm_req">Permitir que o app Mensagens edite contatos para usar este recurso</string>

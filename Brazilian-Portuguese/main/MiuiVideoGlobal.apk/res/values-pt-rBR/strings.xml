@@ -115,7 +115,9 @@
     <string name="back_to_mainpage">Descubra</string>
     <string name="background_playback_enabled">Reprodução em 2º plano ativada</string>
     <string name="before_yestoday">2 dias atrás</string>
+    <string name="before_yestoday_new">%d dias atrás</string>
     <string name="bind_sign_in_title">Adicionar Conta Mi</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="box_title_gallery">Caixa de ferramentas de vídeo</string>
     <string name="box_title_mivideo">Recursos adicionais</string>
     <string name="brvah_app_name">Biblioteca</string>
@@ -124,6 +126,7 @@
     <string name="brvah_loading">Carregando…</string>
     <string name="btn_clear_history">Limpar histórico</string>
     <string name="btn_empty_go_to_download">Baixar</string>
+    <string name="btn_playlist_play_all">Reproduzir</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_choose">Desmarcar</string>
     <string name="cancel_subscribe_tips">Parar de seguir agora?</string>
@@ -277,6 +280,7 @@
     <string name="content_can_not_null">Não é possível enviar um feedback sem descrição.</string>
     <string name="continue_play">Retomar</string>
     <string name="controller_bar_edit">Editar</string>
+    <string name="copy">Copiar</string>
     <string name="data_empty">Não há itens aqui</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -1673,6 +1677,8 @@ Aumentar a segurança da sua conta."</string>
     <string name="user_avatar_update_title">Alterar foto de perfil</string>
     <string name="user_avatar_uploading">Aguarde…</string>
     <string name="user_id_hint">E-mail/Telefone/ID da Conta Mi</string>
+    <string name="v7_preference_off">DESATIVADO</string>
+    <string name="v7_preference_on">ATIVADO</string>
     <string name="v_agree">Aceitar</string>
     <string name="v_app_name">Mi Vídeo</string>
     <string name="v_cancel">Cancelar</string>

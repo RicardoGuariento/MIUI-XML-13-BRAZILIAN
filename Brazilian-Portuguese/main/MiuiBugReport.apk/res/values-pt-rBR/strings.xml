@@ -351,6 +351,7 @@ Envie este código ao supervisor."</string>
     <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Por favor, aguarde 24 horas e tente novamente.</string>
     <string name="goon_feedback_main">Continuar</string>
     <string name="goto_sign_up">Criar conta</string>
+    <string name="header_help">Ajuda</string>
     <string name="hint_feedback_main">Descreva o problema</string>
     <string name="i_get_it">Entendi</string>
     <string name="i_know">"OK"</string>

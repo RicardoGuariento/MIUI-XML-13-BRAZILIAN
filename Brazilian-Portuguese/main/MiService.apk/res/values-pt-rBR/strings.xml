@@ -30,6 +30,7 @@
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
     <string name="am">"AM"</string>
+    <string name="app_name">Serviços Mi</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
     <string name="copy">Copiar</string>

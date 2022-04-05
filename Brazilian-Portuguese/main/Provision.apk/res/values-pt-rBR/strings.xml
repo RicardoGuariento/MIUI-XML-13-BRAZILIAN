@@ -182,6 +182,7 @@
     <string name="input_method_category">Escolha o teclado padrão a ser usado para escrever mensagens, anotações, etc. É possível instalar ou usar outros teclados mais tarde.</string>
     <string name="input_method_setting">Escolha o teclado</string>
     <string name="install_preinstall_app">Carregando apps…</string>
+    <string name="intent_filter_verification_service">Serviço de verificação de filtro de intenção</string>
     <string name="interconnection_communication_introduction">Os Serviços de comunicação da Internet da Xiaomi, permite que você descubra, conecte e se comunique com outros dispositivos Xiaomi.</string>
     <string name="item_contents_wwarning">Se seu dispositivo for perdido, você não poderá impedir que outras pessoas o utilizem e acessem seus dados, a menos que defina um bloqueio de tela. Ignorar mesmo assim?</string>
     <string name="item_fingerprint">Digital</string>
@@ -313,6 +314,8 @@
     <string name="other_settings_enhanced_lockscreen_summary_index">Contrato de Licença do Usuário Final</string>
     <string name="other_settings_location">Localização</string>
     <string name="other_settings_location_summary">Permite que os apps e sites acessem suas informações de localização para fornecer serviços baseados na localização</string>
+    <string name="other_settings_quality_service">Permissões do MIUI Daemon</string>
+    <string name="other_settings_quality_service_summary">O MIUI Daemon é usado para melhorar a estabilidade e o desempenho do sistema. Para poder funcionar normalmente, este serviço precisa de permissões para acessar e salvar itens no armazenamento do dispositivo.</string>
     <string name="other_settings_upload_debug_log_detail">"Ajude a melhorar a experiência do dispositivo MIUI enviando automaticamente dados de diagnóstico, do dispositivo e do uso de apps para a Xiaomi. Isso ajudará a melhorar a vida útil da bateria, do sistema MIUI, e da estabilidade do app e muito mais.
 Os dados que você enviará conterão informações gerais sobre seu dispositivo e como você o usa (ex.: nível da bateria, atividade do sistema, dos apps e erros). Os dados serão usados para melhorar os dispositivos MIUI.
 Desativar este recurso não afeta a capacidade do seu dispositivo de enviar as informações necessárias para serviços essenciais, como atualizações do sistema e segurança.
