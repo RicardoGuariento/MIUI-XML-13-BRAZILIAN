@@ -4007,6 +4007,16 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="guest_reset_guest_confirm_button">Redefinir</string>
     <string name="guest_reset_guest_dialog_title">Redefinir convidado agora?</string>
     <string name="guest_resetting">Redefinindo convidado…</string>
+    <string name="guide_button_text">Entendi</string>
+    <string name="guide_text_center">"Deslize para a direita no meio da tela.
+A área onde você pode confirmar seu bloqueio de tela será alinhada ao centro."</string>
+    <string name="guide_text_left">"Deslize para cima a partir do canto inferior esquerdo.
+A área onde você pode confirmar seu bloqueio de tela se moverá para a esquerda."</string>
+    <string name="guide_text_right">"Deslize para cima a partir do canto inferior direito.
+A área onde você pode confirmar seu bloqueio de tela se moverá para a direita."</string>
+    <string name="guide_title_center">Deslize para cima no meio</string>
+    <string name="guide_title_left">Deslize para cima à esquerda</string>
+    <string name="guide_title_right">Deslize para cima à direita</string>
     <string name="gxzw_add_fingerprint_area">Sensor de impressão digital</string>
     <string name="gxzw_add_fingerprint_continue">Continuar</string>
     <string name="gxzw_add_fingerprint_edge_message">Mova seu dedo para que o sensor grave as bordas da impressão digital</string>
@@ -4402,8 +4412,8 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="key_gesture_function_optional">Botões e gestos opcionais</string>
     <string name="key_gesture_function_preview">Visualização de botões e gestos</string>
     <string name="key_gesture_function_shortcut">Atalhos de função</string>
-    <string name="key_handwriting_input_summary">Edite o texto usando uma caneta. As ações que você pode executar incluem excluir, selecionar, colar e iniciar um novo parágrafo.</string>
-    <string name="key_handwriting_input_title">Manuscrito</string>
+    <string name="key_handwriting_input_summary" />
+    <string name="key_handwriting_input_title" />
     <string name="key_none">Nenhum</string>
     <string name="key_operation_diagram">Pré-visualização</string>
     <string name="key_position_cat">Posição dos botões</string>
@@ -5915,6 +5925,8 @@ Selecione seu sistema operacional:"</string>
     <string name="multifunction_keyboard">Multifuncional</string>
     <string name="multiple_users_main_switch_title">Use vários usuários.</string>
     <string name="music_equalizer">Equalizador</string>
+    <string name="music_playback_control_cross_device_flow">Transfira a reprodução de áudio entre dispositivos</string>
+    <string name="music_video_flow_across_device">Controle e transfira a reprodução de áudio entre dispositivos</string>
     <string name="musicfx_title">Efeitos sonoros</string>
     <string name="mute">Modo silencioso</string>
     <string name="mute_media_sound_summary">Jogos, música, vídeos e outros apps</string>
@@ -7634,6 +7646,7 @@ Para usar a fixação de apps: \u0009
     <string name="search_apn_settings">APN;Nomes dos Pontos de Acesso</string>
     <string name="search_app_invisible">App invisível;Apps invisíveis</string>
     <string name="search_app_switch_key">Recentes;Recente;Menu;Botão Menu;Gerenciador de tarefas</string>
+    <string name="search_application_count">Pesquisar apps</string>
     <string name="search_application_lock_name">Bloqueio de apps</string>
     <string name="search_applications_settings">Apps instalados</string>
     <string name="search_back_key">Voltar;Botão Voltar;Botão voltar</string>
@@ -8380,21 +8393,21 @@ PIN possivelmente incorreto."</string>
     <string name="sim_status_title_sim_softbank">Status do SIM %1$d</string>
     <string name="sim_switch_button">Mudar</string>
     <string name="sim_switch_channel_id">Comutação de transportadora</string>
+    <string name="sim_vonr_title">SIM %1$s (%2$s)</string>
     <string name="simulate_color_space">Simular espaço de cores</string>
     <string name="single_key_use">Botão único</string>
     <string name="single_key_use_summary">"Use o botão Início para as funções executadas pelos outros 2 botões.
 Toque no botão Início para voltar.
 Toque duas vezes para abrir os Recentes."</string>
     <string name="single_press_AI_button">Pressione o Botão IA</string>
-    <string name="size_byte">B</string>
+    <string name="size_byte">"B"</string>
     <string name="size_embedded">Janelas paralelas</string>
     <string name="size_full">Tela cheia</string>
-    <string name="size_giga_byte">GB</string>
-    <string name="size_kilo_byte">KB</string>
-    <string name="size_mega_byte">MB</string>
-    <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s %2$s</string>
-    <string name="size_tera_byte">TB</string>
+    <string name="size_giga_byte">"GB"</string>
+    <string name="size_kilo_byte">"KB"</string>
+    <string name="size_mega_byte">"MB"</string>
+    <string name="size_peta_byte">"PB"</string>
+    <string name="size_tera_byte">"TB"</string>
     <string name="skip_anyway_button_label">Pular mesmo assim</string>
     <string name="skip_label">Pular</string>
     <string name="skip_lock_screen_confirm_msg">Notificações, controles de música e atalhos não serão exibidos na Tela de bloqueio.</string>
@@ -8513,7 +8526,20 @@ Para enviar mensagens de texto para contatos de emergência
 • Acesso à localização
 Para compartilhar sua localização com contatos de emergência
 Se você não concordar em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar este app. Você pode optar por desativar ou não usar o SOS de emergência nestes casos.
-Antes de usar nossos serviços, leia e aceite a nossa %s."</string>
+Antes de usar nossos serviços, leia e aceita a nossa %s."</string>
+    <string name="sos_privacy_dialog_message_old_version">"O SOS de emergência permite que você compartilhe sua localização em tempo real e envie mensagens de texto para seus contatos de emergência.
+Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.
+Observe que este app precisa se conectar à Internet e requer as seguintes permissões para coletar suas informações pessoais:
+• Acessar o armazenamento
+Para salvar contatos de emergência
+• Acessar contatos
+Para marcar contatos como contatos de emergência
+• Enviar SMS
+Para enviar mensagens de texto para contatos de emergência
+• Acessar localização
+Para compartilhar sua localização com contatos de emergência
+Se você não concordar em conceder tais permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este app. Você pode optar por desativar ou não usar o SOS de emergência nesses casos.
+Antes de usar nossos serviços, leia e aceita a nossa %s."</string>
     <string name="sos_privacy_dialog_title">Termos e Condições</string>
     <string name="sos_privacy_policy">Política de Privacidade</string>
     <string name="sos_privacy_policy_change_endtitle">Leia e concorde com a nova versão do %s antes de continuar.</string>
@@ -9006,10 +9032,8 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="suggestions_title">Sugestões</string>
     <string name="suggestions_title_v2">Sugestões para você</string>
     <string name="sum_carrier_select">Selecione um operador de rede</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_range_verbal_combination">%1$s a %2$s</string>
-    <string name="summary_separator">" / "</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -9950,6 +9974,7 @@ Durante uma chamada de voz, não é possível usar a Internet, e alguns apps pod
     <string name="volume_ring_mute">Desativar toque e notificações</string>
     <string name="volume_system_description">Câmera, capturas de tela, botões e notificações do sistema</string>
     <string name="volume_voice_description">Volume em chamada</string>
+    <string name="vonr_switch_title">Usar VoNR</string>
     <string name="vpn_always_on_invalid_reason_dns">Os endereços de servidor DNS precisam ser numéricos para VPN sempre ativa</string>
     <string name="vpn_always_on_invalid_reason_no_dns">Um servidor DNS precisa ser especificado para VPN sempre ativa</string>
     <string name="vpn_always_on_invalid_reason_other">As informações inseridas não são compatíveis com VPN sempre ativa</string>

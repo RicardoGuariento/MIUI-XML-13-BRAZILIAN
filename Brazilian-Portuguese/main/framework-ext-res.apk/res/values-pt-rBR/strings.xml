@@ -222,6 +222,8 @@
     <string name="knock_slide_shape">nenhum</string>
     <string name="kungfu">Kung fu</string>
     <string name="leisure">Lazer</string>
+    <string name="lenovo">Lenovo</string>
+    <string name="lenovo_phone">Telefone Lenovo</string>
     <string name="livetalk_not_enable">Pacote de recarga desativado</string>
     <string name="location_usage_restricted_body">Toque para permitir.</string>
     <string name="location_usage_restricted_title">Localização em segundo plano restrita</string>
@@ -383,6 +385,7 @@
     <string name="set_password_action">Definir senha</string>
     <string name="set_password_message">Defina uma senha para usar esta funcionalidade.</string>
     <string name="set_password_title">Definir senha</string>
+    <string name="shortcut_no_support_on_pc_mode">"Este gesto não é compatível com o Modo PC"</string>
     <string name="shutdown_confirm_title">Desligar dispositivo agora?</string>
     <string name="shutdown_progress">Desligando…</string>
     <string name="silence_mode">Modo silencioso</string>

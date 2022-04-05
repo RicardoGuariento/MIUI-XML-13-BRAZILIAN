@@ -699,7 +699,7 @@
     <string name="material_timepicker_hour">Hora</string>
     <string name="material_timepicker_minute">Minuto</string>
     <string name="material_timepicker_pm">"PM"</string>
-    <string name="material_timepicker_select_time">Selecionar horário</string>
+    <string name="material_timepicker_select_time">Selecione o horário</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
     <string name="menu_title_pause_all">Pausar tudo</string>
     <string name="menu_title_resume_all">Iniciar tudo</string>

@@ -2791,6 +2791,10 @@ Toque para obter mais informações"</string>
     <string name="torch_opened">Lanterna ligada</string>
     <string name="touch_filtered_warning">Como um app está obscurecendo uma solicitação de permissão, as Configurações não podem verificar sua resposta.</string>
     <string name="track_frame_time">Renderiz. de perfil HWUI</string>
+    <string name="traffic_unit_byte">"B"</string>
+    <string name="traffic_unit_gigabyte">"GB"</string>
+    <string name="traffic_unit_kilobyte">"KB"</string>
+    <string name="traffic_unit_megabyte">"MB"</string>
     <string name="transcode_default">Suponha que os apps sejam compatíveis com formatos modernos</string>
     <string name="transcode_disable_cache">Desativar cache de transcodificação</string>
     <string name="transcode_enable_all">Ativar transcodificação</string>
