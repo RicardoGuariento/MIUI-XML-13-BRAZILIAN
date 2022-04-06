@@ -2819,6 +2819,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="default_theme">Padrão</string>
     <string name="default_usb_mode">Conexão USB</string>
     <string name="default_vol_stream_title">Controle de volume predefinido</string>
+    <string name="deferred_setup_hintViewTitle">Verificando…</string>
     <string name="delete">Excluir</string>
     <string name="delete_blob_confirmation_text">Você tem certeza que deseja excluir este dado compartilhado?</string>
     <string name="delete_blob_text">Excluir dados compartilhados</string>
@@ -3891,8 +3892,12 @@ Este recurso funciona apenas quando a navegação do sistema está definida para
     <string name="freeform_guide_slide_to_small_freeform_title">Minimize um app</string>
     <string name="freeform_guide_slide_up_to_close_summary">Deslize para cima a partir da barra de ação de uma janela flutuante</string>
     <string name="freeform_guide_slide_up_to_close_title">Fechando janelas flutuantes</string>
+    <string name="freeform_guide_to_sidehide_summary">Arraste rapidamente o app para o lado da tela para ocultá-lo</string>
+    <string name="freeform_guide_to_sidehide_title">Escondendo janelas flutuantes</string>
     <string name="freeform_vedio_description">"• Pressione e segure, e então puxe para baixo uma notificação para abri-la em uma janela flutuante.
 • Toque em \"Janelas flutuantes\" nos Recentes para selecionar apps."</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"• Toque em um aplicativo na barra lateral para abri-lo em uma janela flutuante.
+• Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a tela dividida."</string>
     <string name="freeform_vedio_description_pad">Arraste itens para fora do dock para abrir janelas flutuantes</string>
     <string name="frequently_fragment_delete">Remover</string>
     <string name="frequently_fragment_tempty">Itens usados frequentemente serão listados aqui</string>
@@ -8273,6 +8278,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="shut_down_find_device_network_failure_content">"Não foi possível desativar o 'Encontrar dispositivo'. Certifique-se de que o dispositivo tem uma conexão com a internet."</string>
     <string name="shut_down_find_device_network_failure_title">Não é possível conectar-se à rede</string>
     <string name="shuting_down_find_device">"Desativando 'Encontrar dispositivo'…"</string>
+    <string name="sidebar_setting">Configurações da barra lateral</string>
     <string name="silent_duration">Duração</string>
     <string name="silent_mode">Modo silencioso</string>
     <string name="silent_mode_disable_media">Silencie tudo</string>

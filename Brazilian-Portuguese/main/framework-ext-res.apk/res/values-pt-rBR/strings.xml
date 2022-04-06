@@ -107,6 +107,10 @@
     <string name="customer_location_judgment">China</string>
     <string name="cut">Recortar</string>
     <string name="dance">"Dance"</string>
+    <string name="dark_mode_enable">Ativar</string>
+    <string name="dark_mode_suggest_message">Você pode alternar para o Modo escuro automaticamente ao pôr do sol para obter uma experiência de visualização mais confortável</string>
+    <string name="dark_mode_suggest_title">"Está ficando escuro"</string>
+    <string name="dark_mode_suggest_toast">O modo escuro será ativado automaticamente ao pôr do sol e desativado ao amanhecer a partir de agora</string>
     <string name="data_usage_context">Se o Wi-Fi não estiver ativado, seu dispositivo se conectará a uma rede móvel, o que pode resultar em cobranças adicionais dependendo do seu plano de dados. Obrigado!</string>
     <string name="daydream">Sonhar Acordado</string>
     <string name="default_device_name">Dispositivo desconhecido</string>

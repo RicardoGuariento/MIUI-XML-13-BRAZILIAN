@@ -1716,9 +1716,9 @@ monitoramento de terremotos"</string>
     <string name="first_aid_scanning_item4">Verificando por problemas na bateria…</string>
     <string name="first_aid_scanning_item5">Verificando por outros problemas…</string>
     <string name="first_aid_stop_scan">Parar verificação</string>
-    <string name="first_settings_default_camera_title">Compartilhar sem metadados por padrão</string>
+    <string name="first_settings_default_camera_title">Compartilhar sem metadados (padrão)</string>
     <string name="first_settings_default_location_subtitle">Remove informações de localização das fotos compartilhadas</string>
-    <string name="first_settings_default_location_title">Compartilhar sem informações de localização por padrão</string>
+    <string name="first_settings_default_location_title">Compartilhar sem informações de localização (padrão)</string>
     <string name="first_settings_share_enable">Adicionar emblema \"Compartilhamento seguro\"</string>
     <string name="first_settings_share_enable_subtitle">Os itens que você compartilha no WeChat aparecerão com um emblema da MIUI</string>
     <string name="first_settings_subtitle">Aqui estão as opções de compartilhamento seguro disponíveis para você:</string>
