@@ -37,6 +37,7 @@
     <string name="add_clock">Novo relógio</string>
     <string name="add_common_timer">Adicionar temporizador</string>
     <string name="add_timer">Temporizador frequente</string>
+    <string name="add_timer_dialog_title">Adicionar temporizador</string>
     <string name="add_timezone_title">Adicionar fuso horário</string>
     <string name="afternoon">"PM"</string>
     <string name="agree">Aceitar</string>
@@ -478,7 +479,7 @@
     <string name="show_life_post_lable">Exibir relatório matinal</string>
     <string name="shut_down_keep_screen">A tela não será mantida ligada</string>
     <string name="shutdown_alarm_alert_enable_summary">O alarme com o telefone desligado tocará a pelo menos 10 minutos depois que você desligar seu dispositivo</string>
-    <string name="shutdown_alarm_alert_enable_summary_new">Ative para que os alarmes definidos, toquem quando o seu dispositivo estiver desligado. Apenas alarmes definidos por pelo menos %d minutos após você desligar o dispositivo, irão tocar.</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Os alarmes definidos, irão tocar quando o seu dispositivo estiver desligado. Note que apenas alarmes definidos por pelo menos %d minutos após você desligar o dispositivo, irão tocar.</string>
     <string name="shutdown_alarm_alert_title">Alarme com o telefone desligado</string>
     <string name="shutdown_alarm_disable_summary">O alarme não tocará após você desligar o dispositivo</string>
     <string name="shutdown_alarm_enable_summary">O alarme tocará se for definido para pelo menos 10 minutos após você desligar seu dispositivo</string>
@@ -603,6 +604,7 @@
     <string name="timer_alert_type_beach">Praia</string>
     <string name="timer_alert_type_forest">Floresta</string>
     <string name="timer_alert_type_mute">Padrão</string>
+    <string name="timer_alert_type_no">Nenhum</string>
     <string name="timer_alert_type_rain">Garoa</string>
     <string name="timer_alert_type_spring_rain">Chuva de verão</string>
     <string name="timer_alert_type_stove_fire">Fogueira</string>
@@ -614,6 +616,9 @@
     <string name="timer_continue">Continuar</string>
     <string name="timer_continue_timer">Retomar temporizador</string>
     <string name="timer_created">Temporizador adicionado com sucesso</string>
+    <string name="timer_desc_use_brush_teeth">Escovar os dentes</string>
+    <string name="timer_desc_use_facial_mask">Máscara facial</string>
+    <string name="timer_desc_use_sleep">Soneca</string>
     <string name="timer_end_time">O temporizador vai parar às %s</string>
     <string name="timer_end_time_format">"HH:mm, dd 'de' MMMM"</string>
     <string name="timer_end_time_format_today">HH:mm</string>
@@ -622,6 +627,7 @@
     <string name="timer_is_paused">O temporizador está pausado</string>
     <string name="timer_item_delete">Excluir</string>
     <string name="timer_item_duration_display">%1$d min %2$d seg</string>
+    <string name="timer_item_edit">Editar</string>
     <string name="timer_item_label_hint">Nome do temporizador</string>
     <string name="timer_item_picker_hour">"H"</string>
     <string name="timer_item_picker_minute">"M"</string>
@@ -678,6 +684,7 @@
     <string name="wednesday_shortest">Qua</string>
     <string name="week_ringtone_recommend_desc">O alarme com sons da natureza, reproduz diferentes sons dependendo da data. Definir como seu alarme padrão?</string>
     <string name="white_noise">Ambiente barulhento</string>
+    <string name="white_noise_guide_desc">Adicione um som de fundo para mantê-lo focado</string>
     <string name="white_noise_selector">Selecionar áudio</string>
     <string name="workday_alarm_clock">Alarme em dias úteis</string>
     <string name="worldclock_edit_label">Relógio mundial</string>

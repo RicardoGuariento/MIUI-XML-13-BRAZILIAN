@@ -126,7 +126,8 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="ble_device_address">MAC do disp. inteligente Bluetooth</string>
     <string name="ble_device_profile">Perfil do dispositivo Bluetooth</string>
-    <string name="ble_device_profile_header_title">Configurações</string>
+    <string name="ble_device_profile_header_title">Mais</string>
+    <string name="ble_device_profile_summary">Gerenciar este dispositivo</string>
     <string name="ble_device_profile_title">Disp. Bluetooth inteligente emparelhado</string>
     <string name="ble_device_rename">Renomear</string>
     <string name="blob_expires_text">Expira em %s</string>

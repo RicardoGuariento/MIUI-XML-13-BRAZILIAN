@@ -409,6 +409,7 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_picker_detail_small_widget">"Widgets"</string>
     <string name="pa_picker_detail_theme_app_cta">Configurações</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"Para poder usar este widget, permita que temas possam se conectarem à Internet primeiro."</string>
+    <string name="pa_picker_detail_vp2_indicator">Página selecionada: %1$d de %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Este item será baixado via Wi-Fi</string>
     <string name="pa_picker_home_app_group_title">Apps com widgets.</string>
     <string name="pa_picker_home_group_more">Tudo</string>

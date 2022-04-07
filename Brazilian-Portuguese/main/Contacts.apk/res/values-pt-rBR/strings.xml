@@ -163,7 +163,9 @@
     <string name="bh_not_contact">"Este número não está em seus contatos"</string>
     <string name="bh_notice">Atenção</string>
     <string name="bh_online_service">Suporte online</string>
-    <string name="bh_option_agree_dec">Permita que o Mi Carrier Services se conecte à Internet e conceda as permissões necessárias antes de usar o app.</string>
+    <string name="bh_open_carrier_services_short">Serviços Operadora Mi</string>
+    <string name="bh_open_carrier_services_short_reason">Ative o Serviços da Operadora Mi para poder usar esse recurso.</string>
+    <string name="bh_option_agree_dec">Permita que o Serviços da Operadora Mi se conecte à Internet e conceda as permissões necessárias antes de usar o app.</string>
     <string name="bh_order_detail">Detalhes do pedido</string>
     <string name="bh_order_id">ID do pedido</string>
     <string name="bh_order_loading">Só um momento…</string>
@@ -194,6 +196,7 @@
     <string name="bh_please_fill_total_limit_title">Por favor, preencha o valor total do pacote</string>
     <string name="bh_please_set_pkg">Defina o seu plano para poder verificar o seu saldo.</string>
     <string name="bh_privacy_policy">Política de Privacidade</string>
+    <string name="bh_qualification_and_certificate">Licenças e certificação</string>
     <string name="bh_receive_zero_card">SIM livre</string>
     <string name="bh_recharge_money">Total</string>
     <string name="bh_recharge_record">Registro de recarga</string>
@@ -212,7 +215,7 @@
     <string name="bh_stop_carrier_services_short">Desativar os serviços da Operadora Mi</string>
     <string name="bh_stop_result">"Você não poderá gerenciar seu plano de operadora ou comprar dados e minutos de chamada se desativar os Serviços da Operadora Mi. Desativar mesmo assim?"</string>
     <string name="bh_system_recommend">Recomendações do sistema</string>
-    <string name="bh_system_recommend_des">Permita-nos analisar seu tráfego e recomendar produtos digitais com base nos resultados</string>
+    <string name="bh_system_recommend_des">Quando as recomendações personalizadas estiverem desativadas, você ainda verá a mesma quantidade de anúncios de quando o recurso estava ativo, mas esses anúncios não serão tão relevantes para você</string>
     <string name="bh_tag">*%1$s</string>
     <string name="bh_tag_phones">Números de telefones usados com frequência</string>
     <string name="bh_tags_number_exceed">Não é possível salvar mais números</string>

@@ -339,7 +339,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="notification_recording_ticker">Telefone mudo</string>
     <string name="notification_recording_ticker_for_pad">Seu dispositivo está gravando áudio no Modo silencioso agora. Use os botões de volume para desativar o Modo silencioso.</string>
     <string name="notification_save_as_complete">Salvo com sucesso</string>
-    <string name="notification_stopped">Gravação terminada</string>
+    <string name="notification_stopped">Gravação encerrada</string>
     <string name="notification_title_all_paused">Download pausado</string>
     <string name="offline_recognize_progress">Transcrevendo offline %s…</string>
     <string name="offline_recognize_transfer_format">Transcrevendo…</string>
@@ -552,7 +552,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="start">Continuar</string>
     <string name="status_bar_back">Toque para voltar ao Gravador</string>
     <string name="status_bar_recording">Gravando…</string>
-    <string name="status_bar_recording_pause">Gravador em pausa</string>
+    <string name="status_bar_recording_pause">Gravação pausada</string>
     <string name="storage_permission_dialog_title">Permissão de armazenamento necessária</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>

@@ -83,7 +83,7 @@
     <string name="dialog_connect_verify_perssion_fail">Não foi possível autorizar a transmissão na sua TV. Aguarde alguns minutos e tente novamente.</string>
     <string name="dialog_connected">Conectado</string>
     <string name="dialog_connecting">Conectando…</string>
-    <string name="dialog_location_permission_message">Este app precisa acessar sua localização para encontrar monitores externos nas proximidades. Selecione \"Sempre permitir\" ao conceder essa permissão para evitar possíveis erros.</string>
+    <string name="dialog_location_permission_message">Este app precisa acessar sua localização para encontrar monitores externos nas proximidades. Selecione \"Permitir o tempo todo\" ao conceder essa permissão para evitar possíveis erros.</string>
     <string name="dialog_location_permission_title">Permissões necessárias</string>
     <string name="dialog_miplay_permission_message">Permita que a Transmissão grave áudio, acesse arquivos no armazenamento interno e acesse a sua localização para poder usar este recurso normalmente. Toque em \"Configurações\" e selecione \"Permissões do app\" para continuar.</string>
     <string name="dialog_miplay_permission_positive">Configurações</string>
