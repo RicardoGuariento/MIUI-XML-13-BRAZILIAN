@@ -153,8 +153,8 @@ adicionado à lista de bloqueio"</string>
     <string name="close">Fechar</string>
     <string name="cloud_recommend_view_tip">Ative para sincronizar com a nuvem para restaurar mensagens importantes a qualquer momento</string>
     <string name="cloud_state_disabled">Ative a sincronização com a nuvem para sincronizar mensagens</string>
-    <string name="cloud_state_sync_finished">Sincronizado com a Xiaomi Cloud</string>
-    <string name="cloud_state_syncing">Sincronizando com a Xiaomi Cloud…</string>
+    <string name="cloud_state_sync_finished">Sincronizado com a MiCloud</string>
+    <string name="cloud_state_syncing">Sincronizando com a MiCloud…</string>
     <string name="cm_privacy_dialog_allow">Aceitar</string>
     <string name="cm_privacy_dialog_cancel">Cancelar</string>
     <string name="cm_privacy_dialog_spannable_tips">Política de Privacidade</string>
@@ -411,10 +411,10 @@ adicionado à lista de bloqueio"</string>
     <string name="forward_prefix">"Enc.: "</string>
     <string name="found_old_messages">Fazer o upload das mensagens de %1$s para %2$s?</string>
     <string name="found_old_messages_title">Fazer o upload das mensagens de seus outros cartões SIM?</string>
-    <string name="found_wild_messages_guide_cloud_desc">Para sincronizar mensagens da Xiaomi Cloud, faça o login em sua Conta Mi e ative a sincronização de mensagens SMS.</string>
-    <string name="found_wild_messages_guide_settings_desc">Sincronize mensagens da Xiaomi Cloud nas configurações do app Mensagens.</string>
+    <string name="found_wild_messages_guide_cloud_desc">Para sincronizar mensagens da MiCloud, faça o login em sua Conta Mi e ative a sincronização de mensagens SMS.</string>
+    <string name="found_wild_messages_guide_settings_desc">Sincronize mensagens da MiCloud nas configurações do app Mensagens.</string>
     <string name="found_wild_messages_guide_sync_not_started">Sincronização não iniciada</string>
-    <string name="found_wild_messages_title">Sincronizar mensagens da Xiaomi Cloud</string>
+    <string name="found_wild_messages_title">Sincronizar mensagens da MiCloud</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
