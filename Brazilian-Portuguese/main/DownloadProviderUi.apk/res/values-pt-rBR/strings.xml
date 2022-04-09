@@ -74,6 +74,7 @@
     <string name="cancel_running_download">Cancelar</string>
     <string name="cancle">Cancelar</string>
     <string name="category">Categoria</string>
+    <string name="check_new_downloaded_file">Novo arquivo encontrado</string>
     <string name="choose_open_picture">Selecionar ação</string>
     <string name="character_counter_content_description">Limite de caracteres excedido, %1$d de %2$d</string>
     <string name="choose_open_time">Escolher quando quer começar</string>
@@ -82,6 +83,26 @@
     <string name="close">Fechar</string>
     <string name="close_ad">Fechar anúncios</string>
     <string name="collect_diagnosis_log">Recolher log de diagnóstico</string>
+    <string name="columbus_ad_flag_text">Anúncio</string>
+    <string name="columbus_skip_ad">Pular</string>
+    <string name="common_google_play_services_enable_button">Ativar</string>
+    <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
+    <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
+    <string name="common_google_play_services_install_button">Instalar</string>
+    <string name="common_google_play_services_install_text">O app %1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo.</string>
+    <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
+    <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
+    <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
+    <string name="common_google_play_services_unsupported_text">O app %1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo.</string>
+    <string name="common_google_play_services_update_button">Atualizar</string>
+    <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
+    <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento.</string>
+    <string name="common_google_play_services_wear_update_text">É necessária uma nova versão do Google Play Services. Ele será atualizado em breve.</string>
+    <string name="common_open_on_phone">Abrir no smartphone</string>
+    <string name="common_signin_button_text">Fazer login</string>
+    <string name="common_signin_button_text_long">Fazer login com o Google</string>
     <string name="complete_time">Concluído</string>
     <string name="confirm">"OK"</string>
     <string name="confirm_delete_downloads_message">%d downloads serão excluídos</string>
@@ -112,6 +133,8 @@ Por favor, envie este código para o técnico."</string>
     <string name="dialog_btn_ok">"OK"</string>
     <string name="dialog_btn_ok_disabled_net">Configurações de rede</string>
     <string name="dialog_cannot_resume">Download interrompido.</string>
+    <string name="dialog_clipboard_permission_message">Permitir que o app Download acesse itens na área de transferência para adicionar URLs copiadas automaticamente?</string>
+    <string name="dialog_clipboard_permission_title">Permissões necessárias</string>
     <string name="dialog_confirm_delete_checkbox_message">Excluir também o arquivo local</string>
     <string name="dialog_confirm_delete_the_download_item_message">Excluir esse download?</string>
     <string name="dialog_content_limit0">Restringido</string>
@@ -455,17 +478,17 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="preferences_title">Configurações</string>
     <string name="privacy">Privacidade</string>
     <string name="privacy_policy">Política de Privacidade</string>
-    <string name="privacy_agree_dialog_msg"><Data>"Bem-vindo ao Downloads! Você pode usar este app para baixar arquivos.&lt;BR>Downloads precisa coletar as informações pessoais necessárias para fornecer a você os serviços que geram estatísticas de download. Você pode aprender como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.&lt;BR>Leia e aceite o nosso &lt;a href=\"%2$s\">Contrato de Usuário&lt;/a> e a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de usar Downloads.&lt;BR>Você pode retirar seu consentimento com a Política de Privacidade de Downloads nas Configurações a qualquer momento. Se você não concordar com nossa Política de Privacidade, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você."</Data></string>
+    <string name="privacy_agree_dialog_msg"><Data>"Bem-vindo ao Downloads! Você pode usar este app para baixar arquivos.&lt;BR>Downloads precisa coletar as informações pessoais necessárias para fornecer a você os serviços que geram estatísticas de download. Você pode aprender como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.&lt;BR>Leia e aceite o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de usar o app Downloads.&lt;BR>Você pode retirar o seu consentimento à Política de Privacidade do app Downloads nas Configurações a qualquer momento. Se você não aceitar a Política de Privacidade, você não poderá usar alguns recursos do app; no entanto, seus recursos básicos ainda estarão disponíveis para você."</Data></string>
     <string name="privacy_agree_dialog_title">Termos e Condições</string>
     <string name="privacy_revoke_dialog_later">Cancelar</string>
-    <string name="privacy_revoke_dialog_msg">Ao desativar o botão, você retira seu consentimento para a Política de Privacidade de Downloads. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. Downloads precisa coletar informações pessoais necessárias para fornecer a você os serviços que geram estatísticas de download. Sua retirada de consentimento para sua Política de Privacidade será considerada como recusa em aceitar tais serviços com base nas informações pessoais coletadas.</string>
+    <string name="privacy_revoke_dialog_msg">Ao desativar o seletor, você retira seu consentimento para a Política de Privacidade do app Downloads. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico, conforme exigido pelas leis aplicáveis. O app Downloads precisa coletar informações pessoais necessárias para fornecer-lhe serviços que geram estatísticas de downloads. Sua retirada de consentimento de sua Política de Privacidade será considerada como recusa em aceitar seus serviços com base nas informações pessoais coletadas.</string>
     <string name="privacy_revoke_dialog_ok">Retirar</string>
-    <string name="privacy_revoke_dialog_title">Retirada do consentimento</string>
-    <string name="privacy_revoke_label">Retirada do consentimento</string>
-    <string name="privacy_revoke_msg">Ao desativar o botão, você retira seu consentimento para a Política de Privacidade de Downloads.</string>
+    <string name="privacy_revoke_dialog_title">Retirada de consentimento</string>
+    <string name="privacy_revoke_label">Retirada de consentimento</string>
+    <string name="privacy_revoke_msg">Ao desativar o seletor, você retira o seu consentimento à Política de Privacidade do app Downloads.</string>
     <string name="privacy_revoke_nonetwork_msg">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="privacy_revoke_nonetwork_ok">Entendi</string>
-    <string name="privacy_revoke_nonetwork_title">"Não é possível conectar à rede"</string>
+    <string name="privacy_revoke_nonetwork_title">"Não é possível conectar-se à rede"</string>
     <string name="privacy_tip_cancel">Cancelar</string>
     <string name="privacy_tip_content">Usar o Acelerador Xunlei para acelerar seus downloads? A URL do host do download será enviada para os servidores da Xunlei. Detalhes de sua Conta Mi também serão enviados para verificar se você tem alguma assinatura deste serviço.</string>
     <string name="privacy_tip_ok">"OK"</string>
@@ -732,6 +755,8 @@ Acelere downloads em todos os seus dispositivos."</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="xiaomi_account_not_exist_message">Esta Conta Mi não existe</string>
+    <string name="xiaomi_downloadprovider_description_content">Downloads é um app do sistema que permite que você gerencie downloads, veja o progresso de downloads, e crie tarefas de download. Alguns destes recursos não estarão disponíveis após remover o atalho na Tela inicial.</string>
+    <string name="xiaomi_downloadprovider_description_title">Remover \"Downloads\" da Tela inicial?</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>

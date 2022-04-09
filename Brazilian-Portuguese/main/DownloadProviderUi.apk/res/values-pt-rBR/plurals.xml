@@ -69,7 +69,7 @@
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">em %d minutos</item>
-        <item quantity="one">em 1 minutos</item>
+        <item quantity="one">em 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora</item>
@@ -89,6 +89,10 @@
     <plurals name="number_items">
         <item quantity="other">%s itens</item>
         <item quantity="one">%s item</item>
+    </plurals>
+    <plurals name="show_more">
+        <item quantity="other">Mostrar mais %1$d</item>
+        <item quantity="one">Mostrar mais %1$d</item>
     </plurals>
     <plurals name="sniff_find_resource">
         <item quantity="other">Encontrado %d itens</item>
