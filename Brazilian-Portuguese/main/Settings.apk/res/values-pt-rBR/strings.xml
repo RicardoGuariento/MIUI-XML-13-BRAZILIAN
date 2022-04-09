@@ -5401,6 +5401,8 @@ Não poderá reverter esta ação."</string>
     <string name="mi_service">Serviço Mi</string>
     <string name="mi_service_app_detail">Detalhes de uso de dados</string>
     <string name="mi_shopping_mall">"Mi Store"</string>
+    <string name="mi_smart_hub_entry_title">Hub inteligente Mi</string>
+    <string name="mi_smart_play_entry_title">Play inteligente Mi</string>
     <string name="mi_transfer">"Mi Mover"</string>
     <string name="mi_upi_settings">Conta Mi Pay</string>
     <string name="mic_toggle_title">Acessar Microfone</string>

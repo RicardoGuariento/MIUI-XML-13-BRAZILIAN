@@ -3718,7 +3718,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_apps_tutorial_prompt_pageone">Este recurso permite que você oculte ícones de apps para que eles não apareçam na sua Tela inicial.</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">Depois de inserir a senha, a pasta com os apps ocultos aparecerá.</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">Afaste dois dedos na tela. Você verá uma mensagem solicitando a sua senha de Bloqueio de apps.</string>
-    <string name="privacy_danger_permission_status_summary">Gerenciar apps que solicitam permissões sensíveis</string>
+    <string name="privacy_danger_permission_status_summary">Gerencie apps que solicitam permissões sensíveis</string>
     <string name="privacy_danger_permission_status_title">Ações sensíveis</string>
     <string name="privacy_danger_permission_summary">Monitore como apps usam suas permissões</string>
     <string name="privacy_danger_permission_title">Notificações de permissões</string>

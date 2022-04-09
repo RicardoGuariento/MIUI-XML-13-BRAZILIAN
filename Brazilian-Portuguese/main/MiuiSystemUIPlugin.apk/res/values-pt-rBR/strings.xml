@@ -67,7 +67,7 @@
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
     <string name="close_invisible_mode_dialog_cancel">Cancelar</string>
-    <string name="close_invisible_mode_dialog_message">"Não é possível usar o Mi Smart Play agora. Desative o Modo incógnito nas Configurações para poder usar esse recurso."</string>
+    <string name="close_invisible_mode_dialog_message">"Não é possível usar o Play inteligente Mi agora. Desative o Modo incógnito nas Configurações para poder usar esse recurso."</string>
     <string name="close_invisible_mode_dialog_ok">Configurações</string>
     <string name="close_invisible_mode_dialog_title">"Você está incógnito"</string>
     <string name="control_center_notification_switch_guide">Deslize para alternar entre o Centro de controle e a Área de notificações</string>
