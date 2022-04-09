@@ -39,6 +39,9 @@
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="ad">Anúncios</string>
     <string name="ad_download">Instalar</string>
+    <string name="add_download_download">"Download"</string>
+    <string name="add_download_error_not_support">"Este link não é compatível"</string>
+    <string name="add_download_text_hint">Insira um link HTTP/HTTPS</string>
     <string name="ad_mark">Anúncios</string>
     <string name="ad_title">Outras pessoas também baixaram com %1$s</string>
     <string name="ad_title_other">As pessoas que baixaram esta imagem também baixaram</string>
@@ -452,6 +455,17 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="preferences_title">Configurações</string>
     <string name="privacy">Privacidade</string>
     <string name="privacy_policy">Política de Privacidade</string>
+    <string name="privacy_agree_dialog_msg"><Data>"Bem-vindo ao Downloads! Você pode usar este app para baixar arquivos.&lt;BR>Downloads precisa coletar as informações pessoais necessárias para fornecer a você os serviços que geram estatísticas de download. Você pode aprender como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.&lt;BR>Leia e aceite o nosso &lt;a href=\"%2$s\">Contrato de Usuário&lt;/a> e a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de usar Downloads.&lt;BR>Você pode retirar seu consentimento com a Política de Privacidade de Downloads nas Configurações a qualquer momento. Se você não concordar com nossa Política de Privacidade, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você."</Data></string>
+    <string name="privacy_agree_dialog_title">Termos e Condições</string>
+    <string name="privacy_revoke_dialog_later">Cancelar</string>
+    <string name="privacy_revoke_dialog_msg">Ao desativar o botão, você retira seu consentimento para a Política de Privacidade de Downloads. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico exigido pelas leis aplicáveis. Downloads precisa coletar informações pessoais necessárias para fornecer a você os serviços que geram estatísticas de download. Sua retirada de consentimento para sua Política de Privacidade será considerada como recusa em aceitar tais serviços com base nas informações pessoais coletadas.</string>
+    <string name="privacy_revoke_dialog_ok">Retirar</string>
+    <string name="privacy_revoke_dialog_title">Retirada do consentimento</string>
+    <string name="privacy_revoke_label">Retirada do consentimento</string>
+    <string name="privacy_revoke_msg">Ao desativar o botão, você retira seu consentimento para a Política de Privacidade de Downloads.</string>
+    <string name="privacy_revoke_nonetwork_msg">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="privacy_revoke_nonetwork_ok">Entendi</string>
+    <string name="privacy_revoke_nonetwork_title">"Não é possível conectar à rede"</string>
     <string name="privacy_tip_cancel">Cancelar</string>
     <string name="privacy_tip_content">Usar o Acelerador Xunlei para acelerar seus downloads? A URL do host do download será enviada para os servidores da Xunlei. Detalhes de sua Conta Mi também serão enviados para verificar se você tem alguma assinatura deste serviço.</string>
     <string name="privacy_tip_ok">"OK"</string>
