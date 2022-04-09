@@ -233,9 +233,9 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="function_not_support">Não suportado neste dispositivo</string>
-    <string name="gms_message">Criar dual apps exige o funcionamento com o app Serviços do Google Play. Criar um dual app para o Serviços do Google Play?</string>
+    <string name="gms_message">Criar um Dual app exige o funcionamento com o app Serviços do Google Play. Criar um dual app para o Serviços do Google Play?</string>
     <string name="gms_open_button">Ativar</string>
-    <string name="gms_title">Dual app para serviços do Google</string>
+    <string name="gms_title">Dual app para Serviços do Google</string>
     <string name="goToSecondSpacce">Ir ao Segundo Espaço</string>
     <string name="go_on_import">Continuar importando</string>
     <string name="gpg_message">Criar dual apps para jogos requer o uso do Google Play Games. Criar um dual app para o Google Play Games?</string>
