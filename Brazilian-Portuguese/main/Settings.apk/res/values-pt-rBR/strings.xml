@@ -980,7 +980,7 @@ Para restringir, ative a otimização."</string>
     <string name="background_data">Dados de segundo plano</string>
     <string name="background_data_dialog_message">A desativação dos dados de segundo plano estende a vida útil da bateria e diminui o uso dos dados. Alguns apps ainda podem usar a conexão de dados de segundo plano.</string>
     <string name="background_data_dialog_title">Des. dados 2º plano?</string>
-    <string name="background_data_summary">Aplicat. sincronizam, enviam e recebem dados a qualquer hora</string>
+    <string name="background_data_summary">Apps sincronizam, enviam e recebem dados a qualquer momento</string>
     <string name="background_process_stop_description">Este é um processo de app antigo que ainda está em execução caso seja necessário novamente. Geralmente, não há motivo para interrompê-lo.</string>
     <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em segundo plano para este app pode fazer com este app não funcione normalmente, receba mensagens, baixe conteúdos, etc. Restringir mesmo assim?</string>
     <string name="background_traffic">%s em segundo plano</string>
@@ -3896,7 +3896,7 @@ Este recurso funciona apenas quando a navegação do sistema está definida para
     <string name="freeform_guide_to_sidehide_title">Escondendo janelas flutuantes</string>
     <string name="freeform_vedio_description">"• Pressione e segure, e então puxe para baixo uma notificação para abri-la em uma janela flutuante.
 • Toque em \"Janelas flutuantes\" nos Recentes para selecionar apps."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"• Toque em um aplicativo na barra lateral para abri-lo em uma janela flutuante.
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"• Toque em um app na barra lateral para abri-lo em uma janela flutuante.
 • Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a tela dividida."</string>
     <string name="freeform_vedio_description_pad">Arraste itens para fora do dock para abrir janelas flutuantes</string>
     <string name="frequently_fragment_delete">Remover</string>

@@ -1047,7 +1047,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_exchange_wrong_format_by_local">O formato do código digitado está incorreto.</string>
     <string name="resource_exchange_wrong_format_by_server">O código não foi validado. Verifique se você o inseriu corretamente.</string>
     <string name="resource_expand_full_text">Expandir</string>
-    <string name="resource_failed_to_load_list">Não é possível carregar os temas.</string>
+    <string name="resource_failed_to_load_list">Não é possível carregar o tema.</string>
     <string name="resource_free_download">Download grátis</string>
     <string name="resource_get_auth_checking">Verificando…</string>
     <string name="resource_get_auth_exceed_max_limit_tips">10 dispositivos já foram autorizados nesta conta</string>
@@ -1158,7 +1158,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_update">Atualizar</string>
     <string name="resource_user_know">"OK"</string>
     <string name="resource_waiting_download">Aguardando</string>
-    <string name="resource_waiting_pause">Pausar</string>
+    <string name="resource_waiting_pause">Pausado</string>
     <string name="resource_wallpaper_download">Baixar plano de fundo</string>
     <string name="restore_home_icon_text">Adicionar um atalho na Tela inicial</string>
     <string name="restore_icon_later">Você pode adicionar o atalho na Tela inicial nas configurações novamente</string>

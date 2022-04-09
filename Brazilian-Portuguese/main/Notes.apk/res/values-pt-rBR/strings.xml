@@ -371,6 +371,7 @@
     <string name="menu_create_folder">Nova pasta</string>
     <string name="menu_delete">Excluir</string>
     <string name="menu_delete_forever">Excluir</string>
+    <string name="menu_edit">Editar</string>
     <string name="menu_folders">Pastas</string>
     <string name="menu_group">Criar uma pasta</string>
     <string name="menu_hide">Ocultar</string>
@@ -586,6 +587,7 @@
     <string name="note_mindnote_entrance_hint_newversion">"Comece a escrever "</string>
     <string name="note_mindnote_entrance_icon_text">Criar um mapa mental</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Crie um mapa mental</string>
+    <string name="note_module_name">Anotações</string>
     <string name="note_not_text_stub">Nenhum texto</string>
     <string name="note_sort_way">Organizar</string>
     <string name="notealert_enter">Abrir anotação</string>
@@ -750,8 +752,9 @@
     <string name="setting_big_screen_layout_columns">Barra Lateral</string>
     <string name="setting_big_screen_layout_flat">Ladrilhos</string>
     <string name="setting_big_screen_layout_title">Layout de tela grande</string>
+    <string name="setting_cloud_service">Serviços na nuvem</string>
     <string name="setting_layout">"Layout"</string>
-    <string name="setting_micloud_sync_title">Sincronize com a nuvem</string>
+    <string name="setting_micloud_sync_title">Nuvem</string>
     <string name="setting_note_list_layout_title">"Layout"</string>
     <string name="setting_other">OUTROS</string>
     <string name="setting_privacy">Política de Privacidade</string>
