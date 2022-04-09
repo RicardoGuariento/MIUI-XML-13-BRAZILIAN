@@ -511,7 +511,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="servicestate_title">Declaração de serviços básicos</string>
     <string name="setting_locale">Definindo região…</string>
     <string name="shut_down">Desligar</string>
-    <string name="sim_activation_introduction">O serviço de ativação do cartão SIM verifica as informações do cartão SIM inserido no momento para garantir que os serviços MIUI possam funcionar normalmente. Esses serviços incluem Encontrar dispositivo, Mi Mensagem, criar Contas Mi usando números de telefone e sincronizar mensagens e histórico de chamadas.</string>
+    <string name="sim_activation_introduction">O serviço de ativação do cartão SIM verifica as informações do cartão SIM inserido no momento para garantir que os serviços MIUI possam funcionar normalmente. Esses serviços incluem Encontrar dispositivo, Mi Mensagens, criar Contas Mi usando números de telefone e sincronizar mensagens e histórico de chamadas.</string>
     <string name="sim_card_detecting">Procurando um cartão SIM…</string>
     <string name="sim_card_detecting_check">Não foi possível encontrar o cartão SIM. Certifique-se de que o cartão SIM está instalado corretamente e que você possui saldo suficiente.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Permitir a conexão às redes de dados móveis? Caso permita, o cartão SIM inserido será usado para conectar-se à redes de dados móveis.</string>

@@ -671,8 +671,8 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="month_september_shortest">Set</string>
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
-    <string name="mx_dspt">Mi Mensagem</string>
-    <string name="mx_dspt_provision">"O Mi Mensagem permite que você envie mensagens para outros dispositivos com MIUI sem a cobrança de tarifas de SMS.
+    <string name="mx_dspt">Mi Mensagens</string>
+    <string name="mx_dspt_provision">"O Mi Mensagens permite que você envie mensagens para outros dispositivos com MIUI sem a cobrança de tarifas de SMS.
 
 Você pode ativar ou desativar esta função a qualquer momento nas Configurações."</string>
     <string name="mx_dspt_provision_privacy">"Esta função pode exigir seu número de telefone. 1 SMS poderá ser requerido para ativar este serviço. O SMS poderá ser cobrado por sua operadora.
@@ -686,7 +686,7 @@ Esta função criptografa e envia a ID do seu dispositivo para os servidores da 
 Esta função criptografa e envia a ID do seu dispositivo para os servidores da Xiaomi."</string>
     <string name="mx_dspt_provision_with_voip">Ligue para outros dispositivos com MIUI de graça usando sua conexão com a internet. Você pode ativar ou desativar esta função a qualquer momento nas Configurações. VoIP fornecido por Weihui. Veja a Política de Privacidade do serviço</string>
     <string name="mx_dspt_provision_with_voip2">Política de Privacidade</string>
-    <string name="mx_sub_dspt_provision">Mi Mensagem</string>
+    <string name="mx_sub_dspt_provision">Mi Mensagens</string>
     <string name="mx_sub_dspt_provision_with_voip">Chamada pela internet</string>
     <string name="mx_voip_dspt">"Mi Voice"</string>
     <string name="night">"PM"</string>
