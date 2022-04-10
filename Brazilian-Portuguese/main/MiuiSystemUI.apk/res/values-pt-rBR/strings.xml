@@ -120,7 +120,7 @@
     <string name="accessibility_desc_recent_apps">Visão geral.</string>
     <string name="accessibility_desc_settings">Configurações</string>
     <string name="accessibility_desc_work_lock">Tela de bloqueio de trabalho</string>
-    <string name="accessibility_detail_switch">Alterar entre seletores</string>
+    <string name="accessibility_detail_switch">Alterar entre atalhos</string>
     <string name="accessibility_detail_switch_disable">Não disponível</string>
     <string name="accessibility_detail_switch_off">Desativar</string>
     <string name="accessibility_detail_switch_on">Ativar</string>
@@ -2188,10 +2188,10 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="qs_control_big_tile_state_opened">Ativado</string>
     <string name="qs_control_big_tile_state_opening">Ativando…</string>
     <string name="qs_control_big_tile_state_unavailable">Indisponível</string>
-    <string name="qs_control_customize_other_tiles_title">Seletores disponíveis</string>
+    <string name="qs_control_customize_other_tiles_title">Atalhos disponíveis</string>
     <string name="qs_control_customize_save_text">Concluído</string>
-    <string name="qs_control_customize_sub_title">Arraste os seletores adicionados para organizá-los</string>
-    <string name="qs_control_customize_title">Seletores adicionados</string>
+    <string name="qs_control_customize_sub_title">Arraste os atalhos adicionados para organizá-los</string>
+    <string name="qs_control_customize_title">Atalhos adicionados</string>
     <string name="qs_control_expand_detail_title">Meus dados</string>
     <string name="qs_control_header_tiles_title">Centro de controle</string>
     <string name="qs_customize">Permite a personalização de toque longo nas configurações rápidas</string>

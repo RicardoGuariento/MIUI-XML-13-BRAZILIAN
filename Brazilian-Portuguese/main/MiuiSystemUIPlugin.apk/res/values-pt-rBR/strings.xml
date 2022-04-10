@@ -35,7 +35,7 @@
     <string name="accessibility_description_hours">Horas</string>
     <string name="accessibility_description_minutes">Minutos</string>
     <string name="accessibility_description_seconds">Segundos</string>
-    <string name="accessibility_detail_switch">Alternar entre seletores</string>
+    <string name="accessibility_detail_switch">Alternar entre atalhos</string>
     <string name="accessibility_detail_switch_disable">Não disponível</string>
     <string name="accessibility_detail_switch_off">Desativar</string>
     <string name="accessibility_detail_switch_on">Ativar</string>
@@ -343,10 +343,10 @@
     <string name="qs_control_big_tile_state_opened">Ativado</string>
     <string name="qs_control_big_tile_state_opening">Ativando…</string>
     <string name="qs_control_big_tile_state_unavailable">Indisponível</string>
-    <string name="qs_control_customize_other_tiles_title">Seletores disponíveis</string>
+    <string name="qs_control_customize_other_tiles_title">Atalhos disponíveis</string>
     <string name="qs_control_customize_save_text">Concluído</string>
-    <string name="qs_control_customize_sub_title">Arraste os seletores adicionados para reordená-los</string>
-    <string name="qs_control_customize_title">Seletores adicionados</string>
+    <string name="qs_control_customize_sub_title">Arraste os atalhos adicionados para reordená-los</string>
+    <string name="qs_control_customize_title">Atalhos adicionados</string>
     <string name="qs_control_expand_detail_title">Meus dados</string>
     <string name="qs_control_header_tiles_title">Centro de controle</string>
     <string name="qs_customize_title">Editar</string>

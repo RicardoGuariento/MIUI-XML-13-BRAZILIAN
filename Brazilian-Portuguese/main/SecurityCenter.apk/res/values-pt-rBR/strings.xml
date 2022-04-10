@@ -2145,14 +2145,14 @@ das suas sessões de jogos"</string>
     <string name="gb_xunyou_gift_type_two_new">Aceleração Xunyou de %d-dias</string>
     <string name="gd_app_edit_done">Concluído</string>
     <string name="gd_app_edit_title">Adicionar apps</string>
-    <string name="gd_app_edit_title_new">Editar atalhos de janela flutuante</string>
+    <string name="gd_app_edit_title_new">Edite atalhos de janela flutuante</string>
     <string name="gd_setting_desc_action1">Abrir janela flutuante</string>
     <string name="gd_setting_desc_action2">Use um atalho</string>
     <string name="gd_setting_group_custom_gtb_apps">Jogos</string>
     <string name="gd_setting_group_custom_line_location">Posição da caixa de ferramentas</string>
     <string name="gd_setting_group_custom_settings">Personalização</string>
     <string name="gd_setting_group_custom_vtb_apps">Apps de vídeo</string>
-    <string name="gd_setting_group_smart_tool_box">Caixa de ferramentas inteligente</string>
+    <string name="gd_setting_group_smart_tool_box">Barra inteligente</string>
     <string name="gd_setting_group_title_switch">Cenários</string>
     <string name="gd_setting_gtb">Exibir enquanto joga</string>
     <string name="gd_setting_gtb_desc">Recursos especiais para jogos</string>
@@ -2161,7 +2161,7 @@ das suas sessões de jogos"</string>
     <string name="gd_setting_guide_two">Deslize da borda para abrir a caixa de ferramentas de vídeo</string>
     <string name="gd_setting_miui_dock">Sempre exibir</string>
     <string name="gd_setting_shorthand">Anotações rápidas</string>
-    <string name="gd_setting_title">Caixa de ferramentas inteligente</string>
+    <string name="gd_setting_title">Barra inteligente</string>
     <string name="gd_setting_vtb">Exibir durante a reprodução de vídeos</string>
     <string name="gd_setting_vtb_desc">Recursos especiais para reprodução de vídeo</string>
     <string name="gd_sidebar_long_press_tips">Pressione e segure o indicador para movê-lo enquanto segura o dispositivo verticalmente</string>
@@ -5268,7 +5268,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="vb_fps_settings_tips">Este recurso ajusta a taxa de atualização da tela para a taxa de quadros do vídeo, o que economiza bateria e torna a reprodução de mídia mais suave. Ativar os comentários flutuantes desativará a taxa de atualização automática.</string>
     <string name="vb_quick_func_auto_bgm">Reconhecer música de fundo</string>
     <string name="vb_quick_func_hangup_listening">Reproduzir som do vídeo com a tela desligada</string>
-    <string name="vb_quick_func_screen_capture">Captura de tela</string>
+    <string name="vb_quick_func_screen_capture">Capturar tela</string>
     <string name="vb_quick_func_screen_record">Gravar</string>
     <string name="vb_quick_func_screening">Transmitir</string>
     <string name="vb_settings">Configurações</string>
