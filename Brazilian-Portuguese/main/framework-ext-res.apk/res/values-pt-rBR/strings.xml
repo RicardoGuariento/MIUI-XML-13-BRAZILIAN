@@ -61,7 +61,7 @@
     <string name="bluetooth_disable_notification_title">O Bluetooth está desativado</string>
     <string name="bluetooth_enable_notification_content">%s ativou o Bluetooth</string>
     <string name="bluetooth_enable_notification_title">O Bluetooth está ativado</string>
-    <string name="bluetooth_open">Este app ativou Bluetooth</string>
+    <string name="bluetooth_open">Este app ativou o Bluetooth</string>
     <string name="bottle">Frasco</string>
     <string name="bottom_bar_smallwindow_text">Solte para fixar</string>
     <string name="breeze">Brisa</string>
