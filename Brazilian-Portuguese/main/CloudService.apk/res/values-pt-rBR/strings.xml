@@ -68,6 +68,7 @@
     <string name="app_name">"MiCloud"</string>
     <string name="bad_authentication">Conta ou senha inválidas</string>
     <string name="btn_return">Voltar</string>
+    <string name="btn_revoke_permission">Retirar consentimento</string>
     <string name="button_agree">Aceitar</string>
     <string name="button_cancel">Cancelar</string>
     <string name="button_quit">Sair</string>

@@ -72,4 +72,8 @@
         <item quantity="other">Alta prioridade: %d apps</item>
         <item quantity="one">Alta prioridade: %d app</item>
     </plurals>
+    <plurals name="session_time_remain">
+        <item quantity="other">Cerca de %s minutos restantes</item>
+        <item quantity="one">Cerca de %s minuto restante</item>
+    </plurals>
 </resources>
