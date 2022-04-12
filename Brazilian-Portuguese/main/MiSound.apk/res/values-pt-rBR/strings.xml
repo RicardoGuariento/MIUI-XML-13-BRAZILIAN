@@ -139,8 +139,8 @@
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
-    <string name="headset_use_long_time">Parece que você está usando seus Fones de ouvido por mais tempo do que o recomendado. Tire-os e faça uma pausa.</string>
-    <string name="headset_use_loud_volume">O volume dos Fones de ouvido está alto há muito tempo. Para proteger a sua audição, o volume foi reduzido para o nível recomendado.</string>
+    <string name="headset_use_long_time">Parece que você está usando seus Fones por mais tempo do que o recomendado. Tire-os e faça uma pausa.</string>
+    <string name="headset_use_loud_volume">O volume dos Fones está alto há muito tempo. Para proteger a sua audição, o volume foi reduzido para o nível recomendado.</string>
     <string name="headset_use_not_support_noise_reduction">Parece que seu ambiente atual é muito barulhento. Usar os seus Fones de ouvido agora poderá afetar a sua audição.</string>
     <string name="headset_use_prompt">Fones de ouvido</string>
     <string name="headset_use_support_noise_reduction">Parece que seu ambiente atual é muito barulhento. Use o cancelamento de ruídos para proteger a sua audição.</string>

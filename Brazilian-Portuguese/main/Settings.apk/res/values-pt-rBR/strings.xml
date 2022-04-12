@@ -1304,7 +1304,7 @@ para ^2"</string>
     <string name="block_list_dialog_title">Desconectar agora?</string>
     <string name="block_list_no_device">Nenhum dispositivo na lista de bloqueio ainda</string>
     <string name="block_list_remove_dialog_content">%s poderá se conectar ao ponto de acesso novamente</string>
-    <string name="block_list_remove_dialog_title">Remover %s da lista de bloqueio</string>
+    <string name="block_list_remove_dialog_title">Atenção</string>
     <string name="block_list_summary">Visualize dispositivos que não tem permissão para se conectar neste ponto de acesso</string>
     <string name="block_list_title">Lista de bloqueio</string>
     <string name="block_title">Exibir notificações</string>
@@ -4682,6 +4682,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="layout_size_normal_text">Pequeno</string>
     <string name="layout_size_small">EP</string>
     <string name="layout_size_small_text">Extra pequeno</string>
+    <string name="le_audio_title">Áudio LE</string>
     <string name="learn_more">Saiba mais</string>
     <string name="led_colors_summary">Cor do LED para notificações</string>
     <string name="led_frequence_summary">Definir intervalo de pulso para a luz de LED</string>
@@ -9019,7 +9020,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="stylus_success">Feito</string>
     <string name="stylus_vice_key">Segundo botão</string>
     <string name="stylus_welcome">Conheça a Xiaomi Smart Pen</string>
-    <string name="subscreen_title">Tela traseiro</string>
+    <string name="subscreen_title">Tela traseira</string>
     <string name="subscription_available">Disponível</string>
     <string name="sud_back_button_label">Voltar</string>
     <string name="sud_more_button_label">Mais</string>

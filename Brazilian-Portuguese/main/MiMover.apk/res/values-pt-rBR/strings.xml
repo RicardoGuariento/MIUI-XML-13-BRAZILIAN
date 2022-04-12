@@ -41,6 +41,11 @@
     <string name="apple_calendar">Eventos da Agenda</string>
     <string name="apple_contacts">Contatos</string>
     <string name="apple_image">Fotos</string>
+    <string name="apple_install_background_downloading">Baixando apps em segundo plano…</string>
+    <string name="apple_install_get_data_faild">Um erro ocorreu</string>
+    <string name="apple_install_skip">Pular</string>
+    <string name="apple_install_sub_title">Os apps selecionados serão baixados do GetApps</string>
+    <string name="apple_install_title">Apps do seu dispositivo antigo</string>
     <string name="apple_video">Vídeos</string>
     <string name="appname_app_data_suffix">Dados do app %1$s</string>
     <string name="apps_cannot_be_transfered_confirm_button">Iniciar</string>
@@ -140,6 +145,7 @@ Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="date_picker_lunar">Calendário Chinês Tradicional</string>
     <string name="date_time_done">Concluído</string>
     <string name="date_time_picker_dialog_title">Defina data e hora</string>
+    <string name="deselect_all">Desmarcar todos</string>
     <string name="dialog_airplane_mode_button">Configurações</string>
     <string name="dialog_airplane_mode_content">O Mi Mover não funciona quando o o Modo avião está ativado. Desative nas Configurações primeiro.</string>
     <string name="dialog_airplane_mode_title">Desativar o Modo avião</string>
@@ -649,6 +655,7 @@ Libere pelo menos %s."</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_action_mode_cancel">Cancelar</string>
     <string name="searching_for_new_device">Procurando pelo novo dispositivo…</string>
+    <string name="select_all">Selecionar tudo</string>
     <string name="select_android_summary">Huawei, OPPO, Vivo e mais</string>
     <string name="select_android_title">"Android"</string>
     <string name="select_apple_summary">"iPhone"</string>

@@ -356,6 +356,7 @@
     <string name="sc_notification_warning_content">O layout pode ser anormal no modo tela cheia. Você pode reverter para o estado anterior à mudança ou ir para as configurações.</string>
     <string name="sc_notification_warning_restore">Restaurar</string>
     <string name="sc_notification_warning_settings">Configurar</string>
+    <string name="sc_notification_warning_title">Mudar o modo de exibição</string>
     <string name="sc_relaunch_dialog_message">"Não pode ser adequado para dispositivo dobrável enquanto você estiver usando o app. Você pode reiniciar o app para alternar para o modo tela cheia. Reiniciar mesmo assim?"</string>
     <string name="scanning_device_tips">Procurando dispositivos próximos… Certifique-se de que o outro dispositivo está no modo detectável.</string>
     <string name="screen_button_notification_text">Para reativá-los, pressione os botões Início e Liga/Desliga simultaneamente.</string>

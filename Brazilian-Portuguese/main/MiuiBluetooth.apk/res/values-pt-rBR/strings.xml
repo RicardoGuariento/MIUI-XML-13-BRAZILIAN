@@ -501,6 +501,10 @@ Protocolo de conexão mais rápido"</string>
     <string name="headset_fw_error_failed">"Não é possível atualizar. As informações de firmware estão incorretas."</string>
     <string name="headset_fw_file_position_failed">"Não foi possível acessar o arquivo"</string>
     <string name="headset_fw_file_readfailed">"Não foi possível obter informações de atualização"</string>
+    <string name="headset_incall_answer">Atender</string>
+    <string name="headset_incall_reject">Cancelar</string>
+    <string name="headset_incall_summary">Atender uma chamada em %1$s com seus fones de ouvido? Seus fones permanecerão conectados a esse dispositivo após o término da chamada.</string>
+    <string name="headset_incall_title">Atender chamada com fones de ouvido</string>
     <string name="headset_loss_notify_summary">Um do seus fone de ouvido não está no case. Verifique!</string>
     <string name="headset_loss_notify_summary1">"Parece que seus fones de ouvido não estão no estojo. Coloque-os de volta para deixá-los carregar."</string>
     <string name="headset_loss_notify_title">Alerta de fone de ouvido ausente</string>

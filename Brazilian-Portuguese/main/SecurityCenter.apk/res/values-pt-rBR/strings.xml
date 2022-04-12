@@ -3447,7 +3447,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_save_mode">Economia de bateria</string>
     <string name="power_save_mode_auto_exit_summary_new">Será desativada quando a bateria estiver em %s ou 100%% carregada</string>
     <string name="power_save_mode_auto_exit_title">Desativar quando carregado</string>
-    <string name="power_save_mode_close_aod_display_summary">Desativar a Tela sempre ativa com a Economia de bateria ativada</string>
+    <string name="power_save_mode_close_aod_display_summary">A Tela sempre ativa será desativada quando a Economia de bateria for ativada</string>
     <string name="power_save_mode_close_aod_display_title">Desativar a Tela sempre ativa</string>
     <string name="power_save_mode_close_notification_screenon_summary">Funciona quando a Economia de bateria está ativada</string>
     <string name="power_save_mode_close_notification_screenon_title">Não ligar a tela para notificações</string>

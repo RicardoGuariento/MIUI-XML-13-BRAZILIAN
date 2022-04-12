@@ -286,7 +286,7 @@
     <string name="msim_setting_default_data">SIM de dados</string>
     <string name="msim_setting_default_voice">SIM de chamadas</string>
     <string name="multisim_settings_category">Configurações do cartão SIM</string>
-    <string name="multisim_settings_sb_title">1 cartão SIM detectado</string>
+    <string name="multisim_settings_sb_title">%d cartão SIM detectado</string>
     <string name="multisim_settings_title">2 cartões SIM detectados</string>
     <string name="navigation_picker_gesture_guide">Guia de gestos</string>
     <string name="navigation_picker_radio_text_full_screen">Gestos em Tela cheia</string>
