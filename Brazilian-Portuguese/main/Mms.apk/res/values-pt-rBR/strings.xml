@@ -1041,7 +1041,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rcs_list_bottom_search">Procurando…</string>
     <string name="rcs_main_purpose">Este recurso permite que você envie e receba mensagens RCS. O recurso Mensagens RCS é fornecido pela China Mobile.</string>
     <string name="rcs_message">Mensagens 5G</string>
-    <string name="rcs_message_disable">Não é possível ver esta mensagem no Segundo Espaço</string>
+    <string name="rcs_message_disable">Não é possível ver esta mensagem no Segundo espaço</string>
     <string name="rcs_message_title">Mensagens 5G</string>
     <string name="rcs_more_bar_title">Mais informações</string>
     <string name="rcs_msg">Mensagens 5G</string>
@@ -1202,7 +1202,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="search_show_more_results">Mostrar mais</string>
     <string name="search_title_mms">Mensagens</string>
     <string name="seats">Assento</string>
-    <string name="second_mms_introduction">Ir ao Segundo Espaço</string>
+    <string name="second_mms_introduction">Ir ao Segundo espaço</string>
     <string name="second_mms_switch">Trocar</string>
     <string name="secs">seg</string>
     <string name="security_alert_desc"><font color="#7f000000">"O remetente não está em seus contatos. \"

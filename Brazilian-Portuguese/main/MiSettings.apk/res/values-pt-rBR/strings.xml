@@ -162,7 +162,7 @@
     <string name="desktop_widget_authorization">Toque para conceder permissões e assim vizualizar as estatísticas</string>
     <string name="desktop_widget_authorization_new">Toque para ver as estatísticas de tempo de uso</string>
     <string name="desktop_widget_not_support">"Estatísticas de tempo de tela
-não são geradas no Segundo Espaço"</string>
+não são geradas no Segundo espaço"</string>
     <string name="desktop_widget_screen_use_time">Tempo de tela</string>
     <string name="display_description">Ícones maiores, texto grande, menos interferência visual</string>
     <string name="display_title">Itens maiores</string>

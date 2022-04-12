@@ -1014,9 +1014,9 @@ Use-a ou digite seu PIN para desbloquear o dispositivo."</string>
     <string name="fingerprint_dialog_touch_sensor">Toque no sensor de impressão digital</string>
     <string name="fingerprint_dialog_use_fingerprint">Use sua impressão digital para continuar</string>
     <string name="fingerprint_dialog_use_fingerprint_instead">Não consigo reconhecer o rosto. Em vez disso, use a impressão digital.</string>
-    <string name="fingerprint_enter_second_psw_msg">Insira a senha do Segundo Espaço após reiniciar o dispositivo para usar o desbloqueio por impressão digital</string>
-    <string name="fingerprint_enter_second_psw_msg_oldman">Não é possível entrar no Segundo Espaço usando o Modo simplificado</string>
-    <string name="fingerprint_enter_second_psw_title">Insira a senha do Segundo Espaço</string>
+    <string name="fingerprint_enter_second_psw_msg">Insira a senha do Segundo espaço após reiniciar o dispositivo para usar o desbloqueio por impressão digital</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">Não é possível entrar no Segundo espaço usando o Modo simplificado</string>
+    <string name="fingerprint_enter_second_psw_title">Insira a senha do Segundo espaço</string>
     <string name="fingerprint_not_identified_msg">Muitas tentativas incorretas. Insira a senha agora ou tente usar a impressão digital em alguns segundos.</string>
     <string name="fingerprint_not_identified_msg_lock">Muitas tentativas incorretas. Insira a senha agora.</string>
     <string name="fingerprint_not_identified_msg_password">"Muitas tentativas sem sucesso.
@@ -1227,7 +1227,7 @@ Continuar mostrando elas?"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Não é possível trocar de Espaços durante uma chamada</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Não é possível trocar entre espaços quando o Controle familiar está ativado</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Não é possível alternar entre Espaços quando a Ultra economia de bateria está ativada"</string>
-    <string name="input_password_after_boot_msg_must_enter_owner_space">Você precisa acessar o Primeiro Espaço depois do dispositivo ser reiniciado</string>
+    <string name="input_password_after_boot_msg_must_enter_owner_space">Você precisa acessar o Primeiro espaço depois do dispositivo ser reiniciado</string>
     <string name="input_password_hint_text">Inserir senha</string>
     <string name="input_pattern_after_boot_msg">É necessário desenhar o seu padrão sempre que o dispositivo for reiniciado</string>
     <string name="input_pattern_after_face_not_allowed">Digite sua senha pelo menos uma vez a cada %d horas para manter este dispositivo seguro</string>
@@ -1237,7 +1237,7 @@ Continuar mostrando elas?"</string>
     <string name="input_pin_after_boot_msg">É necessário inserir seu PIN sempre que o dispositivo for reiniciado</string>
     <string name="input_pin_code">Inserir PIN</string>
     <string name="input_puk_code">Inserir PUK</string>
-    <string name="input_second_pattern_after_restart_msg">Confirme a senha do Segundo Espaço para continuar</string>
+    <string name="input_second_pattern_after_restart_msg">Confirme a senha do Segundo espaço para continuar</string>
     <string name="install_other_apps">Instalar apps desconhecidos</string>
     <string name="installer_cd_button_title">Instale o app Android File Transfer para Mac</string>
     <string name="instant_apps">Apps instantâneos</string>
@@ -2066,8 +2066,8 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Selecione &lt;font color=#a5220e&gt;\"Wipe &amp;amp; Reset\"&lt;/font&gt;e aguarde até que o dispositivo reinicie.</Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Como apagar os dados?</string>
     <string name="phone_locked_string">Este dispositivo foi bloqueado</string>
-    <string name="phone_locked_string_owner_user">Muitas tentativas malsucedidas de inserir a senha do Primeiro Espaço. Este dispositivo está bloqueado agora.</string>
-    <string name="phone_locked_string_second_user">Muitas tentativas malsucedidas de inserir a senha do Segundo Espaço. Este dispositivo está bloqueado agora.</string>
+    <string name="phone_locked_string_owner_user">Muitas tentativas malsucedidas de inserir a senha do Primeiro espaço. Este dispositivo está bloqueado agora.</string>
+    <string name="phone_locked_string_second_user">Muitas tentativas malsucedidas de inserir a senha do Segundo espaço. Este dispositivo está bloqueado agora.</string>
     <string name="picture_color_mode">Modo de cor da imagem</string>
     <string name="picture_color_mode_desc">Usar sRGB</string>
     <string name="pip_close">Fechar PiP</string>
@@ -2377,7 +2377,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="rapid_charge_mode_tip">Carregamento rápido</string>
     <string name="reboot_info_auto_boot_global">Próximo alarme: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Próximo alarme: %s</string>
-    <string name="recent_cannot_dock">Não é possível usar a Tela dividida no Segundo Espaço</string>
+    <string name="recent_cannot_dock">Não é possível usar a Tela dividida no Segundo espaço</string>
     <string name="recent_conversations">Conversas recentes</string>
     <string name="recent_dock_tip">Toque para selecionar apps</string>
     <string name="recent_menu_item_info">Info.</string>
@@ -2707,7 +2707,7 @@ Deslize para baixo para bloquear"</string>
     <string name="sunday_shortest">Dom</string>
     <string name="switch_bar_off">Desativado</string>
     <string name="switch_bar_on">Ativado</string>
-    <string name="switch_system_user">Voltar ao Primeiro Espaço</string>
+    <string name="switch_system_user">Voltar ao Primeiro espaço</string>
     <string name="system_ui_aod_date_pattern">eeedMMM</string>
     <string name="system_ui_tuner">Customizador da Interf. do sistema</string>
     <string name="tap_again">Toque novamente</string>

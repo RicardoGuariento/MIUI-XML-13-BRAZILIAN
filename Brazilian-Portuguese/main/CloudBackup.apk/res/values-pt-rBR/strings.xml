@@ -368,8 +368,8 @@ Nota: os dados dos apps que estão instalados não serão salvos na MiCloud."</s
     <string name="notification_channel_remind">Lembrete</string>
     <string name="notification_channel_service">Serviço</string>
     <string name="open_backup_switch">Alterne o botão de backup</string>
-    <string name="other_device_main_space">Primeiro Espaço</string>
-    <string name="other_device_second_space">Segundo Espaço</string>
+    <string name="other_device_main_space">Primeiro espaço</string>
+    <string name="other_device_second_space">Segundo espaço</string>
     <string name="pc_mode_not_support_restore_warning">Não é possível restaurar itens no Modo PC. Desative o Modo PC e tente novamente.</string>
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
@@ -450,8 +450,8 @@ Verifique sua conexão e tente novamente."</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="selected">Selecionado</string>
     <string name="self_device_disable">%s (Não suportado neste dispositivo))</string>
-    <string name="self_device_main_space">Primeiro Espaço</string>
-    <string name="self_device_second_space">Segundo Espaço</string>
+    <string name="self_device_main_space">Primeiro espaço</string>
+    <string name="self_device_second_space">Segundo espaço</string>
     <string name="send">Enviar</string>
     <string name="session_action_btn_text_return_home">Tela inicial</string>
     <string name="session_backup_apk_data_text">Fazendo backup de dados do WeChat…</string>

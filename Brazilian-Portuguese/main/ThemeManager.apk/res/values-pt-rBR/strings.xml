@@ -430,8 +430,8 @@
     <string name="font_pad_setting_local_font">Fontes locais</string>
     <string name="font_pad_setting_title">Fontes</string>
     <string name="font_trial_end_purchase">Comprar fonte</string>
-    <string name="forbid_transparent_wallpaper_by_second_space">Primeiro aplique o plano de fundo transparente no Primeiro Espaço.</string>
-    <string name="forbid_video_wallpaper_by_second_space">Aplicar primeiro o plano de fundo dinâmico no Primeiro Espaço.</string>
+    <string name="forbid_transparent_wallpaper_by_second_space">Primeiro aplique o plano de fundo transparente no Primeiro espaço.</string>
+    <string name="forbid_video_wallpaper_by_second_space">Aplicar primeiro o plano de fundo dinâmico no Primeiro espaço.</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
@@ -777,7 +777,7 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="personalize_notify_ringtone_title">Notificações</string>
     <string name="personalize_notify_style_title">Efeitos</string>
     <string name="personalize_recommend_switch_desc">Receba recomendações de conteúdo personalizado com base na ID do dispositivo</string>
-    <string name="personalize_second_space_not_support_set_font">Não é possível alterar a fonte no Segundo Espaço</string>
+    <string name="personalize_second_space_not_support_set_font">Não é possível alterar a fonte no Segundo espaço</string>
     <string name="personalize_theme_entrance">Temas</string>
     <string name="personalize_third_font">Fontes</string>
     <string name="personalize_title">Plano de fundo e personalização</string>

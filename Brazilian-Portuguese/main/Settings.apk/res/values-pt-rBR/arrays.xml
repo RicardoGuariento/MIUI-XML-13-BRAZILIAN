@@ -795,7 +795,7 @@
         <item>Modo criança</item>
         <item>Gerenciador de Arquivos</item>
         <item>Bloqueio de apps</item>
-        <item>Segundo Espaço</item>
+        <item>Segundo espaço</item>
     </string-array>
     <string-array name="connect_mode_entries">
         <item>Compatibilidade</item>

@@ -427,8 +427,8 @@ Envie este código para o supervisor."</string>
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
     <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
-    <string name="multi_user_not_show_sync_activity_message_1">Parece que você está usando sua Conta Mi do Primeiro Espaço.</string>
-    <string name="multi_user_not_show_sync_activity_message_2">Neste caso, todos os seus dados serão sincronizados em seu Segundo Espaço. Para evitar isso, não ative a sincronização com a nuvem.</string>
+    <string name="multi_user_not_show_sync_activity_message_1">Parece que você está usando sua Conta Mi do Primeiro espaço.</string>
+    <string name="multi_user_not_show_sync_activity_message_2">Neste caso, todos os seus dados serão sincronizados em seu Segundo espaço. Para evitar isso, não ative a sincronização com a nuvem.</string>
     <string name="multi_user_not_show_sync_activity_title">Não ativar a sincronização com a nuvem</string>
     <string name="my_device_title">Dispositivo atual</string>
     <string name="need_install_wechat">Instale o WeChat primeiro</string>

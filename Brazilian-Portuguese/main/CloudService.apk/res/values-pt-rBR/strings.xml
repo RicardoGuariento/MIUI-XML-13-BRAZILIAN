@@ -428,7 +428,7 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_main_head_menu_cloud_backup">"Backups"</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">Configurações do sistema e layout da Tela inicial</string>
     <string name="micloud_main_head_menu_finddevice_summary">Localize e bloqueie seu dispositivo</string>
-    <string name="micloud_main_head_menu_finddevice_unavailable">O Encontrar dispositivo não está disponível no Segundo Espaço. Você pode acessá-lo a partir do Primeiro Espaço.</string>
+    <string name="micloud_main_head_menu_finddevice_unavailable">O Encontrar dispositivo não está disponível no Segundo espaço. Você pode acessá-lo a partir do Primeiro espaço.</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">Restaurar itens excluídos</string>
     <string name="micloud_main_head_menu_recycle_bin_title">Itens excluídos</string>
     <string name="micloud_main_head_menu_state_close">Desativado</string>
@@ -491,7 +491,7 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_notif_content_master_depend_wifi">Conecte-se ao Wi-Fi ou altere as configurações de sincronização. Toque para alterar.</string>
     <string name="micloud_notif_content_master_depend_wifi_china">Conecte-se ao Wi-Fi ou altere as configurações de sincronização. Toque para alterar.</string>
     <string name="micloud_notif_content_memory_low">Espaço de armazenamento insuficiente.</string>
-    <string name="micloud_notif_content_multi_user_error">Você fez o login na mesma conta presente em seu Primeiro Espaço.</string>
+    <string name="micloud_notif_content_multi_user_error">Você fez o login na mesma conta presente em seu Primeiro espaço.</string>
     <string name="micloud_notif_content_privacy_reopen_failed">Ver detalhes</string>
     <string name="micloud_notif_content_sync_with_off">Toque para sincronizar o dispositivo agora.</string>
     <string name="micloud_notif_title_battery_low">Não é possível sincronizar com a MiCloud</string>
@@ -576,7 +576,7 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_sync_result_parse_exception">Não foi possível processar os dados</string>
     <string name="micloud_sync_result_permission_error">Erro de permissão</string>
     <string name="micloud_sync_result_request_error">Erro no pedido de sincronização</string>
-    <string name="micloud_sync_result_secure_space_limit">Não sincronizar itens do Segundo Espaço</string>
+    <string name="micloud_sync_result_secure_space_limit">Não sincronizar itens do Segundo espaço</string>
     <string name="micloud_sync_result_sim_activated_error">Não foi possível ativar o cartão SIM</string>
     <string name="micloud_sync_result_wifi_only">Este item é muito grande. Sincronize-o quando estiver conectado ao Wi-Fi.</string>
     <string name="micloud_sync_result_wifi_only_china">Este item é muito grande. Sincronize-o quando estiver conectado ao Wi-Fi.</string>
