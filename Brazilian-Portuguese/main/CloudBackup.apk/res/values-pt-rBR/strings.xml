@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="about_to_recover">Aguarde…</string>
+    <string name="access_denied_info">Muitas tentativas. Aguarde um momento e tente novamente.</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
     <string name="am">"AM"</string>
@@ -152,10 +153,17 @@ Nota: os dados dos apps que estão instalados não serão salvos na MiCloud."</s
     <string name="cloud_backup_have_data">Backup encontrado na MiCloud</string>
     <string name="cloud_backup_in_cancel">Cancelar</string>
     <string name="cloud_backup_in_process">Fazendo backup</string>
+    <string name="cloud_backup_permission_allow">Permitido</string>
+    <string name="cloud_backup_permission_not_allow">Não permitido</string>
+    <string name="cloud_backup_phone_state_summary">Acessar o número de telefone e o status do dispositivo</string>
+    <string name="cloud_backup_phone_state_title">Acessar informações do dispositivo</string>
+    <string name="cloud_backup_rw_storage_summary">Para backup em nuvem do layout da Tela inicial, dados e configurações do app</string>
+    <string name="cloud_backup_rw_storage_title">Acessar o armazenamento</string>
     <string name="cloud_backup_select_recover">Escolher backup da MiCloud</string>
     <string name="cloud_restore_from_other_device">Parar a restauração de %s e excluir este backup? Você não pode reverter esta ação.</string>
     <string name="cloud_restore_task">Restaurando…</string>
     <string name="cloud_task_in_process">Parar %s e excluir este backup? Você não pode reverter esta ação.</string>
+    <string name="collect_diagnosis_log">Coletar registro de diagnóstico</string>
     <string name="confirm_cancel_restore_negative">Cancelar</string>
     <string name="confirm_cancel_restore_positive">Continuar</string>
     <string name="confirm_cancel_restore_title">Cancelar a restauração?</string>
@@ -179,6 +187,10 @@ Nota: os dados dos apps que estão instalados não serão salvos na MiCloud."</s
     <string name="desktop_wait_network">Aguardando…</string>
     <string name="desktop_waiting">Aguardando</string>
     <string name="device_delete_prompt">Excluir backup de %s?</string>
+    <string name="diagnosis_log_send_failed">O envio do log de diagnóstico falhou.</string>
+    <string name="diagnosis_log_sent_format">"O log de diagnóstico foi enviado.
+ID:%s
+Por favor, envie este código para o técnico."</string>
     <string name="dialog_app_usage_consent_message">Este recurso precisa acessar o uso de dados do app para poder estimar o tamanho dos backups WeChat.</string>
     <string name="dialog_app_usage_consent_title">Permitir acesso ao uso de dados do app</string>
     <string name="dialog_app_usage_denied">Conceda ao Backup a permissão \"Acesso ao uso\" nas Configurações, para poder fazer backup dos itens.</string>
@@ -266,6 +278,7 @@ Nota: os dados dos apps que estão instalados não serão salvos na MiCloud."</s
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="for_diagnosis_usage_only">Use esta informação apenas para diagnóstico.</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
@@ -360,6 +373,8 @@ Nota: os dados dos apps que estão instalados não serão salvos na MiCloud."</s
     <string name="msg_restore_with_metered_network_hint">Se você prosseguir com a restauração destes itens, os dados móveis serão usados para baixá-los.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; de arquivos serão baixados."</string>
     <string name="network_error">Conecte-se à rede</string>
+    <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="network_timeout_info">"Não foi possível conectar à rede. Tente novamente."</string>
     <string name="night">"PM"</string>
     <string name="no_account">Não conectado a uma Conta Mi.</string>
     <string name="no_backup">Nenhum backup na MiCloud.</string>
@@ -367,13 +382,16 @@ Nota: os dados dos apps que estão instalados não serão salvos na MiCloud."</s
     <string name="not_set">Não definido</string>
     <string name="notification_channel_remind">Lembrete</string>
     <string name="notification_channel_service">Serviço</string>
+    <string name="ok">"OK"</string>
     <string name="open_backup_switch">Alterne o botão de backup</string>
     <string name="other_device_main_space">Primeiro espaço</string>
     <string name="other_device_second_space">Segundo espaço</string>
     <string name="pc_mode_not_support_restore_warning">Não é possível restaurar itens no Modo PC. Desative o Modo PC e tente novamente.</string>
+    <string name="permission_to_use">Detalhes das permissões</string>
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="process_whole_recovery">Restaurando \"%s\"</string>
+    <string name="progressbar_title">Verificando problemas de segurança…</string>
     <string name="provision_back">Voltar</string>
     <string name="provision_background_restore_more_data">Restaurar mais itens em segundo plano</string>
     <string name="provision_error_connect_msg">Teste a rede e tente novamente. Backups não estão disponíveis quando seu dispositivo está offline.</string>
@@ -453,6 +471,8 @@ Verifique sua conexão e tente novamente."</string>
     <string name="self_device_main_space">Primeiro espaço</string>
     <string name="self_device_second_space">Segundo espaço</string>
     <string name="send">Enviar</string>
+    <string name="send_diagnosis_log">Enviar log de diagnóstico</string>
+    <string name="sending">Enviando…</string>
     <string name="session_action_btn_text_return_home">Tela inicial</string>
     <string name="session_backup_apk_data_text">Fazendo backup de dados do WeChat…</string>
     <string name="session_backup_apk_text">Fazendo backup do layout da Tela inicial e das configurações do sistema…</string>
@@ -498,6 +518,8 @@ Verifique sua conexão e tente novamente."</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="system_error_info">O sistema está ocupado. Aguarde um momento e tente novamente.</string>
+    <string name="temporary_not_available">temporariamente indisponível</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
     <string name="the_arbor_day">Dia da Árvore</string>
@@ -555,6 +577,7 @@ Verifique sua conexão e tente novamente."</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
+    <string name="unknown_error_info">Erro desconhecido</string>
     <string name="unselected">Não selecionado</string>
     <string name="unsupported_home">Atualize a MIUI para a versão mais recente.</string>
     <string name="v7_preference_off">DESATIVADO</string>
