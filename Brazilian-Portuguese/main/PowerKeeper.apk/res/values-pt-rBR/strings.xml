@@ -278,7 +278,7 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção de um ano</string>
     <string name="night">"PM"</string>
-    <string name="nonui_mode_config_description">Não ligar a tela para notificações, desligar a luz de LED, sensor de impressão digital e controles de toque para economizar bateria quando o MIUI detectar que você não está usando seu dispositivo.</string>
+    <string name="nonui_mode_config_description">Não ligar a tela para notificações, desligar a luz de LED, sensor de impressão digital e controles de toque para economizar bateria quando a MIUI detectar que você não está usando seu dispositivo.</string>
     <string name="nonui_mode_config_title">Modo não-interativo</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
@@ -299,8 +299,8 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="power_checker_mobile_radio_title">%1$s acessa a rede com frequência</string>
     <string name="power_checker_multi_apps_title">Apps descarregando a bateria: %2$s</string>
     <string name="power_checker_notify_summary">Otimizar apps que estão descarregando a bateria</string>
-    <string name="power_checker_partial_wakelock_multi_apps_title">%1$s previne o MIUI de entrar no modo de inatividade</string>
-    <string name="power_checker_partial_wakelock_title">%1$s previne o MIUI de entrar no modo de inatividade</string>
+    <string name="power_checker_partial_wakelock_multi_apps_title">%1$s previne a MIUI de entrar no modo de inatividade</string>
+    <string name="power_checker_partial_wakelock_title">%1$s previne a MIUI de entrar no modo de inatividade</string>
     <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s está sendo executado com frequência</string>
     <string name="power_checker_wakeup_alarm_title">%1$s está sendo executado com frequência</string>
     <string name="power_checker_wifi_scan_multi_apps_title">%1$s procura redes Wi-Fi com frequência</string>

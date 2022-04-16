@@ -314,7 +314,7 @@
     <string name="other_settings_enhanced_lockscreen_summary_index">Contrato de Licença do Usuário Final</string>
     <string name="other_settings_location">Localização</string>
     <string name="other_settings_location_summary">Permite que os apps e sites acessem suas informações de localização para fornecer serviços baseados na localização</string>
-    <string name="other_settings_quality_service">Permissões do MIUI Daemon</string>
+    <string name="other_settings_quality_service">Permissões da MIUI Daemon</string>
     <string name="other_settings_quality_service_summary">O MIUI Daemon é usado para melhorar a estabilidade e o desempenho do sistema. Para poder funcionar normalmente, este serviço precisa de permissões para acessar e salvar itens no armazenamento do dispositivo.</string>
     <string name="other_settings_upload_debug_log_detail">"Ajude a melhorar a experiência do dispositivo MIUI enviando automaticamente dados de diagnóstico, do dispositivo e do uso de apps para a Xiaomi. Isso ajudará a melhorar a vida útil da bateria, do sistema MIUI, e da estabilidade do app e muito mais.
 Os dados que você enviará conterão informações gerais sobre seu dispositivo e como você o usa (ex.: nível da bateria, atividade do sistema, dos apps e erros). Os dados serão usados para melhorar os dispositivos MIUI.
@@ -550,7 +550,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="terms_of_use">Termos e condições</string>
     <string name="terms_of_use_ble_htmlViewer">Fornecedor de Localização, Visualizador de HTML</string>
     <string name="terms_of_use_label">"Leia nosso Contrato do Usuário e a Política de Privacidade para entender quais informações nós coletamos, como as usamos e quais são as opções disponíveis para você.
-Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade antes de usar o MIUI.
+Você precisa aceitar nosso Contrato de Usuário e a Política de Privacidade antes de usar a MIUI.
 %s e componentes da Conta Mi vão se conectar à internet e obterão a sua localização."</string>
     <string name="terms_of_use_label_MSA">"MSA"</string>
     <string name="terms_of_use_label_Mistore">Plugin de sistema Mi Store</string>

@@ -1941,7 +1941,7 @@ Alguns sites não usarão seu histórico de navegação anterior para personaliz
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="switchText">SIM</string>
-    <string name="switch_proxy_dialog_msg">Hijacking de rede detectado. Usae o app de Segurança do MIUI ou reporte este problema para sua operadora.</string>
+    <string name="switch_proxy_dialog_msg">Hijacking de rede detectado. Usae o app de Segurança da MIUI ou reporte este problema para sua operadora.</string>
     <string name="switch_proxy_dialog_title">Hijacking de rede</string>
     <string name="sync_alert_checkbox_bookmark">Favoritos</string>
     <string name="sync_alert_checkbox_history">Histórico de navegação</string>

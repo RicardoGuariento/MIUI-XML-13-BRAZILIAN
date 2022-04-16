@@ -2603,7 +2603,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="slice_permission_text_2">"• O app pode realizar ações dentro de %1$s"</string>
     <string name="slice_permission_title">"Permitir que %1$s mostre partes de %2$s?"</string>
     <string name="small_window_guide_title">Janelas flutuantes</string>
-    <string name="small_window_notification_text">Toque para saber mais sobre este recurso do MIUI %d</string>
+    <string name="small_window_notification_text">Toque para saber mais sobre este recurso da MIUI %d</string>
     <string name="small_window_notification_title">Janelas flutuantes</string>
     <string name="snooze_option_15_min">15 minutos</string>
     <string name="snooze_option_1_hour">1 hora</string>

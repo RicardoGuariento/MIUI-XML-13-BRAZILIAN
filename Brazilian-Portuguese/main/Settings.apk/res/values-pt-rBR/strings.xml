@@ -574,7 +574,7 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="allow_mock_location">Permitir locais fictícios</string>
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
     <string name="allow_oaid_used">Usar a ID Virtual</string>
-    <string name="allow_oaid_used_desc">A MIUI não fornecerá a ID Virtual (OAID) aos apps instalados. Alguns recursos de recomendação pessoal podem não funcionar corretamente em decorrer disso.</string>
+    <string name="allow_oaid_used_desc">A MIUI fornecerá a ID Virtual (OAID) aos apps instalados. Alguns recursos de recomendação pessoal podem não funcionar corretamente em decorrer disso.</string>
     <string name="allow_overlay_description">Permite que este app seja sobreposto a outros apps que você esteja usando. Este app será capaz de ver ou alterar o que é exibido na tela.</string>
     <string name="allow_sound_title">Permitir som</string>
     <string name="allow_vibrate_title">Permitir vibração</string>
@@ -620,7 +620,7 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="animator_duration_scale_title">Escala de duração do Animator</string>
     <string name="another_migration_already_in_progress">Outra migração já está em andamento.</string>
     <string name="anti_spam">Lista de bloqueio</string>
-    <string name="aod_and_lock_screen_settings_title">Tela de bloqueio</string>
+    <string name="aod_and_lock_screen_settings_title">Tela de bloqueio e AOD</string>
     <string name="aod_close_color_inversion">Este recurso não funciona com a inversão de cores. Desative a inversão de cores primeiro.</string>
     <string name="aod_name_wanxiang">Tela sempre ativa</string>
     <string name="aod_notification_style">Efeito de notificação</string>
@@ -2191,7 +2191,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="close_fod_aod">Você não conseguirá desbloquear seu dispositivo usando sua impressão digital quando a tela estiver desligada. O \"Modo Always On\" também não estará disponível. O desbloqueio por impressão digital só funcionará quando a tela estiver ligada.</string>
     <string name="close_hotspot_hint">Desative o ponto de acesso portátil antes de transmitir</string>
     <string name="close_miui_optimization_title">Desativar otimização MIUI</string>
-    <string name="close_optimization_message">Layout de texto, contas e outras partes do MIUI podem ser afetadas depois que você desligar este recurso.</string>
+    <string name="close_optimization_message">Layout de texto, contas e outras partes da MIUI podem ser afetadas depois que você desligar este recurso.</string>
     <string name="close_optimization_option">Desativar</string>
     <string name="close_privacy_thumbnail_blur_title">As prévias não estão desfocadas</string>
     <string name="close_slave_wifi_hint">Desconecte do Wi-Fi auxiliar antes de transmitir</string>
@@ -5583,7 +5583,7 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_lab_feature_applied">Aplicado</string>
     <string name="miui_lab_feature_off">Desativado</string>
     <string name="miui_lab_feature_on">Ativado</string>
-    <string name="miui_lab_features">Recursos do MIUI Lab</string>
+    <string name="miui_lab_features">Recursos da MIUI Lab</string>
     <string name="miui_lab_gallery_search_desc">Pesquisa melhorada de imagens</string>
     <string name="miui_lab_gallery_search_title">Encontrar fotos na Galeria</string>
     <string name="miui_lab_gesture_desc">Use gestos ao invés dos botões para navegação</string>
@@ -5952,7 +5952,7 @@ Selecione seu sistema operacional:"</string>
     <string name="my_device_info_device_name_preference_title">Nome do dispositivo</string>
     <string name="my_device_info_legal_category_title">Jurídica e regulatória</string>
     <string name="n_cacrts">%d certificados CA</string>
-    <string name="natural_haptic">Toques naturais</string>
+    <string name="natural_haptic">Vibrações naturais</string>
     <string name="natural_haptic_summary">O novo padrão de resposta tátil traz uma dimensão adicional a tudo que você interage na tela</string>
     <string name="natural_scroll">Rolagem natural</string>
     <string name="nature_color">Padrão</string>
@@ -6279,7 +6279,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="notification_conversation_summary_low">Sem som ou vibração e o balão aparece na parte inferior da seção de conversa</string>
     <string name="notification_dashboard_summary">Histórico de notificação, conversas</string>
     <string name="notification_display_settings">Área de notificações</string>
-    <string name="notification_fold_description1">A pasta de notificações foi introduzida no MIUI 9. Este recurso filtra notificações com pouca importância e as coloca em uma pasta separada.</string>
+    <string name="notification_fold_description1">A pasta de notificações foi introduzida na MIUI 9. Este recurso filtra notificações com pouca importância e as coloca em uma pasta separada.</string>
     <string name="notification_fold_description2">A MIUI lembrará quais notificações você tocar, e então usará vários critérios para determinar a sua importância.</string>
     <string name="notification_fold_description3">Se notificações que você considerar importantes ainda forem para a pasta de Notificações não importantes, certifique-se de reportar estes problemas para nós. Agradecemos o seu feedback.</string>
     <string name="notification_fold_footer_icon_summary">Mostrar ícones de apps quando notificações não importantes estiverem agrupadas</string>
@@ -7634,7 +7634,7 @@ Para usar a fixação de apps: \u0009
     <string name="se_wallet_hce">Carteira HCE</string>
     <string name="se_wallet_uicc">Carteira SIM %1$s</string>
     <string name="se_wallet_uicc_jp">"Cartão SIM %1$s (não pode ser selecionado automaticamente)"</string>
-    <string name="search_about_settings">Sobre o telefone;Número do modelo;Versão do Android;Versão do MIUI;CPU;RAM;Armazenamento interno;Memória;Armazenamento;Memória interna;Versão da baseband;Versão do kernel;Número da compilação;Meu dispositivo;Telefone;Dispositivo</string>
+    <string name="search_about_settings">Sobre o telefone;Número do modelo;Versão do Android;Versão da MIUI;CPU;RAM;Armazenamento interno;Memória;Armazenamento;Memória interna;Versão da baseband;Versão do kernel;Número da compilação;Meu dispositivo;Telefone;Dispositivo</string>
     <string name="search_accelerometer_title">Girar tela automaticamente;Girar tela;Orientação;Retrato;Paisagem</string>
     <string name="search_access_control">Configurações de privacidade;Segurança de privacidade;Convidado;Modo convidado</string>
     <string name="search_accessibility_captioning_title">Legendas</string>
@@ -8574,14 +8574,14 @@ Retirar o consentimento para %s agora?"</string>
     <string name="sound_category_system_title">Sistema</string>
     <string name="sound_dashboard_summary">Volume, vibração, Não perturbe</string>
     <string name="sound_effects_enable_title">Sons de toque</string>
-    <string name="sound_haptic_settings">Sons e toques</string>
+    <string name="sound_haptic_settings">Sons e retorno tátil</string>
     <string name="sound_mode">Modo silencioso</string>
     <string name="sound_settings">Som</string>
     <string name="sound_settings_example_summary">Volume do toque e notificações em 80%</string>
     <string name="sound_settings_summary">Volume do toque e notificações em %1$s</string>
     <string name="sound_settings_summary_silent">Campainha silenciada</string>
     <string name="sound_settings_summary_vibrate">Campainha configurada para vibrar</string>
-    <string name="sound_settings_tab_haptic">Toques</string>
+    <string name="sound_settings_tab_haptic">Retorno tátil</string>
     <string name="sound_settings_tab_sound">Sons</string>
     <string name="sound_stereo_mode_summary">Disponível apenas ao reproduzir sons pelo alto-falante</string>
     <string name="sound_stereo_mode_title">Som estéreo</string>
@@ -9425,7 +9425,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="uninstall_device_admin">Desinstalar app</string>
     <string name="uninstall_dlg_msg">A desinstalação apagará todos os dados deste app.</string>
     <string name="uninstall_dlg_title">Desinstalar agora?</string>
-    <string name="uninstall_protected_dlg_msg">Desinstalar apps de sistema pode impedir que alguns componentes do MIUI funcionem corretamente. Desinstalar mesmo assim?</string>
+    <string name="uninstall_protected_dlg_msg">Desinstalar apps de sistema pode impedir que alguns componentes da MIUI funcionem corretamente. Desinstalar mesmo assim?</string>
     <string name="uninstall_protected_dlg_title">Desinstalando apps de sistema</string>
     <string name="uninstall_text">Desinstalar</string>
     <string name="uninstall_with_xspace_app_dlg_msg">Os dual apps correspondentes serão removidos junto com os dados dos mesmos.</string>
@@ -10637,7 +10637,7 @@ Toque em "<b>Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
 você pode usar a rede de outros usuários também."</string>
     <string name="wifi_share_connect">Conectar</string>
     <string name="wifi_share_connected_summary">Você está conectado a uma rede Wi-Fi pública que foi compartilhada por um outro usuário.</string>
-    <string name="wifi_share_connected_title">Wi-Fi compartilhada do MIUI</string>
+    <string name="wifi_share_connected_title">Wi-Fi compartilhada da MIUI</string>
     <string name="wifi_share_current_network">Rede atual</string>
     <string name="wifi_share_know">Entendi</string>
     <string name="wifi_share_list_empty">Nenhuma rede compartilhada foi encontrada.</string>

@@ -767,7 +767,7 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="personalize">Personalização</string>
     <string name="personalize_alarm_ringtone_title">Alarmes</string>
-    <string name="personalize_aod_title">Tela sempre ativa</string>
+    <string name="personalize_aod_title">AOD</string>
     <string name="personalize_call_ringtone_title">Toques</string>
     <string name="personalize_charge_style_title">Carregando</string>
     <string name="personalize_default_font">Fonte padrão</string>

@@ -277,8 +277,8 @@ adicionado à lista de bloqueio"</string>
     <string name="dialog_complain_tips">Permita que o app Mensagens conecte-se à rede para poder reportar itens.</string>
     <string name="dialog_message_correct_as_ad">Todas as mensagens de %s (exceto códigos de verificação) serão movidas para mensagens promocionais.</string>
     <string name="dialog_message_correct_as_normal">Selecione mensagens para mover</string>
-    <string name="dialog_message_fake_cell_detect_error">Corrigir a informação sobre esta mensagem? Para fazer isto, o MIUI precisa fazer o upload do número do telefone (%1$s), o conteúdo da mensagem, e as informações sobre a localização aproximada para os nossos servidores.</string>
-    <string name="dialog_message_mx">O Mi Mensagens permite que você envie mensagens para outros usuários do MIUI sem a cobrança de tarifas. Uma mensagem SMS é requerida para ativar o Mi Mensagens. A sua operadora cobrará por esta mensagem. Você deve aceitar nosso \"%1$s\" e a \"%2$s\" antes de usar o Mi Mensagens.</string>
+    <string name="dialog_message_fake_cell_detect_error">Corrigir a informação sobre esta mensagem? Para fazer isto, a MIUI precisa fazer o upload do número do telefone (%1$s), o conteúdo da mensagem, e as informações sobre a localização aproximada para os nossos servidores.</string>
+    <string name="dialog_message_mx">O Mi Mensagens permite que você envie mensagens para outros usuários da MIUI sem a cobrança de tarifas. Uma mensagem SMS é requerida para ativar o Mi Mensagens. A sua operadora cobrará por esta mensagem. Você deve aceitar nosso \"%1$s\" e a \"%2$s\" antes de usar o Mi Mensagens.</string>
     <string name="dialog_message_networking">O app Mensagens precisa usar as Páginas Amarelas para fornecer o reconhecimento de ID de remetente. O app Mensagens e Páginas Amarelas precisarão de uma conexão com a internet e acesso à sua localização para funcionarem normalmente. Permitir?</string>
     <string name="dialog_message_rcs">O sistema de mensagens do China Mobile permite que você envie mensagens para outros usuários China Mobile sem a cobrança de tarifas de mensagens. Tem de aceitar o \"%1$s\" antes de utilizar as Mensagens do China Mobile.</string>
     <string name="dialog_quit">Sair</string>
@@ -829,7 +829,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="pref_summary_mms_retrieval_during_roaming">Baixar fotos e vídeos de mensagens automaticamente quando em roaming</string>
     <string name="pref_summary_notification_body_enabled">Mostra mensagens na Tela de bloqueio e na Área de notificações</string>
     <string name="pref_summary_off_system_mms_priority">Usar um app de terceiros como o padrão para enviar e receber MMS</string>
-    <string name="pref_summary_on_system_mms_priority">Usar o app Mensagens do MIUI como o padrão para enviar e receber MMS</string>
+    <string name="pref_summary_on_system_mms_priority">Usar o app Mensagens da MIUI como o padrão para enviar e receber MMS</string>
     <string name="pref_summary_privacy_authority">Ative ou desative este seletor para conceder ou revogar a sua autorização</string>
     <string name="pref_summary_send_delivery_reports">Enviar mensagem de confirmação de entrega para o remetente ao receber uma mensagem multimídia</string>
     <string name="pref_summary_switch_aim_card">Exibe mensagens que contêm vídeos, imagens e formatação complexa como cartões</string>

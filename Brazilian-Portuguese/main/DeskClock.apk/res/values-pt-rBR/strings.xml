@@ -316,7 +316,7 @@
     <string name="module_download_data_msg_timer">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. ~20MB dos seus dados móveis são requeridos para este download. Baixar agora?</string>
     <string name="module_download_fail">Não foi possível baixar o áudio adicional</string>
     <string name="module_download_failure">Não foi possível baixar os arquivos de áudio. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="module_download_msg">Para disponibilizar os alarmes inteligentes do MIUI, o Relógio precisa baixar arquivos de áudio. Os alarmes inteligentes contém recursos de áudio que permitem incluir informações de clima atual nos alarmes. Baixar agora?</string>
+    <string name="module_download_msg">Para disponibilizar os alarmes inteligentes da MIUI, o Relógio precisa baixar arquivos de áudio. Os alarmes inteligentes contém recursos de áudio que permitem incluir informações de clima atual nos alarmes. Baixar agora?</string>
     <string name="module_download_msg_golbal">O Relógio precisa baixar arquivos de áudio para os alarmes inteligentes MIUI. Baixar agora?</string>
     <string name="module_download_msg_replace">Arquivos de áudio atualizados para os alarmes inteligentes MIUI estão disponíveis. Baixar agora?</string>
     <string name="module_download_msg_timer">O Relógio precisa baixar arquivos de áudio para os temporizadores de ruído ambiente. Baixar agora?</string>

@@ -236,7 +236,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="miui_main_update_end_title">Bem-vindo à MIUI</string>
     <string name="miui_main_update_learn_more">Saiba mais</string>
     <string name="miui_main_update_start">Atualizar agora</string>
-    <string name="miui_main_update_success_sub_title">Conheça o novo MIUI</string>
+    <string name="miui_main_update_success_sub_title">Conheça a nova MIUI</string>
     <string name="miui_main_update_success_title">A vida fica mais fácil</string>
     <string name="miui_main_update_success_title_12">Unicamente seu</string>
     <string name="miui_main_update_success_title_12_5">Bem-vindo à MIUI 12.5</string>
@@ -336,7 +336,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="permission_imei_disable_desc">Permita que este app se conecte-se à Internet.</string>
     <string name="permission_imei_enable_desc">Permita que este app se conecte-se à Internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="permission_location_introduce">Para exibir pontos de serviço próximos</string>
-    <string name="permission_main_purpose">Exibir demonstrações de recursos do MIUI, enviar feedback e solicitar serviços de pós-venda.</string>
+    <string name="permission_main_purpose">Exibir demonstrações de recursos da MIUI, enviar feedback e solicitar serviços de pós-venda.</string>
     <string name="permission_privacy">Política de Privacidade (obrigatório)</string>
     <string name="permission_region_version_msg"><Data>Antes de usar o \"Serviços e feedback\", você precisa ler e aceitar o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>.</Data></string>
     <string name="permission_select_all">Selecionar todos</string>

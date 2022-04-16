@@ -378,7 +378,7 @@
     <string name="security_permission_failed_text">Ocorreu um erro, tente novamente mais tarde</string>
     <string name="security_permission_network_failed_text">Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="security_permission_open_wifi_settings">Abrir configurações de Wi-Fi</string>
-    <string name="security_permission_validate_warning">Obrigado por ajudar a melhorar o MIUI!</string>
+    <string name="security_permission_validate_warning">Obrigado por ajudar a melhorar a MIUI!</string>
     <string name="security_permission_wifi_and_data_opened_text">Dados móveis e Wi-Fi ativados</string>
     <string name="security_permission_xiaomi_account_missed_text">Digite sua ID da Conta Mi</string>
     <string name="security_share_text">Proteção de Privacidade</string>

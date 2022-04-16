@@ -98,14 +98,14 @@
     <string name="exposed_dropdown_menu_content_description">Exibir menu suspenso</string>
     <string name="fastboot_locked_answer_1">O Fastboot é um método tradicional para a instalação de firmwares em dispositivos Mi. Quando o dispositivo está em modo Fastboot, todos os dados armazenados nele podem ser acessados ou apagados diretamente. Nós bloqueamos o Fastboot para certificar de que seus dados permaneçam seguros caso você perca o dispositivo, assim como garantir a confiabilidade dos recursos do Encontrar dispositivo.</string>
     <string name="fastboot_locked_answer_2">Caso você perca seu dispositivo, o Fastboot garante a segurança dos itens armazenados no telefone. Caso você desbloqueie o Fastboot, você não será capaz de bloquear seu dispositivo remotamente ou apagar seus dados usando o Encontrar dispositivo. É por isso que não recomendamos o desbloqueio do Fastboot em seu dispositivo.</string>
-    <string name="fastboot_locked_answer_3">Você precisa usar a ferramenta de desbloqueio disponível no website do MIUI. Para desbloquear o dispositivo, precisaremos garantir que ele pertence a você. É por isso que ao receber o seu dispositivo você deve fazer o login em sua Conta Mi e ativar o Encontrar dispositivo.</string>
+    <string name="fastboot_locked_answer_3">Você precisa usar a ferramenta de desbloqueio disponível no website da MIUI. Para desbloquear o dispositivo, precisaremos garantir que ele pertence a você. É por isso que ao receber o seu dispositivo você deve fazer o login em sua Conta Mi e ativar o Encontrar dispositivo.</string>
     <string name="fastboot_locked_question_1">Por que o Fastboot precisa ser bloqueado?</string>
     <string name="fastboot_locked_question_2">Existe algum risco envolvendo o desbloqueio do Fastboot?</string>
     <string name="fastboot_locked_question_3">Sei dos riscos, mas ainda quero desbloquear meu dispositivo. O que preciso fazer?</string>
     <string name="fastboot_status_locked_info">O Fastboot não está desbloqueado neste dispositivo</string>
     <string name="fastboot_status_locked_summary">Não é possível obter acesso root</string>
     <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
-    <string name="fastboot_unlock_web_title">Vá ao website oficial do MIUI para obter a ferramenta de desbloqueio.</string>
+    <string name="fastboot_unlock_web_title">Vá ao website oficial da MIUI para obter a ferramenta de desbloqueio.</string>
     <string name="fingerprint_not_remind">Não perguntar novamente</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>

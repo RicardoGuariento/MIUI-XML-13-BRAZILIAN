@@ -54,8 +54,8 @@
         <item quantity="one">Restringido %3$d vez entre %1$s e %2$s</item>
     </plurals>
     <plurals name="app_behavior_desc_deny_minute">
-        <item quantity="other">Recusado %2$d vezes às %1$s</item>
-        <item quantity="one">Recusado %2$d vez às %1$s</item>
+        <item quantity="other">Restringido %2$d vezes às %1$s</item>
+        <item quantity="one">Restringido %2$d vez às %1$s</item>
     </plurals>
     <plurals name="app_behavior_desc_duration_usage">
         <item quantity="other">Permitido %3$d vezes entre %1$s e %2$s</item>
@@ -142,8 +142,8 @@
         <item quantity="one">Você pode proteger pelo menos %s app</item>
     </plurals>
     <plurals name="applock_one_key_lock">
-        <item quantity="other">%s apps serão protegidos com o Bloqueio de apps</item>
-        <item quantity="one">%s app será protegido com o Bloqueio de apps</item>
+        <item quantity="other">Apps que serão protegidos com o Bloqueio de apps: %s</item>
+        <item quantity="one">App que será protegido com o Bloqueio de apps: %s</item>
     </plurals>
     <plurals name="behavior_widget_app_text">
         <item quantity="other">%2$d apps incluindo %1$s</item>
