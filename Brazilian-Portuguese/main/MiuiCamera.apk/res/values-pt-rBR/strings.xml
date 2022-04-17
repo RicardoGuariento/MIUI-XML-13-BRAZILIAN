@@ -2032,7 +2032,7 @@ O Modo Ultra angular ajuda-o quando não puder ficar muito afastado do cenário.
     <string name="unknow_error">Erro desconhecido</string>
     <string name="unsupported_microphones_3d_record_tips">O som 3D não suporta microfones externos</string>
     <string name="unsupported_microphones_audio_zoom_tips">O zoom por áudio não suporta microfones externos</string>
-    <string name="update_loading">%1$s baixado</string>
+    <string name="update_loading">%1$s%% baixado</string>
     <string name="update_start">Atualizar %1$s</string>
     <string name="user_agree">Aceitar</string>
     <string name="user_define_watermark_cancel">Cancelar</string>
