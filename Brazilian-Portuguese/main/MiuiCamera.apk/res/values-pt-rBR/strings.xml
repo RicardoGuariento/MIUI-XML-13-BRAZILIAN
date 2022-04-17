@@ -398,7 +398,7 @@ e ajustar preferências automaticamente"</string>
     <string name="beauty_makeups_pinkfemale">Pétala</string>
     <string name="beauty_makeups_solid">Contorno</string>
     <string name="beauty_makeups_toughman">"Bronze"</string>
-    <string name="beauty_mo_fe">Natural</string>
+    <string name="beauty_mo_fe">"Natural"</string>
     <string name="beauty_mo_ma">Clássico</string>
     <string name="beauty_mo_or">"Original"</string>
     <string name="beauty_mode_reset_toast">Efeitos de remodelagem limpos com sucesso</string>
@@ -592,9 +592,6 @@ e ajustar preferências automaticamente"</string>
     <string name="custom_watermark_words">"Marca d'água personalizada"</string>
     <string name="custom_watermark_words_input_hint">Inserir texto</string>
     <string name="custom_watermark_words_save_success">Salvo com sucesso</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="dd_frn_f_t">Dobre o seu dispositivo para usar a câmera frontal</string>
@@ -1647,7 +1644,7 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_zoom_value_title">"Zoom"</string>
     <string name="pref_camera_zsl_entry_off">Desativado</string>
     <string name="pref_camera_zsl_entry_on">Ativado</string>
-    <string name="pref_camera_zsl_value_off">desativado</string>
+    <string name="pref_camera_zsl_value_off">Desativado</string>
     <string name="pref_capture_settings">Câmera</string>
     <string name="pref_cup_camera_position_summary">Mostra a posição da câmera frontal quando ela está sendo usada</string>
     <string name="pref_cup_camera_position_title">Mostrar câmera frontal</string>
@@ -2098,7 +2095,7 @@ O Modo Ultra angular ajuda-o quando não puder ficar muito afastado do cenário.
     <string name="vv_start">Capturar Vlog</string>
     <string name="vv_use_hint_text_body">"O Modo Vlog permite
 que você grave e edite vídeos em qualquer lugar"</string>
-    <string name="vv_use_hint_text_title">VLOG</string>
+    <string name="vv_use_hint_text_title">"VLOG"</string>
     <string name="wait">Aguarde…</string>
     <string name="watermark_tab_city">Cidade</string>
     <string name="watermark_tab_festival">Feriado</string>
