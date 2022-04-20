@@ -1328,8 +1328,8 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_camera_auto_capture_when_stable_summary">Para selecionar um objeto, toque simultaneamente em dois pontos diagonais em sua borda. Quando o objeto estiver estabilizado, a câmera tirará uma foto automaticamente.</string>
     <string name="pref_camera_auto_capture_when_stable_title">Capturar objetos quando estável</string>
     <string name="pref_camera_auto_chroma_flash_title">Flash chroma</string>
-    <string name="pref_camera_auto_hibernation">Capturar com a tela desligada</string>
-    <string name="pref_camera_auto_hibernation_description">Ao gravar, desligar a tela após %d minutos de inatividade para economizar energia</string>
+    <string name="pref_camera_auto_hibernation">Gravar com a tela desligada</string>
+    <string name="pref_camera_auto_hibernation_description">Ao gravar, a tela será desligada após %d minutos de inatividade para economizar energia</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Centralizado</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Média de quadros</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Medição pontual</string>

@@ -557,7 +557,7 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="all_network_unavailable">Nenhuma rede disponível</string>
     <string name="all_volume_title">"Volumes"</string>
     <string name="allow">Permitir</string>
-    <string name="allow_all_rotations_title">Todas as rotações</string>
+    <string name="allow_all_rotations_title">Rotação em 360°</string>
     <string name="allow_bind_app_widget_activity_allow_bind">Após a criação do widget, %1$s poderá acessar todos os dados exibidos.</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Criar widget e permitir acesso?</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Sempre permitir que %1$s crie widgets e acesse os dados</string>
@@ -3296,8 +3296,8 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="enable_mms_notification_channel_title">Mensagem MMS</string>
     <string name="enable_mms_notification_summary">Toque para permitir mensagens MMS pela %1$s quando os dados móveis estiverem desativados</string>
     <string name="enable_mobile_data_when_opening_hotspot">Ativar também a conexão de dados móveis?</string>
-    <string name="enable_non_resizable_multi_window">Ativar não redimensível na janela Multi</string>
-    <string name="enable_non_resizable_multi_window_summary">Permite que apps não redimensionáveis sejam multi janela</string>
+    <string name="enable_non_resizable_multi_window">Ativar não redimensível em multi janela</string>
+    <string name="enable_non_resizable_multi_window_summary">Permite que apps não redimensionáveis sejam executados em multi janela</string>
     <string name="enable_opengl_traces_title">Ativar rastream. OpenGL</string>
     <string name="enable_quick_setting">Mostrar em \"Configurações rápidas\"</string>
     <string name="enable_quick_start">Ativar o início rápido</string>
@@ -7424,7 +7424,7 @@ Essa configuração afeta todos os usuários do smartphone."</string>
     <string name="screen_enhance_engine_memc_note">Não é possível melhorar vídeos quando a super resolução está ativada. Ao ativar Vídeos aprimorados, a opção super resolução será desativada.</string>
     <string name="screen_enhance_engine_memc_note_1">%d. Este recurso aumenta levemente o consumo de bateria.</string>
     <string name="screen_enhance_engine_memc_note_2">%d. Esse recurso funciona apenas com as ferramentas de vídeo ativas</string>
-    <string name="screen_enhance_engine_memc_pic_summary">"Incluir quadros adicionais aos vídeos para que seu conteúdo fique mais suave e as transições mais vívidas. "</string>
+    <string name="screen_enhance_engine_memc_pic_summary">"Inclui quadros adicionais aos vídeos para que seu conteúdo fique mais suave e as transições mais vívidas. "</string>
     <string name="screen_enhance_engine_s2h_open">Aprimoramento HDR por IA</string>
     <string name="screen_enhance_engine_s2h_pic_summary">"Processar vídeos usando efeitos HDR para destacar mais os detalhes em áreas claras e escuras. "</string>
     <string name="screen_enhance_engine_s2h_title">Aprimoramento HDR por IA</string>
