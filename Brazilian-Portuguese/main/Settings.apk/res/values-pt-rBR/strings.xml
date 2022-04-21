@@ -2761,8 +2761,8 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="dc_light_dialog_summary">A qualidade de imagem pode ser afetada com o modo Anti-oscilação ativado. Ativar mesmo assim?</string>
     <string name="dc_light_summary">Aplicar DC Dimming para reduzir cansaço visual</string>
     <string name="dc_light_summary_new">O DC Dimming evita cintilações extensas e reduz a tensão ocular em condições de pouca luz. No entanto, a qualidade da imagem pode ser afetada quando este recurso está ativado.</string>
-    <string name="dc_light_title">Modo Anti-oscilação</string>
-    <string name="dclight_unavailable_prompt">O modo anti-flicker é suportado apenas pela tela externa</string>
+    <string name="dc_light_title">Modo anti-oscilação</string>
+    <string name="dclight_unavailable_prompt">O Modo anti-oscilação é suportado apenas pela tela externa</string>
     <string name="debug_app">Selecionar app de depuração</string>
     <string name="debug_app_not_set">O app de depuração não está configurado</string>
     <string name="debug_app_set">App de depuração: %1$s</string>
@@ -4399,9 +4399,13 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="kddi_nfc_quick_toggle_summary">Ativar a funcionalidade NFC</string>
     <string name="kddi_nfc_quick_toggle_title">NFC</string>
     <string name="kddi_nfc_secure_settings_title">Bloquear enquanto estiver na Tela de bloqueio</string>
-    <string name="kddi_nfc_secure_toggle_summary">Mantenha o NFC ativado apenas quando o dispositivo estiver desbloqueado</string>
+    <string name="kddi_nfc_secure_toggle_summary">Mantém o NFC ativado apenas quando o dispositivo estiver desbloqueado</string>
     <string name="keep_legacy_fingerprint">Manter</string>
     <string name="keep_screen_on">Não bloquear a tela</string>
+    <string name="keep_screen_on_after_folding_off_summary">Mantém a tela externa ligada após dobrar durante as chamadas ou quando a câmera estiver sendo usada</string>
+    <string name="keep_screen_on_after_folding_on_summary">Mantém a tela externa ligada após dobrar para continuar com suas tarefas atuais</string>
+    <string name="keep_screen_on_after_folding_text">Mantém a tela externa ligada após dobrar para continuar com suas tarefas atuais</string>
+    <string name="keep_screen_on_after_folding_title">Manter a tela ligada após dobrar</string>
     <string name="keep_screen_on_summary">A tela não desligará durante o carregamento</string>
     <string name="kernel_version">Versão do kernel</string>
     <string name="key_combination_power_back">Liga/Desliga + Voltar</string>
@@ -7543,7 +7547,7 @@ Para usar a fixação de apps: \u0009
     <string name="screen_projection_title">Transmitir</string>
     <string name="screen_reader_category_title">Leitores de tela</string>
     <string name="screen_recorder_title">Gravador de tela</string>
-    <string name="screen_refresh_unavailable_prompt">Alterar a taxa de atualização é suportada apenas pela tela externa</string>
+    <string name="screen_refresh_unavailable_prompt">A alteração da taxa de atualização é suportada apenas pela tela externa</string>
     <string name="screen_resolution_dialog_title">Alterar resolução</string>
     <string name="screen_resolution_high_format">Alta (%1$s)</string>
     <string name="screen_resolution_normal_format">"Normal (%1$s)"</string>
@@ -9906,7 +9910,7 @@ Toque no + para adicionar palavras."</string>
     <string name="virtual_sim_global_title">Serviço de dados móveis</string>
     <string name="virtual_sim_title">Rede de dados em roaming</string>
     <string name="virtual_surround_sound_switch_summary">"Enriqueça a profundidade do som para reprodução de áudio e vídeo em fones de ouvido (este recurso não funcionará quando o áudio %.1f for reproduzido)"</string>
-    <string name="virtual_surround_sound_switch_title">Som virtual imersivo</string>
+    <string name="virtual_surround_sound_switch_title">Som imersivo</string>
     <string name="virus_scan">Antivírus</string>
     <string name="virus_scan_app_continue">Retomar verificação</string>
     <string name="virus_scan_app_finish">Concluído</string>

@@ -334,9 +334,9 @@
     <string name="relaunch_dialog_button_confirm">"OK"</string>
     <string name="relaunch_dialog_message">Não é possível ajustar o tamanho da janela enquanto você usa o app. Você pode reiniciar o app para ajustar o tamanho da janela, mas os dados do app gerados durante esta sessão serão perdidos. Reiniciar mesmo assim?</string>
     <string name="relaunch_dialog_title">Reiniciar \"%s\"?</string>
-    <string name="relaunch_fold_notification_content">\"%s\" o app pode ser exibido de forma anormal depois que o telefone é dobrado e precisa ser reiniciado para voltar ao normal.</string>
+    <string name="relaunch_fold_notification_content">Este app pode ser exibido de forma anormal depois que o telefone é dobrado e precisa ser reiniciado para voltar ao normal.</string>
     <string name="relaunch_notification_title">Reiniciar \"%s\" aplicativo</string>
-    <string name="relaunch_unfold_notification_content">\"%s\" o app pode ser exibido de forma anormal depois que o telefone é desdobrado e precisa ser reiniciado para voltar ao normal.</string>
+    <string name="relaunch_unfold_notification_content">Este app pode ser exibido de forma anormal depois que o telefone é desdobrado e precisa ser reiniciado para voltar ao normal.</string>
     <string name="remain">Restante: %s</string>
     <string name="replace">Substituir</string>
     <string name="resolver_app_recommend_flag">Recomendado</string>
