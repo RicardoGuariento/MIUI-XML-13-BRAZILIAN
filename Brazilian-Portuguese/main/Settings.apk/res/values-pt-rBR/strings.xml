@@ -4067,7 +4067,8 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="gxzw_vibrate_title">Vibrar ao desbloquear</string>
     <string name="handy_mode">Modo para uma mão</string>
     <string name="handy_mode_enable">Modo para uma mão</string>
-    <string name="handy_mode_no_touch_assistant">"O modo de uma mão só funcionará se você estiver usando botões para navegação do sistema. Você pode alternar entre gestos e botões na seção \"Navegação do sistema\" das configurações."</string>
+    <string name="handy_mode_hint">O modo para uma mão só está disponível na tela externa</string>
+    <string name="handy_mode_no_touch_assistant">"O modo para uma mão só funcionará se você estiver usando botões para navegação do sistema. Você pode alternar entre gestos e botões na seção \"Navegação do sistema\" das configurações."</string>
     <string name="handy_mode_size">Tamanho da tela</string>
     <string name="handy_mode_tips">Deslize para a esquerda ou direita à partir do botão Inicial para puxar a tela mais perto do lado deslizado.</string>
     <string name="handy_mode_tips_full_screen">Quando você está usando os Gestos em Tela cheia, você pode ativar o Modo para uma mão usando o Menu de Acesso rápido. Você também pode voltar a usar os botões no lugar dos Gestos em Tela cheia.</string>
@@ -6434,11 +6435,11 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
     <string name="one_handed_action_pull_down_screen_title">Puxe a tela para o alcance</string>
     <string name="one_handed_action_show_notification_summary">Notificações e configurações aparecerão.</string>
     <string name="one_handed_action_show_notification_title">Mostrar notificações</string>
-    <string name="one_handed_mode_enabled">Use o modo de uma mão</string>
-    <string name="one_handed_mode_intro_text">Para usar o modo de um mão, deslize para baixo da borda inferior da tela. Para usar esse recurso, certifique-se de que a navegação de gestos seja ativada nas configurações de navegação do sistema.</string>
+    <string name="one_handed_mode_enabled">Use o modo para uma mão</string>
+    <string name="one_handed_mode_intro_text">Para usar o modo para uma mão, deslize para baixo da borda inferior da tela. Para usar esse recurso, certifique-se de que a navegação de gestos seja ativada nas configurações de navegação do sistema.</string>
     <string name="one_handed_mode_swipe_down_category">Deslize para baixo para</string>
     <string name="one_handed_mode_use_shortcut_category">Use o atalho para</string>
-    <string name="one_handed_title">Modo de uma mão</string>
+    <string name="one_handed_title">Modo para uma mão</string>
     <string name="one_key_migrate_record">Transferir para %1$s</string>
     <string name="one_usercrt">um certificado de usuário</string>
     <string name="one_userkey">uma chave de usuário</string>
@@ -7704,7 +7705,7 @@ Para usar a fixação de apps: \u0009
     <string name="search_gesture_wakeup_title">Dois toques na tela para ligá-la;Dois toques para ligar tela;Ligar tela;Dois toques na tela;Dois toques</string>
     <string name="search_gmscore_settings_title">Google;Serviços básicos do Google;GMS;Gmail</string>
     <string name="search_gps">GPS;Acesso à localização;Serviços de localização</string>
-    <string name="search_handy_mode">Modo para uma mão;Modo de uma mão;Uma mão;Mãos pequenas</string>
+    <string name="search_handy_mode">Modo para uma mão;Modo para uma mão;Uma mão;Mãos pequenas</string>
     <string name="search_hint">Pesquisar nas Configurações</string>
     <string name="search_home_key">Início;Botão Início;Botão inicio</string>
     <string name="search_input_hint">Pesquisar nas Configurações</string>
@@ -10198,6 +10199,7 @@ Leia a política de privacidade do seu provedor de serviços."</string>
     <string name="wifi_ap_5G">"5GHz"</string>
     <string name="wifi_ap_band_config">Banda</string>
     <string name="wifi_ap_band_select_one">Escolha pelo menos uma banda para o ponto de acesso Wi-Fi:</string>
+    <string name="wifi_ap_choose">"%1$sGHz"</string>
     <string name="wifi_ap_choose_2G">"2.4GHz"</string>
     <string name="wifi_ap_choose_5G">"5GHz"</string>
     <string name="wifi_ap_choose_auto">Automático</string>

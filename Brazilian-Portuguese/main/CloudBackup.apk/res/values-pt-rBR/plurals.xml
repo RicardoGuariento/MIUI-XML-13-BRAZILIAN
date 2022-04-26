@@ -29,6 +29,10 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 min atrás</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">"Você não fez backup de itens há %s semanas. Crie backups para evitar perder arquivos importantes."</item>
+        <item quantity="one">"Você não fez backup de itens há %s semana. Crie backups para evitar perder arquivos importantes."</item>
+    </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s backups (%2$s)</item>
         <item quantity="one">%1$s backup (%2$s)</item>

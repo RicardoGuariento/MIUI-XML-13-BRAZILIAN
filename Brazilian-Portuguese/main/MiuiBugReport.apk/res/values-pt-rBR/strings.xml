@@ -93,6 +93,7 @@
     <string name="catch_full_log_category">Tipos de registro</string>
     <string name="catch_full_log_dialog_confirm_text">Ir à Tela inicial</string>
     <string name="catch_full_log_dialog_content">Isto pode afetar o desempenho geral do seu dispositivo. Se você não puder reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
+    <string name="catch_full_log_dialog_content_pad">Isto pode afetar o desempenho geral do seu dispositivo. Se você não puder reproduzir o problema que deseja reportar, volte aos logs e toque em \"Cancelar\".</string>
     <string name="catch_full_log_dialog_title">Gerando logs…</string>
     <string name="catch_full_log_dump_hprof_failed">Não foi possível gerar o log de lentidão</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Volte para o recurso que deseja reportar e reproduza o problema.
@@ -116,11 +117,13 @@
     <string name="catch_full_log_notification_content">Toque para voltar aos logs</string>
     <string name="catch_full_log_notification_title">Gerando log…</string>
     <string name="catch_full_log_privacy_content_audio">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações sobre áudios no seu dispositivo, incluindo um histórico de reproduções e de gravações. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
+    <string name="catch_full_log_privacy_content_audio_pad">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações sobre áudios no seu dispositivo, incluindo um histórico de reproduções e de gravações. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
     <string name="catch_full_log_privacy_content_bt">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações de uso de dispositivos Bluetooth (incluindo histórico de chamadas, mensagens, arquivos transferidos, etc.). Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você estará concordando que iremos coletar os dados acima durante a geração dos logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
     <string name="catch_full_log_privacy_content_camera">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações de uso da câmera (incluindo frequência da CPU, chamada do sistema, uso de memória, etc.). Tenha cuidado e não revele esses logs a outras pessoas. Ao tocar em \"Aceitar\" abaixo, você concorda que coletaremos os dados acima enquanto geramos logs e, em seguida, faremos upload dos logs para nossos servidores para localizar e resolver os problemas relatados."</string>
     <string name="catch_full_log_privacy_content_charge">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações de carregamento. Tenha cuidado e não revele esses logs a outras pessoas. Ao tocar em \"Aceitar\" abaixo, você concorda que coletaremos os dados acima enquanto geramos logs e, em seguida, faremos upload dos logs para nossos servidores para localizar e resolver os problemas relatados."</string>
     <string name="catch_full_log_privacy_content_gps">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas informações pessoais e informações de localização. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
     <string name="catch_full_log_privacy_content_sensor">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações coletadas pelos sensores do seu dispositivo (incluindo o sensor de luz ambiente, barômetro, pedômetro, magnetômetro, etc). Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
+    <string name="catch_full_log_privacy_content_sensor_pad">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter informações coletadas pelos sensores do seu dispositivo (incluindo o sensor de luz ambiente, barômetro, pedômetro, magnetômetro, etc). Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
     <string name="catch_full_log_privacy_content_signal">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas mensagens, histórico de chamadas, informações de rede e dados de comunicações. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você estará concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
     <string name="catch_full_log_privacy_content_trace">"Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter estatísticas de uso do app (incluindo frequência da CPU, chamada do sistema, uso de memória, etc.). Tenha cuidado e não revele esses logs a outras pessoas. Ao tocar em \"Aceitar\" abaixo, você concorda que coletaremos os dados acima enquanto geramos logs e, em seguida, faremos upload dos logs para nossos servidores para localizar e resolver os problemas relatados."</string>
     <string name="catch_full_log_privacy_content_wifi">Você está gerando logs e salvando-os em seu dispositivo. Os logs podem conter suas informações pessoais, informações de localização, assim como endereços MAC ou IP do seu dispositivo. Se você estiver conectado a uma rede Wi-Fi sem segurança, também poderemos acessar parte dos seus dados de comunicação. Tenha cuidado e não divulgue estes logs para outras pessoas. Ao tocar em \"Aceitar\" abaixo, você está concordando que iremos coletar os dados acima enquanto gerarmos os logs, e os enviaremos para nossos servidores para localizar e corrigir os problemas reportados.</string>
@@ -167,7 +170,6 @@ Envie este código ao supervisor."</string>
     <string name="doing_query_account">Verificando informações da conta…</string>
     <string name="doing_register">Criando conta…</string>
     <string name="early_morning">"AM"</string>
-    <string name="empty" />
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="err_type">Tipo de problema</string>
@@ -247,7 +249,7 @@ Envie este código ao supervisor."</string>
     <string name="feedback_package_log_failed">Não foi possível compactar os logs</string>
     <string name="feedback_remind_login_btn">Fazer login</string>
     <string name="feedback_report_remind_login_desc">Faça o login com sua Conta Mi para que nossos engenheiros possam entrar em contato com você.</string>
-    <string name="feedback_report_remind_login_desc2">Você poderá ainda ver o progresso de seus relatórios de erro em \"Meus relatórios\".</string>
+    <string name="feedback_report_remind_login_desc2">Você poderá ainda ver o progresso de seus relatórios de erro em Meus feedback.</string>
     <string name="feedback_reproductivity_everytime">Sempre</string>
     <string name="feedback_reproductivity_occasionally">Ocasionalmente</string>
     <string name="feedback_reproductivity_often">Frequentemente</string>
@@ -292,7 +294,7 @@ Envie este código ao supervisor."</string>
     <string name="feedback_submit_failed_notification_title">Não foi possível enviar o relatório</string>
     <string name="feedback_submit_hint">Reporte bugs sempre que os encontrar para nos ajudar a resolvê-los rapidamente.</string>
     <string name="feedback_submit_hint1">Nós iremos notificá-lo de qualquer progresso em seu relatório</string>
-    <string name="feedback_submit_hint2">Vá para \"Meus relatórios\" para ver mais detalhes</string>
+    <string name="feedback_submit_hint2">Vá para Meus feedback, para ver mais detalhes</string>
     <string name="feedback_submit_hint_gone">Mensagem fechada</string>
     <string name="feedback_submit_succ">Enviado com sucesso</string>
     <string name="feedback_submit_succ_button">Concluído</string>
@@ -376,6 +378,7 @@ Envie este código ao supervisor."</string>
     <string name="kr_authorization_log_protocol_desc">Para melhorar os serviços fornecidos para você, vamos fazer o upload de estatísticas de uso e logs do sistema para nossos servidores. Estes itens podem conter informações pessoais, assim como informações sobre o seu dispositivo e redes acessadas. Usaremos as informações para nos ajudar a localizar e analisar problemas no sistema.</string>
     <string name="kr_authorization_phone">Telefone</string>
     <string name="kr_authorization_phone_desc">Para acessar o modelo do dispositivo, IMEI e ID do dispositivo para localizar e corrigir problemas</string>
+    <string name="kr_authorization_phone_desc_pad">Para acessar o modelo do dispositivo, IMEI e ID do dispositivo para localizar e corrigir problemas</string>
     <string name="kr_authorization_privacy_policy">Política de Privacidade (obrigatório)</string>
     <string name="kr_authorization_select_all">Selecionar tudo</string>
     <string name="kr_authorization_storage">Armazenamento</string>

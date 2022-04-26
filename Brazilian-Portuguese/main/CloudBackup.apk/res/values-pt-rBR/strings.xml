@@ -45,6 +45,8 @@
     <string name="backup_action_buy_cloud_space">Obtenha mais espaço de armazenamento</string>
     <string name="backup_action_check_network">Verifique as configurações de rede</string>
     <string name="backup_action_clean_disk_space">Liberar espaço</string>
+    <string name="backup_action_long_time_not_backup_action">"Backups"</string>
+    <string name="backup_action_long_time_not_backup_title">Nenhum backup recente</string>
     <string name="backup_action_no_space_with_wechat_off_content">Não há espaço de armazenamento em nuvem suficiente para fazer backup de itens deste dispositivo.Toque para ver as opções de armazenamento em nuvem disponíveis para você.</string>
     <string name="backup_action_no_space_with_wechat_off_title">"Não foi possível fazer backup de itens"</string>
     <string name="backup_action_no_space_with_wechat_on_content">Não há espaço de armazenamento em nuvem suficiente para fazer backup de dados WeChat. Atualize seu plano de armazenamento para fazer backup de itens.</string>
@@ -209,10 +211,18 @@ Por favor, envie este código para o técnico."</string>
     <string name="dialog_cancel_backup_msg">Alternar o botão cancelará os backups em andamento.</string>
     <string name="dialog_cancel_backup_title">Cancelar o backup em andamento?</string>
     <string name="dialog_cloud_space_not_enough">Este backup requer %1$s de espaço de armazenamento na MiCloud. Atualize seu plano de armazenamento para fazer backup de itens</string>
+    <string name="dialog_content_cancel_backup">Os dados já carregados serão perdidos se você cancelar o backup. Cancelar?</string>
+    <string name="dialog_content_cancel_restore">Os dados já restaurados serão retidos se você parar de restaurar. Parar de restaurar?</string>
     <string name="dialog_msg_overwrite_backup">O backup local é diferente do existente na MiCloud. Se você continuar, o backup atual substituirá o anterior.</string>
     <string name="dialog_msg_restore_require_wlan">A restauração de backups requer uma conexão Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">A restauração de backups requer uma conexão de rede sem fio.</string>
     <string name="dialog_need_permission">Permissões necessárias</string>
+    <string name="dialog_negative_btn_cancel_backup">Cancelar</string>
+    <string name="dialog_negative_btn_cancel_restore">Parar</string>
+    <string name="dialog_positive_btn_cancel_backup">"Continuar"</string>
+    <string name="dialog_positive_btn_cancel_restore">"Continuar"</string>
+    <string name="dialog_title_cancel_backup">Cancelar backup</string>
+    <string name="dialog_title_cancel_restore">Parar de restaurar</string>
     <string name="dialog_title_require_wlan">Conecte-se ao Wi-Fi</string>
     <string name="dialog_title_require_wlan_china">Conectar-se ao Wi-Fi</string>
     <string name="dialog_wechat_data_close_agree">Continuar</string>

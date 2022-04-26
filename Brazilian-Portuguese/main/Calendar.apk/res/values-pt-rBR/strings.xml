@@ -365,7 +365,7 @@
     <string name="holidays_title">Feriados</string>
     <string name="horoscope">Horóscopo</string>
     <string name="horoscope_card_title">Horóscopo de hoje</string>
-    <string name="horoscope_partner">distribuído por Staqu</string>
+    <string name="horoscope_partner" />
     <string name="horoscope_select_activity_label">Selecionar signo do zodíaco</string>
     <string name="image_processing">A imagem ainda não está pronta</string>
     <string name="import_action">Importar</string>
