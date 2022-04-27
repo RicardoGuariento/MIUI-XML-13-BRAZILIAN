@@ -2894,6 +2894,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="device_info_default">Desconhecido</string>
     <string name="device_info_not_available">Não disponível</string>
     <string name="device_internal_memory">Armazenamento interno</string>
+    <string name="device_mall_card_title">Confira os benefícios disponíveis</string>
     <string name="device_memory">"RAM"</string>
     <string name="device_miui_more">Ver mais</string>
     <string name="device_miui_version">Versão da MIUI</string>
@@ -3526,8 +3527,8 @@ Reinicie o seu dispositivo e tente novamente."</string>
     <string name="face_data_siggesstion_next_time">Próximo (%ds)</string>
     <string name="face_data_siggesstion_next_time_cn">"OK (%ds)"</string>
     <string name="face_data_suggesstion_first">O desbloqueio facial é menos seguro do que um PIN, senha ou padrão de desbloqueio. Seu dispositivo pode ser desbloqueado com uma foto sua, ou até mesmo por pessoas ou objetos com uma aparência similar.</string>
-    <string name="face_data_suggesstion_first_cn">"Para você poder usar o desbloqueio facial, precisamos coletar seus dados do rosto. Os dados do rosto serão armazenados localmente neste dispositivo. Para excluí-lo, procure por \"Desbloqueio facial\" nas Configurações e selecione Desbloqueio Facial > Dados faciais.
-O desbloqueio de rosto é menos seguro do que usar um PIN, senha ou padrão. Seu dispositivo pode ser desbloqueado com sua foto, bem como por pessoas ou objetos com uma aparência semelhante."</string>
+    <string name="face_data_suggesstion_first_cn">Para que você possa usar o desbloqueio facial, precisamos coletar seus dados faciais, que serão armazenados localmente neste dispositivo. Para excluí-lo, procure por Desbloqueio facial nas Configurações e selecione Desbloqueio facial > Dados faciais.</string>
+    <string name="face_data_suggesstion_first_cn_highlight">O desbloqueio facial é menos seguro do que um PIN, senha ou padrão. Seu dispositivo pode ser desbloqueado com sua foto, assim como por pessoas ou objetos com aparência semelhante a sua.</string>
     <string name="face_data_suggesstion_second">Certifique-se de que todas as partes do seu rosto estão claramente visíveis. Não use acessórios que possam cobrir seu rosto. Mantenha seu rosto uniformemente iluminado e evite a luz direta.</string>
     <string name="face_intro_error_max">Você adicionou o número máximo de rostos</string>
     <string name="face_intro_error_unknown">Não é possível adicionar mais rostos</string>
@@ -4047,7 +4048,7 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="gxzw_anim_star">Luz das estrelas</string>
     <string name="gxzw_anim_title">Animação da impressão digital</string>
     <string name="gxzw_anim_unlock_effect">Animação da impressão digital: %s</string>
-    <string name="gxzw_aod_show_summary">Levante o dispositivo ou toque na tela para fazer o ícone de impressão digital aparecer. Este recurso aumenta o consumo de energia do sistema.</string>
+    <string name="gxzw_aod_show_summary">Levante o dispositivo ou toque na tela para fazer o ícone de impressão digital aparecer. Este recurso aumenta o consumo de energia do sistema, mas permite desbloquear o dispositivo rapidamente</string>
     <string name="gxzw_aod_show_tittle">Mostrar ícone de impressão digital quando a tela estiver desligada</string>
     <string name="gxzw_dialog_message">Para usar o sensor de impressões digitais na tela normalmente, não use protetores de tela. Se você acredita que protetor de tela é necessário, escolha entre opções autorizadas compatíveis.</string>
     <string name="gxzw_dialog_not_show_again">Não mostrar novamente</string>
@@ -6068,6 +6069,8 @@ Selecione seu sistema operacional:"</string>
     <string name="networks_title">Redes móveis</string>
     <string name="never">Nunca</string>
     <string name="new_backup_pw_prompt">Digite uma nova senha para backups completos aqui</string>
+    <string name="new_fingerprint_to_new_face_dialog_msg">Para poder usar o desbloqueio facial, primeiro adicione os dados faciais. Adicionar?</string>
+    <string name="new_fingerprint_to_new_face_dialog_tittle">Adicionar dados faciais</string>
     <string name="new_device_suggestion_summary">Faça um tour pelo seu novo telefone</string>
     <string name="new_device_suggestion_title">O que há de novo e empolgante?</string>
     <string name="new_password_to_new_fingerprint_dialog_msg">Adicione sua impressão digital para desbloquear seu telefone com ela.</string>

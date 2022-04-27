@@ -869,6 +869,7 @@ Falha no teste!"</string>
     <string name="mic_volume_low_tip">O teste de volume do Microfone não passou. Faça um som mais alto ao gravar</string>
     <string name="motor_calibration">Calibração do motor</string>
     <string name="mtb_tool_modem_cdma_manager">Gerenciador CDMA Cap</string>
+    <string name="mtb_tool_modem_user_panel">Painel do usuário</string>
     <string name="nfc_disable_tip">Por favor, ative a função NFC</string>
     <string name="nfc_not_available">NFC indisponível</string>
     <string name="no_vibrator">Sem vibração</string>
