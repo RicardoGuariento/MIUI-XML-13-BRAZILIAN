@@ -4412,7 +4412,7 @@ Retirar consentimento agora?"</string>
     <string name="special_perm_intercept_file_title">Acessar e editar arquivos pelo computador</string>
     <string name="special_perm_intercept_install_msg">Instala apps sem a sua permissão</string>
     <string name="special_perm_intercept_install_title">Instalar apps</string>
-    <string name="special_perm_intercept_note_msg">Incluindo financeiros ou com informação de contas</string>
+    <string name="special_perm_intercept_note_msg">Incluindo informações financeiras ou de contas</string>
     <string name="special_perm_intercept_note_title">Ler todos os SMS</string>
     <string name="special_perm_intercept_psd_msg">Altera, monitora e controla o seu bloqueio de tela</string>
     <string name="special_perm_intercept_psd_title">Monitorar e controlar o bloqueio de tela</string>
