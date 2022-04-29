@@ -196,7 +196,7 @@
     <string name="miplay_accessibility_seekbar">Barra de progresso</string>
     <string name="miplay_accessibility_volume">"Volume"</string>
     <string name="miplay_detail_divider_title">TVs e alto-falantes</string>
-    <string name="miplay_detail_header_no_song">Sem histórico de reprodução</string>
+    <string name="miplay_detail_header_no_song">Sem histórico</string>
     <string name="miplay_device_full_name">%2$s do(a) %1$s</string>
     <string name="miplay_headset_lc3_hint">Desative o LC3 para poder alterar a saída de áudio para este dispositivo</string>
     <string name="miplay_service_timeout_toast">A conexão expirou. Tente novamente.</string>
@@ -373,7 +373,7 @@
     <string name="quick_settings_hang_label">Janelas flutuantes</string>
     <string name="quick_settings_hang_on">Agora você pode usar as janelas flutuantes</string>
     <string name="quick_settings_hotspot_label">Ponto de acesso</string>
-    <string name="quick_settings_location_label">Localização</string>
+    <string name="quick_settings_location_label">GPS</string>
     <string name="quick_settings_more_settings">Mais configurações</string>
     <string name="quick_settings_mute_label">Silencioso</string>
     <string name="quick_settings_nightmode_label">Modo escuro</string>

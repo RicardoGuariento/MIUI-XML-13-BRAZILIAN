@@ -2304,8 +2304,8 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="quick_settings_ime_label">Método de entrada</string>
     <string name="quick_settings_internet_label">"Internet"</string>
     <string name="quick_settings_inversion_label">Inverter cores</string>
-    <string name="quick_settings_location_label">Localização</string>
-    <string name="quick_settings_location_off_label">Localização desativada</string>
+    <string name="quick_settings_location_label">GPS</string>
+    <string name="quick_settings_location_off_label">GPS desativado</string>
     <string name="quick_settings_media_device_label">Dispositivo de mídia</string>
     <string name="quick_settings_mic_label">Acessar o microfone</string>
     <string name="quick_settings_midrop_label">ShareMe</string>
