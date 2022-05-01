@@ -1641,7 +1641,7 @@ d 'de' MMMM"</string>
     <string name="miui_notification_menu_msg_not_allow">Restringir todas as notificações de %1$s?</string>
     <string name="miui_notification_menu_msg_unfold">Exibir notificações de %1$s separadamente?</string>
     <string name="miui_notification_menu_setting_success">Concluído</string>
-    <string name="miui_notification_menu_snooze">Soneca</string>
+    <string name="miui_notification_menu_snooze">Suspender</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
     <string name="miui_notification_menu_unfold">Marque como importante</string>
     <string name="miui_ringer_count_down">Contagem regressiva</string>
