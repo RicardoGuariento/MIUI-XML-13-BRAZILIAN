@@ -767,7 +767,7 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="personalize">Personalização</string>
     <string name="personalize_alarm_ringtone_title">Alarmes</string>
-    <string name="personalize_aod_title">AOD</string>
+    <string name="personalize_aod_title">"AOD"</string>
     <string name="personalize_call_ringtone_title">Toques</string>
     <string name="personalize_charge_style_title">Carregando</string>
     <string name="personalize_default_font">Fonte padrão</string>
@@ -1340,7 +1340,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="theme_comment_dialog_ok">Análise</string>
     <string name="theme_comment_sub_comment_bar_hint">Compartilhe suas ideias com a comunidade</string>
     <string name="theme_community">Comunidade</string>
-    <string name="theme_component_aod">Tela sempre ativa</string>
+    <string name="theme_component_aod">"AOD"</string>
     <string name="theme_component_icon">Ícones</string>
     <string name="theme_component_title_alarm">Alarmes</string>
     <string name="theme_component_title_alarmstyle">Estilo do alarme</string>
