@@ -529,8 +529,8 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_setting_contact_summary">Contatos e fotos de perfil</string>
     <string name="micloud_setting_gallery_summary">Fotos e vídeos</string>
     <string name="micloud_setting_music_summary">Playlists e favoritos</string>
-    <string name="micloud_setting_notes_summary">Anotações</string>
-    <string name="micloud_setting_notes_summary_v2">Anotações</string>
+    <string name="micloud_setting_notes_summary">Notas</string>
+    <string name="micloud_setting_notes_summary_v2">Notas</string>
     <string name="micloud_setting_personal_assistant_summary">Cartões e recursos do Assistente</string>
     <string name="micloud_setting_phrase_summary">Frases frequentes</string>
     <string name="micloud_setting_recorder_summary">Gravações de áudio e de chamadas</string>

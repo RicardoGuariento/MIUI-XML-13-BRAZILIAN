@@ -560,7 +560,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="notes_hint">Toque para adicionar uma tarefa</string>
     <string name="notes_reminders_channel">Lembretes de anotações</string>
     <string name="notes_settings_summary">Adicione suas tarefas diárias e anotações na Agenda</string>
-    <string name="notes_title">Anotações</string>
+    <string name="notes_title">Notas</string>
     <string name="notes_week_name_five">%1$s, %2$s, %3$s, %4$s, e %5$s</string>
     <string name="notes_week_name_four">%1$s, %2$s, %3$s, e %4$s</string>
     <string name="notes_week_name_seven">%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, e %7$s</string>
@@ -712,7 +712,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="setting_about_summary">"Versão: "</string>
     <string name="setting_accounts">Contas de agenda</string>
     <string name="setting_change_language">Selecionar idioma da Agenda</string>
-    <string name="setting_desc_import_todo">Importe tarefas agendadas das Anotações</string>
+    <string name="setting_desc_import_todo">Importe tarefas agendadas das Notas</string>
     <string name="setting_features_title">Configuração de funções</string>
     <string name="setting_holiday_display_desc">Cartões de feriado são exibidos abaixo de sua agenda na página inicial</string>
     <string name="setting_holiday_reminder">Lembrete de feriado</string>

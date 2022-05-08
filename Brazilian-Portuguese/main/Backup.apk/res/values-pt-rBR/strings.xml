@@ -517,7 +517,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="noon">"PM"</string>
     <string name="not_enough_storage_tips">Espaço de armazenamento insuficiente. Libere espaço e tente novamente.</string>
     <string name="not_set">Não definido</string>
-    <string name="note_title">Anotações</string>
+    <string name="note_title">Notas</string>
     <string name="nothing_searched">Nenhum resultado.</string>
     <string name="notif_backup_complete_title">Backup concluído com sucesso</string>
     <string name="notif_backup_content">Fazendo backup dos dados</string>
@@ -671,7 +671,7 @@ Libere pelo menos %s."</string>
     <string name="select_item_calendar">Agenda</string>
     <string name="select_item_contacts">Contatos</string>
     <string name="select_item_empty_summary">Nenhum item</string>
-    <string name="select_item_notes">Anotações</string>
+    <string name="select_item_notes">Notas</string>
     <string name="select_item_photos">Fotos</string>
     <string name="select_item_summary_loading">Carregando dados…</string>
     <string name="select_item_summary_wait">Aguardando…</string>

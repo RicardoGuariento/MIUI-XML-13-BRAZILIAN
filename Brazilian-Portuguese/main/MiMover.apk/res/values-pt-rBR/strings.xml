@@ -505,7 +505,7 @@ Abra o WeChat e vá em Eu &gt; Configurações &gt; Geral &gt; Backup &gt; Migra
     <string name="not_support_data_summary3">"Devido a restrições do sistema, os itens do segundo espaço não podem ser transferidos usando o Mi Mover."</string>
     <string name="not_support_data_summary4">"Dual apps e seus dados também não podem ser transferidos. No entanto, você pode transferir apps principais correspondentes."</string>
     <string name="not_support_data_title">"Itens que não podem ser transferidos"</string>
-    <string name="note">Anotações</string>
+    <string name="note">Notas</string>
     <string name="nothing_chosen">Selecione itens primeiro</string>
     <string name="notif_icloud_canceled_summary">Cancelado</string>
     <string name="notif_icloud_canceling_summary">Cancelando…</string>

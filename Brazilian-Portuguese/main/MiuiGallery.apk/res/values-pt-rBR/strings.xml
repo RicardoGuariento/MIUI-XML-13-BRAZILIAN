@@ -139,7 +139,7 @@
     <string name="album_name_people">Pessoas</string>
     <string name="album_name_recent_discovery">Recente</string>
     <string name="album_name_tags">"Tags"</string>
-    <string name="album_notes">Anotações</string>
+    <string name="album_notes">Notas</string>
     <string name="album_other_page_title">Outros álbuns</string>
     <string name="album_others_share_baby_info_format">Álbum do bebê de %s</string>
     <string name="album_others_share_info_format">De %s</string>
@@ -1671,11 +1671,11 @@ para personalizar a Galeria"</string>
     <string name="ocr_entrance">Reconhecer texto</string>
     <string name="ocr_no_network">Não foi possível conectar-se à rede</string>
     <string name="ocr_no_text_recognized">Não foi possível encontrar textos para reconhecer</string>
-    <string name="ocr_note_not_existed">Instale o app Anotações primeiro</string>
+    <string name="ocr_note_not_existed">Instale o app Notas primeiro</string>
     <string name="ocr_ongoing">Reconhecendo o texto…</string>
     <string name="ocr_revise">Revisar</string>
     <string name="ocr_save_to_note">Salvar</string>
-    <string name="ocr_save_to_note_new">Salvar em Anotações</string>
+    <string name="ocr_save_to_note_new">Salvar em Notas</string>
     <string name="ocr_send">Compartilhar</string>
     <string name="ocr_text_copied">Copiado com sucesso</string>
     <string name="ocr_title">Resultado</string>

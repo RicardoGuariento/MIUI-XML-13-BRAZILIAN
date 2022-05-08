@@ -6560,7 +6560,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="page_layout_32">"Play Store"</string>
     <string name="page_layout_33">"Google"</string>
     <string name="page_layout_34">Telefone</string>
-    <string name="page_layout_35">Anotações</string>
+    <string name="page_layout_35">Notas</string>
     <string name="page_layout_4">Música</string>
     <string name="page_layout_5">Vídeo</string>
     <string name="page_layout_6">"Apps"</string>
@@ -6997,7 +6997,7 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="privacy_mode_dialog_title">Modo convidado</string>
     <string name="privacy_mode_enable_sum">Ocultar mensagens, anotações, fotos, configurações e registros de chamadas</string>
     <string name="privacy_mode_enable_title">Modo convidado</string>
-    <string name="privacy_notes">Anotações</string>
+    <string name="privacy_notes">Notas</string>
     <string name="privacy_password">Senha de Proteção de Privacidade</string>
     <string name="privacy_password_add_account">Adicionar</string>
     <string name="privacy_password_add_account_info">Adicione uma Conta Mi para redefinir sua senha caso a esqueça</string>

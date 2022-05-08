@@ -1103,7 +1103,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_ringtone_default">Toques</string>
     <string name="resource_ringtone_playing_error">Erro</string>
     <string name="resource_ringtone_volume_mute">Toque silenciado</string>
-    <string name="resource_save_to_note">Salvar nas Anotações</string>
+    <string name="resource_save_to_note">Salvar em Notas</string>
     <string name="resource_search_color_hint_blue">Azul</string>
     <string name="resource_search_color_hint_green">Verde</string>
     <string name="resource_search_color_hint_orange">Laranja</string>

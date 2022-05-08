@@ -327,7 +327,7 @@
     <string name="call_work">Ligar para trabalho</string>
     <string name="call_work_mobile">Ligar para celular comercial</string>
     <string name="call_work_pager">Ligar para pager comercial</string>
-    <string name="calllog_call_note_menu">Anotações de chamada</string>
+    <string name="calllog_call_note_menu">Notas de chamada</string>
     <string name="calllog_call_record_menu">Chamadas gravadas</string>
     <string name="calllog_menu_blacklist">Bloquear</string>
     <string name="calllog_menu_edit_before_call">Editar</string>
@@ -415,7 +415,7 @@
     <string name="contact_clear_search_history">Limpar histórico</string>
     <string name="contact_delete_toast">Contato excluído com sucesso</string>
     <string name="contact_detail_action_item_calllog">Histórico de chamadas</string>
-    <string name="contact_detail_calllog_call_note_tips">Anotações</string>
+    <string name="contact_detail_calllog_call_note_tips">Notas</string>
     <string name="contact_detail_calllog_call_record_tips">Chamada gravada</string>
     <string name="contact_detail_calllog_correct_yellow_page">Corrigir ou reportar</string>
     <string name="contact_detail_calllog_empty">Nenhum registro</string>
@@ -760,7 +760,7 @@ Motivo: \"%s\""</string>
     <string name="keep_local_btn">Usar armazenamento interno do dispositivo</string>
     <string name="label_custom_type">Personalizado</string>
     <string name="label_no_duplicate_contacts">Nenhum contato duplicado</string>
-    <string name="label_notes">Anotações</string>
+    <string name="label_notes">Notas</string>
     <string name="label_sip_address">Chamada pela internet</string>
     <string name="launcherDialer">Telefone</string>
     <string name="listCustomView">Contatos na exibição personalizada</string>
@@ -1333,7 +1333,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="time_picker_label_minute">M</string>
     <string name="titleJoinContactDataWith">Unir contatos</string>
     <string name="toast_call_no_SoundRecorder">O Gravador não está disponível</string>
-    <string name="toast_call_no_notes">O app Anotações não está disponível</string>
+    <string name="toast_call_no_notes">O app Notas não está disponível</string>
     <string name="toast_copy_done">Concluído</string>
     <string name="toast_copying">Copiando…</string>
     <string name="toast_displaying_all_contacts">Exibindo todos os contatos</string>

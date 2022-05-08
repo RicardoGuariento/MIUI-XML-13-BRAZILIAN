@@ -1159,7 +1159,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Mensagens</item>
         <item>Fotos</item>
         <item>Arquivos</item>
-        <item>Anotações</item>
+        <item>Notas</item>
     </string-array>
     <string-array name="proc_stats_memory_states">
         <item>"Normal"</item>

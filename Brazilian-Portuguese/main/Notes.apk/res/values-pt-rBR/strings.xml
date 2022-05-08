@@ -57,10 +57,10 @@
     <string name="all_folder_name">Todas as anotações</string>
     <string name="all_terms">%1$s e %2$s</string>
     <string name="am">"AM"</string>
-    <string name="app_name">Anotações</string>
-    <string name="app_notification_info">O app Anotações está executando em segundo plano</string>
-    <string name="app_widget">Anotações</string>
-    <string name="app_widget_name_new">Anotações</string>
+    <string name="app_name">Notas</string>
+    <string name="app_notification_info">O app Notas está executando em segundo plano</string>
+    <string name="app_widget">Notas</string>
+    <string name="app_widget_name_new">Notas</string>
     <string name="application_icon">Ícone do app</string>
     <string name="audio_btn_mode_meeting">Reunião</string>
     <string name="audio_btn_mode_single">Uma pessoa</string>
@@ -121,7 +121,7 @@
     <string name="brush_Sponge">Esponja</string>
     <string name="brush_WaterColor">Aquarela</string>
     <string name="btn_next">Próximo</string>
-    <string name="call_folder_name">Anotações de chamada</string>
+    <string name="call_folder_name">Notas de chamada</string>
     <string name="cancel_alarm_description">Cancelar alarme</string>
     <string name="canvas_is_too_large_to_share">Este item é muito grande para compartilhar</string>
     <string name="canvas_is_too_large_to_share_phone">Este item é muito grande para compartilhar</string>
@@ -132,7 +132,7 @@
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
-    <string name="cloud_trash_bin_title">Anotações excluídas na nuvem</string>
+    <string name="cloud_trash_bin_title">Notas excluídas da nuvem</string>
     <string name="confirm_cancel">Rejeitar</string>
     <string name="confirm_ok">Aceitar</string>
     <string name="continuous_default_hint">Copiar texto, salvar imagens e capturas de tela como excertos</string>
@@ -141,12 +141,12 @@
     <string name="cta_agree_desc">Permita que este app conecte-se à Internet e conceda as permissões opcionais para poder usar todos os seus recursos.</string>
     <string name="cta_confirm_cancel">Não permitir</string>
     <string name="cta_confirm_ok">Permitir</string>
-    <string name="cta_dialog_message">O app Anotações precisa de permissões para conectar-se à Internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
+    <string name="cta_dialog_message">O app Notas precisa de permissões para conectar-se à Internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
     <string name="cta_dialog_title">Permissões necessárias</string>
-    <string name="cta_reminder">O app Anotações precisa de permissões para conectar-se à Internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
+    <string name="cta_reminder">O app Notas precisa de permissões para conectar-se à Internet, gravar áudio, e acessar seus contatos para funcionar normalmente. Permitir?</string>
     <string name="cta_v2_agree_desc">Permita que este app conecte-se à Internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="cta_v2_app_purpose">Criação, visualização e gerenciamento de anotações</string>
-    <string name="cta_v2_app_purpose_v12">Bem-vindo às Anotações! Você pode usar este app para criar tarefas e anotações que contenham texto, imagens e áudio.</string>
+    <string name="cta_v2_app_purpose_v12">Bem-vindo às Notas! Você pode usar este app para criar tarefas e anotações que contenham texto, imagens e áudio.</string>
     <string name="data_empty_folder">Nenhuma outra pasta para exibir</string>
     <string name="data_empty_note">Nenhuma anotação aqui ainda</string>
     <string name="data_empty_todo">Nenhuma tarefa aqui ainda</string>
@@ -160,7 +160,7 @@
     <string name="date_time_picker_has_not_set_alarm">O alarme não foi definido</string>
     <string name="date_time_picker_has_set_alarm">Alarme definido com sucesso</string>
     <string name="db_downgrade_clear_button">Limpar dados do app</string>
-    <string name="db_downgrade_clear_date_reminder">Mudar para uma versão diferente da MIUI requer a limpeza dos dados do app Anotações. Antes de fazer isso, certifique-se de que você fez o backup de suas anotações na nuvem.</string>
+    <string name="db_downgrade_clear_date_reminder">Mudar para uma versão diferente da MIUI requer a limpeza dos dados do app Notas. Antes de fazer isso, certifique-se de que você fez o backup de suas anotações na nuvem.</string>
     <string name="default_folder_name">Pasta sem nome</string>
     <string name="default_update_documents">Atualização disponível. Atualizar agora?</string>
     <string name="delete_folder_dialog_tile">Excluir pasta</string>
@@ -243,7 +243,7 @@
     <string name="error_hide_empty_note">Não é possível ocultar uma anotação vazia</string>
     <string name="error_icon_content_description">Erro</string>
     <string name="error_note_empty_for_clock">Não é possível definir lembrete para uma anotação vazia</string>
-    <string name="error_note_empty_for_send_to_desktop">Anotações vazias não podem ser colocadas na Tela inicial</string>
+    <string name="error_note_empty_for_send_to_desktop">Notas vazias não podem ser colocadas na Tela inicial</string>
     <string name="error_note_not_exist">A anotação não existe</string>
     <string name="error_send_empty_note">Não é possível enviar uma anotação vazia</string>
     <string name="error_send_empty_note_to_weibo">Não é possível enviar uma anotação vazia para o Weibo</string>
@@ -253,16 +253,16 @@
     <string name="evening">"PM"</string>
     <string name="exceed_todo_text_limitation">A descrição da tarefa é muito longa.</string>
     <string name="excerpt">Excertos</string>
-    <string name="excerpt_bubble_tips">O texto copiado e imagens salvas serão salvas nas Anotações</string>
-    <string name="excerpt_link_bubble_tips">Toque para salvar nas Anotações</string>
+    <string name="excerpt_bubble_tips">O texto copiado e imagens salvas serão salvas em Notas</string>
+    <string name="excerpt_link_bubble_tips">Toque para salvar em Notas</string>
     <string name="excerpt_note">Meus excertos</string>
-    <string name="excerpted_to_note">Excerto salvo nas Anotações</string>
+    <string name="excerpted_to_note">Excerto salvo em Notas</string>
     <string name="excerpting">Criando um excerto…</string>
     <string name="expand_button_title">Avançado</string>
     <string name="exposed_dropdown_menu_content_description">Exibir menu suspenso</string>
     <string name="first_enter_custom_folder_hint">Você pode renomear ou excluir pastas aqui</string>
     <string name="float_note_empty">Sem anotações</string>
-    <string name="float_note_title">Anotações</string>
+    <string name="float_note_title">Notas</string>
     <string name="float_todo_guide_cancel">Cancelar</string>
     <string name="float_todo_guide_message">O atalho da Tela inicial permite que você deslize da borda da tela para visualizar e criar tarefas. Criar o atalho agora?</string>
     <string name="float_todo_guide_message_v2">O Atalho por gestos permite visualizar e criar tarefas ao deslizar a partir da borda da tela. Você pode ativar ou desativar este recurso nas Configurações.</string>
@@ -322,12 +322,12 @@
     <string name="gesture_guide_message">Você pode tocar, pressionar, segurar e arrastar itens para criar e reorganizar anotações. Deseja aprender estes gestos agora?</string>
     <string name="gesture_guide_ok">Aprender</string>
     <string name="gesture_guide_title">Gestos</string>
-    <string name="hand_write_only_support_tablet_editing">Anotações manuscritas só podem ser editadas em tablets</string>
+    <string name="hand_write_only_support_tablet_editing">Notas manuscritas só podem ser editadas em tablets</string>
     <string name="hand_write_syncing">Sincronizando…</string>
     <string name="hand_write_syncing_phone">Sincronizando…</string>
     <string name="handwrite_description">Anotação manuscrita</string>
     <string name="hear_note">Notas ditadas</string>
-    <string name="hidden_notes_fragment_title">Anotações ocultas</string>
+    <string name="hidden_notes_fragment_title">Notas ocultas</string>
     <string name="hide_arrow_description">Ocultar</string>
     <string name="hint_cannot_view_hidden_note_content">Não é possível ver o conteúdo em anotações ocultas</string>
     <string name="hint_foler_name">Nome</string>
@@ -557,7 +557,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção de um dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção de um ano</string>
-    <string name="new_app_name">Anotações</string>
+    <string name="new_app_name">Notas</string>
     <string name="new_audio_create_cancel_talkback_des">Cancelada</string>
     <string name="new_audio_create_done_talkback_des">Criada</string>
     <string name="new_audio_create_guide_tip">Pressione e segure para criar uma nota de voz</string>
@@ -568,9 +568,9 @@
     <string name="noon">"PM"</string>
     <string name="not_now">Agora não</string>
     <string name="not_set">Não definido</string>
-    <string name="note_description_content">O app Anotações é uma ótima ferramenta para armazenar sua ideias. ele tem um sistema de lembretes integrado e sincroniza seus itens com a nuvem para que você os acesse de qualquer lugar. Certifique-se de que você não precisará destes recursos antes de excluir o app.</string>
-    <string name="note_description_title">Sobre o Anotações</string>
-    <string name="note_dual_screen_dialog_content">Parece que você está editando anotações no seu computador. Para evitar conflitos de edição, feche as Anotações no seu computador.</string>
+    <string name="note_description_content">O app Notas é uma ótima ferramenta para armazenar sua ideias. ele tem um sistema de lembretes integrado e sincroniza seus itens com a nuvem para que você os acesse de qualquer lugar. Certifique-se de que você não precisará destes recursos antes de excluir o app.</string>
+    <string name="note_description_title">Sobre o app Notas</string>
+    <string name="note_dual_screen_dialog_content">Parece que você está editando anotações no seu computador. Para evitar conflitos de edição, feche as Notas no seu computador.</string>
     <string name="note_dual_screen_dialog_title">Usando a combinação de tela…</string>
     <string name="note_gesture_guide_step1">Pressione e segure o botão flutuante \"+\" para criar uma nota de voz</string>
     <string name="note_gesture_guide_step2">Pressione e segure uma anotação e então arraste-a em cima de outra anotação para criar uma pasta</string>
@@ -587,13 +587,13 @@
     <string name="note_mindnote_entrance_hint_newversion">"Comece a escrever "</string>
     <string name="note_mindnote_entrance_icon_text">Criar um mapa mental</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Crie um mapa mental</string>
-    <string name="note_module_name">Anotações</string>
+    <string name="note_module_name">Notas</string>
     <string name="note_not_text_stub">Nenhum texto</string>
     <string name="note_sort_way">Organizar</string>
     <string name="notealert_enter">Abrir anotação</string>
     <string name="notealert_ok">Dispensar</string>
-    <string name="notes_description_content">Anotações é um app do sistema. Você não poderá usar este app após desinstalá-lo.</string>
-    <string name="notes_description_title">Desinstalar Anotações?</string>
+    <string name="notes_description_content">Notas é um app do sistema. Você não poderá usar este app após desinstalá-lo.</string>
+    <string name="notes_description_title">Desinstalar Notas?</string>
     <string name="notification_content_add_todo_from_other_app">Você adicionou uma nova tarefa. Toque para ver.</string>
     <string name="notify_alarm_title">Lembrete da anotação</string>
     <string name="option_menu_delete">Excluir</string>
@@ -623,9 +623,9 @@
     <string name="pc_all_folder_name">Tudo</string>
     <string name="pc_date_time_picker_set_date">Definir data</string>
     <string name="pc_date_time_picker_set_time">Definir hora</string>
-    <string name="pc_module_notes_name">Anotações</string>
+    <string name="pc_module_notes_name">Notas</string>
     <string name="pc_module_todo_name">Tarefas</string>
-    <string name="pc_note_dual_screen_dialog_content">Parece que você está editando anotações no seu dispositivo. Para evitar conflitos de edição, feche o app Anotações no seu dispositivo.</string>
+    <string name="pc_note_dual_screen_dialog_content">Parece que você está editando anotações no seu dispositivo. Para evitar conflitos de edição, feche o app Notas no seu dispositivo.</string>
     <string name="pc_note_edit_blank_view_tips">Arraste uma imagem aqui, para criar uma anotação</string>
     <string name="pc_note_edit_create_time">"Criado: "</string>
     <string name="pc_note_edit_insert_doodle_by_phone">Criar um desenho no dispositivo</string>
@@ -643,7 +643,7 @@
     <string name="pc_todo_fast_create_hint">Insira o texto e pressione \"Enter\" para adicionar uma tarefa não concluída</string>
     <string name="pc_todo_set_remind_time_hint">Definir hora</string>
     <string name="permdesc_accessNote">Apps maliciosos podem usar isto para acessar seus dados pessoais.</string>
-    <string name="permission_data_shared_desc">Declaração de compartilhamento de dados de terceiros da Anotações</string>
+    <string name="permission_data_shared_desc">Declaração de compartilhamento de dados de terceiros da Notas</string>
     <string name="permission_get_account_desc">Sincronizando anotações com a nuvem</string>
     <string name="permission_intro_contact">Para marcar anotações feitas durante chamadas</string>
     <string name="permission_intro_microphone">Para gravar anotações de voz</string>
@@ -657,7 +657,7 @@
     <string name="permission_storage_desc_pad_v12">Para adicionar imagens às anotações e salvar anotações como imagens</string>
     <string name="permission_storage_desc_v12">Para adicionar imagens às anotações e salvar anotações como imagens</string>
     <string name="permission_xiaoai_desc">&lt;Data>O Mi AI vai coletar suas gravações de voz e ID do dispositivo para transcrever áudios e criar notas por voz. Saiba mais na &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Mi AI.&lt;/Data></string>
-    <string name="permission_xiaoai_desc_new"><Data>Para fornecer serviços de transcrição de voz para texto, Mi AI precisa coletar a entrada de áudio e a ID do seu dispositivo, que é gerado aleatoriamente. Leia e concorde com a nossa &lt;a href=\"%1$s\">Declaração de compartilhamento de dados de terceiros da Anotações&lt;/a> antes de continuar. Você também pode aprender mais lendo a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> do Mi AI.</Data></string>
+    <string name="permission_xiaoai_desc_new"><Data>Para fornecer serviços de transcrição de voz para texto, Mi AI precisa coletar a entrada de áudio e a ID do seu dispositivo, que é gerado aleatoriamente. Leia e concorde com a nossa &lt;a href=\"%1$s\">Declaração de compartilhamento de dados de terceiros da Notas&lt;/a> antes de continuar. Você também pode aprender mais lendo a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> do Mi AI.</Data></string>
     <string name="permission_xiaoai_title">Fala para texto</string>
     <string name="permlab_accessNote">Acessar anotações</string>
     <string name="pm">"PM"</string>
@@ -671,18 +671,18 @@
     <string name="pref_permission_manage_key_recording">Gravar áudio</string>
     <string name="pref_permission_manage_key_storage">Acesso ao armazenamento</string>
     <string name="pref_permission_not_allowed">Não concedido</string>
-    <string name="pref_quick_note_desc">Use o atalho na borda da tela para criar anotações e tarefas, assim como salvar URLs copiadas, texto e imagens para as Anotações.</string>
+    <string name="pref_quick_note_desc">Use o atalho na borda da tela para criar anotações e tarefas, assim como salvar URLs copiadas, texto e imagens para as Notas.</string>
     <string name="pref_remind_type_summary">Reproduzir som de lembrete no Modo silencioso</string>
     <string name="pref_remind_type_summary_new">Ignorar o Modo silencioso e continuar reproduzindo som até que o alarme seja desativado</string>
     <string name="pref_remind_type_summary_new_2">Reproduzir som mesmo quando o Modo silencioso ou o Não perturbe estiverem ativados</string>
     <string name="pref_remind_type_title">Ignorar Modo silencioso</string>
     <string name="pref_remind_type_title_new">Lembretes de alta prioridade</string>
-    <string name="pref_title_cloud_trash_bin">Anotações excluídas na nuvem</string>
+    <string name="pref_title_cloud_trash_bin">Notas excluídas da nuvem</string>
     <string name="pref_title_common">Configurações adicionais</string>
     <string name="pref_title_excerpt_remind">Lembretes de excertos</string>
     <string name="pref_title_font_size">Tamanho do texto</string>
     <string name="pref_title_note_style">Estilo</string>
-    <string name="pref_title_quick_note">Anotações rápidas</string>
+    <string name="pref_title_quick_note">Notas rápidas</string>
     <string name="pref_title_show_root_folder_in_homepage">Mostrar apenas anotações rápidas na página inicial</string>
     <string name="pref_title_skip_confirm_for_quick_delete">Excluir usando um gesto</string>
     <string name="pref_title_todo_float_mode">Usar a caixa de ferramentas de tarefas</string>
@@ -731,7 +731,7 @@
     <string name="rich_text_right_description">Direita</string>
     <string name="rich_text_size_description">Tamanho</string>
     <string name="rich_text_underline_description">Sublinhado</string>
-    <string name="root_folder_name">Anotações rápidas</string>
+    <string name="root_folder_name">Notas rápidas</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
@@ -739,12 +739,12 @@
     <string name="save_to_gallery_failure_message">Não foi possível salvar</string>
     <string name="save_to_gallery_icon_name">Salvar na Galeria</string>
     <string name="save_to_gallery_success_message">Salvo com sucesso</string>
-    <string name="search">Anotações</string>
+    <string name="search">Notas</string>
     <string name="search_hint">Procurar anotações</string>
-    <string name="search_keyword_notes">Anotações;Notas</string>
+    <string name="search_keyword_notes">Notas;Notas</string>
     <string name="search_label">Procurando…</string>
     <string name="search_menu_title">Pesquisar</string>
-    <string name="search_path_notes">Apps do sistema/Anotações</string>
+    <string name="search_path_notes">Apps do sistema/Notas</string>
     <string name="search_setting_description">Procurar texto em suas anotações</string>
     <string name="select_account_prompt">Sincronizar anotações</string>
     <string name="send">Enviar</string>
@@ -867,7 +867,7 @@
     <string name="toast_excerpt_end">Excerto criado com sucesso</string>
     <string name="toast_excerpt_no_content">Nenhum excerto aqui</string>
     <string name="toast_excerpt_open_note">Anotação com o excerto aberta</string>
-    <string name="toast_excerpt_saved">Salvando excerto nas Anotações…</string>
+    <string name="toast_excerpt_saved">Salvando excerto em Notas…</string>
     <string name="toast_message_add_image_fail">Não foi possível adicionar imagem</string>
     <string name="toast_notes_delete_success">Excluída com sucesso</string>
     <string name="toast_notes_hidden_count">%1$s ocultada(s) com sucesso</string>
@@ -883,14 +883,14 @@
     <string name="toast_refuse_to_record_when_in_multi_window">Não é possível usar este recurso com a Tela dividida</string>
     <string name="toast_refuse_to_record_when_in_multi_window_new">Não é possível usar este recurso em Tela dividida ou janelas flutuantes</string>
     <string name="toast_refuse_to_use_contact">"As permissões de contatos estão restritas.
-Permita que o app Anotações leia seus contatos e encontre contas no seu dispositivo."</string>
+Permita que o app Notas leia seus contatos e encontre contas no seu dispositivo."</string>
     <string name="toast_refuse_to_use_external_storage">"As permissões de armazenamento estão restritas.
-Permita que o app Anotações leia o conteúdo do seu cartão SD."</string>
+Permita que o app Notas leia o conteúdo do seu cartão SD."</string>
     <string name="toast_refuse_to_use_phone_state">"As permissões de telefone estão restritas.
-Permita que o app Anotações leia o status do telefone e sua identidade."</string>
+Permita que o app Notas leia o status do telefone e sua identidade."</string>
     <string name="toast_refuse_to_use_record_audio">"As permissões do microfone estão restritas.
-Permita que o app Anotações grave áudio."</string>
-    <string name="toast_refuse_to_use_storage_in_excerpt">Permita que o Anotações acesse o armazenamento para poder adicionar imagens às suas anotações</string>
+Permita que o app Notas grave áudio."</string>
+    <string name="toast_refuse_to_use_storage_in_excerpt">Permita que o Notas acesse o armazenamento para poder adicionar imagens às suas anotações</string>
     <string name="today">Hoje</string>
     <string name="todo_alert_title_delete">Excluir tarefas concluídas</string>
     <string name="todo_audio_default_content">"[Tarefa em áudio] "</string>
@@ -910,7 +910,7 @@ Permita que o app Anotações grave áudio."</string>
     <string name="todo_event_description_today">Hoje</string>
     <string name="todo_event_description_tomorrow">Amanhã</string>
     <string name="todo_event_description_yesterday">Ontem</string>
-    <string name="todo_float_permission_open_reminder">Permita que o app Anotações exiba janelas flutuantes em outros apps para poder usar este recurso.</string>
+    <string name="todo_float_permission_open_reminder">Permita que o app Notas exiba janelas flutuantes em outros apps para poder usar este recurso.</string>
     <string name="todo_item_group_expired">Expirado</string>
     <string name="todo_item_group_finished">Concluído</string>
     <string name="todo_item_group_further">Depois</string>
@@ -1003,6 +1003,6 @@ Permita que o app Anotações grave áudio."</string>
     <string name="widget_size_item_big">Grande</string>
     <string name="widget_size_item_medium">Médio</string>
     <string name="widget_size_item_small">Pequeno</string>
-    <string name="widget_take_notes_title">Anotações</string>
+    <string name="widget_take_notes_title">Notas</string>
     <string name="yesterday">Ontem</string>
 </resources>

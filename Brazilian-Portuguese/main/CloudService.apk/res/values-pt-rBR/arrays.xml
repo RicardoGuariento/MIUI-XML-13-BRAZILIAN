@@ -130,12 +130,12 @@
     <string-array name="settings_search_notes">
         <item>Sincronizar anotações com a MiCloud</item>
         <item>Ativar sincronização</item>
-        <item>Anotações;Nuvem;Sincronização;Serviços da nuvem;MiCloud</item>
+        <item>Notas;Nuvem;Sincronização;Serviços da nuvem;MiCloud</item>
     </string-array>
     <string-array name="settings_search_notes_v2">
         <item>Sincronizar anotações com a MiCloud</item>
         <item>Ativar sincronização</item>
-        <item>Anotações;Nuvem;Sincronização;Serviços da nuvem;MiCloud</item>
+        <item>Notas;Nuvem;Sincronização;Serviços da nuvem;MiCloud</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
         <item>Sincronizar Assistente com a MiCloud</item>

@@ -1128,7 +1128,7 @@ Digite seu PIN para desbloquear."</string>
     <string name="gxzw_quick_open_add_event">Adicionar evento</string>
     <string name="gxzw_quick_open_add_event_sub">Agenda</string>
     <string name="gxzw_quick_open_add_note">Adicionar anotação</string>
-    <string name="gxzw_quick_open_add_note_sub">Anotações</string>
+    <string name="gxzw_quick_open_add_note_sub">Notas</string>
     <string name="gxzw_quick_open_alipay_pay">Código de pagamento</string>
     <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
     <string name="gxzw_quick_open_alipay_scan">"Scanner"</string>

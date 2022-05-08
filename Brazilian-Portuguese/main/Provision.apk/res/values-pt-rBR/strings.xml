@@ -497,7 +497,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="service_name_location">Serviços com base na localização</string>
     <string name="service_name_lockscreen">Carrossel de Planos de fundo</string>
     <string name="service_name_message">Mensagens</string>
-    <string name="service_name_note">Anotações</string>
+    <string name="service_name_note">Notas</string>
     <string name="service_name_recorder">Gravador</string>
     <string name="service_name_screen_recording">Gravador de Tela</string>
     <string name="service_name_security">Segurança</string>
