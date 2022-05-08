@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="animation_rate_entries">
+        <item>Elegance</item>
+        <item>Balance</item>
+        <item>Minimalist</item>
+    </string-array>
     <string-array name="editing_mode_entries">
         <item>Plano de fundo</item>
         <item>"Widgets"</item>
@@ -54,12 +59,6 @@
     </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>Padrão do tema</item>
-        <item>Centralizado</item>
-        <item>Esquerda</item>
-        <item>Direita</item>
-    </string-array>
-    <string-array name="wallpaper_scroll_values">
-        <item>Por Tema</item>
         <item>Centralizado</item>
         <item>Esquerda</item>
         <item>Direita</item>
