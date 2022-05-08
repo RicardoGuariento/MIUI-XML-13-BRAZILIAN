@@ -44,7 +44,7 @@
     <string name="always_style">Sempre</string>
     <string name="always_style_symmary">Consome mais energia</string>
     <string name="am">"AM"</string>
-    <string name="ambient_display_screen_title">Tela sempre ativa</string>
+    <string name="ambient_display_screen_title">Tela ambiente</string>
     <string name="ambient_display_screen_title_sp">Exibição ambiente</string>
     <string name="animation_clock_panel">Disco ondulado</string>
     <string name="aod_close_color_inversion">Este recurso não pode ser combinado com a inversão de cores. Desative a inversão de cores primeiro.</string>
@@ -66,12 +66,12 @@ dd/MM"</string>
     <string name="aod_mode_summary">Exibir hora, data, notificações e imagens de plano de fundo quando a tela estiver desligada</string>
     <string name="aod_mode_time_summary">Programar hora para ativar e desativar o Ambiente Display</string>
     <string name="aod_mode_time_title">Programar</string>
-    <string name="aod_mode_title">Tela sempre ativa</string>
+    <string name="aod_mode_title">Tela ambiente</string>
     <string name="aod_show_date_and_time">Mostrar data e hora</string>
     <string name="aod_show_style_title">Exibir itens</string>
     <string name="aod_signature_12">h:mm a</string>
     <string name="aod_style">Tema</string>
-    <string name="aod_theme_store">Temas para a Tela sempre ativa</string>
+    <string name="aod_theme_store">Temas para a Tela ambiente</string>
     <string name="aod_to_close">Desativar</string>
     <string name="app_name">Ambiente Display</string>
     <string name="apply">Aplicar</string>
@@ -293,7 +293,7 @@ dd/MM"</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
-    <string name="scheduled_mode_dialog_msg">Os itens serão exibidos em sua Tela sempre ativa dentro deste período: %s.</string>
+    <string name="scheduled_mode_dialog_msg">Os itens serão exibidos em sua Tela ambiente dentro deste período: %s.</string>
     <string name="scheduled_mode_dialog_msg_12">h:mm a</string>
     <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
     <string name="scheduled_mode_msg">Período ativo: %s</string>
@@ -389,7 +389,7 @@ dd/MM"</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_style">Estilo</string>
     <string name="time_style_layout">"Layout"</string>
-    <string name="tip_to_open_aod_mode">A Tela sempre ativa está desativada. Ativar agora?</string>
+    <string name="tip_to_open_aod_mode">A Tela ambiente está desativada. Ativar agora?</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tuesday">Terça</string>

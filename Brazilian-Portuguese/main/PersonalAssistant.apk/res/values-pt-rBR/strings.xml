@@ -57,7 +57,7 @@
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month">"MMM"</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month">"MMM yyyy"</string>
+    <string name="fmt_date_short_year_month">"MMM 'de' yyyy"</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">h</string>
@@ -456,7 +456,7 @@ para mostrar widgets."</string>
     <string name="pa_rtk_more_text">Não interessado</string>
     <string name="pa_rtk_place_holder_text">Este widget foi movido para o seu painel por enquanto</string>
     <string name="pa_rtk_unlike_text">Desafixar</string>
-    <string name="pa_rts_summary">Coloque widgets mais utilizados no painel</string>
+    <string name="pa_rts_summary">Adicione widgets mais utilizados no painel</string>
     <string name="pa_rts_text">Painel</string>
     <string name="pa_scan">Varredura</string>
     <string name="pa_scan_app">"Scanner"</string>
@@ -479,12 +479,12 @@ para mostrar widgets."</string>
     <string name="pa_setting_privacy_logout_summary">Cancelar serviços do Assistente</string>
     <string name="pa_setting_privacy_perm_desc">Detalhes de permissões</string>
     <string name="pa_setting_privacy_perm_granted">Garantida</string>
-    <string name="pa_setting_privacy_perm_install_app">Acesse a lista de apps instalados neste dispositivo</string>
+    <string name="pa_setting_privacy_perm_install_app">Acessar a lista de apps instalados no dispositivo</string>
     <string name="pa_setting_privacy_perm_install_app_desc">Para fornecer sugestões de apps</string>
     <string name="pa_setting_privacy_perm_location">Acesso à localização</string>
     <string name="pa_setting_privacy_perm_location_desc">Para calcular sua classificação regional da tabela de classificação das Super pistas</string>
     <string name="pa_setting_privacy_perm_not_granted">Não garantido</string>
-    <string name="pa_setting_privacy_perm_storage">Armazenamento de Acesso</string>
+    <string name="pa_setting_privacy_perm_storage">Acessar armazenamento</string>
     <string name="pa_setting_privacy_policy">Política de Privacidade</string>
     <string name="pa_setting_privacy_policy_update_again_message">"Você não será capaz de continuar usando nossos serviços a menos que concorde com a nova versão: %s. Concordar com a política de privacidade atualizada agora?"</string>
     <string name="pa_setting_privacy_policy_update_again_title">Atenção</string>

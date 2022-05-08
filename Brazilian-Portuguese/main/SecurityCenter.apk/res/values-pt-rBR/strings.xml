@@ -867,7 +867,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="battery_charge_estimating">Calculando</string>
     <string name="battery_charge_full">Carregada</string>
     <string name="battery_charging_prompt">Carregando</string>
-    <string name="battery_desc_ambient_display">Bateria consumida pela Tela sempre ativa</string>
+    <string name="battery_desc_ambient_display">Bateria consumida pela Tela ambiente</string>
     <string name="battery_desc_apps">Bateria usada pelo app</string>
     <string name="battery_desc_bluetooth">Bateria usada pelo Bluetooth</string>
     <string name="battery_desc_display">Bateria usada pela tela e luz de fundo</string>
@@ -3235,7 +3235,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pm_remember_choice">Lembrar minha escolha</string>
     <string name="pm_root_success_notification_infomation">Certifique-se de que você entende os riscos relacionados ao acesso Root</string>
     <string name="pm_root_success_notification_title">Acesso Root permitido</string>
-    <string name="power_ambient_display">Tela sempre ativa</string>
+    <string name="power_ambient_display">Tela ambiente</string>
     <string name="power_analysis_consume_title">Uso de bateria</string>
     <string name="power_analysis_suggestion_need_optimize">Problemas no uso da bateria detectados.</string>
     <string name="power_autorun_apps_empty">Nenhum app com início automático</string>
@@ -3421,7 +3421,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_optimize_darkmode_summary">O Modo escuro economiza bateria</string>
     <string name="power_optimize_disable_5g">Restringir conectividade 5G</string>
     <string name="power_optimize_disable_5g_summary">A conexão 5G usa mais energia</string>
-    <string name="power_optimize_disable_aod">Desativar a Tela sempre ativa</string>
+    <string name="power_optimize_disable_aod">Desativar a Tela ambiente</string>
     <string name="power_optimize_disable_app_autostart">Impedir que apps abram automaticamente</string>
     <string name="power_optimize_disable_gps">Desativar GPS</string>
     <string name="power_optimize_disable_gps_high_accuracy">Desativar modo de localização de alta precisão</string>
@@ -3447,8 +3447,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_save_mode">Economia de bateria</string>
     <string name="power_save_mode_auto_exit_summary_new">Será desativada quando a bateria estiver em %s ou 100%% carregada</string>
     <string name="power_save_mode_auto_exit_title">Desativar quando carregado</string>
-    <string name="power_save_mode_close_aod_display_summary">A Tela sempre ativa será desativada quando a Economia de bateria for ativada</string>
-    <string name="power_save_mode_close_aod_display_title">Desativar a Tela sempre ativa</string>
+    <string name="power_save_mode_close_aod_display_summary">A Tela ambiente será desativada quando a Economia de bateria for ativada</string>
+    <string name="power_save_mode_close_aod_display_title">Desativar a Tela ambiente</string>
     <string name="power_save_mode_close_notification_screenon_summary">Funciona quando a Economia de bateria está ativada</string>
     <string name="power_save_mode_close_notification_screenon_title">Não ligar a tela para notificações</string>
     <string name="power_save_mode_close_warn_text">A Economia de bateria restringe a atividade em segundo plano e a sincronização. Se você escolher usar o modo quando seu dispositivo estiver carregado, alguns recursos poderão não funcionar corretamente. Manter a Economia de bateria quando seu dispositivo estiver carregado?</string>
@@ -4354,8 +4354,8 @@ Retirar consentimento agora?"</string>
     <string name="sp_security_input_title">Teclado seguro</string>
     <string name="sp_security_scan_summary">Verifique se há vírus em seu dispositivo</string>
     <string name="sp_security_scan_title">Verificação de segurança</string>
-    <string name="sp_settings_check_item_summary_sign_exception">Gerenciar exceções de assinatura</string>
-    <string name="sp_settings_check_item_summary_virus_exception">Gerenciar exceções de vírus</string>
+    <string name="sp_settings_check_item_summary_sign_exception">Gerencie exceções de assinatura</string>
+    <string name="sp_settings_check_item_summary_virus_exception">Gerencie exceções de vírus</string>
     <string name="sp_settings_check_item_title_root">"Root"</string>
     <string name="sp_settings_check_item_title_sign_exception">Exceções de assinatura</string>
     <string name="sp_settings_check_item_title_update">Atualizações de sistema</string>
@@ -4759,7 +4759,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="superpower_savemode_description_title">A Ultra economia de bateria ativa as seguintes restrições:</string>
     <string name="superpower_savemode_limit1">Tema escuro</string>
     <string name="superpower_savemode_limit2">Restringir atividade em 2º plano</string>
-    <string name="superpower_savemode_limit3">Restringir atividades com alto consumo de energia (sincronização, GPS, vibração, Tela sempre ativa, etc.)</string>
+    <string name="superpower_savemode_limit3">Restringir atividades com alto consumo de energia (sincronização, GPS, vibração, Tela ambiente, etc.)</string>
     <string name="superpower_savemode_limit4">Permitir que apps selecionados funcionem normalmente</string>
     <string name="superpower_settings">Ultra economia de bateria</string>
     <string name="superpower_settins_autoenter_summary_new">Ativar a Ultra economia de bateria automaticamente quando a bateria estiver com %s de carga</string>
@@ -4836,7 +4836,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="task_summary_close_nfc">Desativar o NFC</string>
     <string name="task_summary_close_rotate_lock">Desbloquear orientação</string>
     <string name="task_summary_close_save_battery">Desativar a Economia de bateria</string>
-    <string name="task_summary_close_screen_display">Desativar a Tela sempre ativa</string>
+    <string name="task_summary_close_screen_display">Desativar a Tela ambiente</string>
     <string name="task_summary_close_system_touch">Desativar o feedback tátil</string>
     <string name="task_summary_close_wlan">Desativar o Wi-Fi</string>
     <string name="task_summary_close_zen_mode">Desativar o Modo Não perturbe</string>
@@ -4857,7 +4857,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="task_summary_open_nfc">Ativar o NFC</string>
     <string name="task_summary_open_rotate_lock">Bloquear orientação</string>
     <string name="task_summary_open_save_battery">Ativar a Economia de bateria</string>
-    <string name="task_summary_open_screen_display">Ativar a Tela sempre ativa</string>
+    <string name="task_summary_open_screen_display">Ativar a Tela ambiente</string>
     <string name="task_summary_open_system_touch">Ativar o feedback tátil</string>
     <string name="task_summary_open_wlan">Ativar o Wi-Fi</string>
     <string name="task_summary_open_zen_mode">Ativar o Modo Não perturbe</string>
@@ -5079,7 +5079,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="title_result_rotate_off">Orientação da tela</string>
     <string name="title_result_save_battery">Economia de bateria</string>
     <string name="title_result_screen_brightness">Brilho da tela</string>
-    <string name="title_result_screen_display">Tela sempre ativa</string>
+    <string name="title_result_screen_display">Tela ambiente</string>
     <string name="title_result_start_activity">Abrir app</string>
     <string name="title_result_switch">Desligar</string>
     <string name="title_result_touch">Feedback tátil</string>

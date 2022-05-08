@@ -290,7 +290,7 @@ mm"</string>
     <string name="update">Atualizar</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
-    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Tela sempre ativa</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Tela ambiente</string>
     <string name="wallpaper_setting_find_more_text">Mais papéis de parede online</string>
     <string name="wallpaper_setting_home_wallpaper_banner_button_text">Tela inicial</string>
     <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Tela de bloqueio</string>

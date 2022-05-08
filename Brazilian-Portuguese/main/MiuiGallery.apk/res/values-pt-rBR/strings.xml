@@ -507,6 +507,7 @@
     <string name="cloud_full_space_tip_negative">Agora não</string>
     <string name="cloud_full_space_tip_positive">Fazer upgrade</string>
     <string name="cloud_full_space_tip_title">Armazenamento na nuvem insuficiente</string>
+    <string name="cloud_full_space_tip_title_completely">O armazenamento em nuvem está cheio</string>
     <string name="cloud_guide_auto_backup_title">Escolha os álbuns para sincronizar</string>
     <string name="cloud_guide_login_title">Backup automático de fotos e vídeos</string>
     <string name="cloud_guide_welcome_title">"MiCloud"</string>
@@ -588,6 +589,7 @@
     <string name="correct_photo_time">Corrigir data e hora de fotos</string>
     <string name="correct_time_success">Corrigido com sucesso</string>
     <string name="correct_time_tip">Corrigindo data e hora…</string>
+    <string name="create_album_failed_because_dup">Este álbum já existe. Adicionar itens a este álbum agora?</string>
     <string name="create_baby_album">Criar Álbum do bebê</string>
     <string name="create_baby_album_dialog_msg">Criar um álbum para \"%s\"?</string>
     <string name="create_baby_album_later_toast">Crie um Álbum do bebê a qualquer momento nas Configurações</string>
@@ -1117,6 +1119,8 @@ estão disponíveis"</string>
     <string name="grant_permission_go_and_set_2">Configurações</string>
     <string name="grant_permission_go_and_set_3">Configurações</string>
     <string name="grant_permission_item">\"%s\"</string>
+    <string name="grant_permission_manage_storage">Permissões necessárias</string>
+    <string name="grant_permission_manage_storage_unlock">Desbloqueie seu dispositivo e permita que este app acesse todos os arquivos para poder visualizar os itens.</string>
     <string name="grant_permission_shortcut">Primeiro permita que este app crie atalhos para à Tela inicial.</string>
     <string name="grant_permission_storage">Primeiro permita que este app acesse o armazenamento.</string>
     <string name="grant_permission_storage_unlock">Primeiro desbloqueie seu dispositivo e permita que este app acesse o armazenamento.</string>
@@ -1243,6 +1247,9 @@ estão disponíveis"</string>
     <string name="last_some_day_travel_title_one">Em %1$s</string>
     <string name="last_some_day_travel_title_three">Explorando %1$s</string>
     <string name="last_some_day_travel_title_two">Memórias de %1$s</string>
+    <string name="last_some_performance_title">Coisas que eu vi</string>
+    <string name="lenovo">"Lenovo"</string>
+    <string name="lenovo_phone">"Lenovo"</string>
     <string name="limit_height">A altura deve ser > 0</string>
     <string name="limit_width">A largura deve ser > 0</string>
     <string name="live_photo">Foto ao vivo</string>
@@ -1754,6 +1761,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="operation_too_often">Epa! Muitas requisições estão sendo feitas do seu endereço IP. Espere alguns minutos e tente novamente.</string>
     <string name="operation_unforce_top">Desafixar</string>
     <string name="operation_unhide">Reexibir</string>
+    <string name="operation_upgrade_gallery">Atualizar</string>
     <string name="operation_video_compress">Comprimir vídeo</string>
     <string name="operation_watermark">"Marca d'água de proteção"</string>
     <string name="oppo">"OPPO"</string>
@@ -1952,7 +1960,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="photo_vlog_module_loading">Baixando editor de vídeos…</string>
     <string name="photodetail_failed_already_exist">Este arquivo já existe</string>
     <string name="photodetail_rename_failed">Não foi possível renomear</string>
-    <string name="photodetail_rename_invalid">"Nomes de arquivos não podem conter estes caracteres: /\\:*?&lt;>|."</string>
+    <string name="photodetail_rename_invalid">"Nomes de arquivos não podem conter estes caracteres: /\\:*?&lt;>|.\""</string>
     <string name="photodetail_rename_success">Renomeado com sucesso</string>
     <string name="photodetail_rename_title">Renomear</string>
     <string name="photodetail_rename_too_long">O nome inserido para o arquivo é muito longo</string>
@@ -2320,8 +2328,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="send_file_beautify_failed">Não foi possível compartilhar</string>
     <string name="send_files_by">Compartilhar arquivos via</string>
     <string name="send_files_to">Enviar itens para</string>
-    <string name="send_heif_summary">Converte as imagens HEIF em JPG para garantir sua compatibilidade</string>
-    <string name="send_heif_title">Converter HEIF para JPG antes do envio</string>
+    <string name="send_heif_summary">Converte imagens HEIF para JPEG antes de enviá-las</string>
+    <string name="send_heif_title">Converter HEIF antes de enviar</string>
     <string name="send_multiple_files_hint_format">Enviar (%s)</string>
     <string name="send_public_url">Enviar URL do álbum</string>
     <string name="send_secret_file_failed">Não foi possível compartilhar</string>
@@ -3220,6 +3228,11 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="xiaomi_9">Mi 9</string>
     <string name="xiaomi_9_pro">Mi 9 Pro 5G</string>
     <string name="xiaomi_9_se">Mi 9 SE</string>
+    <string name="xiaomi_11_lite">"Mi 11 Lite 5G"</string>
+    <string name="xiaomi_11_lite_ne">Mi 11 Lite 5G NE</string>
+    <string name="xiaomi_12">Mi 12</string>
+    <string name="xiaomi_12_pro">Mi 12 Pro</string>
+    <string name="xiaomi_12x">Mi 12X</string>
     <string name="xiaomi_account_not_exists_toast">A Conta Mi não existe</string>
     <string name="xiaomi_cc_9">Mi CC9</string>
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>

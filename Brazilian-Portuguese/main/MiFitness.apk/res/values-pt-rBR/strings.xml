@@ -1276,8 +1276,8 @@ Envie este código para o supervisor."</string>
     <string name="face_replace">Não é possível adicionar mais telas da pulseira. Baixar uma nova tela substituirá o anterior.</string>
     <string name="face_save_fail_same_photo">Esta foto foi adicionada anteriormente.</string>
     <string name="face_save_use">Aplicar</string>
-    <string name="face_screen_off">Tela sempre ativa</string>
-    <string name="face_screen_off_tips">Para usar a Tela sempre ativa em seu dispositivo vestível, vá em Configurações > Tela e ative a Tela sempre ativa.</string>
+    <string name="face_screen_off">Tela ambiente</string>
+    <string name="face_screen_off_tips">Para usar a Tela ambiente em seu dispositivo vestível, vá em Configurações > Tela e ative a Tela ambiente.</string>
     <string name="face_select_del">Você não selecionou nenhum item ainda</string>
     <string name="face_size">Tamanho: %1$.2f MB</string>
     <string name="face_size_author">Tamanho: %1$.2f MB | Autor: %2$s</string>

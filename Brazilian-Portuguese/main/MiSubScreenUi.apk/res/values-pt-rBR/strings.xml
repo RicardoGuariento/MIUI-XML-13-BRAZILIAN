@@ -34,7 +34,7 @@
     <string name="alarm_later">Soneca</string>
     <string name="align_type">Alinhamento</string>
     <string name="am">"AM"</string>
-    <string name="aod_component">Tela sempre ativa</string>
+    <string name="aod_component">Tela ambiente</string>
     <string name="aod_dual_togother">"HH:mm"</string>
     <string name="aod_hours_12">"hh"</string>
     <string name="aod_hours_24">"HH"</string>
@@ -288,7 +288,7 @@ dd/MM"</string>
     <string name="subscreen_settings_fail">Não foi possível completar a ação</string>
     <string name="subscreen_settings_mode">Desativar após</string>
     <string name="subscreen_settings_style">Tema da tela traseira</string>
-    <string name="subscreen_settings_title">Tela sempre ativa</string>
+    <string name="subscreen_settings_title">Tela ambiente</string>
     <string name="subscreen_switch_content">Mostrar o conteúdo das notificações</string>
     <string name="subscreen_switch_content_summary">Mostrar o conteúdo das notificações na tela traseira</string>
     <string name="subscreen_switch_summary">Mostrar itens na tela traseira quando ela estiver virada para cima</string>
