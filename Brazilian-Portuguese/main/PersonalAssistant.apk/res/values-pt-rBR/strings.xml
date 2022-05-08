@@ -344,7 +344,7 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_lite_setting_service_my_schedule">Cronograma</string>
     <string name="pa_lite_setting_service_my_schedule_summary">Veja os próximos eventos</string>
     <string name="pa_lite_setting_service_note">Notas</string>
-    <string name="pa_lite_setting_service_note_summary">Veja suas anotações</string>
+    <string name="pa_lite_setting_service_note_summary">Veja suas notas</string>
     <string name="pa_lite_setting_service_quick_func">Atalhos</string>
     <string name="pa_lite_setting_service_quick_func_summary">Abrir aplicativos e serviços usados com frequência</string>
     <string name="pa_lite_setting_service_search">Procurar</string>

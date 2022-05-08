@@ -2301,13 +2301,13 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="secret_album_card_description">O melhor lugar para todos os seus segredos</string>
     <string name="secret_album_card_title">Experimente o álbum privado</string>
     <string name="secret_album_display_name">Álbum privado</string>
-    <string name="secret_album_password_first_use_msg">A Senha de proteção de privacidade será usada. Ela funciona para fotos, anotações, pastas ocultas, etc.</string>
+    <string name="secret_album_password_first_use_msg">A Senha de proteção de privacidade será usada. Ela funciona para fotos, notas, pastas ocultas, etc.</string>
     <string name="secret_album_password_first_use_title">Senha de proteção de privacidade</string>
-    <string name="secret_album_password_update_dialog_msg">A Senha de proteção de privacidade funciona para fotos, anotações, pastas ocultas, etc.</string>
+    <string name="secret_album_password_update_dialog_msg">A Senha de proteção de privacidade funciona para fotos, notas, pastas ocultas, etc.</string>
     <string name="secret_album_password_update_dialog_title">Atualizar senha</string>
-    <string name="secret_album_password_update_first_user_dialog_msg">A Senha de proteção de privacidade funciona para fotos, anotações, pastas ocultas, etc.</string>
+    <string name="secret_album_password_update_first_user_dialog_msg">A Senha de proteção de privacidade funciona para fotos, notas, pastas ocultas, etc.</string>
     <string name="secret_album_password_update_first_user_dialog_title">Atualizar senha</string>
-    <string name="secret_album_set_pc_password_dialog_msg">A Senha de proteção de privacidade será usada. Ela funciona para fotos, anotações, pastas ocultas, etc.</string>
+    <string name="secret_album_set_pc_password_dialog_msg">A Senha de proteção de privacidade será usada. Ela funciona para fotos, notas, pastas ocultas, etc.</string>
     <string name="secret_album_set_pc_password_dialog_ok">Definir nova senha</string>
     <string name="secret_album_set_pc_password_dialog_title">Definir senha</string>
     <string name="secret_reason_space_full">Os álbuns na nuvem estão cheios</string>

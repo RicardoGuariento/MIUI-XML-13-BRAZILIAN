@@ -50,11 +50,11 @@
         <item quantity="one">%1$s pasta</item>
     </plurals>
     <plurals name="format_move_notes_out_folder">
-        <item quantity="other">%1$s anotações removidas da pasta</item>
+        <item quantity="other">%1$s notas removidas da pasta</item>
         <item quantity="one">%1$s anotação removida da pasta</item>
     </plurals>
     <plurals name="format_move_notes_to_folder">
-        <item quantity="other">%1$s anotações movidas para %2$s</item>
+        <item quantity="other">%1$s notas movidas para %2$s</item>
         <item quantity="one">%1$s anotação movida para %2$s</item>
     </plurals>
     <plurals name="half_hour_ago">
@@ -89,7 +89,7 @@
         <item quantity="one">%d nova notificação</item>
     </plurals>
     <plurals name="note_terms">
-        <item quantity="other">%1$s anotações</item>
+        <item quantity="other">%1$s notas</item>
         <item quantity="one">%1$s anotação</item>
     </plurals>
     <plurals name="num_minutes_ago">
@@ -97,7 +97,7 @@
         <item quantity="one">1 minuto atrás</item>
     </plurals>
     <plurals name="pc_notes_search_result">
-        <item quantity="other">%1$s anotações encontradas</item>
+        <item quantity="other">%1$s notas encontradas</item>
         <item quantity="one">%1$s anotação encontrada</item>
     </plurals>
     <plurals name="pc_todo_search_result">
@@ -109,11 +109,11 @@
         <item quantity="one">%d segundo restante</item>
     </plurals>
     <plurals name="toast_notes_hidden_count">
-        <item quantity="other">%1$s anotações ocultadas com sucesso</item>
+        <item quantity="other">%1$s notas ocultadas com sucesso</item>
         <item quantity="one">%1$s anotação ocultada com sucesso</item>
     </plurals>
     <plurals name="toast_notes_unhidden_count">
-        <item quantity="other">%1$s anotações reexibidas com sucesso</item>
+        <item quantity="other">%1$s notas reexibidas com sucesso</item>
         <item quantity="one">%1$s anotação reexibida com sucesso</item>
     </plurals>
     <plurals name="todo_N_days_after">

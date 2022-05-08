@@ -110,8 +110,8 @@
         <item quantity="one">Será retomada em %d minuto</item>
     </plurals>
     <plurals name="backup_pause_dialog_message">
-        <item quantity="other">Pausar sincronização de fotos, vídeos, contatos, anotações e outros itens com a nuvem por %d minutos.</item>
-        <item quantity="one">Pausar sincronização de fotos, vídeos, contatos, anotações e outros itens com a nuvem por %d minuto.</item>
+        <item quantity="other">Pausar sincronização de fotos, vídeos, contatos, notas e outros itens com a nuvem por %d minutos.</item>
+        <item quantity="one">Pausar sincronização de fotos, vídeos, contatos, notas e outros itens com a nuvem por %d minuto.</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d fotos ou vídeos | %2$s</item>

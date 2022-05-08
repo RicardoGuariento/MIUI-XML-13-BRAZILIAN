@@ -1051,9 +1051,9 @@ Toque em \"%1$s\", e depois selecione \"%2$s\"."</string>
     <string name="preference_tone_title">Tons</string>
     <string name="preference_yellowpage_function_setting">Configurações de páginas amarelas</string>
     <string name="previous">Voltar</string>
-    <string name="privacy_password_message1">A Senha de proteção de privacidade funciona para fotos, anotações e pastas ocultas.</string>
-    <string name="privacy_password_message2">Usar a Senha de proteção de privacidade. Ela funciona para fotos, anotações e pastas ocultas.</string>
-    <string name="privacy_password_message3">Sua senha será substituída pela Senha de proteção de privacidade, que funciona para fotos, anotações e pastas ocultas.</string>
+    <string name="privacy_password_message1">A Senha de proteção de privacidade funciona para fotos, notas e pastas ocultas.</string>
+    <string name="privacy_password_message2">Usar a Senha de proteção de privacidade. Ela funciona para fotos, notas e pastas ocultas.</string>
+    <string name="privacy_password_message3">Sua senha será substituída pela Senha de proteção de privacidade, que funciona para fotos, notas e pastas ocultas.</string>
     <string name="privacy_password_set_password">Configurar</string>
     <string name="privacy_password_title1">Configurar senha</string>
     <string name="privacy_password_title2">Usar Senha de proteção de privacidade</string>

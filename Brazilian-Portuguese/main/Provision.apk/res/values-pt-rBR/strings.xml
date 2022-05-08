@@ -179,7 +179,7 @@
     <string name="ime_privacy_policy">Política de Privacidade para o teclado selecionado</string>
     <string name="ime_privacy_policy_no_network">Nenhuma conexão de rede. Veja a Política de Privacidade para este teclado em %s.</string>
     <string name="ims_introduction">O serviço IMS fornece recursos básicos de comunicação e é usado para chamadas de áudio e vídeo de alta definição.</string>
-    <string name="input_method_category">Escolha o teclado padrão a ser usado para escrever mensagens, anotações, etc. É possível instalar ou usar outros teclados mais tarde.</string>
+    <string name="input_method_category">Escolha o teclado padrão a ser usado para escrever mensagens, notas, etc. É possível instalar ou usar outros teclados mais tarde.</string>
     <string name="input_method_setting">Escolha o teclado</string>
     <string name="install_preinstall_app">Carregando apps…</string>
     <string name="intent_filter_verification_service">Serviço de verificação de filtro de intenção</string>
@@ -297,7 +297,7 @@
     <string name="night">"PM"</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
-    <string name="note_introduction">Este app permite que você crie, veja e edite anotações.</string>
+    <string name="note_introduction">Este app permite que você crie, veja e edite notas.</string>
     <string name="other_settings">Configurações adicionais</string>
     <string name="other_settings_ad_dialog_agree">Ativar</string>
     <string name="other_settings_ad_dialog_content">Quando a recomendação personalizada de anúncios está desativada, você ainda verá a mesma quantidade de anúncios de quando o recurso está ativo. Os anúncios, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais.</string>
@@ -390,7 +390,7 @@ Você pode controlar esse recurso em Configurações > Senhas e segurança > Pri
     <string name="permission_read_device_store_summary">Para acessar arquivos de origem baixados e arquivos de configuração de origem;</string>
     <string name="permission_read_message">Acessar mensagens de texto</string>
     <string name="permission_read_message_introduction">Para verificar a propriedade do seu dispositivo</string>
-    <string name="permission_read_note_introduction">Para acessar anotações e anexos</string>
+    <string name="permission_read_note_introduction">Para acessar notas e anexos</string>
     <string name="permission_read_send_message">Enviar e receber SMS</string>
     <string name="permission_read_send_message_fast_application_summary">Para permitir que apps enviem e recebam SMS</string>
     <string name="permission_read_send_message_sim_activation_summary">Para enviar e receber SMS de ativação</string>

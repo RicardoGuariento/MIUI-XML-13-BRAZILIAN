@@ -66,11 +66,11 @@
         <item quantity="one">%d música</item>
     </plurals>
     <plurals name="dirty_note_count">
-        <item quantity="other">%d anotações</item>
+        <item quantity="other">%d notas</item>
         <item quantity="one">%d anotação</item>
     </plurals>
     <plurals name="dirty_note_count_v2">
-        <item quantity="other">%d anotações</item>
+        <item quantity="other">%d notas</item>
         <item quantity="one">%d anotação</item>
     </plurals>
     <plurals name="dirty_personalAssistant_count">

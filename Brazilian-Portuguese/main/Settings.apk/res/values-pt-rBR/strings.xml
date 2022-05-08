@@ -3632,7 +3632,7 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="fingerprint_add_title">Adicionar impressão digital</string>
     <string name="fingerprint_and_password_entrance_title">Bloqueio de tela e impressão digital</string>
     <string name="fingerprint_apply_to_privacy_password">Senha de proteção de privacidade</string>
-    <string name="fingerprint_apply_to_privacy_password_scenarios">A Senha de proteção de privacidade protege suas mensagens, fotos, arquivos, anotações e apps.</string>
+    <string name="fingerprint_apply_to_privacy_password_scenarios">A Senha de proteção de privacidade protege suas mensagens, fotos, arquivos, notas e apps.</string>
     <string name="fingerprint_base_title">Impressão digital %s</string>
     <string name="fingerprint_delete_message">Quer excluir esta impressão digital?</string>
     <string name="fingerprint_delete_title">Remover \"%1$s\"</string>
@@ -5226,7 +5226,7 @@ Existem outros usuários presentes neste dispositivo.
     <string name="mashup_sound_australia">Austrália</string>
     <string name="master_clear_accounts">"No momento você está conectado às seguintes contas:"</string>
     <string name="master_clear_all">Apagar todos os dados do armazenamento interno do seu dispositivo? Você não pode reverter esta ação.</string>
-    <string name="master_clear_apply_step_1"><b>Redefinir o telefone apagará todos os dados em seu dispositivo</b>, incluindo fotos, músicas, anotações, e outros dados pessoais. Certifique-se de que você tenha um backup de todos os seus itens importantes em um computador, por exemplo.</string>
+    <string name="master_clear_apply_step_1"><b>Redefinir o telefone apagará todos os dados em seu dispositivo</b>, incluindo fotos, músicas, notas, e outros dados pessoais. Certifique-se de que você tenha um backup de todos os seus itens importantes em um computador, por exemplo.</string>
     <string name="master_clear_apply_step_2">Certifique-se de que você tenha um backup de todos os seus itens importantes em um computador. Todos os dados neste dispositivo serão apagados durante a restauração. <b>Você não será capaz de salvar itens dos quais você não fizer o backup.</b></string>
     <string name="master_clear_apply_title">Atenção</string>
     <string name="master_clear_button_text">Redefinir telefone</string>
@@ -6228,7 +6228,7 @@ Isso substitui %2$s como seu app de pagamento padrão."</string>
     <string name="notch_style_show">"Não esconder"</string>
     <string name="notch_style_status_bar_inside">Esconder sem mover a barra de status</string>
     <string name="notch_style_status_bar_outside">Esconder e mover a barra de status</string>
-    <string name="notes_privacy_password_role_instruction">Suas anotações pessoais serão armazenadas aqui.</string>
+    <string name="notes_privacy_password_role_instruction">Suas notas pessoais serão armazenadas aqui.</string>
     <string name="notif_listener_excluded_app_screen_title">Apps mostrados no dispositivo</string>
     <string name="notif_listener_excluded_app_summary">Alterar configurações para cada app que envia notificações</string>
     <string name="notif_listener_excluded_app_title">Veja todos os apps</string>
@@ -6993,9 +6993,9 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="privacy_header_text_less_than_half">Muito pequeno. Arraste um pouco mais.</string>
     <string name="privacy_lab_settings">Laboratório de proteção de privacidade</string>
     <string name="privacy_mms">Mensagens</string>
-    <string name="privacy_mode_dialog_message">Mensagens, anotações, fotos e configurações serão ocultadas no modo convidado. Além disso, você não será capaz de editar a Tela inicial. Mudar para o modo convidado?</string>
+    <string name="privacy_mode_dialog_message">Mensagens, notas, fotos e configurações serão ocultadas no modo convidado. Além disso, você não será capaz de editar a Tela inicial. Mudar para o modo convidado?</string>
     <string name="privacy_mode_dialog_title">Modo convidado</string>
-    <string name="privacy_mode_enable_sum">Ocultar mensagens, anotações, fotos, configurações e registros de chamadas</string>
+    <string name="privacy_mode_enable_sum">Ocultar mensagens, notas, fotos, configurações e registros de chamadas</string>
     <string name="privacy_mode_enable_title">Modo convidado</string>
     <string name="privacy_notes">Notas</string>
     <string name="privacy_password">Senha de Proteção de Privacidade</string>
@@ -7022,9 +7022,9 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="privacy_password_settings">Usar senha de proteção de privacidade</string>
     <string name="privacy_password_settings_next">Avançar</string>
     <string name="privacy_password_settings_summary">A senha de proteção de privacidade é usada para os apps que possam conter informações confidenciais</string>
-    <string name="privacy_password_settings_titles">A Senha de proteção de privacidade protege suas mensagens, fotos, arquivos e anotações.</string>
-    <string name="privacy_password_settings_titles_elder_mode">A Senha de proteção de privacidade protege suas fotos, arquivos e anotações.</string>
-    <string name="privacy_password_settings_titles_second_space">A Senha de proteção de privacidade protege suas mensagens, fotos e anotações.</string>
+    <string name="privacy_password_settings_titles">A Senha de proteção de privacidade protege suas mensagens, fotos, arquivos e notas.</string>
+    <string name="privacy_password_settings_titles_elder_mode">A Senha de proteção de privacidade protege suas fotos, arquivos e notas.</string>
+    <string name="privacy_password_settings_titles_second_space">A Senha de proteção de privacidade protege suas mensagens, fotos e notas.</string>
     <string name="privacy_password_title">Senha de proteção de privacidade</string>
     <string name="privacy_password_toggle_summary">Exige a senha sempre que itens privados forem acessados.</string>
     <string name="privacy_password_transparent_tiltle" />
@@ -7539,7 +7539,7 @@ Para usar a fixação de apps: \u0009
     <string name="screen_projection_characteristics_privacy_protect_title">Ocultar itens privados</string>
     <string name="screen_projection_characteristics_small_window_summary">Minimize a janela que está sendo transmitida para poder usar outros recursos do seu telefone.</string>
     <string name="screen_projection_characteristics_small_window_title">Minimizar janela</string>
-    <string name="screen_projection_example_document_summary">Exibe apresentações em um monitor externo enquanto usa seu telefone para a mudança de slides e ver anotações. Acesse o Gerenciador de Arquivos > Documentos para experimentar este recurso.</string>
+    <string name="screen_projection_example_document_summary">Exibe apresentações em um monitor externo enquanto usa seu telefone para a mudança de slides e ver notas. Acesse o Gerenciador de Arquivos > Documentos para experimentar este recurso.</string>
     <string name="screen_projection_example_document_title">Documentos</string>
     <string name="screen_projection_example_gallery_summary">Toque no botão Compartilhar em um item da Galeria para exibi-lo em um monitor externo.</string>
     <string name="screen_projection_example_gallery_title">Fotos e vídeos</string>

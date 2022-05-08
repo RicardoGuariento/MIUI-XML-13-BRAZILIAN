@@ -15,29 +15,29 @@
         <item>Armazenamento</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray">
-        <item>Sincronize seus contatos, mensagens, anotações, agenda e mais</item>
+        <item>Sincronize seus contatos, mensagens, notas, agenda e mais</item>
         <item>Faça o backup de apps, layout da Tela inicial e plano de fundo</item>
         <item>Faça o backup de configurações importantes, incluindo tela e Wi-Fi</item>
         <item>Bloqueie seu dispositivo remotamente caso seja perdido</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china">
-        <item>Sincronize seus contatos, mensagens, anotações, agenda e mais</item>
+        <item>Sincronize seus contatos, mensagens, notas, agenda e mais</item>
         <item>Faça o backup de apps, layout da Tela inicial e plano de fundo</item>
         <item>Faça o backup de configurações importantes, incluindo tela e Wi-Fi</item>
         <item>Bloqueie seu dispositivo remotamente caso seja perdido</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
-        <item>Sincronize seus contatos, mensagens, anotações, agenda e mais</item>
+        <item>Sincronize seus contatos, mensagens, notas, agenda e mais</item>
         <item>Faça o backup de apps, layout da Tela inicial e plano de fundo</item>
         <item>Faça o backup de configurações importantes, incluindo tela e Wi-Fi</item>
         <item>Bloqueie seu dispositivo remotamente caso seja perdido</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_pad">
-        <item>Sincronize suas fotos, anotações, gravações e muito mais</item>
+        <item>Sincronize suas fotos, notas, gravações e muito mais</item>
         <item>Bloqueie seu dispositivo remotamente caso você o perca</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_v2">
-        <item>Sincronize seus contatos, mensagens, anotações, agenda e mais</item>
+        <item>Sincronize seus contatos, mensagens, notas, agenda e mais</item>
         <item>Faça o backup de apps, layout da Tela inicial e plano de fundo</item>
         <item>Faça o backup de configurações importantes, incluindo tela e Wi-Fi</item>
         <item>Bloqueie seu dispositivo remotamente caso seja perdido</item>
@@ -128,12 +128,12 @@
         <item>Música;Nuvem;Sincronização;Serviços da nuvem;MiCloud</item>
     </string-array>
     <string-array name="settings_search_notes">
-        <item>Sincronizar anotações com a MiCloud</item>
+        <item>Sincronizar notas com a MiCloud</item>
         <item>Ativar sincronização</item>
         <item>Notas;Nuvem;Sincronização;Serviços da nuvem;MiCloud</item>
     </string-array>
     <string-array name="settings_search_notes_v2">
-        <item>Sincronizar anotações com a MiCloud</item>
+        <item>Sincronizar notas com a MiCloud</item>
         <item>Ativar sincronização</item>
         <item>Notas;Nuvem;Sincronização;Serviços da nuvem;MiCloud</item>
     </string-array>
@@ -159,7 +159,7 @@
     </string-array>
     <string-array name="settings_search_recycle_bin_pad">
         <item>Itens excluídos na MiCloud</item>
-        <item>Restaure fotos, anotações e muito mais</item>
+        <item>Restaure fotos, notas e muito mais</item>
         <item>Lixo;Itens excluídos;Lixeira;Restaurar;Serviços da nuvem;MiCloud</item>
     </string-array>
     <string-array name="settings_search_restore_device">
@@ -194,7 +194,7 @@
     </string-array>
     <string-array name="settings_search_sync_manage_pad">
         <item>MiCloud. Todos os serviços Mi em um só lugar.</item>
-        <item>Acesse suas fotos, anotações e dispositivos de qualquer lugar</item>
+        <item>Acesse suas fotos, notas e dispositivos de qualquer lugar</item>
         <item>Armazenamento insuficiente;Assinatura;Armazenamento;Espaço de armazenamento;Nuvem;Sincronização;Serviços da nuvem;MiCloud;Lixo;Itens excluídos;Segurança</item>
     </string-array>
     <string-array name="settings_search_wlan">

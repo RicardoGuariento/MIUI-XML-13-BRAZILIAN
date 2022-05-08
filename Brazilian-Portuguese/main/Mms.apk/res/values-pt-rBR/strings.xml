@@ -902,9 +902,9 @@ Leia e concorde com a nova versão da Política de Privacidade antes de continua
     <string name="privacy_dialog_title_update">Política de privacidade atualizada</string>
     <string name="privacy_dialog_title_update_confim">"Não é possível usar o app"</string>
     <string name="privacy_mode_hint">Não é possível enviar mensagens no Modo Convidado</string>
-    <string name="privacy_password_message1">A Senha de proteção de privacidade funciona para fotos, anotações e pastas ocultas.</string>
-    <string name="privacy_password_message2">Usar a Senha de proteção de privacidade. Ela funciona para fotos, anotações e pastas ocultas.</string>
-    <string name="privacy_password_message3">A senha de Mensagens será substituída pela Senha de proteção de privacidade, que funciona para fotos, anotações e pastas ocultas.</string>
+    <string name="privacy_password_message1">A Senha de proteção de privacidade funciona para fotos, notas e pastas ocultas.</string>
+    <string name="privacy_password_message2">Usar a Senha de proteção de privacidade. Ela funciona para fotos, notas e pastas ocultas.</string>
+    <string name="privacy_password_message3">A senha de Mensagens será substituída pela Senha de proteção de privacidade, que funciona para fotos, notas e pastas ocultas.</string>
     <string name="privacy_password_set_password">Definir</string>
     <string name="privacy_password_title1">Definir senha</string>
     <string name="privacy_password_title2">Usar Senha de proteção de privacidade</string>
