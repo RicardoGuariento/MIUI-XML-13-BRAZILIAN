@@ -178,9 +178,9 @@
     <string name="back">Voltar</string>
     <string name="backup_fail">Não foi possível fazer o backup do launcher</string>
     <string name="bad_wallpaper_source_prompt">Não é possível carregar o plano de fundo</string>
-    <string name="branch_core_version">Branch Core Version</string>
-    <string name="branch_deepview_button">Get the App</string>
-    <string name="branch_deepview_button_description">See this content immediately after install</string>
+    <string name="branch_core_version">Versão do Branch</string>
+    <string name="branch_deepview_button">Baixar o app</string>
+    <string name="branch_deepview_button_description">Ver este conteúdo imediatamente após a instalação</string>
     <string name="branch_feature_description">Além de apps, a Busca Rápida também pode encontrar conteúdo em apps e itens online.</string>
     <string name="branch_guide_attention">Usar a pesquisa aprimorada requer compartilhar os termos de pesquisa, ID do Google Ads, e o endereço IP com a Branch Metrics Inc. Leia e aceite os <font color="#B3000000"><a href="http://url1">Termos e Condições de Descoberta do Usuário Final</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade da Branch Discovery</a></font> antes de usar este recurso.</string>
     <string name="branch_guide_description_one">Nós colocaremos todos os seus apps na Gaveta de apps. Sua Tela inicial ficará mais limpa e organizada.</string>
@@ -201,7 +201,7 @@
     <string name="branch_search_guide_title">Encontre o que você está procurando em seus apps favoritos</string>
     <string name="branch_terms_condition">Termos e Condições</string>
     <string name="branch_tip_title">Com a Busca Rápida, você pode encontrar tudo o que você precisa em um instante.</string>
-    <string name="branch_ui_version">Branch UI Version</string>
+    <string name="branch_ui_version">Versão da Branch UI</string>
     <string name="btn_agree">Aceitar</string>
     <string name="btn_cancel">Cancelar</string>
     <string name="btn_close">Desativar</string>
@@ -425,7 +425,7 @@
     <string name="gadget_weather_title">Clima</string>
     <string name="gadget_weather_title_14">Clima</string>
     <string name="gadget_weather_title_24">Clima</string>
-    <string name="garbage_count">There are %1$s old instances</string>
+    <string name="garbage_count">Existem %1$s instâncias antigas</string>
     <string name="global_search_hint">Pesquisar</string>
     <string name="got_it_botton">Entendi</string>
     <string name="group_folder">Nova pasta</string>
@@ -451,7 +451,7 @@
     <string name="icon_size">Tamanho do ícone</string>
     <string name="icon_style">Estilo</string>
     <string name="image_too_small_message">A imagem original não é grande o suficiente.</string>
-    <string name="in_app_result_by">In-App results by</string>
+    <string name="in_app_result_by">Resultados no aplicativo por</string>
     <string name="install">Instalar</string>
     <string name="invalid_contact_shortcut">Contato inválido</string>
     <string name="is_setting_wallpaper_message">Definindo o plano de fundo…</string>
@@ -497,7 +497,7 @@
     <string name="memory_clear_result">%1$sB limpo(s)</string>
     <string name="memory_clear_result_giga">%1$sGB liberado</string>
     <string name="memory_clear_result_mega">%1$sMB liberado</string>
-    <string name="memory_leak">Memory leak</string>
+    <string name="memory_leak">Vazamento de memória</string>
     <string name="menu_add">Adicionar</string>
     <string name="menu_auto_fill_of_uninstall">Preencher espaços vazios de apps desinstalados</string>
     <string name="menu_back_desktop">Voltar à Tela inicial</string>
@@ -671,7 +671,7 @@
     <string name="noon">"PM"</string>
     <string name="normal_wallpaper">Plano de fundo</string>
     <string name="not_set">Não definido</string>
-    <string name="notification_channel_alerts">Alerts</string>
+    <string name="notification_channel_alerts">Alertas</string>
     <string name="notification_installed">Instalado com sucesso</string>
     <string name="notification_open_button">Abrir</string>
     <string name="notification_reset_title">Ícones organizados com sucesso</string>
