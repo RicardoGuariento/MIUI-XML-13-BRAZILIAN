@@ -20,7 +20,7 @@
         <item>Aniversário</item>
         <item>Site</item>
         <item>Endereço</item>
-        <item>Anotação</item>
+        <item>Nota</item>
     </string-array>
     <string-array name="first_guide_contents">
         <item>Bem-vindo às Notas!</item>
@@ -52,7 +52,7 @@
     </string-array>
     <string-array name="second_guide_contents_pad_or_inter">
         <item>Notas de voz</item>
-        <item>Você pode criar notas de voz agora. Toque no ícone, grave sua voz, e salve o arquivo de áudio dentro da anotação.</item>
+        <item>Você pode criar notas de voz agora. Toque no ícone, grave sua voz, e salve o arquivo de áudio dentro da nota.</item>
     </string-array>
     <string-array name="system_folder_operations">
         <item>Novo</item>

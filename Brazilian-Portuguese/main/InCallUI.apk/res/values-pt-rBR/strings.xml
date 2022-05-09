@@ -346,7 +346,7 @@
     <string name="onscreen_merge_calls_text">Unir chamadas</string>
     <string name="onscreen_message_text">Mensagens</string>
     <string name="onscreen_mute_text">Mudo</string>
-    <string name="onscreen_note_calls_text">Anotação</string>
+    <string name="onscreen_note_calls_text">Nota</string>
     <string name="onscreen_swap_calls_text">Trocar</string>
     <string name="onscreen_switch_camera">Mudar</string>
     <string name="package_not_available">O app \"%s\" não está disponível</string>

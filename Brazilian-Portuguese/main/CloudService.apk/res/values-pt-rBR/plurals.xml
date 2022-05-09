@@ -67,11 +67,11 @@
     </plurals>
     <plurals name="dirty_note_count">
         <item quantity="other">%d notas</item>
-        <item quantity="one">%d anotação</item>
+        <item quantity="one">%d nota</item>
     </plurals>
     <plurals name="dirty_note_count_v2">
         <item quantity="other">%d notas</item>
-        <item quantity="one">%d anotação</item>
+        <item quantity="one">%d nota</item>
     </plurals>
     <plurals name="dirty_personalAssistant_count">
         <item quantity="other">%d entradas no Assistente</item>

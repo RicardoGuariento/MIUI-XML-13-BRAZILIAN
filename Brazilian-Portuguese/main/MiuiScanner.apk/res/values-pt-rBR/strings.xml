@@ -823,7 +823,7 @@ Por favor, consulte o ângulo na imagem para colocar o dispositivo e tente novam
     <string name="translate_long_screen">Tradução de rolagem</string>
     <string name="translate_overtime">Tempo limite de serviço</string>
     <string name="translate_parallel_2_lines">Certifique-se de que o texto esteja paralelo às linhas na tela</string>
-    <string name="translate_save_fail">Não foi possível salvar a anotação</string>
+    <string name="translate_save_fail">Não foi possível salvar a nota</string>
     <string name="translate_src_lang">Idioma de origem</string>
     <string name="translate_text_compare">Comparação</string>
     <string name="translate_text_compare_copy">Copiar</string>

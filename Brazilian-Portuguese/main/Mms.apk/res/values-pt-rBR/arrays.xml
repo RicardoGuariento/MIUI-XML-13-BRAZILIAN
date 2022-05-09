@@ -11,7 +11,7 @@
         <item>Aniversário</item>
         <item>"Website"</item>
         <item>Endereço</item>
-        <item>Anotação</item>
+        <item>Nota</item>
         <item>Relação</item>
     </string-array>
     <string-array name="dialog_choice_specific_correct_as_normal">

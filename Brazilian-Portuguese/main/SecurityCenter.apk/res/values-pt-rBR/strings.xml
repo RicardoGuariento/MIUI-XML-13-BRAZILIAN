@@ -2828,7 +2828,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="not_settled">Não definido</string>
     <string name="not_support_root_summary">Permitir acesso root para apps de terceiros pode representar riscos de segurança e danificar seu dispositivo. Por este motivo, não oferecemos mais opções para gerenciar permissões de acesso root.</string>
     <string name="not_support_root_title">Acesso root</string>
-    <string name="note">Anotação</string>
+    <string name="note">Nota</string>
     <string name="note_call_none">Nenhuma chamada</string>
     <string name="note_list_none">A lista está vazia</string>
     <string name="note_sms_none">Nenhuma mensagem</string>

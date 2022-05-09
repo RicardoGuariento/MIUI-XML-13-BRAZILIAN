@@ -16,7 +16,7 @@
     <string name="app_health">Mi Saúde</string>
     <string name="app_midrop">"ShareMe"</string>
     <string name="app_mihome">"Mi Home"</string>
-    <string name="app_notes">Anotações</string>
+    <string name="app_notes">Notas</string>
     <string name="app_recorder">Gravador</string>
     <string name="app_scanner">"Scanner"</string>
     <string name="app_security">Segurança</string>
@@ -74,8 +74,8 @@
     <string name="widget_health_steps_desc">Veja as passos de hoje e o progresso da meta</string>
     <string name="widget_notes_tasks">Tarefas</string>
     <string name="widget_notes_tasks_desc">Visualize e abra suas tarefas</string>
-    <string name="widget_notes_view">Anotações</string>
-    <string name="widget_notes_view_desc">Veja e abra suas anotações</string>
+    <string name="widget_notes_view">Notas</string>
+    <string name="widget_notes_view_desc">Veja e abra suas notas</string>
     <string name="widget_security_app_behavior">Privacidade</string>
     <string name="widget_security_app_behavior_desc">Veja estatísticas de comportamento do app</string>
     <string name="widget_security_app_predict">Sugestões de apps</string>

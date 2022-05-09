@@ -341,7 +341,7 @@
     <string name="callrecordview_item_op_time_short_incoming">"Recebida: "</string>
     <string name="callrecordview_item_op_time_short_outgoing">"Efetuada: "</string>
     <string name="callrecordview_item_op_video">Vídeo</string>
-    <string name="callrecordview_menu_add_call_note">Adicionar anotação de chamada</string>
+    <string name="callrecordview_menu_add_call_note">Adicionar nota de chamada</string>
     <string name="callrecordview_menu_aiphone">Chamadas por IA</string>
     <string name="callrecordview_menu_batch_delete">Excluir vários registros</string>
     <string name="callrecordview_menu_blocklist">Lista de bloqueio</string>
