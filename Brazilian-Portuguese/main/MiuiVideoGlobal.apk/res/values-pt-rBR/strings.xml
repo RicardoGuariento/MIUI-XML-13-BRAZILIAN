@@ -323,6 +323,7 @@ Envie este código para o supervisor."</string>
     <string name="dialog_edit_hint_bookmarks_url">"URL"</string>
     <string name="dialog_edit_hint_name">Nome</string>
     <string name="dialog_edit_hint_url">"URL"</string>
+    <string name="dialog_item_add_video">Adicionar vídeos</string>
     <string name="dialog_jumpto_choose">Não mostrar novamente</string>
     <string name="dialog_jumpto_content">Alternar para o Mi Vídeo para acessar recursos adicionais de reprodução?</string>
     <string name="dialog_jumpto_title">Mi Vídeo</string>
@@ -448,7 +449,9 @@ Envie este código para o supervisor."</string>
     <string name="favorite_cancel_success">Removido dos favoritos com sucesso</string>
     <string name="favorite_fail">Não foi possível adicionar aos favoritos. Tente novamente.</string>
     <string name="favorite_success">Adicionado aos favoritos com sucesso</string>
+    <string name="fcm_2_args">Primeiro: %1$s e segundo %2$s</string>
     <string name="fcm_fallback_notification_channel_label">Diversos</string>
+    <string name="fcm_no_args">String sem argumentos</string>
     <string name="fcm_push_title">Vídeos populares</string>
     <string name="feedback">"Feedback"</string>
     <string name="feedback_activity_title">"Feedback"</string>
@@ -719,6 +722,11 @@ para uma melhor experiência de visualização"</string>
     <string name="local_push_setting_power_tag">Notificações sobre vídeos locais</string>
     <string name="local_push_title">Popular hoje</string>
     <string name="local_push_video_title">Procurar por vídeos locais</string>
+    <string name="local_subtitle_choose_language_text">Linguagem</string>
+    <string name="local_subtitle_exemption_hint">Procure legendas em opensubtitle.org</string>
+    <string name="local_subtitle_input_keyword_text">Procure palavras-chave</string>
+    <string name="local_subtitle_search_result_text">Resultados</string>
+    <string name="local_subtitle_searching_text">Pesquisando…</string>
     <string name="local_video_create_a_new_playlist">Nova playlist</string>
     <string name="local_video_date">Data</string>
     <string name="local_video_dialog_default">Padrão</string>
@@ -1588,6 +1596,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="slide_save_message">Gerando vídeo…</string>
     <string name="small_video_cancel_button">Cancelar</string>
     <string name="small_video_download_button">Baixar</string>
+    <string name="small_video_load_more_hint">Deslize para cima para reproduzir mais vídeos</string>
     <string name="small_video_snack_download_description">Baixe o SnackVideo para ver os vídeos mais recentes de seus criadores favoritos.</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
     <string name="sms_send_success">Enviado com sucesso</string>
@@ -1678,10 +1687,13 @@ Aumentar a segurança da sua conta."</string>
     <string name="tab_name_movies">Filmes</string>
     <string name="tab_name_trending">Tendências</string>
     <string name="tab_name_video">Vídeos</string>
+    <string name="tab_name_vk">VK Vídeos</string>
     <string name="tab_playlist_local">"Local"</string>
     <string name="tab_playlist_online">"Online"</string>
     <string name="talkback_ad_clicked">Anúncio</string>
     <string name="talkback_background_playback">Reprodução em segundo plano</string>
+    <string name="talkback_music_play">Tocar música</string>
+    <string name="talkback_video_play">Tocar vídeo</string>
     <string name="talkback_voice_search">Pesquisa por voz</string>
     <string name="target_sdk_version_30_upgrade_tips">Alguns vídeos podem não ser visualizados aqui devido a restrições do Android 11. Toque em \"Arquivos\" para encontrar outros vídeos.</string>
     <string name="temporary_not_available">Este recurso ainda não está disponível</string>
@@ -1741,6 +1753,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="tip_download_video_to_save_here">%d. O vídeo será salvo em seus downloads</string>
     <string name="tip_enter_the_website">%d. Abra um website ou app</string>
     <string name="tip_local_long_press_for_manager">Pressione e segure para gerenciar vídeos</string>
+    <string name="tip_local_long_press_for_manager_folder">Pressione e segure para gerenciar pastas</string>
     <string name="tip_local_manager_here">Gerencie seus arquivos aqui</string>
     <string name="tip_login_for_your_online_playlist">Faça o login para ver suas playlists.</string>
     <string name="tip_play_a_video">%d. Reproduza um vídeo</string>
@@ -1753,6 +1766,8 @@ Aumentar a segurança da sua conta."</string>
     <string name="title_download_setting">Configurações de download</string>
     <string name="title_firework_recommend">Recomendações do Firework</string>
     <string name="title_history">Histórico</string>
+    <string name="title_mangotv_history_sub" formatted="false">%s (Episódio: %d)</string>
+    <string name="title_mangotv_subtitle_language">Idioma da legenda</string>
     <string name="title_publisher">Criadores</string>
     <string name="title_select_directory">Selecionar pasta</string>
     <string name="title_selected">Selecionado</string>
@@ -1859,6 +1874,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="video_resolution_tag_suffix">%dP</string>
     <string name="videos_guide_tip">Encontre as tendências da Indonésia aqui</string>
     <string name="view">Ver</string>
+    <string name="vk_video_tab">Para você</string>
     <string name="vp_VideoView_error_button">"OK"</string>
     <string name="vp_VideoView_error_text_unknown">Ocorreu um erro</string>
     <string name="vp_VideoView_error_title">Erro desconhecido</string>

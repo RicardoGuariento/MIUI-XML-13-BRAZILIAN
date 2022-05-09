@@ -907,6 +907,7 @@
     <string name="storage_item_system_name">Sistema</string>
     <string name="storage_item_video_name">Vídeo</string>
     <string name="storage_space_release_hint">Precisa de mais espaço de armazenamento?</string>
+    <string name="storage_system_log">Logs do sistema</string>
     <string name="summary_auto_cleaner">Receber notificações quando o tamanho do lixo atingir 100MB?</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_delete_apk">Excluir APKs selecionados permanentemente?</string>

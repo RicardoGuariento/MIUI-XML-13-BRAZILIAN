@@ -79,8 +79,8 @@
         <item quantity="one">&lt;Data&gt;Pode limpar os dados de &lt;font color=#0097FF>%d&lt;/font> app&lt;/Data&gt;</item>
     </plurals>
     <plurals name="dc_item_summary_app_reset">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> apps usam muito espaço de armazenamento&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> app usa muito espaço de armazenamento&lt;/Data></item>
+        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> apps usam muito armazenamento&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> app usa muito armazenamento&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_image">
         <item quantity="other">&lt;Data&gt;Remova &lt;font color=#0097FF>%d&lt;/font> fotos desnecessárias&lt;/Data&gt;</item>

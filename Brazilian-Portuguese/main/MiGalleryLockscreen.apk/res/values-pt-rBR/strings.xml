@@ -385,14 +385,14 @@ Isso pode gerar cobranças adicionais."</string>
     <string name="lks_loop_icon_dlg_title">Apresentação de slides da Tela de bloqueio</string>
     <string name="lks_loop_icon_open_dlg">A apresentação de slides da Tela de bloqueio está ativada e exibe novas imagens e histórias diariamente em sua Tela de bloqueio.</string>
     <string name="lks_loop_icon_open_ok">Entendi</string>
-    <string name="lks_more">Mais</string>
+    <string name="lks_more" />
     <string name="lks_more_pics_coming_toast">Novas imagens estão a caminho</string>
     <string name="lks_new_user_help_anime">Deslize para cima para ver mais do Carrossel de Planos de fundo</string>
     <string name="lks_no_network">"Não foi possível conectar à rede"</string>
     <string name="lks_please_reload">Recarregar</string>
-    <string name="lks_related_article">Artigo</string>
+    <string name="lks_related_article" />
     <string name="lks_retry">Tente novamente</string>
-    <string name="lks_set_as_lks_wallpaper">Definida como a Tela de bloqueio</string>
+    <string name="lks_set_as_lks_wallpaper" />
     <string name="lks_subscription_toast">Papel de parede alterado</string>
     <string name="lks_to_history">História</string>
     <string name="lks_to_setting">Configurações do Carrossel de Planos de fundo</string>

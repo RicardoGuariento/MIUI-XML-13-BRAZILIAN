@@ -386,6 +386,7 @@ Taxa de amostragem"</string>
 Verifique as Configurações para saber mais"</string>
     <string name="fast_connect_b508_name">"ZMI B508"</string>
     <string name="fast_connect_bt_speaker2_name">Alto-falante portátil MI</string>
+    <string name="fast_connect_connection_fail">"Não foi possível conectar"</string>
     <string name="fast_connect_device_battery">Bateria</string>
     <string name="fast_connect_device_box">"Case"</string>
     <string name="fast_connect_device_box_name">"Case: %1$s"</string>

@@ -200,4 +200,20 @@
         <item>"Uso de dados móveis "</item>
         <item>"Uso do Wi-Fi "</item>
     </string-array>
+    <string-array name="cache_sort_type">
+        <item>Tamanho</item>
+        <item>Nome</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Classificar por nome do app</item>
+        <item>Classificar por frequência de uso</item>
+        <item>Classificar por uso do armazenamento</item>
+        <item>Classificar por data de instalação</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Nome do app</item>
+        <item>Frequência de uso</item>
+        <item>Uso do armazenamento</item>
+        <item>Data de instalação</item>
+    </string-array>
 </resources>

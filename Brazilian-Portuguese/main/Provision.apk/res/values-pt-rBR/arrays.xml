@@ -5,4 +5,8 @@
         <item>Apenas Wi-Fi</item>
         <item>Desativado</item>
     </string-array>
+    <string-array name="other_settings_auto_update_at_no_simslot_entries">
+        <item>Apenas Wi-Fi</item>
+        <item>Desativado</item>
+    </string-array>
 </resources>

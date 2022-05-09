@@ -200,4 +200,8 @@
         <item quantity="other">%d visualizações</item>
         <item quantity="one">%d visualização</item>
     </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">"%s likes"</item>
+        <item quantity="one">"%s like"</item>
+    </plurals>
 </resources>

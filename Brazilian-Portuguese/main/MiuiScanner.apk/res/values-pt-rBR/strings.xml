@@ -190,7 +190,7 @@
     <string name="document_recognize_text">Reconhecer texto</string>
     <string name="document_rectify">Ajustar</string>
     <string name="document_rectify_tip_msg">Ajustando…</string>
-    <string name="document_region">Ajustar</string>
+    <string name="document_region">Seleção automática</string>
     <string name="document_region_tips">Seleção automática</string>
     <string name="document_rename">Renomear</string>
     <string name="document_rename_error">Erro ao renomear</string>
@@ -360,6 +360,7 @@
     <string name="language_entry_japanese">Japonês</string>
     <string name="language_entry_korean">Coreano</string>
     <string name="language_entry_spanish">Espanhol</string>
+    <string name="language_translate_entry_auto">Automático</string>
     <string name="link_to_network">Conectar</string>
     <string name="local_ocr_recognition">Reconhecimento de OCR local</string>
     <string name="local_ocr_recognition_str">Alterado para tradução offline</string>
@@ -503,7 +504,7 @@ Por favor, consulte o ângulo na imagem para colocar o dispositivo e tente novam
     <string name="night">"PM"</string>
     <string name="no_has_experience_version_permission">Você não tem permissão para usar o Scanner Beta. Inscreva-se para obter as permissões ou baixe a versão estável.</string>
     <string name="no_inner_version">A versão beta não está disponível"</string>
-    <string name="no_network">Não é possível conectar-se à rede</string>
+    <string name="no_network">Não foi possível conectar à rede. Aguarde um momento e tente novamente.</string>
     <string name="no_one_phone">Insira um número de telefone válido</string>
     <string name="no_storage">Nenhum armazenamento interno</string>
     <string name="no_support_to_translate_type">"Este idioma não é compatível"</string>
