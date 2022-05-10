@@ -129,7 +129,7 @@ Nem todos os apps são compatíveis com essa configuração"</string>
     <string name="accessibility_dialog_button_deny">Negar</string>
     <string name="accessibility_dialog_button_stop">Parar</string>
     <string name="accessibility_disable_animations">Remover animações</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Ajuste como as cores são exibidas em seu dispositivo. Isso pode ser útil quando você deseja:<br></br><br></br><ol><li> Veja as cores mais precisas</li><li> Remova cores para ajudá-lo a se concentrar</li></ol></string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Ajuste como as cores são exibidas em seu dispositivo. Isso pode ser útil quando você deseja:<br><br></br></br><ol><li> Veja as cores mais precisas<li></li> Remova cores para ajudá-lo a se concentrar</li></ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Correção de cor</string>
     <string name="accessibility_display_inversion_preference_subtitle">A inversão de cores escurece as telas claras.&lt;br/>&lt;br/> Observação: &lt;ol> &lt;li> A inversão de cores também transforma telas escuras em telas claras.&lt;/li> &lt;li> As cores mudam tanto em mídias quanto em imagens.&lt;/li> &lt;li> O tema escuro pode ser usado para exibir um plano de fundo escuro. O tema escuro funciona apenas em apps compatíveis, mas a \"Inversão de cores\" funciona em todos os apps.&lt;/li> &lt;/ol></string>
     <string name="accessibility_display_inversion_preference_title">Inversão de cores</string>
@@ -1508,6 +1508,8 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_enable_alphanumeric_pin">O PIN contém letras ou símbolos</string>
     <string name="bluetooth_enable_gabeldorsche">Ativar Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Ativa a pilha de recursos Bluetooth Gabeldorsche.</string>
+    <string name="bluetooth_enable_opp_high_speed">High speed Bluetooth transfers</string>
+    <string name="bluetooth_enable_opp_high_speed_summary">Use high speed Bluetooth P2P protocols for transfers</string>
     <string name="bluetooth_enable_page_scan">Ativar página de verificação do Bluetooth</string>
     <string name="bluetooth_enable_page_scan_summary">Ativar/desativar página de verificação para testar o Bluetooth</string>
     <string name="bluetooth_enable_pts_test">habilitar teste PTS bluetooth</string>
@@ -3899,6 +3901,7 @@ Este recurso funciona apenas quando a navegação do sistema está definida para
 • Toque em \"Janelas flutuantes\" nos Recentes para selecionar apps."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"• Toque em um app na barra lateral para abri-lo em uma janela flutuante.
 • Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a tela dividida."</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">• Drag an app from the sidebar to the center of the screen to open it in a floating window or to the side to use Split screen</string>
     <string name="freeform_vedio_description_pad">Arraste itens para fora do dock para abrir janelas flutuantes</string>
     <string name="frequently_fragment_delete">Remover</string>
     <string name="frequently_fragment_tempty">Itens usados frequentemente serão listados aqui</string>
@@ -5421,6 +5424,9 @@ Não poderá reverter esta ação."</string>
     <string name="miheadet_up_music">Anterior</string>
     <string name="miheadset_Box">"Case"</string>
     <string name="miheadset_Intelligentpickfree_summary">Quando o cancelamento de ruído está ativado, seus fones de ouvido mudarão automaticamente para transparência por um curto período de tempo quando detectarem vozes</string>
+    <string name="miheadset_LEAudio_summary">"Some features won't be available when LE Audio is on."</string>
+    <string name="miheadset_LEAudio_title">Turn on LE Audio?</string>
+    <string name="miheadset_LE_on_toast">Make sure both earphones are charged and take them out of the case before turning this feature on</string>
     <string name="miheadset_LeftEar">Esquerdo</string>
     <string name="miheadset_RightEar">Direito</string>
     <string name="miheadset_active">Energético</string>
@@ -5475,6 +5481,8 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_enhence_low">Aprimorar os graves</string>
     <string name="miheadset_equalizer">Equalizador</string>
     <string name="miheadset_feedback">"Feedback"</string>
+    <string name="miheadset_feedback_summary">To be able to submit logs, put both earphones in the charging case and keep the lid open.</string>
+    <string name="miheadset_feedback_title">Submit logs</string>
     <string name="miheadset_fitness_check">Teste de fones de ouvido</string>
     <string name="miheadset_fitness_check_checking">Testando…</string>
     <string name="miheadset_fitness_check_continue">Continuar</string>
@@ -5541,9 +5549,12 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_preferences">Preferências</string>
     <string name="miheadset_rename">Renomear</string>
     <string name="miheadset_rename_device">Renomear</string>
+    <string name="miheadset_same_account_incall">Take calls from all synced devices</string>
+    <string name="miheadset_same_account_incall_summary">Connect earphones to other synced devices to take incoming calls</string>
     <string name="miheadset_shared_contacts">Compartilhamento de contatos</string>
     <string name="miheadset_shared_contacts_summary">Para compartilhar contatos</string>
     <string name="miheadset_single_ear_indicate">Use os dois fones de ouvido para usar o cancelamento de ruído</string>
+    <string name="miheadset_singleear_toast">Not supported for just one earphone</string>
     <string name="miheadset_soft">Macio</string>
     <string name="miheadset_sound_settings">Áudio</string>
     <string name="miheadset_spatial_audio_off">Desativar</string>
@@ -6408,6 +6419,7 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
     <string name="notifications_summary_divider"> / </string>
     <string name="notifications_title">Notificações</string>
     <string name="now">Reiniciar agora</string>
+    <string name="nrca_switch_title">Use 5G carrier aggregation</string>
     <string name="number_of_device_admins_none">Nenhum app ativo</string>
     <string name="oaid_apps_summary">Permite ou restringe o acesso a apps individualmente</string>
     <string name="oaid_apps_title">Gerenciar ID virtual</string>
@@ -8386,6 +8398,7 @@ PIN possivelmente incorreto."</string>
     <string name="sim_no_service">Sem serviço</string>
     <string name="sim_notification_summary">Toque para configurar</string>
     <string name="sim_notification_title">Alteração em chips.</string>
+    <string name="sim_nrca_title">"SIM %1$s (%2$s)"</string>
     <string name="sim_other_call_settings">Outras configurações de chamada</string>
     <string name="sim_outgoing_call_title">Chip para fazer chamadas</string>
     <string name="sim_pin_change">Alterar PIN do chip</string>

@@ -281,6 +281,7 @@ taxa de amostragem"</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="charge_length_format">%1$s atrás</string>
+    <string name="chip_text">Chip text</string>
     <string name="choose_profile">Escolher perfil</string>
     <string name="clear_adb_keys">Revogar autorizações de depuração USB</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
@@ -648,6 +649,7 @@ taxa de amostragem"</string>
     <string name="notification_disconnectedCall_body">A chamada para %s foi desconectada devido a uma chamada de emergência sendo realizada.</string>
     <string name="notification_disconnectedCall_generic_body">Sua chamada foi desconectada devido a uma chamada de emergência sendo realizada.</string>
     <string name="notification_disconnectedCall_title">Chamada desconectada</string>
+    <string name="notification_disconnectedDialing_message">Cannot place a call as another outgoing call is already dialing.</string>
     <string name="notification_incallservice_not_responding_body">Sua chamada usou o app de telefone que veio com seu dispositivo</string>
     <string name="notification_incallservice_not_responding_title">%s parou de responder</string>
     <string name="notification_incoming_call">Chamada %1$s de %2$s</string>

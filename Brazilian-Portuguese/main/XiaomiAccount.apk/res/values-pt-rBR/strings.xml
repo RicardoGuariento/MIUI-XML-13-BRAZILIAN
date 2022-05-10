@@ -338,6 +338,9 @@ Envie este código para o supervisor."</string>
     <string name="login_check_find_device">Obtendo informações de segurança do dispositivo…</string>
     <string name="login_check_find_device_failed_title">Não foi possível verificar as informações de segurança do dispositivo</string>
     <string name="login_find_device_bind">Este dispositivo está associado à uma ID de Conta Mi existente (%s).</string>
+    <string name="login_notification_button_text">Sign in</string>
+    <string name="login_notification_desc">Enjoy cloud services, family storage space, and more</string>
+    <string name="login_notification_title">Sign in to your Mi Account</string>
     <string name="login_with_other">Mais opções</string>
     <string name="logout_account">Sair</string>
     <string name="logout_failed">Não é possível sair</string>

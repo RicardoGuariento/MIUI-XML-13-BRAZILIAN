@@ -141,6 +141,7 @@
     <string name="adb_install_reject_notiy_desc">Você pode permitir a instalação via USB nas Opções do desenvolvedor</string>
     <string name="adb_login_xiaomi_account">Faça o login em sua Conta Mi primeiro</string>
     <string name="add_auto_task_desktop_icon">Adicionar atalho para a Tela inicial</string>
+    <string name="add_bill_reminder_alarm">Set phone balance warning</string>
     <string name="add_done">Adicionado com sucesso</string>
     <string name="add_game">Adicionar jogo</string>
     <string name="add_game_notification_summary">Toque para executar e otimizar a velocidade</string>
@@ -591,9 +592,9 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_predict_widget_title">Sugestões de apps</string>
     <string name="app_right">Produzido oficialmente pela Xiaomi</string>
     <string name="app_running_tip_dialog_negative">Cancelar</string>
-    <string name="app_running_tip_dialog_positive">"OK"</string>
-    <string name="app_running_tip_dialog_text">Sair do %1$s para impedir que ele execute em segundo plano. Isto vai acelerar seu dispositivo e reduzirá seu consumo de energia.</string>
-    <string name="app_running_tip_dialog_title">Sair do app</string>
+    <string name="app_running_tip_dialog_positive">Sair</string>
+    <string name="app_running_tip_dialog_text">Looks like this app is running in the background. You can quit the app to speed up your device and reduce power consumption.</string>
+    <string name="app_running_tip_dialog_title">Sair do %1$s</string>
     <string name="app_running_tip_uninstall">Desinstale este app</string>
     <string name="app_settings_link">Configurações adicionais do app</string>
     <string name="app_statusbar_audio_now">Gravando áudio</string>
@@ -944,8 +945,14 @@ Você não perderá nenhum dado de apps."</string>
     <string name="behavior_widget_read_write_external_storage">Arquivos acessados</string>
     <string name="best_booster_status">A velocidade dos jogos é a melhor disponível no momento.</string>
     <string name="bg_network_exception_title">Conexão em 2º plano restrita</string>
+    <string name="bill_arrears_character">Looks like SIM %d balance is insufficient. Top up now to stay connected.</string>
+    <string name="bill_arrears_title">"SIM %d can't connect to the network"</string>
     <string name="bill_limit_notification_text_format">Cartão: %1$s | Saldo: %2$s CNY</string>
     <string name="bill_limit_notification_title">Saldo insuficiente</string>
+    <string name="bill_remind">Phone balance warning</string>
+    <string name="bill_reminder_summary">Remind to top up when balance gets lower than %1s</string>
+    <string name="bill_traffic_reminder_instruction">Attention</string>
+    <string name="bill_traffic_reminder_instruction_text">The actual details of the plans provided by mobile carriers might vary and billing delays might occur. The information provided here is for your reference only.</string>
     <string name="bind_xiaomi_account_cancel">Cancelar</string>
     <string name="bind_xiaomi_account_confirm">Adicionar</string>
     <string name="bind_xiaomi_account_dialog_summery">Você está prestes a adicionar a Conta Mi %s. Caso você esqueça sua senha, você poderá usar esta conta para redefini-la. A conta será removida automaticamente caso você faça o logout.</string>
@@ -1110,6 +1117,10 @@ Você não perderá nenhum dado de apps."</string>
     <string name="clear_garbage">Limpe o lixo para liberar espaço</string>
     <string name="clear_immediately">Limpar agora</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
+    <string name="click_to_charge_bill">Top up</string>
+    <string name="click_to_set_carrier">Tap to set</string>
+    <string name="click_to_set_personalized_reminder">Set warnings</string>
+    <string name="click_to_set_traffic">Tap to set</string>
     <string name="close">Fechar</string>
     <string name="close_callwait">Desativado</string>
     <string name="cmcc_app_check_dialog_message">Reinicie seu dispositivo para concluir o reparo.</string>
@@ -1119,7 +1130,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="common_google_play_services_unknown_issue">O app %1$s está com problemas com o Google Play Services. Tente novamente.</string>
     <string name="commonly_used_func_card_title">Características comuns</string>
     <string name="commonly_used_func_edit_too_many_func">Não é possível adicionar mais itens</string>
-    <string name="compatible_dialog_content">"Este app não é totalmente compatível com a arquitetura de 64 bits. Usando o mesmo poderá reduzir o desempenho do sistema e aumentar o consumo de energia."</string>
+    <string name="compatible_dialog_content">"Este app não é totalmente compatível com a arquitetura de 64 bits. Você poderá ter problemas de desempenho e aumento do consumo de energia ao usá-lo."</string>
     <string name="compatible_dialog_more_info">Saiba mais</string>
     <string name="compatible_dialog_title">Atenção</string>
     <string name="comprehensive_protection_measures">Proteção abrangente</string>
@@ -1127,6 +1138,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="confirm_ai_allow_all_permission">Alterar o status da permissão para \"Decida por mim\" para todos os apps?</string>
     <string name="confirm_allow_all_permission">Permitir que todos os apps usem este recurso?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Adicionando Conta Mi</string>
+    <string name="confirm_close">Turn off</string>
     <string name="confirm_fingerprint_msg">Verifique sua impressão digital</string>
     <string name="confirm_leave">Não, obrigado</string>
     <string name="confirm_open">Ativar</string>
@@ -1183,7 +1195,11 @@ Você não perderá nenhum dado de apps."</string>
     <string name="daily_limit_and_lock_screen">Aviso sobre o uso de dados</string>
     <string name="daily_limit_network_available_body">Toque para ver as estatísticas de uso de dados.</string>
     <string name="daily_limit_over_message">Você excedeu seu limite diário de dados.</string>
+    <string name="daily_package_reminder_character">Set a daily data usage limit to receive a warning when this limit is reached.</string>
     <string name="daily_pkg_traffic">Limite de dados em pico</string>
+    <string name="daily_remind_warning_text_tips">Warn when daily limit is reached</string>
+    <string name="daily_reminder_warning">Daily data limit</string>
+    <string name="daily_reminder_warning_necessary">Daily data limit (required)</string>
     <string name="data_booster_desc">Desativar outros cartões SIM para manter a conexão estável</string>
     <string name="data_booster_title">Estabilizar conexão de dados</string>
     <string name="data_local_processing_and_storage">Dados armazenados e processados localmente</string>
@@ -1355,6 +1371,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="dual_setting_simcard2">"Chip 2"</string>
     <string name="early_morning">"AM"</string>
     <string name="edit_new_task_name">Insira o nome da tarefa</string>
+    <string name="edit_phone_num">Edit SIM phone number</string>
     <string name="eew_privacy_revoke_title">Retirar consentimento para a Política de Privacidade de aviso de terremoto</string>
     <string name="email">E-mail</string>
     <string name="empty" />
@@ -1404,11 +1421,15 @@ cartão médico"</string>
     <string name="ew_button_confirm">Aceito</string>
     <string name="ew_button_exit">Discordo</string>
     <string name="ew_china_version_first_start_network_msg"><Data>"Este recurso fornece a funcionalidade de aviso de terremoto. Ele o notificará sobre os próximos terremotos e reproduzirá um som de aviso. Você poderá encontrar o abrigo mais próximo, ligar para seu contato de emergência e apresentar seu cartão médico, se necessário. &lt;br>Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes. &lt;br>Para funcionar normalmente, esse recurso requer as seguintes permissões para coletar suas informações pessoais: &lt;br>• Informações de localização: &lt;br>Para acessar sua localização e fornecer avisos precisos sobre terremotos. &lt;br>Se você não concordar em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar isto recurso. Você pode optar por desativar esse recurso ou não ativá-lo nesses casos. &lt;br>Você deve ler e aceitar a nossa &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Política de privacidade&lt;/a> antes de usar este recurso."</Data></string>
+    <string name="ew_click_locate">Tap to get location info</string>
     <string name="ew_close">Desativar alertas</string>
+    <string name="ew_close_tips">Earthquake warning is off</string>
     <string name="ew_close_warning">Desativar</string>
     <string name="ew_concern_city">Cidades adicionadas</string>
     <string name="ew_concern_date_empty">Nenhum</string>
     <string name="ew_concern_manage">Gerenciar</string>
+    <string name="ew_contact_dialog_tips">Add at least one emergency contact.</string>
+    <string name="ew_contact_dialog_title">Attention</string>
     <string name="ew_current_location">Localização atual</string>
     <string name="ew_emergency_allergy">Alergias</string>
     <string name="ew_emergency_basic_info">Informação básica</string>
@@ -1435,12 +1456,19 @@ cartão médico"</string>
     <string name="ew_emergency_title">Cartão médico</string>
     <string name="ew_first_start_network_title">Termos e Condições</string>
     <string name="ew_get_location">Localizar</string>
+    <string name="ew_global_default_signature">EEWS BMKG</string>
+    <string name="ew_global_service_scope_external_link" />
+    <string name="ew_global_signature">"Information provided by EEWS BMKG
+Technical support by Xiaomi &amp; ICL"</string>
+    <string name="ew_global_signature_template">"Information provided by %s
+Technical support by Xiaomi &amp; ICL"</string>
     <string name="ew_guide_law_agree">Concordar</string>
     <string name="ew_guide_law_done">Entendi</string>
     <string name="ew_guide_law_exit">Discordo</string>
     <string name="ew_guide_law_text">Este recurso fornece a funcionalidade de aviso de terremoto. Você deve entender que as informações de alerta de terremoto são fornecidas por uma agência de alerta antecipada terceirizada. A Xiaomi não supervisiona agências terceirizadas e não tem nenhum controle sobre elas. A Xiaomi não promete ou garante a precisão, validade e oportunidade das informações de alerta de terremoto, nem garante que o serviço de alerta de terremoto atenderá a todas as suas necessidades. Você deve entender que este recurso é fornecido apenas para sua referência. Você é o único responsável pelos riscos e consequências de quaisquer ações que execute com base nas informações fornecidas por este recurso.</string>
     <string name="ew_guide_law_title">Aviso legal</string>
     <string name="ew_guide_next_text">Próximo</string>
+    <string name="ew_guide_open">Receive earthquake warnings</string>
     <string name="ew_guide_play_audio">Tocar som de aviso</string>
     <string name="ew_guide_play_audio_last">Tocar som de aviso (%ds)</string>
     <string name="ew_guide_start">Ativar</string>
@@ -1454,7 +1482,7 @@ A Xiaomi não promete nem garante a precisão, validade e oportunidade das infor
 Receber informações de aviso de terremoto exige que você mantenha seu dispositivo conectado à rede móvel. Falhas de linha de comunicação de terceiros, problemas técnicos, falhas de rede ou equipamento terminal, instabilidade do sistema e outros vários eventos de força maior podem impedir que você receba informações de aviso de terremoto. A Xiaomi não assume nenhuma responsabilidade por quaisquer perdas causadas por tais eventos.
 Você deve entender que este recurso é fornecido apenas para sua referência. O aviso que você recebe pode vir segundos antes do início de um terremoto. Você é o único responsável pelos riscos e consequências de quaisquer ações que execute com base nas informações fornecidas por este recurso."</string>
     <string name="ew_guide_tips_1">Você será notificado sobre os próximos terremotos e ouvirá um som de alerta</string>
-    <string name="ew_guide_tips_2">Informações e som de alerta serão atualizados durante o terremoto</string>
+    <string name="ew_guide_tips_2">Informações antecipadas do terremoto e som de alerta serão atualizados durante o terremoto</string>
     <string name="ew_guide_tips_3">Você poderá encontrar o abrigo mais próximo, ligar para seu contato de emergência e apresentar seu cartão médico, se necessário</string>
     <string name="ew_guide_title">Ver demonstração</string>
     <string name="ew_info_agreement">Isenção de responsabilidade</string>
@@ -1472,6 +1500,7 @@ Você deve entender que este recurso é fornecido apenas para sua referência. O
     <string name="ew_list_receive_time_title">Hora do início</string>
     <string name="ew_list_title">Alertas</string>
     <string name="ew_location_failed">Localização desconhecida</string>
+    <string name="ew_location_open">Location services are on</string>
     <string name="ew_main_close_text">Você não poderá receber informações atualizadas sobre este terremoto se desligar o alerta. Desativar mesmo assim?</string>
     <string name="ew_main_close_title">Atenção</string>
     <string name="ew_main_contact_change">Alterar</string>
@@ -1521,7 +1550,9 @@ monitoramento de terremoto Nº %s!"</string>
     <string name="ew_monitor_title">Voluntário de monitoramento de terremoto</string>
     <string name="ew_monitor_title_spilt">"Voluntário para 
 monitoramento de terremotos"</string>
+    <string name="ew_no_contact_tips">No contacts here</string>
     <string name="ew_not_support_area">Os avisos não são suportados nesta área</string>
+    <string name="ew_open_tips">Earthquake warning is on</string>
     <string name="ew_push_message">Intensidade estimada: %s. Espere um tremor leve perto de você.</string>
     <string name="ew_push_title">Alerta de terremoto para %s</string>
     <string name="ew_safe_place_no_maps_tips">Não é possível pesquisar agora. Instale o Baidu Maps ou o Amap primeiro</string>
@@ -1539,9 +1570,12 @@ monitoramento de terremotos"</string>
     <string name="ew_settings_choose_level_value_3">" (Vibração forte)"</string>
     <string name="ew_settings_choose_level_value_4">" (Vibração severa)"</string>
     <string name="ew_settings_push_tips">Os avisos sobre áreas fora de sua localização virão apenas na forma de notificações.</string>
+    <string name="ew_settings_set_level_summary">Receive warnings about earthquakes when their intensity is %s or higher</string>
+    <string name="ew_settings_set_level_title">Set earthquake warning threshold</string>
     <string name="ew_subscribe_area_title">Gerenciar áreas adicionadas</string>
     <string name="ew_subscribe_city">Áreas adicionadas</string>
     <string name="ew_subscribe_search_hint">Pesquisar por áreas</string>
+    <string name="ew_user_feedback">"Feedback"</string>
     <string name="examination_score_100">Tudo em ordem!</string>
     <string name="examination_score_60_0">Buscar agora</string>
     <string name="examination_score_80_100">Alguns itens podem ser otimizados</string>
@@ -2164,10 +2198,15 @@ das suas sessões de jogos"</string>
     <string name="gd_setting_title">Barra inteligente</string>
     <string name="gd_setting_vtb">Exibir durante a reprodução de vídeos</string>
     <string name="gd_setting_vtb_desc">Recursos especiais para reprodução de vídeo</string>
+    <string name="gd_sidebar_edit_all_title">All apps</string>
+    <string name="gd_sidebar_edit_btn_close">Hide</string>
+    <string name="gd_sidebar_edit_btn_expand">More</string>
+    <string name="gd_sidebar_edit_quick_title">Shortcuts</string>
     <string name="gd_sidebar_long_press_tips">Pressione e segure o indicador para movê-lo enquanto segura o dispositivo verticalmente</string>
     <string name="gd_splite_screen_tips">"A tela dividida não suporta janelas flutuantes"</string>
     <string name="gdpr_msg"><Data>Para poder detectar riscos de segurança e proteger seus dados, precisamos coletar a quantidade necessária de informações sobre seu dispositivo. Leia e concorde com nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a> antes de usar nossos serviços. Caso você não concorde com a coleta destas informações, você ainda poderá usar o app, mas alguns recursos não estarão disponíveis.</Data></string>
     <string name="get_detail_by_click">Toque para ver detalhes</string>
+    <string name="get_phone_num_fail">Unknown phone number</string>
     <string name="get_sys_info">Obtendo informações…</string>
     <string name="gigabyteShort">"GB"</string>
     <string name="global_wa_setting_alert_dialog_content">Você pode liberar até %s</string>
@@ -2357,6 +2396,8 @@ para se juntar à nossa caça ao ovo!"</string>
     <string name="ime_security_warning">%1$s pode registrar tudo o que você digita, incluindo senhas e outras informações confidenciais. Usar assim mesmo?</string>
     <string name="in_delete">Excluindo…</string>
     <string name="in_recover">Restaurando…</string>
+    <string name="infinite_daily_package_usage_summary" formatted="false">%1s (%2s)</string>
+    <string name="infinite_remind_warning_text_tips">Warn when monthly limit is reached</string>
     <string name="info_and_call">Chamadas e mensagens</string>
     <string name="info_antispam_close">Lista de bloqueio desativada</string>
     <string name="info_antispam_current_mode">%s</string>
@@ -2372,6 +2413,8 @@ para se juntar à nossa caça ao ovo!"</string>
     <string name="input_celluar_data_quota_hint">Insira o limite de uso de dados</string>
     <string name="input_cellular_data_warn_hint">Insira o limite para o aviso sobre o uso de dados</string>
     <string name="input_password_hint_text">Inserir senha</string>
+    <string name="input_phone_num_hint">Edit SIM phone number</string>
+    <string name="input_title">Tap to enter</string>
     <string name="input_traffic_pkg">Inserir limite de uso de dados</string>
     <string name="input_used_hint">Inserir limite de uso de dados</string>
     <string name="input_used_max_hint">Insira o uso de dados (menos de %s)</string>
@@ -2484,7 +2527,9 @@ Sua operadora poderá cobrar tarifas adicionais se continuar a usar a conexão a
     <string name="main_button_usage_package_setting">Definir limite de uso de dados móveis</string>
     <string name="main_daily_card_guide_dialog_ok">Definir</string>
     <string name="main_daily_card_guide_dialog_summary">Você pode escolher entre planos diários, mensais ou ilimitados. Definir o tipo de plano de dados agora?</string>
+    <string name="main_daily_card_guide_dialog_summary_new">Daily, monthly, and unlimited data plans are supported. Set data plan type now?</string>
     <string name="main_daily_card_guide_dialog_title">Definir tipo de plano de dados</string>
+    <string name="main_daily_card_guide_dialog_title_new">>Definir tipo de plano de dados</string>
     <string name="main_daily_package">Plano de dados diário</string>
     <string name="main_indicator_title">Ativação</string>
     <string name="main_leisure_remained">Dados restantes</string>
@@ -2633,6 +2678,7 @@ Seu dispositivo está %s mais rápido agora."</string>
     <string name="menu_white">Adicionar às exceções</string>
     <string name="mi_ime_not_used">Use um teclado autorizado pela Xiaomi</string>
     <string name="mi_service_app_detail">Detalhes de uso de dados</string>
+    <string name="mi_roaming">Mi Roaming</string>
     <string name="mi_service_traffic_detail">Detalhes da estrutura</string>
     <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Toque no topo para abrir o Mi chip.&lt;/U>&lt;/font>"</string>
     <string name="mian_page_primary_txt">Roaming no exterior</string>
@@ -2696,6 +2742,7 @@ Seu dispositivo está %s mais rápido agora."</string>
     <string name="month_february">Fevereiro</string>
     <string name="month_february_short">Fev</string>
     <string name="month_february_shortest">Fev</string>
+    <string name="month_fix_remind_warning_text_tips">Warn when fixed monthly data is used up</string>
     <string name="month_january">Janeiro</string>
     <string name="month_january_short">"Jan"</string>
     <string name="month_january_shortest">"Jan"</string>
@@ -2717,6 +2764,9 @@ Seu dispositivo está %s mais rápido agora."</string>
     <string name="month_october">Outubro</string>
     <string name="month_october_short">Out</string>
     <string name="month_october_shortest">Out</string>
+    <string name="month_package_reminder_character">"Using data usage warnings with unlimited data plans still requires setting a data limit. You'll receive the warning when this limit is reached."</string>
+    <string name="month_reminder_warning">Monthly data limit</string>
+    <string name="month_reminder_warning_necessary">Monthly data limit (required)</string>
     <string name="month_september">Setembro</string>
     <string name="month_september_short">Set</string>
     <string name="month_september_shortest">Set</string>
@@ -2822,9 +2872,12 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="no_game">Nenhum jogo encontrado</string>
     <string name="no_open">Agora não</string>
     <string name="no_privacy_permission">Não é necessário consentimento para a Política de Privacidade</string>
+    <string name="no_sim_card_by_tips">To be able to set phone balance and data usage warnings, insert a SIM card first.</string>
     <string name="noon">"PM"</string>
+    <string name="normal_package_usage_summary" formatted="false">%2s of %1s (%3s)</string>
     <string name="not_limited_brand">Ilimitado</string>
-    <string name="not_set">Não definido</string>
+    <string name="not_closed">Keep on</string>
+    <string name="not_set">Toque para definir</string>
     <string name="not_settled">Não definido</string>
     <string name="not_support_root_summary">Permitir acesso root para apps de terceiros pode representar riscos de segurança e danificar seu dispositivo. Por este motivo, não oferecemos mais opções para gerenciar permissões de acesso root.</string>
     <string name="not_support_root_title">Acesso root</string>
@@ -2840,6 +2893,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="notification_abnormal_consume_wakelock">O sistema está ficando ativo em 2º plano</string>
     <string name="notification_antivirus_button_text">Verificar</string>
     <string name="notification_antivirus_message">Verifique agora para neutralizar riscos</string>
+    <string name="notification_bar">Notification</string>
     <string name="notification_battery_consume_abnormal_title">Alto consumo de energia</string>
     <string name="notification_battery_scan_consume_abnormal_summary">Toque para corrigir o problema</string>
     <string name="notification_battery_scan_consume_abnormal_title_set">%s está drenando bateria</string>
@@ -2974,6 +3028,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="open_extreme_power_save_mode_title">Ativar a Economia extrema de bateria</string>
     <string name="open_game">Abrir</string>
     <string name="open_now">Permitir que o app use os dados móveis</string>
+    <string name="open_wlan_title">Allow this app to turn Wi-Fi on and off</string>
+    <string name="operator_location_settings">Set carrier and location</string>
+    <string name="operator_location_settings_message">"Couldn't recognize your carrier and location. Can't set phone balance and data usage warnings now."</string>
     <string name="operator_name_cmcc">China Mobile</string>
     <string name="operator_name_mi_mobile">Mi Mobile</string>
     <string name="operator_name_telcom">China Telecom</string>
@@ -3754,6 +3811,25 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_empty_location">Nenhum app acessou a localização hoje</string>
     <string name="privacy_empty_record">Nenhuma gravação de áudio hoje</string>
     <string name="privacy_empty_storage">Nenhum app acessou o armazenamento hoje</string>
+    <string name="privacy_flares_behavior_recent">App behavior</string>
+    <string name="privacy_flares_capsule_current">%1s | Now</string>
+    <string name="privacy_flares_capsule_recent">%1s | Recently</string>
+    <string name="privacy_flares_current">Current action</string>
+    <string name="privacy_flares_current_detail_cam">This app is using camera</string>
+    <string name="privacy_flares_current_detail_cam_loc">This app is using camera and accessing your location</string>
+    <string name="privacy_flares_current_detail_cam_mic">This app is using camera and microphone</string>
+    <string name="privacy_flares_current_detail_loc">This app is accessing your location</string>
+    <string name="privacy_flares_current_detail_mic">This app is using microphone</string>
+    <string name="privacy_flares_current_detail_mic_loc">This app is using microphone and accessing your location</string>
+    <string name="privacy_flares_current_detail_more">This app is using a sensitive permission</string>
+    <string name="privacy_flares_recent">Recent action</string>
+    <string name="privacy_flares_recent_detail_cam">This app has used camera</string>
+    <string name="privacy_flares_recent_detail_cam_loc">This app has used camera and accessed your location</string>
+    <string name="privacy_flares_recent_detail_cam_mic">This app has used camera and microphone</string>
+    <string name="privacy_flares_recent_detail_loc">This app has accessed your location</string>
+    <string name="privacy_flares_recent_detail_mic">This app has used microphone</string>
+    <string name="privacy_flares_recent_detail_mic_loc">This app has used microphone and accessed your location</string>
+    <string name="privacy_flares_recent_detail_more">This app has used a sensitive permission</string>
     <string name="privacy_global_guide_permission_guide_text">Você receberá um alerta na barra de status quando os apps gravarem áudio ou usarem a câmera. Para saber qual app fez isso, toque no alerta.</string>
     <string name="privacy_guide_permission_guide_text">Você pode receber um alerta na barra de status quando apps acessarem sua localização, gravarem áudio ou tirarem fotos.</string>
     <string name="privacy_guide_permission_use_text">A MIUI contará e exibirá o número de vezes que um app usa permissões sensíveis, incluindo localização, contatos, histórico de chamadas e acesso ao armazenamento, assim como a gravação de áudio. Você poderá saber quantas vezes cada app usa essas permissões e determinar se você precisa ajustar suas configurações de permissão.</string>
@@ -3810,7 +3886,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
 Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelos de calibração."</string>
     <string name="privacy_prompt_upload">Enviar</string>
     <string name="privacy_protect_summary">Proteja suas informações pessoais</string>
-    <string name="privacy_protect_title">Privacidade</string>
+    <string name="privacy_protect_title">Proteção de privacidade</string>
     <string name="privacy_provision_back">Voltar</string>
     <string name="privacy_provision_more">Saiba mais sobre a proteção de privacidade</string>
     <string name="privacy_provision_next">Avançar</string>
@@ -3987,10 +4063,15 @@ Retirar consentimento agora?"</string>
     <string name="reject_usb_install">A instalação via USB dos seguintes apps foi negada</string>
     <string name="release_meminfo">Liberado %dMB</string>
     <string name="release_memory">Limpar cache</string>
+    <string name="reminder_once_month">Once a month</string>
+    <string name="reminder_tips">Attention</string>
+    <string name="reminder_type">Warning type</string>
+    <string name="reminder_warning">Limit</string>
     <string name="renew_ip">Repetir</string>
     <string name="renew_now">Renovar</string>
     <string name="repair">Reparar</string>
     <string name="repair_loading_text">Aguarde…</string>
+    <string name="repeat_type">Repeat</string>
     <string name="repeated_marked_number_summary">Não bloquear a segunda chamada do mesmo número reportado dentro de %d minutos</string>
     <string name="repeated_marked_number_title">Não bloquear chamadas repetidas de números reportados</string>
     <string name="replace_dns">Substituir DNS automaticamente</string>
@@ -4111,6 +4192,7 @@ Retirar consentimento agora?"</string>
     <string name="select_app_title_default">Abra o app</string>
     <string name="select_app_title_music">Tocar música</string>
     <string name="select_province_and_city">Defina a localização</string>
+    <string name="select_traffic_type_and_reminder_type">Tap to set</string>
     <string name="send">Enviar</string>
     <string name="send_msg_to_query">Envie uma mensagem de texto para verificar</string>
     <string name="send_sms_title">Permitir que %s envie mensagens?</string>
@@ -4140,6 +4222,7 @@ Retirar consentimento agora?"</string>
     <string name="settings_choice_no_notification">Desativado</string>
     <string name="settings_image_camera_summary">Modelo do dispositivo, metadados, etc.</string>
     <string name="settings_location_subtitle_no">Nenhuma informação de localização</string>
+    <string name="settings_negative_button_text">Not now</string>
     <string name="settings_power_save_ontime_title">Programar</string>
     <string name="settings_privacy_revoke_desc">Ao desativar o seletor, você estará retirando o seu consentimento à Política de Privacidade do app Segurança.</string>
     <string name="settings_privacy_revoke_title">Retirada de consentimento</string>
@@ -4523,6 +4606,7 @@ Retirar consentimento agora?"</string>
     <string name="st_summary_whitelist_numbers">Permite chamadas e mensagens de números e áreas específicas</string>
     <string name="st_summary_whitelist_numbers_international">Permite chamadas e mensagens de números específicos</string>
     <string name="st_tab_title">"%1$s (SIM %2$d)"</string>
+    <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">Adicionar à Lista de bloqueio</string>
     <string name="st_title_addwhitelist">Adicionar às exceções</string>
     <string name="st_title_adress">Adicionar locais</string>
@@ -4610,6 +4694,8 @@ Retirar consentimento agora?"</string>
     <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">O dual app deste app também será desinstalado.</string>
     <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Todos os dados do app também serão excluídos se você o desinstalar.</string>
     <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Desinstalar o dual app?</string>
+    <string name="storage_app_public_desc">Occupies %s, including files generated in shared storage</string>
+    <string name="storage_app_public_title">Shared files</string>
     <string name="storage_app_space_details_entry">Ver detalhes do app</string>
     <string name="storage_app_uninstall_app_dialog_msg">Todos os dados do app também serão excluídos se você o desinstalar.</string>
     <string name="storage_app_uninstall_app_dialog_title">Desinstalando o app</string>
@@ -4632,6 +4718,11 @@ Para usar este ^1, você precisa montá-lo primeiro."</string>
     <string name="storage_dialog_unsupported">"Este dispositivo não suporta este ^1.
 
 Para usar este ^1 com este dispositivo, você precisa configurá-lo primeiro."</string>
+    <string name="storage_file_delete_tip">Delete selected items permanently? Some of them may be loaded again when necessary.</string>
+    <string name="storage_file_dialog_delete_title">Delete items</string>
+    <string name="storage_file_list_btn">Delete %1$s</string>
+    <string name="storage_file_list_from">From %s</string>
+    <string name="storage_fob_date_format">dd-MM</string>
     <string name="storage_format_failure">Não foi possível formatar o %1$s</string>
     <string name="storage_format_success">%1$s formatado com sucesso</string>
     <string name="storage_item_apk_name">"APKs"</string>
@@ -4641,12 +4732,18 @@ Para usar este ^1 com este dispositivo, você precisa configurá-lo primeiro."</
     <string name="storage_item_doc_name">Documentos</string>
     <string name="storage_item_other_name">Outros</string>
     <string name="storage_item_picture_name">Imagens</string>
+    <string name="storage_item_system_data">System</string>
     <string name="storage_item_system_name">Sistema</string>
     <string name="storage_item_video_name">Vídeos</string>
     <string name="storage_menu_mount">Montar</string>
     <string name="storage_mount_failure">Não foi possível montar o %1$s</string>
     <string name="storage_mount_success">%1$s montado com sucesso</string>
     <string name="storage_space_release_hint">Precisa de mais espaço?</string>
+    <string name="storage_system_log">System logs</string>
+    <string name="storage_system_log_tip">System logs will be cleared automatically when necessary</string>
+    <string name="storage_system_memory_expansion">Memory extension</string>
+    <string name="storage_system_memory_expansion_tip">Extend RAM by occupying storage</string>
+    <string name="storage_system_other_tip">Data necessary for the system to work normally (filesize may change over time)</string>
     <string name="storage_unmount_failure">Não foi possível ejetar o %1$s</string>
     <string name="storage_unmount_success">%1$s ejetado com sucesso</string>
     <string name="storage_wizard_format_confirm_v2_action">Formatar ^1</string>
@@ -4904,6 +5001,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="tc_sms_report_upload_when_net">Obrigado pelo seu feedback!</string>
     <string name="tc_web_correct_error">Não foi possível calibrar</string>
     <string name="ten_percent_total_pkg">%s (10%% do plano mensal)</string>
+     <string name="terms_and_conditions_content"><Data>"This feature provides you with earthquake warning functionality. It will notify you about upcoming earthquakes and play warning sound. You'll be able to find the nearest shelter, call your emergency contact, and present your medical card if required. &lt;br>We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. &lt;br>To be able to work normally, this feature requires the following permissions in order to collect your personal information: &lt;br>• Location info: &lt;br>For accessing your location and providing accurate earthquake warnings. &lt;br>If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this feature. You can choose to turn this feature off or not turn it on in such cases. &lt;br>You must read and agree to our &lt;a href=%s>Privacy Policy&lt;/a> before using this feature."</Data></string>
     <string name="tether_custom_dialog_title">Limite de dados móveis</string>
     <string name="tether_limit_dialog_title">Limite de dados móveis</string>
     <string name="tether_limit_value_custom">Personalizado</string>
@@ -4975,6 +5073,8 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="timeshow_m">"%dm"</string>
     <string name="timeshow_s">"%ds"</string>
     <string name="tips">Atenção</string>
+    <string name="tips_by_auto_close">To be able to set phone balance and data usage warnings, you need to sync carrier stats automatically. Turn on sync now?</string>
+    <string name="tips_by_reminder_function">"You won't be able to receive phone balance and data usage warnings if you turn off auto sync now."</string>
     <string name="tips_dialog_title">Não sabe seu limite?</string>
     <string name="tips_message">Para ver os detalhes do seu plano de dados, ligue %2$s (%1$s).</string>
     <string name="tips_of_app_manage">Exclua apps usados raramente para liberar espaço</string>
@@ -5126,6 +5226,8 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="top_game">Jogos populares</string>
     <string name="top_load_fail_detail">Não foi possível carregar, toque para tentar novamente</string>
     <string name="top_no_network_detial">Não foi possível carregar, verifique a conexão de rede e tente novamente</string>
+    <string name="traffic_advanced_settings">Traffic Advanced Settings</string>
+    <string name="traffic_alarm">Set alarm</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Plano mensal alterado para %s.</string>
     <string name="traffic_alert_auto_modify_notification_titile">Plano de dados atualizado</string>
     <string name="traffic_alert_auto_modify_package_summary">Ajustar pacote de dados automaticamente de acordo com informações da operadora</string>
@@ -5164,6 +5266,9 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="traffic_over_purchase_link">"Você atingiu seu limite de dados em seu plano. &lt;br/> Se você exceder seu limite de dados, sua operadora poderá cobrar pelo uso excedente.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Toque para recarregar agora.&lt;/U>&lt;/font>"</string>
     <string name="traffic_provider_no_sim">O cartão SIM não está instalado</string>
     <string name="traffic_purchase_body">Toque para recarregar.</string>
+    <string name="traffic_remind">Data usage warning</string>
+    <string name="traffic_remind_switch">Data usage warning</string>
+    <string name="traffic_reminder_settings">Set data usage warning</string>
     <string name="traffic_setting_fragment_area">Localização</string>
     <string name="traffic_setting_fragment_brand">Marca</string>
     <string name="traffic_setting_fragment_button1_text">Cancelar</string>
@@ -5199,6 +5304,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
+    <string name="turn_off_auto_correction">Turning off auto sync</string>
     <string name="two_address_choose_hint">%1$s e %2$s</string>
     <string name="type_face_condition_summary">Ajuste o tamanho do texto e a espessura da fonte</string>
     <string name="unable_connect_internet">Sem conexão com a internet</string>
@@ -5209,6 +5315,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="uninstall_danagerous_desc">\"%s\" pode danificar seu dispositivo</string>
     <string name="uninstall_danagerous_msg">\"%s\" pode danificar seu dispositivo, diminuir seu desempenho ou causar instabilidade.</string>
     <string name="uninstall_danagerous_title">Desinstalar apps maliciosos</string>
+    <string name="unknown_operator">"You can call %2$s to confirm your plan's details with %1$s."</string>
     <string name="unknown_package">Não tem certeza sobre qual é o seu plano?</string>
     <string name="unlike">Não, obrigado</string>
     <string name="unlimited_cellular_data_monthly">Plano ilimitado</string>

@@ -95,6 +95,7 @@
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Arraste o canto para minimizar um app</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Arraste o canto para minimizar um app</string>
     <string name="freeform_guide_to_sidehide_summary">Arraste rapidamente a janela pela barra de ação até a borda da tela</string>
+    <string name="freeform_guide_to_sidehide_summary_pad">Quickly drag the app to side of the screen to hide it</string>
     <string name="freeform_guide_to_sidehide_title">Escondendo janelas flutuantes</string>
     <string name="freeform_slide_to_small_freeform">Minimizar janela flutuante</string>
     <string name="freeform_slide_to_small_freeform_summary">Pressione e segure a barra de ação e arraste para um canto</string>

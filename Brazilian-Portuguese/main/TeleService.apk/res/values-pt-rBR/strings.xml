@@ -1101,6 +1101,8 @@ Seleção"</string>
     <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
     <string name="fiveg_network_mode_title">Selecione o modo da rede 5G</string>
     <string name="fiveg_network_title">Redes 5G</string>
+    <string name="fiveg_nrca_switch_summary">Use 5G carrier aggregation for better connectivity</string>
+    <string name="fiveg_nrca_switch_title">5G carrier aggregation</string>
     <string name="fiveg_plmn_info_list1">Lista de informações de PLMN:</string>
     <string name="fiveg_power_switch_summary">Torna a conectividade 5G mais econômica de bateria em certos cenários</string>
     <string name="fiveg_power_switch_title">Economizador de bateria 5G</string>
@@ -2373,6 +2375,7 @@ Interface UT: %5$s"</string>
     <string name="sim_me_lock_disabled">Simlock está desabilitado.</string>
     <string name="sim_ndp_dismiss_text">Dispensar</string>
     <string name="sim_ndp_unlock_text">Desbloquear</string>
+    <string name="sim_nrca_title">"SIM %1$s (%2$s)"</string>
     <string name="sim_roaming_settings_summary">Conecte-se a redes de dados móveis em roaming</string>
     <string name="sim_roaming_settings_title">"Mi Roaming"</string>
     <string name="sim_selection_required_pref">Seleção necessária</string>
@@ -2704,6 +2707,8 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="undefined">Nenhum</string>
     <string name="unfold_close_camera_pref_summary">Abra o dispositivo durante uma videochamada para desligar a câmera</string>
     <string name="unfold_close_camera_pref_title">Desdobre para desligar a câmera</string>
+    <string name="unfold_show_bublle_pref_summary">Unfold the device during calls to show them in floating windows</string>
+    <string name="unfold_show_bublle_pref_title">Unfold to minimize calls</string>
     <string name="unfold_speaker_pref_summary">Abra o dispositivo durante uma chamada para ativar o alto-falante</string>
     <string name="unfold_speaker_pref_title">Desdobre para usar o alto-falante</string>
     <string name="unknown">Desconhecido</string>
