@@ -94,7 +94,7 @@
     <string name="all_apps_slide_up_tips">Deslizar para cima é uma ação reservada para abrir a Gaveta de apps. Mude para o modo Regular da Tela inicial e tente novamente.</string>
     <string name="all_apps_suggestions">Sugestões de apps</string>
     <string name="am">"AM"</string>
-    <string name="animation_rate_title">Taxa de animação</string>
+    <string name="animation_rate_title">Velocidade da animação</string>
     <string name="announce_for_app_move_in_folder">Movido para a posição %1$d na pasta</string>
     <string name="announce_for_checked">%1$s, selecionado</string>
     <string name="announce_for_choose_default_screen">Tela %1$d definida como padrão</string>
