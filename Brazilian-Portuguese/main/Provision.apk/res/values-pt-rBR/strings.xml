@@ -30,6 +30,8 @@
     <string name="access_non_personal_data">Se você retirar o consentimento para o acesso e uso de dados não pessoais do seu dispositivo, os serviços do Carrossel de Planos de fundo serão desativados e todos os dados coletados serão excluídos dentro do período especificado nas leis e regulamentos aplicáveis.</string>
     <string name="accessibility_enabled">Acessibilidade ativada.</string>
     <string name="actionbar_button_up_description">Voltar</string>
+    <string name="activate_esim_tips">"Couldn't activate. Try again."</string>
+    <string name="activating_esim_tips">Activating…</string>
     <string name="address_dialing_introduction">Você pode usar este app para fazer chamadas, ver o histórico de chamadas e gerenciar contatos.</string>
     <string name="afternoon">"PM"</string>
     <string name="agree">Aceitar</string>

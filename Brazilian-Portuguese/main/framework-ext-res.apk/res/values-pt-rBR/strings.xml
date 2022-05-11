@@ -124,6 +124,7 @@
     <string name="dewdrops">Orvalho da manhã</string>
     <string name="digitaluniverse">Universo digital (estéreo)</string>
     <string name="disable_nfc">NFC desativado devido ao carregamento sem fio</string>
+    <string name="disable_nfc_haptic_reverse">Turned off NFC and vibration for reverse wireless charging</string>
     <string name="disable_nfc_reverse">NFC desativado devido ao carregamento sem fio reverso</string>
     <string name="dock_tip_floatwindow">Segure a barra e arraste-a para a borda da tela para entrar na visualização em tela dividida.</string>
     <string name="dock_tip_splitscreen_landscape_drag">Arraste a barra horizontalmente para trocar as posições das duas janelas do app.</string>
@@ -138,6 +139,7 @@
     <string name="enable_livetalk_title">Ativar pacote de recarga</string>
     <string name="enable_midrop">Ativar</string>
     <string name="enable_nfc">Sem carregamento. NFC ativo</string>
+    <string name="enable_nfc_haptic_reverse">Stopped reverse charging. NFC and vibration are back on.</string>
     <string name="enable_nfc_reverse">Sem carregamento reverso. NFC ativo</string>
     <string name="expect">Excitação</string>
     <string name="fadein">Aparecimento gradual</string>
@@ -163,7 +165,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Agora não</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ativar</string>
     <string name="fp_nav_center_action_choose_dlg_title">Ativar Toque rápido</string>
-    <string name="freeform_exchange_tip">Solte para abrir o app</string>
+    <string name="freeform_exchange_tip">Abra a janela flutuante no modo de tela cheia</string>
     <string name="freeform_exchange_tip2">Arraste para o canto para cancelar</string>
     <string name="frenchchic">Chique</string>
     <string name="frequent_email">E-mail usado com frequência</string>
