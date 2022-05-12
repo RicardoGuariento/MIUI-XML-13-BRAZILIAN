@@ -3901,7 +3901,7 @@ Este recurso funciona apenas quando a navegação do sistema está definida para
 • Toque em \"Janelas flutuantes\" nos Recentes para selecionar apps."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"• Toque em um app na barra lateral para abri-lo em uma janela flutuante.
 • Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a tela dividida."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">• Arraste um aplicativo da barra lateral para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a tela dividida</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">• Arraste um app da barra lateral para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a tela dividida</string>
     <string name="freeform_vedio_description_pad">Arraste itens para fora do dock para abrir janelas flutuantes</string>
     <string name="frequently_fragment_delete">Remover</string>
     <string name="frequently_fragment_tempty">Itens usados frequentemente serão listados aqui</string>
@@ -5426,7 +5426,7 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_Intelligentpickfree_summary">Quando o cancelamento de ruído está ativado, seus fones de ouvido mudarão automaticamente para transparência por um curto período de tempo quando detectarem vozes</string>
     <string name="miheadset_LEAudio_summary">"Alguns recursos não estarão disponíveis quando o áudio de baixa energia estiver ativado."</string>
     <string name="miheadset_LEAudio_title">Ativar áudio de baixa energia?</string>
-    <string name="miheadset_LE_on_toast">Certifique-se de que ambos os fones de ouvido estejam carregados e retire-os do estojo antes de ativar esse recurso</string>
+    <string name="miheadset_LE_on_toast">Certifique-se de que ambos os fones de ouvido estejam carregados e retire-os do case antes de ativar esse recurso</string>
     <string name="miheadset_LeftEar">Esquerdo</string>
     <string name="miheadset_RightEar">Direito</string>
     <string name="miheadset_active">Energético</string>
@@ -5481,7 +5481,7 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_enhence_low">Aprimorar os graves</string>
     <string name="miheadset_equalizer">Equalizador</string>
     <string name="miheadset_feedback">"Feedback"</string>
-    <string name="miheadset_feedback_summary">Para poder enviar registros, coloque os dois fones de ouvido no estojo de carregamento e mantenha a tampa aberta.</string>
+    <string name="miheadset_feedback_summary">Para poder enviar registros, coloque os dois fones de ouvido no case de carregamento e mantenha a tampa aberta.</string>
     <string name="miheadset_feedback_title">Enviar registros</string>
     <string name="miheadset_fitness_check">Teste de fones de ouvido</string>
     <string name="miheadset_fitness_check_checking">Testando…</string>

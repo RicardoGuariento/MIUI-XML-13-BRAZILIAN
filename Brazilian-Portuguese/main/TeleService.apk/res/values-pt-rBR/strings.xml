@@ -1070,7 +1070,7 @@ Desativar o eSIM?"</string>
     <string name="esim_inactive_notification_channel">Notificação eSim ativa</string>
     <string name="esim_inactive_notification_message">Nenhum cartão SIM detectado. Toque para ativar o eSIM.</string>
     <string name="esim_inactive_notification_message_global">Nenhum cartão SIM detectado. Toque para ativar o eSIM.</string>
-    <string name="esim_inactive_notification_title_global">Dual SIM &amp; redes móveis</string>
+    <string name="esim_inactive_notification_title_global">Cartões SIM e redes móveis</string>
     <string name="esim_inactive_settings_title">Cartões SIM e rede móveis</string>
     <string name="esim_setting_title">Configurações do eSIM</string>
     <string name="evening">"PM"</string>
@@ -2724,12 +2724,12 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="turnover_mute_summary">Quando o telefone está numa superfície horizontal com a tela virada para cima, vire-o para baixo para silenciar o toque, desativar a vibração e interromper a luz de notificação.</string>
     <string name="turnover_mute_title">Virar telefone para silenciar toque</string>
     <string name="undefined">Nenhum</string>
-    <string name="unfold_close_camera_pref_summary">Abra o dispositivo durante uma videochamada para desligar a câmera</string>
-    <string name="unfold_close_camera_pref_title">Desdobre para desligar a câmera</string>
-    <string name="unfold_show_bublle_pref_summary">Unfold the device during calls to show them in floating windows</string>
-    <string name="unfold_show_bublle_pref_title">Unfold to minimize calls</string>
-    <string name="unfold_speaker_pref_summary">Abra o dispositivo durante uma chamada para ativar o alto-falante</string>
-    <string name="unfold_speaker_pref_title">Desdobre para usar o alto-falante</string>
+    <string name="unfold_close_camera_pref_summary">Abrir o dispositivo durante uma videochamada para desligar a câmera</string>
+    <string name="unfold_close_camera_pref_title">Abra para desligar a câmera</string>
+    <string name="unfold_show_bublle_pref_summary">Abrir o dispositivo durante as chamadas para mostrá-las em janelas flutuantes</string>
+    <string name="unfold_show_bublle_pref_title">Abrir para minimizar as chamadas</string>
+    <string name="unfold_speaker_pref_summary">Abrir o dispositivo durante uma chamada para ativar o alto-falante</string>
+    <string name="unfold_speaker_pref_title">Abrir para usar o alto-falante</string>
     <string name="unknown">Desconhecido</string>
     <string name="unlock_chances_left">Tentativas restantes:</string>
     <string name="unlock_failed">Solicitação de desbloqueio de rede falhou.</string>

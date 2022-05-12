@@ -487,7 +487,7 @@ Protocolo de conexão mais rápido"</string>
     <string name="headset_device_error_disconnect">Ambos os fones de ouvido desconectados. Feche o case e abra-o novamente para reiniciar a atualização.</string>
     <string name="headset_device_error_failed">Não foi possível atualizar</string>
     <string name="headset_device_error_multconnect">Não é possível atualizar quando vários dispositivos estão conectados</string>
-    <string name="headset_device_error_no_device">Coloque os dois fones de ouvido no estojo e mantenha-os carregados</string>
+    <string name="headset_device_error_no_device">Coloque os dois fones de ouvido na case e mantenha-os carregados</string>
     <string name="headset_device_error_single_device">Não é possível atualizar um fone de ouvido. Pareie novamente.</string>
     <string name="headset_device_sync">Sincronizando…</string>
     <string name="headset_device_sync_donot_move_device">Sincronizando… Espere até que a sincronização termine antes de usar os fones de ouvido.</string>

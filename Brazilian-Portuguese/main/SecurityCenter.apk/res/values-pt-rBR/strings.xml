@@ -593,7 +593,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_right">Produzido oficialmente pela Xiaomi</string>
     <string name="app_running_tip_dialog_negative">Cancelar</string>
     <string name="app_running_tip_dialog_positive">Sair</string>
-    <string name="app_running_tip_dialog_text">Parece que este app está executando no plano de fundo. Você pode fechar o app para otimizar a velocidade do seu dispositivo e reduzir o consumo de bateria.</string>
+    <string name="app_running_tip_dialog_text">Parece que este app está executando em segundo plano. Você pode fechar o app para otimizar a velocidade do seu dispositivo e reduzir o consumo de bateria.</string>
     <string name="app_running_tip_dialog_title">Sair do %1$s</string>
     <string name="app_running_tip_uninstall">Desinstale este app</string>
     <string name="app_settings_link">Configurações adicionais do app</string>
@@ -1459,9 +1459,9 @@ cartão médico"</string>
     <string name="ew_global_default_signature">EEWS BMKG</string>
     <string name="ew_global_service_scope_external_link" />
     <string name="ew_global_signature">"Informações fornecidas por EEWS BMKG
-Suporte técnico por Xiaomi &amp; ICL"</string>
+Suporte técnico por Xiaomi e ICL"</string>
     <string name="ew_global_signature_template">"Informações fornecidas por %s
-Suporte técnico por Xiaomi &amp; ICL"</string>
+Suporte técnico por Xiaomi e ICL"</string>
     <string name="ew_guide_law_agree">Concordar</string>
     <string name="ew_guide_law_done">Entendi</string>
     <string name="ew_guide_law_exit">Discordo</string>
@@ -1572,7 +1572,7 @@ monitoramento de terremotos"</string>
     <string name="ew_settings_push_tips">Os alertas sobre áreas fora de sua localização virão apenas na forma de notificações.</string>
     <string name="ew_settings_set_level_summary">Receba alertas sobre terremotos quando sua intensidade for %s ou maior</string>
     <string name="ew_settings_set_level_title">Definir limite de alerta de terremotos</string>
-    <string name="ew_sleep_mode_alert_content">"Para garantir que você possa receber alertas antecipados de terremoto, a MIUI desativará o Modo Sono. Aplicativos em segundo plano, NFC, Bluetooth, GPS, dados móveis e Wi-Fi funcionarão normalmente mesmo quando você estiver dormindo. Ativar o alerta de terremotos agora?"</string>
+    <string name="ew_sleep_mode_alert_content">"Para garantir que você possa receber alertas antecipados de terremoto, a MIUI desativará o Modo sono. Apps em segundo plano, NFC, Bluetooth, GPS, dados móveis e Wi-Fi funcionarão normalmente mesmo quando você estiver dormindo. Ativar o alerta de terremotos agora?"</string>
     <string name="ew_sleep_mode_alert_title">Alerta de terremoto</string>
     <string name="ew_subscribe_area_title">Gerenciar áreas adicionadas</string>
     <string name="ew_subscribe_city">Áreas adicionadas</string>
@@ -2768,7 +2768,7 @@ Seu dispositivo está %s mais rápido agora."</string>
     <string name="month_october_shortest">Out</string>
     <string name="month_package_reminder_character">"O uso de alertas de uso de dados com planos de dados ilimitados ainda exige a definição de um limite de dados. Você receberá o aviso quando esse limite for atingido."</string>
     <string name="month_reminder_warning">Limite de dados mensal</string>
-    <string name="month_reminder_warning_necessary">Limite de dados mensal (necessário)</string>
+    <string name="month_reminder_warning_necessary">Limite de dados mensal (obrigatório)</string>
     <string name="month_september">Setembro</string>
     <string name="month_september_short">Set</string>
     <string name="month_september_shortest">Set</string>
@@ -3416,10 +3416,10 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_center_super_wireless_charge_summary">Aumente a velocidade da ventoinha do carregador sem fio</string>
     <string name="power_center_super_wireless_charge_toast_close">Carregamento rápido sem fio desativado</string>
     <string name="power_center_surface_temp_high">Quente</string>
-    <string name="power_center_surface_temp_higher">Morno</string>
+    <string name="power_center_surface_temp_higher">Morna</string>
     <string name="power_center_surface_temp_low">Gelada</string>
     <string name="power_center_surface_temp_lower">Fria</string>
-    <string name="power_center_surface_temp_normal">Normal</string>
+    <string name="power_center_surface_temp_normal">"Normal"</string>
     <string name="power_center_time_to_boot">Horário para ligar</string>
     <string name="power_center_time_to_shutdown">Horário para desligar</string>
     <string name="power_center_title">Bateria</string>
