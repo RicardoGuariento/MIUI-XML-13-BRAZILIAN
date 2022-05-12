@@ -924,11 +924,11 @@ Seleção"</string>
     <string name="disable_cfb_forbidden">Sua operadora não suporta desativar o encaminhamento de chamadas quando o seu telefone está ocupado.</string>
     <string name="disable_cfnrc_forbidden">Sua operadora não suporta desativar o encaminhamento de chamadas quando o seu telefone está inacessível.</string>
     <string name="disable_cfnry_forbidden">Sua operadora não suporta desativar o encaminhamento de chamadas quando a ligação não for atendida.</string>
-    <string name="disable_esim_dialog_summary">"SIM %s will be activated if you deactivate eSIM now.
-Deactivate eSIM anyway?"</string>
-    <string name="disable_esim_dialog_title">Deactivating eSIM</string>
-    <string name="disable_esim_error_toast_message">"Couldn't deactivate eSIM"</string>
-    <string name="disable_esim_progress_activating_message">Deactivating eSIM…</string>
+    <string name="disable_esim_dialog_summary">"SIM %s será ativado se você desativar o eSIM agora.
+Desativar o eSIM?"</string>
+    <string name="disable_esim_dialog_title">Desativando eSIM</string>
+    <string name="disable_esim_error_toast_message">"Não foi possível desativar o eSIM"</string>
+    <string name="disable_esim_progress_activating_message">Desativando o eSIM…</string>
     <string name="disable_fdn">Desativar FDN</string>
     <string name="disable_fdn_ok">Ativar FDN</string>
     <string name="disable_overlays">Desativar sobreposição HW</string>
@@ -1014,12 +1014,12 @@ Deactivate eSIM anyway?"</string>
     <string name="enable_disable_technology_news">Notícias de tecnologia</string>
     <string name="enable_dual_4g_if_dual_ct">Preferir redes 4G para ambos os cartões SIM para usar VoLTE no cartão SIM secundário quando dois cartões da China Telecom estiverem instalados.</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">O VoLTE requer uma conexão 4G em ambos os cartões SIM. Ativar o Dual 4G agora?</string>
-    <string name="enable_esim_dialog_summary">"SIM %s will be deactivated if you activate eSIM now.
-Activate eSIM anyway?"</string>
-    <string name="enable_esim_dialog_title">Activating eSIM</string>
-    <string name="enable_esim_error_toast_message">"Couldn't activate eSIM"</string>
-    <string name="enable_esim_progress_activating_message">Activating eSIM…</string>
-    <string name="enable_esim_title">Use eSIM</string>
+    <string name="enable_esim_dialog_summary">"SIM %s será ativado se você desativar o eSIM agora.
+Desativar o eSIM?"</string>
+    <string name="enable_esim_dialog_title">Ativando o eSIM</string>
+    <string name="enable_esim_error_toast_message">"Não foi possível ativar o eSIM"</string>
+    <string name="enable_esim_progress_activating_message">Ativando o eSIM…</string>
+    <string name="enable_esim_title">Usar eSIM</string>
     <string name="enable_fdn">Ativar FDN</string>
     <string name="enable_fdn_ok">Desativar FDN</string>
     <string name="enable_freeform_support">Ativar janelas de forma livre</string>
@@ -1070,9 +1070,9 @@ Activate eSIM anyway?"</string>
     <string name="esim_inactive_notification_channel">Notificação eSim ativa</string>
     <string name="esim_inactive_notification_message">Nenhum cartão SIM detectado. Toque para ativar o eSIM.</string>
     <string name="esim_inactive_notification_message_global">Nenhum cartão SIM detectado. Toque para ativar o eSIM.</string>
-    <string name="esim_inactive_notification_title_global">Dual SIM &amp; mobile networks</string>
+    <string name="esim_inactive_notification_title_global">Dual SIM &amp; redes móveis</string>
     <string name="esim_inactive_settings_title">Cartões SIM e rede móveis</string>
-    <string name="esim_setting_title">eSIM settings</string>
+    <string name="esim_setting_title">Configurações do eSIM</string>
     <string name="evening">"PM"</string>
     <string name="exception_error">Erro de rede ou do cartão SIM.</string>
     <string name="expand_button_title">Avançado</string>
@@ -1775,7 +1775,7 @@ A rede preferencial será usada."</string>
     <string name="new_pin2_label">Novo PIN2</string>
     <string name="new_pin_label">Novo PIN</string>
     <string name="night">"PM"</string>
-    <string name="no_active_esim_text">Inactive eSIM</string>
+    <string name="no_active_esim_text">eSIM inativo</string>
     <string name="no_application">Nada</string>
     <string name="no_change">Nenhuma alteração foi feita.</string>
     <string name="no_checked_network">Você não será capaz de conectar-se a redes móveis e fazer chamadas. Selecionar outra rede?</string>
@@ -2338,7 +2338,7 @@ Interface UT: %5$s"</string>
     <string name="send_keepalive_title">Envie para manter-se vivo</string>
     <string name="sensor_answer_summary">Leve o telefone até ao ouvido para atender automaticamente</string>
     <string name="sensor_answer_title">Levante para atender</string>
-    <string name="set_esim_toast_phone_in_call">"Can't perform this action during calls"</string>
+    <string name="set_esim_toast_phone_in_call">"Não é possível realizar esta ação durante as chamadas"</string>
     <string name="set_primary_summary">Usado para chamadas efetuadas</string>
     <string name="set_primary_title">Definir como conta principal</string>
     <string name="set_smsc_address_error">Não é possível definir o número</string>

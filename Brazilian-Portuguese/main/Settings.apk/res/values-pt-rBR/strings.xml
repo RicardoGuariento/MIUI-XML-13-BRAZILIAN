@@ -1508,8 +1508,8 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_enable_alphanumeric_pin">O PIN contém letras ou símbolos</string>
     <string name="bluetooth_enable_gabeldorsche">Ativar Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Ativa a pilha de recursos Bluetooth Gabeldorsche.</string>
-    <string name="bluetooth_enable_opp_high_speed">High speed Bluetooth transfers</string>
-    <string name="bluetooth_enable_opp_high_speed_summary">Use high speed Bluetooth P2P protocols for transfers</string>
+    <string name="bluetooth_enable_opp_high_speed">Transferências Bluetooth de alta velocidade</string>
+    <string name="bluetooth_enable_opp_high_speed_summary">Use protocolos Bluetooth P2P de alta velocidade para transferências</string>
     <string name="bluetooth_enable_page_scan">Ativar página de verificação do Bluetooth</string>
     <string name="bluetooth_enable_page_scan_summary">Ativar/desativar página de verificação para testar o Bluetooth</string>
     <string name="bluetooth_enable_pts_test">habilitar teste PTS bluetooth</string>
@@ -3901,7 +3901,7 @@ Este recurso funciona apenas quando a navegação do sistema está definida para
 • Toque em \"Janelas flutuantes\" nos Recentes para selecionar apps."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"• Toque em um app na barra lateral para abri-lo em uma janela flutuante.
 • Arraste um app para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a tela dividida."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">• Drag an app from the sidebar to the center of the screen to open it in a floating window or to the side to use Split screen</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">• Arraste um aplicativo da barra lateral para o centro da tela para abri-lo em uma janela flutuante ou para o lado para usar a tela dividida</string>
     <string name="freeform_vedio_description_pad">Arraste itens para fora do dock para abrir janelas flutuantes</string>
     <string name="frequently_fragment_delete">Remover</string>
     <string name="frequently_fragment_tempty">Itens usados frequentemente serão listados aqui</string>
@@ -5424,9 +5424,9 @@ Não poderá reverter esta ação."</string>
     <string name="miheadet_up_music">Anterior</string>
     <string name="miheadset_Box">"Case"</string>
     <string name="miheadset_Intelligentpickfree_summary">Quando o cancelamento de ruído está ativado, seus fones de ouvido mudarão automaticamente para transparência por um curto período de tempo quando detectarem vozes</string>
-    <string name="miheadset_LEAudio_summary">"Some features won't be available when LE Audio is on."</string>
-    <string name="miheadset_LEAudio_title">Turn on LE Audio?</string>
-    <string name="miheadset_LE_on_toast">Make sure both earphones are charged and take them out of the case before turning this feature on</string>
+    <string name="miheadset_LEAudio_summary">"Alguns recursos não estarão disponíveis quando o áudio de baixa energia estiver ativado."</string>
+    <string name="miheadset_LEAudio_title">Ativar áudio de baixa energia?</string>
+    <string name="miheadset_LE_on_toast">Certifique-se de que ambos os fones de ouvido estejam carregados e retire-os do estojo antes de ativar esse recurso</string>
     <string name="miheadset_LeftEar">Esquerdo</string>
     <string name="miheadset_RightEar">Direito</string>
     <string name="miheadset_active">Energético</string>
@@ -5481,8 +5481,8 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_enhence_low">Aprimorar os graves</string>
     <string name="miheadset_equalizer">Equalizador</string>
     <string name="miheadset_feedback">"Feedback"</string>
-    <string name="miheadset_feedback_summary">To be able to submit logs, put both earphones in the charging case and keep the lid open.</string>
-    <string name="miheadset_feedback_title">Submit logs</string>
+    <string name="miheadset_feedback_summary">Para poder enviar registros, coloque os dois fones de ouvido no estojo de carregamento e mantenha a tampa aberta.</string>
+    <string name="miheadset_feedback_title">Enviar registros</string>
     <string name="miheadset_fitness_check">Teste de fones de ouvido</string>
     <string name="miheadset_fitness_check_checking">Testando…</string>
     <string name="miheadset_fitness_check_continue">Continuar</string>
@@ -5549,12 +5549,12 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_preferences">Preferências</string>
     <string name="miheadset_rename">Renomear</string>
     <string name="miheadset_rename_device">Renomear</string>
-    <string name="miheadset_same_account_incall">Take calls from all synced devices</string>
-    <string name="miheadset_same_account_incall_summary">Connect earphones to other synced devices to take incoming calls</string>
+    <string name="miheadset_same_account_incall">Atenda chamadas de todos os dispositivos sincronizados</string>
+    <string name="miheadset_same_account_incall_summary">Conecte fones de ouvido a outros dispositivos sincronizados para receber chamadas</string>
     <string name="miheadset_shared_contacts">Compartilhamento de contatos</string>
     <string name="miheadset_shared_contacts_summary">Para compartilhar contatos</string>
     <string name="miheadset_single_ear_indicate">Use os dois fones de ouvido para usar o cancelamento de ruído</string>
-    <string name="miheadset_singleear_toast">Not supported for just one earphone</string>
+    <string name="miheadset_singleear_toast">Não compatível com apenas um fone de ouvido</string>
     <string name="miheadset_soft">Macio</string>
     <string name="miheadset_sound_settings">Áudio</string>
     <string name="miheadset_spatial_audio_off">Desativar</string>
@@ -6419,7 +6419,7 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
     <string name="notifications_summary_divider"> / </string>
     <string name="notifications_title">Notificações</string>
     <string name="now">Reiniciar agora</string>
-    <string name="nrca_switch_title">Use 5G carrier aggregation</string>
+    <string name="nrca_switch_title">Usar agregação de operadora 5G</string>
     <string name="number_of_device_admins_none">Nenhum app ativo</string>
     <string name="oaid_apps_summary">Permite ou restringe o acesso a apps individualmente</string>
     <string name="oaid_apps_title">Gerenciar ID virtual</string>
