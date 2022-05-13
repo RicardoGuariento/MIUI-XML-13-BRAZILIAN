@@ -16,7 +16,7 @@
     <string name="input_method_clipboard_clear_all_phrase_title">Limpando área de transferência</string>
     <string name="input_method_clipboard_copy_success">Copiado com sucesso</string>
     <string name="input_method_clipboard_delete_success">Excluído com sucesso</string>
-    <string name="input_method_clipboard_move_cursor_guide1">Pressione e segure a área azul para mover o cursos</string>
+    <string name="input_method_clipboard_move_cursor_guide1">Pressione e segure a área azul para mover o cursor</string>
     <string name="input_method_clipboard_move_cursor_guide2">Mova seu dedo horizontalmente</string>
     <string name="input_method_clipboard_participle">Palavras separadas</string>
     <string name="input_method_clipboard_settings_button">Configurações</string>

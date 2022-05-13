@@ -1848,7 +1848,7 @@ Se você já fez tudo descrito acima, adicione sua Conta Mi novamente; senão, v
     <string name="bootloader_tips_ok">Entendi</string>
     <string name="bootloader_tips_warning">"Não desconecte da rede, saia da sua Conta Mi, faça uma restauração de fábrica, ou limpe os dados do sistema."</string>
     <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
-    <string name="bottom_function_settings">Funções dos botões adicionais</string>
+    <string name="bottom_function_settings">Função dos botões adicionais</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="breathing_light_color_menu_title">Cor do LED</string>
     <string name="breathing_light_color_summary">Cor do LED ao receber novas notificações</string>
@@ -4298,7 +4298,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="input_method_function_clipboard">Área de transferência e frases frequentes</string>
     <string name="input_method_function_clipboard_des">Toque para ver o conteúdo da área de transferência e frases frequentes</string>
     <string name="input_method_function_no_function">Nenhum</string>
-    <string name="input_method_function_no_function_des">"Não mostre nenhum atalho"</string>
+    <string name="input_method_function_no_function_des">"Não mostrar nenhum atalho"</string>
     <string name="input_method_function_switch">Alternar entre teclados</string>
     <string name="input_method_function_switch_des">Toque para mudar para um teclado diferente</string>
     <string name="input_method_function_switch_keyboard_language">Alterar idiomas</string>
@@ -4310,8 +4310,8 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="input_method_function_xiaoai">Entrada de voz Mi AI</string>
     <string name="input_method_function_xiaoai_des">Toque para usar a entrada de voz Mi AI</string>
     <string name="input_method_manage">Gerenciar teclados</string>
-    <string name="input_method_middle_function_move_cursor">Mover o cursos</string>
-    <string name="input_method_middle_function_move_cursor_des">Pressione e seguro a área central para mover o cursor</string>
+    <string name="input_method_middle_function_move_cursor">Mover o cursor</string>
+    <string name="input_method_middle_function_move_cursor_des">Pressione e segure a área central para mover o cursor</string>
     <string name="input_method_middle_function_no_function_des">Não atribuir nenhuma ação</string>
     <string name="input_method_quick_access">Acesso rápido</string>
     <string name="input_method_quick_cloud_mode_title">Notificações sobre o novo conteúdo da área de transferência</string>
