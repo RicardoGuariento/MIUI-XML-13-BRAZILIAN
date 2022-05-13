@@ -1784,17 +1784,6 @@ Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
     <string name="pref_video_focusmode_entry_continuous">Contínuo</string>
     <string name="pref_video_focusmode_title">Modo foco</string>
     <string name="pref_video_hfr_title">Taxa de quadros</string>
-    <string name="pref_video_quality_entry_1080p">FHD 1080p, %dfps</string>
-    <string name="pref_video_quality_entry_1080p_24fps">FHD 1080p, 24fps</string>
-    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, %fps</string>
-    <string name="pref_video_quality_entry_480p">SD 480p, 30fps</string>
-    <string name="pref_video_quality_entry_4kuhd">UHD 4K, %fps</string>
-    <string name="pref_video_quality_entry_4kuhd_24fps">UHD 4K, 24fps</string>
-    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, %fps</string>
-    <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
-    <string name="pref_video_quality_entry_720p_60fps">HD 720p, %fps</string>
-    <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24fps</string>
-    <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30fps</string>
     <string name="pref_video_quality_hfr_title">Taxa de quadros e qualidade de imagem</string>
     <string name="pref_video_quality_title">Qualidade de vídeo</string>
     <string name="pref_video_speed_entry_fast">Rápido</string>
