@@ -4298,7 +4298,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="input_method_function_clipboard">Área de transferência e frases frequentes</string>
     <string name="input_method_function_clipboard_des">Toque para ver o conteúdo da área de transferência e frases frequentes</string>
     <string name="input_method_function_no_function">Nenhum</string>
-    <string name="input_method_function_no_function_des">"Não mostre nenhum atalho"</string>
+    <string name="input_method_function_no_function_des">"Não mostrar nenhum atalho"</string>
     <string name="input_method_function_switch">Alternar entre teclados</string>
     <string name="input_method_function_switch_des">Toque para mudar para um teclado diferente</string>
     <string name="input_method_function_switch_keyboard_language">Alterar idiomas</string>
@@ -4310,8 +4310,8 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="input_method_function_xiaoai">Entrada de voz Mi AI</string>
     <string name="input_method_function_xiaoai_des">Toque para usar a entrada de voz Mi AI</string>
     <string name="input_method_manage">Gerenciar teclados</string>
-    <string name="input_method_middle_function_move_cursor">Mover o cursos</string>
-    <string name="input_method_middle_function_move_cursor_des">Pressione e seguro a área central para mover o cursor</string>
+    <string name="input_method_middle_function_move_cursor">Mover o cursor</string>
+    <string name="input_method_middle_function_move_cursor_des">Pressione e segure a área central para mover o cursor</string>
     <string name="input_method_middle_function_no_function_des">Não atribuir nenhuma ação</string>
     <string name="input_method_quick_access">Acesso rápido</string>
     <string name="input_method_quick_cloud_mode_title">Notificações sobre o novo conteúdo da área de transferência</string>
