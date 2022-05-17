@@ -1369,6 +1369,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="unknown_contact_name">Contato desconhecido</string>
     <string name="unknown_details_add_to_contact">Existente</string>
     <string name="unknown_details_new_contact">Novo</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">"Can't show QR codes while using Split screen"</string>
     <string name="update_sim_contact_photo_toast">Não é possível definir uma foto de perfil para contatos no SIM</string>
     <string name="upgrade_in_progress">A lista de contatos está sendo atualizada.</string>
     <string name="upgrade_out_of_memory">"Os contatos estão sendo atualizados no momento. 

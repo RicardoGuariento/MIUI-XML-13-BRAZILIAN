@@ -379,7 +379,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="morning">"AM"</string>
     <string name="msg_alert_cancel_restore">Restaurando itens da MiCloud. Cancelar agora?</string>
     <string name="msg_alert_restore_error">Não foi possível restaurar itens da MiCloud. Tente novamente.</string>
-    <string name="msg_restore_start_with_metered_network">"Sua Tela inicial será reiniciada. Apps que foram salvos em backup serão baixados automaticamente. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s de arquivos serão baixados.&lt;/font&gt;&lt;/b&gt;"</string>
+    <string name="msg_restore_start_with_metered_network">"Se você restaurar esse backup, sua Tela inicial será redefinida e seus apps serão baixados e instalados automaticamente.&lt;br />&lt;b>&lt;font color='red'>Tamanho do backup: %s&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">Se você prosseguir com a restauração destes itens, os dados móveis serão usados para baixá-los.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; de arquivos serão baixados."</string>
     <string name="network_error">Conecte-se à rede</string>

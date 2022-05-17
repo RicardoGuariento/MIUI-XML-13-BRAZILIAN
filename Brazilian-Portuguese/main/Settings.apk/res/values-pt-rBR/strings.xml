@@ -2893,6 +2893,8 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="device_edit_title">Renomear dispositivo</string>
     <string name="device_feedback">Enviar feedback sobre o dispositivo</string>
     <string name="device_id">ID do dispositivo para recomendações personalizadas</string>
+    <string name="device_ime_keyboard_fold">Keyboard options for foldable devices</string>
+    <string name="device_ime_keyboard_pad">Keyboard options for tablets</string>
     <string name="device_info_default">Desconhecido</string>
     <string name="device_info_not_available">Não disponível</string>
     <string name="device_internal_memory">Armazenamento interno</string>
@@ -3159,6 +3161,8 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="double_click_volume_down_when_lock">Pressione [Volume -] duas vezes quando a tela estiver bloqueada</string>
     <string name="double_connect">Conexão dupla</string>
     <string name="double_connect_summary">Para conectar a dois dispositivos</string>
+    <string name="double_g_v">Duplicate G and V</string>
+    <string name="double_g_v_sumary">Duplicate central buttons on the ergonomic keyboard for more flexible experience</string>
     <string name="double_knock">Toque duplo com o nó dos dedos</string>
     <string name="double_tap_power_for_camera_suggestion_title">Abrir a câmera rapidamente</string>
     <string name="double_tap_power_for_camera_summary">Para abrir a câmera rapidamente, pressione o botão [Liga/Desliga] duas vezes. O recurso funciona em qualquer tela.</string>
@@ -3590,6 +3594,8 @@ Reinicie o seu dispositivo e tente novamente."</string>
     <string name="feedback_btn_text">Enviar feedback</string>
     <string name="feedback_settings">Serviços e feedback</string>
     <string name="feedback_settings_new">"Feedback"</string>
+    <string name="felica_wallet">Carteira FeliCa</string>
+    <string name="felica_wallet_desc">Carteira FeliCa</string>
     <string name="file_privacy_password_role_instruction">Seus arquivos privados serão armazenados aqui.</string>
     <string name="filter">Filtro</string>
     <string name="filter_all_apps">Todos os apps</string>
@@ -3772,9 +3778,11 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fold_game_adaptation">Games</string>
     <string name="fold_rule_default">Recomendado</string>
     <string name="fold_rule_important">Importante</string>
     <string name="fold_rule_unimportant">Não importante</string>
+    <string name="fold_screen_settings_title">Features for big screen</string>
     <string name="fold_title">Regras para notificações agrupadas</string>
     <string name="font_cta_alert_btn_negative">Cancelar</string>
     <string name="font_cta_alert_btn_positive">Aceitar</string>
@@ -4253,6 +4261,8 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="imei_information_title">Informações de IMEI</string>
     <string name="imei_multi_sim">IMEI (slot para o SIM %1$d)</string>
     <string name="imei_multi_sim_softbank">IMEI %1$d</string>
+    <string name="imitate_real_keyboard">Traditional keyboard</string>
+    <string name="imitate_real_keyboard_summary">Convenient when your device is lying on a flat surface</string>
     <string name="immediately_destroy_activities">Não manter atividades</string>
     <string name="immediately_destroy_activities_summary">Encerrar atividades assim que o usuário sair dela</string>
     <string name="importance_default">Padrão</string>
@@ -4699,6 +4709,8 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="led_settings">Luz de LED</string>
     <string name="left_edge">Borda esquerda</string>
     <string name="left_function_key">Atalho da esquerda</string>
+    <string name="left_right_hand_switch">Left and right</string>
+    <string name="left_right_hand_switch_summary">Make left and right parts of the keyboard switch places in a single tap</string>
     <string name="left_shoulder_key" />
     <string name="legacy_control_center_desc">Puxe a barra de status para baixo para ver atalhos e notificações</string>
     <string name="legacy_control_center_title">Versão antiga</string>
@@ -5415,6 +5427,8 @@ Não poderá reverter esta ação."</string>
     <string name="mi_smart_play_entry_title">Controle de mídia</string>
     <string name="mi_transfer">"Mi Mover"</string>
     <string name="mi_upi_settings">Conta Mi Pay</string>
+    <string name="mi_wallet">Carteira Mi</string>
+    <string name="mi_wallet_desc">Carteira Mi</string>
     <string name="mic_toggle_title">Acessar Microfone</string>
     <string name="micloud_service_summary">Sincronize a lista de apps, faça o backup de configurações do sistema e do layout da Tela inicial</string>
     <string name="micloud_service_summary_temp">Sincronize fotos, vídeos, contatos e muito mais</string>
@@ -5575,6 +5589,7 @@ Não poderá reverter esta ação."</string>
     <string name="misc_files">Arquivos variados</string>
     <string name="misc_files_selected_count">selecionados %1$d de %2$d</string>
     <string name="misc_files_selected_count_bytes">%1$s de %2$s</string>
+    <string name="mishow_disable_password_setting">"Can't set passwords in demo mode"</string>
     <string name="miui_accessibility_asr_summary">Transcreva áudio e salve texto</string>
     <string name="miui_accessibility_asr_title">"Mi Ditto"</string>
     <string name="miui_allow_alarm">Alarmes</string>
@@ -5596,6 +5611,7 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_lab_aiasst_call_screen_desc">Atender chamadas usando a IA</string>
     <string name="miui_lab_aiasst_call_screen_title">Assistente de Chamadas IA</string>
     <string name="miui_lab_drive_mode_desc">Use controles de voz e ouça mensagens do WeChat</string>
+    <string name="miui_lab_drive_mode_desc_new">Use voice controls</string>
     <string name="miui_lab_drive_mode_title">Modo carro</string>
     <string name="miui_lab_feature_applied">Aplicado</string>
     <string name="miui_lab_feature_off">Desativado</string>
@@ -5613,6 +5629,11 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_master_clear_prompt_battery_low">Não é possível redefinir para as configurações de fábrica com %1$s de bateria restante. Carregue o seu dispositivo antes de continuar</string>
     <string name="miui_master_clear_summary">Apaga todos os dados neste dispositivo</string>
     <string name="miui_more_special_feature">Explore novos recursos</string>
+    <string name="miui_nfc_dialog_message">"You won't be able to use NFC features which include Mi Pay, transport cards, key cards, and more if you turn off NFC. Turn off anyway?"</string>
+    <string name="miui_nfc_dialog_negative">Turn off</string>
+    <string name="miui_nfc_dialog_positive">Cancel</string>
+    <string name="miui_nfc_dialog_title">Turning off NFC</string>
+    <string name="miui_nfc_mi_pay_summary">Mi Pay, transport cards, key cards</string>
     <string name="miui_optimization_disabled">Desativar otimização MIUI</string>
     <string name="miui_sos_around_photo_summary">Anexe %d foto das câmeras frontal e traseira à mensagem de texto enviada aos seus contatos de emergência</string>
     <string name="miui_sos_around_photo_title">Anexar fotos</string>
@@ -6101,6 +6122,8 @@ Selecione seu sistema operacional:"</string>
     <string name="nfc_how_it_works_content">Configure um app de pagamento. Em seguida, basta segurar a parte traseira do seu dispositivo em direção a qualquer terminal com o símbolo indicando pagamento por aproximação.</string>
     <string name="nfc_how_it_works_got_it">Entendi</string>
     <string name="nfc_how_it_works_title">Como pagar no terminal</string>
+    <string name="nfc_image_preference_text_click">Check where the NFC antenna area is on this device</string>
+    <string name="nfc_image_preference_text_noclick">"Place your device near a contactless terminal to use Mi Pay, transport cards, key cards, and other NFC features. "</string>
     <string name="nfc_main_switch_title">Usar NFC</string>
     <string name="nfc_more_title">Mais…</string>
     <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
@@ -6858,7 +6881,7 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="pref_volume_wake_title">Ligar a tela com botões de volume</string>
     <string name="preference_change_password_title">Alterar senha</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
-    <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="preference_toggle_nfc_dnd_mode_summary">"Don't receive any notifications about unrecognized NFC tags"</string>
     <string name="preferred_app_settings">Padrões</string>
     <string name="preferred_app_settings_default">Padrão</string>
     <string name="preferred_app_settings_not_selected">Não selecionado</string>
@@ -7647,6 +7670,8 @@ Para usar a fixação de apps: \u0009
     <string name="sdcard_settings_unmounted_status">Armazen. USB pode ser removido</string>
     <string name="sdcard_settings_used_bytes_label">Bytes usados:</string>
     <string name="sdcard_unmount">Desconectar armaz. USB</string>
+    <string name="se_in_ese">Embedded secure element</string>
+    <string name="se_in_ese_desc">Embedded secure element</string>
     <string name="se_route_default">Selecione automaticamente</string>
     <string name="se_route_ese">Elemento de segurança integrado</string>
     <string name="se_route_uicc">Elemento de segurança no cartão SIM</string>
@@ -8139,6 +8164,9 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="send">Enviar</string>
     <string name="sensor_toggle_description">Para todos os apps e serviços</string>
     <string name="sensors_off_quick_settings_title">Sensores desativados</string>
+    <string name="separate_keyboard">Ergonomic keyboard</string>
+    <string name="separate_keyboard_summary_fold">Separate your keyboard by a partition in the center to type more comfortably while holding your device with both hands</string>
+    <string name="separate_keyboard_summary_pad">Separate your keyboard by a partition in the center to make typing faster and more comfortable</string>
     <string name="service_background_processes">%1$s livre</string>
     <string name="service_foreground_processes">%1$s usada</string>
     <string name="service_manage">Configurar</string>
@@ -8424,6 +8452,8 @@ PIN possivelmente incorreto."</string>
     <string name="sim_switch_button">Mudar</string>
     <string name="sim_switch_channel_id">Comutação de transportadora</string>
     <string name="sim_vonr_title">SIM %1$s (%2$s)</string>
+    <string name="sim_wallet">Carteira SIM</string>
+    <string name="sim_wallet_desc">Carteira SIM</string>
     <string name="simulate_color_space">Simular espaço de cores</string>
     <string name="single_key_use">Botão único</string>
     <string name="single_key_use_summary">"Use o botão Início para as funções executadas pelos outros 2 botões.
@@ -9102,6 +9132,8 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="switch_sim_dialog_title">Usar %1$s?</string>
     <string name="switch_to_removable_notification">Alterado para %1$s</string>
     <string name="switch_to_removable_notification_no_carrier_name">Mudou para outra operadora</string>
+    <string name="symbol_fast_input">Special characters</string>
+    <string name="symbol_fast_input_summary">Tap a designated button to stay on the keyboard with special characters and enter multiple symbols at once</string>
     <string name="symbols_not_allowed_for_password">A senha só pode conter letras e números</string>
     <string name="sync_active">Sincronização ativa</string>
     <string name="sync_automatically">Sincron. autom. dos dados do aplic.</string>
@@ -9151,6 +9183,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="system_update_settings_list_item_summary" />
     <string name="system_update_settings_list_item_title">Atualizações do sistema</string>
     <string name="tab_text">Aba</string>
+    <string name="tablet_screen_settings_title">Features for tablets</string>
     <string name="take_call_on_title">Atender chamada</string>
     <string name="talkback_summary">Leitor de tela, usado principalmente para pessoas com deficiência visual total ou parcial</string>
     <string name="talkback_title">"Talkback"</string>
@@ -10109,6 +10142,7 @@ Durante uma chamada de voz, não é possível usar a Internet, e alguns apps pod
     <string name="wallpaper_desktop">Tela inicial</string>
     <string name="wallpaper_live">Planos de fundo animados</string>
     <string name="wallpaper_lockscreen">Tela de bloqueio</string>
+    <string name="wallpaper_setting_title">Wallpaper</string>
     <string name="wallpaper_settings_fragment_title">Selecionar de…</string>
     <string name="wallpaper_settings_summary_custom">Personalizado</string>
     <string name="wallpaper_settings_summary_default">Padrão</string>
