@@ -173,6 +173,7 @@ Nota: os dados dos apps que estão instalados não serão salvos na MiCloud."</s
     <string name="confirm_restore_app_data">Substituir dados do app</string>
     <string name="confirm_restore_app_data_summary">Parece que o WeChat já gerou dados neste dispositivo. Substituir com os dados do backup?</string>
     <string name="confirm_restore_summary">Sua Tela inicial será reiniciada. Apps que foram salvos em backup serão baixados automaticamente.</string>
+    <string name="confirm_restore_app_data">O WeChat já está instalado neste dispositivo. Não é possível restaurar os dados do WeChat.</string>
     <string name="confirm_restore_title">Restaurar</string>
     <string name="copy">Copiar</string>
     <string name="customization"><u>Personalizar</u></string>
@@ -449,7 +450,7 @@ Verifique sua conexão e tente novamente."</string>
     <string name="restore_from_cloud">Restaurar do backup na nuvem</string>
     <string name="restore_from_mimover">Transfira do seu dispositivo antigo usando o Mi Mover</string>
     <string name="restore_from_this_device">Selecionar backup</string>
-    <string name="restore_header_backup_size">Tamanho：%s</string>
+    <string name="restore_header_backup_size">Tamanho do backup: %s</string>
     <string name="restore_header_msg">"Antes de restaurar os dados do WeChat, verifique se o WeChat não está instalado neste dispositivo. Enquanto os dados são restaurados, não abra ou use o WeChat."</string>
     <string name="restore_header_title">Tamanho total: %s</string>
     <string name="restore_header_title2">Total dos backups: %s</string>
