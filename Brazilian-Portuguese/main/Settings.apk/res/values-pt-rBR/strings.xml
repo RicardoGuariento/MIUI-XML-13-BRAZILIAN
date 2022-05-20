@@ -8351,20 +8351,20 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="sim_action_enable_sub_dialog_title">Ativar %1$s?</string>
     <string name="sim_action_enable_sub_dialog_title_without_carrier_name">Ativar o SIM?</string>
     <string name="sim_action_enabling_sim_without_carrier_name">Conectando-se à rede...</string>
-    <string name="sim_action_no_thanks">Não obrigado</string>
+    <string name="sim_action_no_thanks">Não, obrigado</string>
     <string name="sim_action_reboot">Reiniciar</string>
-    <string name="sim_action_restart_text">Para começar, reinicie o seu dispositivo. Então você pode adicionar outro sim.</string>
+    <string name="sim_action_restart_text">Para começar, reinicie o seu dispositivo. Então você pode adicionar outro SIM.</string>
     <string name="sim_action_restart_title">Reiniciar o celular?</string>
     <string name="sim_action_switch_psim_dialog_title">Mudar para usar o cartão SIM?</string>
     <string name="sim_action_switch_sub_dialog_confirm">Mude para %1$s</string>
     <string name="sim_action_switch_sub_dialog_progress">Mudando para %1$s</string>
-    <string name="sim_action_switch_sub_dialog_text">"Apenas um sim pode ser ativo de cada vez.
+    <string name="sim_action_switch_sub_dialog_text">"Apenas um SIM pode ser ativo de cada vez.
 
 Mudar para %1$s não cancelará seu serviço %2$s."</string>
     <string name="sim_action_switch_sub_dialog_text_downloaded">"Apenas um SIM baixado pode ser ativo por vez.
 
 Mudar para %1$s não cancelará seu serviço %2$s."</string>
-    <string name="sim_action_switch_sub_dialog_text_single_sim">"Apenas um sim pode ser ativo de cada vez.
+    <string name="sim_action_switch_sub_dialog_text_single_sim">"Apenas um SIM pode ser ativo de cada vez.
 
 A comutação não cancelará seu serviço %1$s."</string>
     <string name="sim_action_switch_sub_dialog_title">Mude para %1$s?</string>
