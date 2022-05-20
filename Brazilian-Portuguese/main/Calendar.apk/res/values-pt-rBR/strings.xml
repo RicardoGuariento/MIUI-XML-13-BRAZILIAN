@@ -862,7 +862,7 @@ Você ainda pode adicionar lembretes para que não perca nada importante."</stri
     <string name="title_click_record_menstruation">Registre um período</string>
     <string name="title_menstruation_predict_start_today">O período pode iniciar hoje</string>
     <string name="title_menstruation_predict_start_tomorrow">O período pode iniciar amanhã</string>
-    <string name="title_no_record_menstruation">Ainda não há registros de seus períodos.</string>
+    <string name="title_no_record_menstruation">Não há registros ainda.</string>
     <string name="title_p_tracker">Menstruação</string>
     <string name="title_start_use_menstruation_assistant">Registre o seu ciclo menstrual</string>
     <string name="today">Hoje</string>

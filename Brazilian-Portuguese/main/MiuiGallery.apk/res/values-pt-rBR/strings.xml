@@ -1377,9 +1377,9 @@ estão disponíveis"</string>
     <string name="magic_video_soundtrack_is_turned_on">Som original ativado</string>
     <string name="magic_width">Largura</string>
     <string name="magic_zidiyi">Personalizado</string>
-    <string name="main_discard_confirm_message">Você tem alterações não salvas</string>
+    <string name="main_discard_confirm_message">As alterações não foram salvas</string>
     <string name="main_discard_negative_btn">Descartar</string>
-    <string name="main_discard_positive_btn">Salvar e Sair</string>
+    <string name="main_discard_positive_btn">Salvar e sair</string>
     <string name="main_save_cancel">Cancelar</string>
     <string name="main_save_compress">Compactar e salvar</string>
     <string name="main_save_error_msg">Não foi possível salvar as alterações devido a um erro</string>
