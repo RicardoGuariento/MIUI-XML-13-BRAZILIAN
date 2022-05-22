@@ -170,10 +170,9 @@ Nota: os dados dos apps que estão instalados não serão salvos na MiCloud."</s
     <string name="confirm_cancel_restore_positive">Continuar</string>
     <string name="confirm_cancel_restore_title">Cancelar a restauração?</string>
     <string name="confirm_restore">Restaurar</string>
-    <string name="confirm_restore_app_data">Substituir dados do app</string>
+    <string name="confirm_restore_app_data">O WeChat já está instalado neste dispositivo. Não é possível restaurar os dados do WeChat.</string>
     <string name="confirm_restore_app_data_summary">Parece que o WeChat já gerou dados neste dispositivo. Substituir com os dados do backup?</string>
     <string name="confirm_restore_summary">Sua Tela inicial será reiniciada. Apps que foram salvos em backup serão baixados automaticamente.</string>
-    <string name="confirm_restore_app_data">O WeChat já está instalado neste dispositivo. Não é possível restaurar os dados do WeChat.</string>
     <string name="confirm_restore_title">Restaurar</string>
     <string name="copy">Copiar</string>
     <string name="customization"><u>Personalizar</u></string>

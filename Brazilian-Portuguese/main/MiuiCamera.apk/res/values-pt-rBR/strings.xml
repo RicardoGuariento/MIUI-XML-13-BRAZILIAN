@@ -344,7 +344,7 @@ e ajustar preferências automaticamente"</string>
     <string name="audio_focus_exit_button_text">Desativar Foco por áudio</string>
     <string name="audio_map_summary_tip">Monitore o volume dos canais esquerdo e direito em tempo real e ajuste-os usando o controle deslizante</string>
     <string name="auto_hibernation_enter_tip">Prestes a desligar a tela…</string>
-    <string name="autozoom_click_hint">Toque em um objeto para mantê-lo em foco enquanto estiver em movimento. Fique pelo menos %d metros distante para um melhor efeito.</string>
+    <string name="autozoom_click_hint">Toque em um objeto para mantê-lo em foco enquanto estiver em movimento. Fique pelo menos a 3 metros de distância para um melhor efeito.</string>
     <string name="autozoom_disabled_hint">Parou de rastrear objeto em movimento</string>
     <string name="autozoom_hint">Rastrear objeto em movimento</string>
     <string name="autozoom_landscape_hint">Filme em modo paisagem para ter melhor resultado</string>
