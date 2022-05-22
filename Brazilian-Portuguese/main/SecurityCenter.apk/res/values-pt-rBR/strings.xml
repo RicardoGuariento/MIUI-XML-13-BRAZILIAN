@@ -1095,7 +1095,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="charge_high_temp_warning_title">A porta de carregamento está muito quente</string>
     <string name="charger_detect_button_ok">Entendi</string>
     <string name="charger_detect_info1">Verifique se o carregador e o cabo estão conectados adequadamente.</string>
-    <string name="charger_detect_info2">O carregamento também pode ser reduzido se você estiver usando adaptadores de energia ou cabos não-oficiais.</string>
+    <string name="charger_detect_info2">O carregamento também pode ser reduzido se você estiver usando carregadores ou cabos não-oficiais.</string>
     <string name="charger_detect_no_remind">Não mostrar novamente</string>
     <string name="charger_detect_title">Carregamento lento</string>
     <string name="charging_text_battery_full_time">"Última carga "</string>
