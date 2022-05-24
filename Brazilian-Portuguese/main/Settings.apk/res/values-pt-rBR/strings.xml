@@ -4706,7 +4706,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="layout_size_normal_text">Pequeno</string>
     <string name="layout_size_small">EP</string>
     <string name="layout_size_small_text">Muito pequeno</string>
-    <string name="le_audio_title">Áudio LE</string>
+    <string name="le_audio_title">Áudio de baixa energia</string>
     <string name="learn_more">Saiba mais</string>
     <string name="led_colors_summary">Cor do LED para notificações</string>
     <string name="led_frequence_summary">Definir intervalo de pulso para a luz de LED</string>
