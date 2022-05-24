@@ -1004,7 +1004,7 @@ Permita que o app Notas grave áudio."</string>
     <string name="widget_size_item_big">Grande</string>
     <string name="widget_size_item_medium">Médio</string>
     <string name="widget_size_item_small">Pequeno</string>
-    <string name="widget_size_item_super_big">Muito grande</string>
+    <string name="widget_size_item_super_big">Enorme</string>
     <string name="widget_size_not_support">Widgets extragrandes não são compatíveis com este dispositivo</string>
     <string name="widget_take_notes_title">Notas</string>
     <string name="yesterday">Ontem</string>
