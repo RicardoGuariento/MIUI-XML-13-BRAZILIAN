@@ -129,7 +129,7 @@ Nem todos os apps são compatíveis com essa configuração"</string>
     <string name="accessibility_dialog_button_deny">Negar</string>
     <string name="accessibility_dialog_button_stop">Parar</string>
     <string name="accessibility_disable_animations">Remover animações</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Ajuste como as cores são exibidas em seu dispositivo. Isso pode ser útil quando você deseja:<br><br></br></br><ol><li> Veja as cores mais precisas<li></li> Remova cores para ajudá-lo a se concentrar</li></ol></string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Ajuste como as cores são exibidas em seu dispositivo. Isso pode ser útil quando você deseja:<ol><li><br/><br/> Veja as cores mais precisas</li><li> Remova cores para ajudá-lo a se concentrar</li></ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Correção de cor</string>
     <string name="accessibility_display_inversion_preference_subtitle">A inversão de cores escurece as telas claras.&lt;br/>&lt;br/> Observação: &lt;ol> &lt;li> A inversão de cores também transforma telas escuras em telas claras.&lt;/li> &lt;li> As cores mudam tanto em mídias quanto em imagens.&lt;/li> &lt;li> O tema escuro pode ser usado para exibir um plano de fundo escuro. O tema escuro funciona apenas em apps compatíveis, mas a \"Inversão de cores\" funciona em todos os apps.&lt;/li> &lt;/ol></string>
     <string name="accessibility_display_inversion_preference_title">Inversão de cores</string>

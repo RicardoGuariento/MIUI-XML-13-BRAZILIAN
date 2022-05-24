@@ -358,9 +358,9 @@ adicionado à lista de bloqueio"</string>
     <string name="fcm_fallback_notification_channel_label">Diversos</string>
     <string name="fdn_check_failure">Você só pode enviar mensagens para os números de chamadas fixas (FDN).</string>
     <string name="feature_mx">Mi Mensagens</string>
-    <string name="feature_mx_summary"><b>O Mi Mensagens permite que você envie mensagens a outros usuários do Mi Mensagens através da Internet sem a cobrança de tarifas</b>. É necessária uma mensagem SMS para ativar este serviço. A sua operadora cobrará por esta mensagem. Leia e aceite o nosso <a href="http://url1"><font color="#B3000000">Contrato do Usuário</font></a> e a <a href="http://url2"><font color="#B3000000">Política de Privacidade</font></a> antes de usar este recurso.</string>
+    <string name="feature_mx_summary"><b>O Mi Mensagens permite que você envie mensagens a outros usuários do Mi Mensagens através da Internet sem a cobrança de tarifas</b>. É necessária uma mensagem SMS para ativar este serviço. A sua operadora cobrará por esta mensagem. Leia e aceite o nosso <font color="#B3000000"><a href="http://url1">Contrato do Usuário</a></font> e a <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> antes de usar este recurso.</string>
     <string name="feature_smart_sms">Mensagens Inteligentes</string>
-    <string name="feature_smart_sms_summary"><b>As Mensagens Inteligentes fornece o reconhecimento de ID do remetente e menus inteligentes</b>. As Mensagens Inteligentes é parcialmente fornecido por Yulore. Leia e aceite a <a href="http://url3"><font color="#B3000000">Política de Privacidade</font></a> da Yulore antes de usar este recurso.</string>
+    <string name="feature_smart_sms_summary"><b>As Mensagens Inteligentes fornece o reconhecimento de ID do remetente e menus inteligentes</b>. As Mensagens Inteligentes é parcialmente fornecido por Yulore. Leia e aceite a <font color="#B3000000"><a href="http://url3">Política de Privacidade</a></font> da Yulore antes de usar este recurso.</string>
     <string name="festival_sms_loading">Carregando…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Criado em:</string>
@@ -423,7 +423,7 @@ adicionado à lista de bloqueio"</string>
     <string name="ft_cfs_dialog_content">Os arquivos não puderam ser entregues usando o RCS. Enviar um link em uma mensagem de texto em vez disso?</string>
     <string name="ft_cfs_dialog_title">Transferência de arquivos alternativa</string>
     <string name="go_close">Configurações</string>
-    <string name="google_message_promo_content">A Xiaomi recomenda a atualização para o Mensagens do Google. Instale agora para obter compartilhamento de fotos em alta qualidade, conversar por Wi-Fi, e muito mais. <a href="https://support.google.com/messages/answer/6089066"><font color="#B3000000">Saiba mais</font></a></string>
+    <string name="google_message_promo_content">A Xiaomi recomenda a atualização para o Mensagens do Google. Instale agora para obter compartilhamento de fotos em alta qualidade, conversar por Wi-Fi, e muito mais. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Saiba mais</a></font></string>
     <string name="google_message_promo_title">Atualize seu app de mensagens</string>
     <string name="group_already_kicked_hint">Não é possível enviar mensagens. Você não é um membro desse chat em grupo.</string>
     <string name="group_member_is_composing">Escrevendo…</string>

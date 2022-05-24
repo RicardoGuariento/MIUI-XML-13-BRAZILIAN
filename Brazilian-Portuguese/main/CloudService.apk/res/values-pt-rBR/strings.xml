@@ -183,7 +183,7 @@
     <string name="find_device_dspt_provision_2_int">https://i.mi.com/?_locale=pt_BR</string>
     <string name="find_device_error_network">Verifique sua conexão de dados e tente novamente.</string>
     <string name="find_device_error_server">Erro no servidor</string>
-    <string name="find_device_gdpr_prompt">Ao ativar o Encontrar dispositivo, você concorda com a nossa <a href="app://com.miui.cloudservice.gdpr.license"><u>Política de Privacidade</u></a>. Desative este recurso se quiser retirar seu consentimento.</string>
+    <string name="find_device_gdpr_prompt">"Ao ativar o Encontrar dispositivo, você concorda com a nossa <u><a href="app://com.miui.cloudservice.gdpr.license">Política de Privacidade</a></u>. Desative este recurso se quiser retirar seu consentimento."</string>
     <string name="find_device_operation_failure_rpc">Não foi possível executar a operação devido a um erro de RPC.</string>
     <string name="find_device_permissions_footer">"Toque \"Permitir\" para conceder as permissões que você selecionou."</string>
     <string name="find_device_permissions_header">"Bem-vindo ao Encontrar dispositivo! Você pode usar este app para localizar, rastrear e bloquear o dispositivo quando estiver perdido. Encontrar dispositivo requer as seguintes permissões:"</string>
@@ -887,7 +887,7 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="share_sdk_pref_category_search_local_title">Contatos</string>
     <string name="share_sdk_pref_category_title_scan_qr_code">Digitalizar código QR</string>
     <string name="share_sdk_pref_family_detail_title">Ver detalhes do grupo familiar</string>
-    <string name="share_sdk_privacy_link_description">Leia e aceite a <a href="https://account.xiaomi.com/about/protocol/privacy"><u>Política de Privacidade da Conta Mi</u></a> antes de usar este serviço.</string>
+    <string name="share_sdk_privacy_link_description">Leia e aceite a <u><a href="https://account.xiaomi.com/about/protocol/privacy">Política de Privacidade da Conta Mi</a></u> antes de usar este serviço.</string>
     <string name="share_sdk_qr_code_description">Convite de %1$s</string>
     <string name="share_sdk_qr_code_expire_time">Período de validade do código QR: %1$s</string>
     <string name="share_sdk_resend_invitation_times_exceed">Muitos convites foram enviados. Tente novamente em 24 horas.</string>
