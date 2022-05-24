@@ -457,7 +457,7 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
     <string name="add_fingerprint_done_msg">Agora você pode desbloquear seu dispositivo usando sua impressão digital.</string>
     <string name="add_fingerprint_done_title">Tudo pronto para começar!</string>
     <string name="add_fingerprint_edge_instruction_msg">Mova o seu dedo para o sensor gravar os cantos da sua impressão digital.</string>
-    <string name="add_fingerprint_edge_instruction_title">Mova o seu dedo um pouco</string>
+    <string name="add_fingerprint_edge_instruction_title">Ajuste seu dedo para gravar os cantos de sua impressão digital</string>
     <string name="add_fingerprint_failed_retry_text">Não foi possível adicionar a impressão digital, tente novamente</string>
     <string name="add_fingerprint_finished_button_text">Concluído</string>
     <string name="add_fingerprint_instruction_msg">O sensor de impressão digital está integrado ao botão Início do seu dispositivo.</string>
@@ -770,7 +770,7 @@ Alterar as configurações agora?"</string>
     <string name="application_lock_name">Bloqueio de apps</string>
     <string name="application_manager_section_title">"Apps"</string>
     <string name="application_mode_empty_text">Nenhum app aqui ainda</string>
-    <string name="application_mode_name">Modo de exibição do app</string>
+    <string name="application_mode_name">Layouts do app</string>
     <string name="application_permission_manager">Permissões do app</string>
     <string name="application_permissions">Permissões do app</string>
     <string name="application_restrictions">Permitir apps e conteúdo</string>
@@ -3977,6 +3977,11 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="go_back_button_label">Voltar</string>
     <string name="go_to_sleep">Desligar tela</string>
     <string name="google_account_title">"Google"</string>
+    <string name="google_assistant_guide_cancel">Cancelar</string>
+    <string name="google_assistant_guide_message">Você pode pressionar e segurar o botão [Liga/Desliga] por %s segundos para começar a falar com o Google Assistente. Definir este atalho agora?</string>
+    <string name="google_assistant_guide_ok">Definir</string>
+    <string name="google_assistant_guide_tip">*Pressione e segure o botão [Liga/Desliga] por %s segundos para abrir o menu de desligamento.</string>
+    <string name="google_assistant_guide_title">Google Assistente</string>
     <string name="google_assistant_label">Google Assistente</string>
     <string name="google_backup_enable">Ativar backups</string>
     <string name="google_backup_section_title">Backups do Google</string>
@@ -5596,6 +5601,8 @@ Não poderá reverter esta ação."</string>
     <string name="miui_allow_light">LED de notificações</string>
     <string name="miui_allow_music">Mídia</string>
     <string name="miui_allow_vibrate">Vibrações</string>
+    <string name="miui_bubbles_notification">Notificações de bolhas</string>
+    <string name="miui_bubbles_notification_status_opened">Ativado</string>
     <string name="miui_data_usage_menu_metered">Pontos de acesso móveis</string>
     <string name="miui_experience_optimization">Ativar otimização MIUI</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Cancelar</string>
