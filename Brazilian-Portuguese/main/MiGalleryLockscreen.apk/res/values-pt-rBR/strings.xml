@@ -234,8 +234,10 @@
     <string name="detail_no_more_recomm">Sem mais itens</string>
     <string name="detail_no_net">Não foi possível conectar-se à rede</string>
     <string name="detail_outer_menu_icon">"Menu"</string>
+    <string name="detail_recomm_excellent">Em destaque</string>
     <string name="detail_recomm_fail">Não foi possível obter recomendações</string>
     <string name="detail_recomm_load_tip">Procurando interesses…</string>
+    <string name="detail_recomm_personal">Recomendado</string>
     <string name="detail_share_moment">Momentos</string>
     <string name="detail_toast_deny_apply">Não foi possível aplicar</string>
     <string name="detail_toast_deny_dislike">Não foi possível excluir</string>
@@ -460,6 +462,7 @@ dd 'de' MMMM"</string>
     <string name="look_str">"Popular"</string>
     <string name="main_fragment_title_discover">Descobrir</string>
     <string name="main_fragment_title_home">Recomendar</string>
+    <string name="main_fragment_title_home_excellent">Em destaque</string>
     <string name="main_fragment_title_search">Topo</string>
     <string name="main_fragment_title_user">Configurações</string>
     <string name="manage">Gerenciar</string>

@@ -1816,6 +1816,9 @@ Entre em contato com suas operadoras"</string>
     <string name="nr_usaged_network_usaged">Dados de hoje</string>
     <string name="nr_usaged_operator">Operadora</string>
     <string name="nr_usaged_used_time">Duração do uso</string>
+    <string name="nrca_need_reset">Reinicie seu dispositivo para aplicar as alterações</string>
+    <string name="nrca_switch_summary">Usa a agregação de operadora 5G para melhorar a conectividade</string>
+    <string name="nrca_switch_title">Usar NRCA</string>
     <string name="number">Número</string>
     <string name="numerous_emergency_numbers_title">Números de emergência</string>
     <string name="obtain_location_information">Localização</string>

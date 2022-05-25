@@ -2022,12 +2022,15 @@ Grave sequências e use-as a qualquer momento!"</string>
     <string name="gb_game_mode_change">Switch between display modes here</string>
     <string name="gb_game_mode_change_btn_right">Restart</string>
     <string name="gb_game_mode_change_message">Restart the game to apply changes now?</string>
+    <string name="gb_game_mode_change_new">Alterne entre layouts aqui</string>
     <string name="gb_game_mode_change_title">Restart the game</string>
     <string name="gb_game_mode_choose_game_area">Active area</string>
     <string name="gb_game_mode_choose_title">Select display mode</string>
+    <string name="gb_game_mode_choose_title_new">Selecione o layout</string>
     <string name="gb_game_mode_empty">No games here yet</string>
     <string name="gb_game_mode_fill">Fill screen</string>
     <string name="gb_game_mode_fill_type">Fill screen</string>
+    <string name="gb_game_mode_new">Layouts de jogo</string>
     <string name="gb_game_mode_ratio">Original</string>
     <string name="gb_game_mode_ratio_type">Original</string>
     <string name="gb_game_mode_recommend">" (Recommended)"</string>
@@ -2082,6 +2085,15 @@ enquanto reduz a taxa de atualização e os limites de temperatura"</string>
     <string name="gb_performance_mode">Modo jogo</string>
     <string name="gb_performance_tips">"O Modo desempenho melhora o desempenho gráfico,
 mas também aumenta o consumo de energia e permite que seu dispositivo superaqueça"</string>
+    <string name="gb_predownload_dialog_cancel">Não, obrigado</string>
+    <string name="gb_predownload_dialog_checked">"Não exibir novamente"</string>
+    <string name="gb_predownload_dialog_confirm">Ativar</string>
+    <string name="gb_predownload_dialog_message_china"><Data>"O conteúdo atualizado para este jogo pode ser baixado para este dispositivo automaticamente após você se conectar ao Wi-Fi e bloquear a tela. Assim, você poderá usar a nova versão assim que for lançada.&lt;br>&lt;br>Leia e concorde com a &lt;a href=\"%1$s\">Declaração sobre atualizações em segundo plano&lt;/a> antes de usar este recurso."</Data></string>
+    <string name="gb_predownload_dialog_title">Atualizações em segundo plano já estão disponíveis</string>
+    <string name="gb_predownload_message">"Atualize King of Glory, Game for Peace e outros jogos compatíveis em segundo plano enquanto você não estiver usando este dispositivo"</string>
+    <string name="gb_predownload_noti_message">"%2$1.2fGBde conteúdo atualizado já está neste dispositivo. Você poderá usá-lo assim que a nova versão for lançada."</string>
+    <string name="gb_predownload_noti_title">%s atualizado em segundo plano com sucesso</string>
+    <string name="gb_predownload_title">Atualizações em segundo plano</string>
     <string name="gb_shortcut_pref_title">Atalho na Tela inicial</string>
     <string name="gb_shoulder_guide_message1">Mova [L] para qualquer posição funcional para usá-lo através dos botões de gatilhos</string>
     <string name="gb_shoulder_guide_message2">A ação [1] é ativada pressionando o botão. A ação [2] é ativada soltando o botão.</string>
@@ -2129,6 +2141,7 @@ mas também aumenta o consumo de energia e permite que seu dispositivo superaque
     <string name="gb_signed_gift_loading_fail">Não foi possível carregar</string>
     <string name="gb_signed_gift_loading_summary">Aguarde…</string>
     <string name="gb_signed_title">Check-in feito neste mês</string>
+    <string name="gb_smart_battery_surplus_new">%1$s %2$s restante</string>
     <string name="gb_sound_audition">Experimentar</string>
     <string name="gb_storage_game_dialog_button_timer">%ds</string>
     <string name="gb_storage_game_dialog_message">Os jogos baixados, serão automaticamente incluídos no \"Game Turbo\" e o ícone do jogo não será mais exibido na Tela inicial. Ativar esta função?</string>

@@ -101,6 +101,7 @@ ID da sua conta: %s"</string>
     <string name="area_code_search_hint">Pesquisar país ou região</string>
     <string name="auth_fail_warning">Sessão expirada, faça o login novamente mais tarde</string>
     <string name="authorize_title">Autorização</string>
+    <string name="auto_fill_not_sport_on_water_mark_version">"O login com preenchimento automático não é compatível com versões com marca d'água"</string>
     <string name="bind_facebook">Conectar sua conta do Facebook</string>
     <string name="bind_google">Conecte sua Conta Google</string>
     <string name="bind_qq">QQ</string>

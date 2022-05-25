@@ -2780,6 +2780,7 @@ Toque para obter mais informações"</string>
     <string name="tile_unavailable">Indisponível</string>
     <string name="time_picker_dialog_title">Ajustar hora</string>
     <string name="time_unit_just_now">Agora mesmo</string>
+    <string name="tip_close_flares">"Você não receberá notificações sobre o comportamento do app durante esta sessão"</string>
     <string name="title_convert_fbe">Convertendo para criptografia baseada em arquivos…</string>
     <string name="title_usb_accessory">Acessório USB</string>
     <string name="today">Hoje</string>

@@ -53,6 +53,7 @@
     <string name="activity_not_unlocked">Aguarde até que seu dispositivo tenha reiniciado completamente antes de abrir apps</string>
     <string name="add_custom_category">Personalizado</string>
     <string name="add_screen">Adicionar tela</string>
+    <string name="add_to_workspace">Adicionar à Tela inicial</string>
     <string name="added_all_category">Todos os apps foram adicionados com sucesso</string>
     <string name="afternoon">"PM"</string>
     <string name="agree_button">Aceitar</string>
@@ -371,6 +372,8 @@
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fold_pair_install_shortcut_long_click">Pressione e segure para adicionar à Tela inicial</string>
+    <string name="fold_pair_installed_shortcut_launcher">Este atalho já existe</string>
     <string name="folder_name">Pasta</string>
     <string name="frame_load_failed">Não é possível carregar o quadro</string>
     <string name="free_style_apps_title">Escolher app</string>
@@ -667,6 +670,7 @@
     <string name="night">"PM"</string>
     <string name="no_detail_page">Nenhuma página de detalhes</string>
     <string name="no_space_toast">Não há espaço suficiente</string>
+    <string name="no_space_toast_fold">Não há espaço suficiente aqui</string>
     <string name="no_space_toast_when_click_widget">Sem espaço disponível nesta página. Tente arrastar este item para uma página diferente.</string>
     <string name="noon">"PM"</string>
     <string name="normal_wallpaper">Plano de fundo</string>
@@ -765,6 +769,7 @@
     <string name="recents_title_security_scan">Verificação de segurança</string>
     <string name="recents_tv_small_window_text">Janelas flutuantes</string>
     <string name="recents_worldcirculate_text">Solte para selecionar</string>
+    <string name="recnets_relay_device_info">A partir de %s</string>
     <string name="recnets_worldcirculate_button_text">Horizonte global</string>
     <string name="recnets_worldcirculate_display_computer_info">O app está funcionando em %s.</string>
     <string name="recnets_worldcirculate_display_default_info">Toque para trazê-lo de volta aqui.</string>
@@ -956,6 +961,7 @@
     <string name="uninstall_xspace_dialog_title_format">Desinstalar dual app \"%s\"?</string>
     <string name="unknown_artist_name">Artista desconhecido</string>
     <string name="unnamed_folder_name">Pasta</string>
+    <string name="upgrade_remove_small_window_in_recents">Você pode usar a barra lateral para abrir apps em janelas flutuantes</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="wallpaper">Plano de fundo</string>

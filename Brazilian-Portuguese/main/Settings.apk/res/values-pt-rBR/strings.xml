@@ -3778,11 +3778,14 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
-    <string name="fold_game_adaptation">Games</string>
+    <string name="fold_application_mode_name">Layouts de apps</string>
+    <string name="fold_game_adaptation">Layouts de jogos</string>
     <string name="fold_rule_default">Recomendado</string>
     <string name="fold_rule_important">Importante</string>
     <string name="fold_rule_unimportant">Não importante</string>
-    <string name="fold_screen_settings_title">Features for big screen</string>
+    <string name="fold_screen_application_adaptation_title">Layouts personalizados para dispositivos dobráveis</string>
+    <string name="fold_screen_settings_title">Recursos para dispositivos dobráveis</string>
+    <string name="fold_screen_special_function_title">Recursos para dispositivos dobráveis</string>
     <string name="fold_title">Regras para notificações agrupadas</string>
     <string name="font_cta_alert_btn_negative">Cancelar</string>
     <string name="font_cta_alert_btn_positive">Aceitar</string>
@@ -6450,6 +6453,7 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
     <string name="notifications_title">Notificações</string>
     <string name="now">Reiniciar agora</string>
     <string name="nrca_switch_title">Usar agregação de operadora 5G</string>
+    <string name="nrca_need_reset">Reinicie seu dispositivo para aplicar as alterações</string>
     <string name="number_of_device_admins_none">Nenhum app ativo</string>
     <string name="oaid_apps_summary">Permite ou restringe o acesso a apps individualmente</string>
     <string name="oaid_apps_title">Gerenciar ID virtual</string>
@@ -9190,7 +9194,9 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="system_update_settings_list_item_summary" />
     <string name="system_update_settings_list_item_title">Atualizações do sistema</string>
     <string name="tab_text">Aba</string>
+    <string name="tablet_screen_application_adaptation_title">Layouts personalizados para tablets</string>
     <string name="tablet_screen_settings_title">Features for tablets</string>
+    <string name="tablet_screen_special_function_title">Recursos para tablets dobráveis</string>
     <string name="take_call_on_title">Atender chamada</string>
     <string name="talkback_summary">Leitor de tela, usado principalmente para pessoas com deficiência visual total ou parcial</string>
     <string name="talkback_title">"Talkback"</string>
@@ -10149,7 +10155,7 @@ Durante uma chamada de voz, não é possível usar a Internet, e alguns apps pod
     <string name="wallpaper_desktop">Tela inicial</string>
     <string name="wallpaper_live">Planos de fundo animados</string>
     <string name="wallpaper_lockscreen">Tela de bloqueio</string>
-    <string name="wallpaper_setting_title">Wallpaper</string>
+    <string name="wallpaper_setting_title">Papéis de parede para dispositivos dobráveis</string>
     <string name="wallpaper_settings_fragment_title">Selecionar de…</string>
     <string name="wallpaper_settings_summary_custom">Personalizado</string>
     <string name="wallpaper_settings_summary_default">Padrão</string>

@@ -265,6 +265,14 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">Check-in feito %d dias seguidos</item>
         <item quantity="one">Check-in feito %d vez</item>
     </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d horar</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
     <plurals name="gb_smart_battery_surplus">
         <item quantity="other">%2$1.2f horas restantes</item>
         <item quantity="one">%2$1.2f hora restante</item>
