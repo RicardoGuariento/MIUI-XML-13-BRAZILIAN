@@ -28,5 +28,5 @@ For more info, visit:
 - KcNirvana
 - jutruka
 
-##### Commits pendetes de tradução:
+##### Commits pendentes de tradução:
 - [XML 22.5.15/16](https://github.com/RicardoGuariento/MIUI-XML-13-BRAZILIAN/commit/3735b4eab040825a6cb1133a5a8be639c6e35be0) 

@@ -5481,7 +5481,7 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_closeAnc">Desativado</string>
     <string name="miheadset_codec_sample_rate">Taxa de amostragem de áudio Bluetooth</string>
     <string name="miheadset_common_problem">Perguntas frequentes</string>
-    <string name="miheadset_connectHeadsetForFw">Conete os fones de ouvido para ver a versão do firmware</string>
+    <string name="miheadset_connectHeadsetForFw">Conecte os fones de ouvido para ver a versão do firmware</string>
     <string name="miheadset_connect_play_music">Iniciar a reprodução automaticamente quando os fones forem conectados</string>
     <string name="miheadset_connect_toast_tips">Conecte os fones de ouvido primeiro</string>
     <string name="miheadset_custom_sound">Som personalizado</string>
