@@ -6232,7 +6232,7 @@ Isso substitui %2$s como seu app de pagamento padrão."</string>
     <string name="no_default_home">Não selecionado</string>
     <string name="no_device_admins">Nenhum app de administrador do dispositivo disponível</string>
     <string name="no_internet_access_remember">Não perguntar novamente para esta rede</string>
-    <string name="no_internet_access_text">A rede Wi-Fi %1$s não tem acesso à Internet. Continuar conectado nesta rede?</string>
+    <string name="no_internet_access_text">A rede Wi-Fi: \"%1$s\" não tem acesso à Internet. Continuar conectado nesta rede?</string>
     <string name="no_media_button_receiver">Não</string>
     <string name="no_memory_use_summary">Nenhuma memória foi usada nas últimas três horas</string>
     <string name="no_nearby_wifi">Nenhuma rede Wi-Fi próxima detectada. Tente adicionar redes manualmente.</string>
