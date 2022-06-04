@@ -731,6 +731,7 @@ Envie este código para o supervisor."</string>
     <string name="permission_write_external_storage">Acessar e salvar itens no armazenamento</string>
     <string name="personal_info_desc">Foto, nome, e mais</string>
     <string name="phone_num_use_for">O número de telefone é usado para:</string>
+    <string name="phone_register">Usar número de telefone</string>
     <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>

@@ -2419,6 +2419,7 @@ Essa informação identifica se os contatos podem usar recursos específicos, co
     <string name="continue_reset_factory">Redefinir dados</string>
     <string name="contributors_title">Colaboradores</string>
     <string name="control_center">Centro de controle</string>
+    <string name="control_center_force_use_panel_guide_text">Puxe para baixo a barra de status à esquerda para visualizar as notificações. Puxá-la para baixo à direita abrirá o Centro de controle. Você pode alternar entre os dois deslizando para a esquerda e para a direita.</string>
     <string name="control_center_style">Estilo do centro de controle</string>
     <string name="control_center_style_summary">Selecione como deseja exibir os atalhos e notificações</string>
     <string name="control_panel_switch_side">Alterar o lado do centro de controle</string>
@@ -2902,8 +2903,8 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="device_edit_title">Renomear dispositivo</string>
     <string name="device_feedback">Enviar feedback sobre o dispositivo</string>
     <string name="device_id">ID do dispositivo para recomendações personalizadas</string>
-    <string name="device_ime_keyboard_fold">Keyboard options for foldable devices</string>
-    <string name="device_ime_keyboard_pad">Keyboard options for tablets</string>
+    <string name="device_ime_keyboard_fold">Teclados para dispositivos dobráveis</string>
+    <string name="device_ime_keyboard_pad">Teclados para tablets</string>
     <string name="device_info_default">Desconhecido</string>
     <string name="device_info_not_available">Não disponível</string>
     <string name="device_internal_memory">Armazenamento interno</string>
@@ -4048,7 +4049,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="guest_reset_guest_dialog_title">Redefinir convidado agora?</string>
     <string name="guest_resetting">Redefinindo convidado…</string>
     <string name="guide_button_text">Entendi</string>
-    <string name="guide_text_center">"Deslize para a direita no meio da tela.
+    <string name="guide_text_center">"Deslize para cima no meio da tela.
 A área onde você pode confirmar seu bloqueio de tela será alinhada ao centro."</string>
     <string name="guide_text_left">"Deslize para cima a partir do canto inferior esquerdo.
 A área onde você pode confirmar seu bloqueio de tela se moverá para a esquerda."</string>

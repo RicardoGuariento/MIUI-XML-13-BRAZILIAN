@@ -36,6 +36,7 @@
     <string name="add_alarm">Novo alarme</string>
     <string name="add_clock">Novo relógio</string>
     <string name="add_common_timer">Adicionar temporizador</string>
+    <string name="add_new_sound">Adicionar toque</string>
     <string name="add_timer">Temporizador frequente</string>
     <string name="add_timer_dialog_title">Adicionar temporizador</string>
     <string name="add_timezone_title">Adicionar fuso horário</string>
@@ -128,6 +129,7 @@
     <string name="common_timer_selector">Selecionar temporizador</string>
     <string name="confirm">Confirmar</string>
     <string name="confirm_abort">Descartar</string>
+    <string name="confirm_remove_custom_ringtone">Se você excluir este toque, os alarmes e cronômetros que o utilizam reproduzirão o toque padrão. Excluir?</string>
     <string name="content_desc_keep_screen">Botão \"Manter tela ligada\"</string>
     <string name="continue_operation">Continuar</string>
     <string name="continue_step">Avançar</string>
@@ -135,6 +137,7 @@
     <string name="control_set_alarm_with_existing">Alarme definido: %s</string>
     <string name="copy">Copiar</string>
     <string name="current_stopwatch_time">Tempo atual</string>
+    <string name="custom_ringtone_lost_permissions">"Não é possível acessar este som."</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -150,6 +153,7 @@
     <string name="delete_timer_item_title">Excluir tarefa do temporizador</string>
     <string name="delete_timezone_title">Excluir fuso horário</string>
     <string name="deskclock_sleep_no_disturbance">Relógio - Gerenciar hora de dormir - Modo Não perturbe</string>
+    <string name="device_sounds">Sons do dispositivo</string>
     <string name="dialog_confirm_abort">Descartar alterações?</string>
     <string name="dialog_legal_off_day"><Data>"Parece que você está usando os alarmes de feriados. Este recurso precisa de uma conexão com a Internet para funcionar normalmente. Antes de usar este recurso, você precisa aceitar o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>. Aceitar?"</Data></string>
     <string name="dialog_legal_off_day_desc">O Relógio não tem permissão para conectar-se à Internet e atualizar as informações sobre feriados. Os alarmes de feriados dispararão nos sábados e domingos.</string>
@@ -653,6 +657,7 @@
     <string name="tv_blank_list_show_text">Nada aqui ainda. Procure um local para adicioná-lo ao seu relógio mundial.</string>
     <string name="tv_world_clock_edit_title1">Locais exibidos na Tela inicial</string>
     <string name="tv_world_clock_edit_title2">Outros locais salvos</string>
+    <string name="unknown_ringtone_title">Desconhecido</string>
     <string name="unselect_all">Desmarcar todos</string>
     <string name="upcoming_alarm">Próximo alarme: %s</string>
     <string name="upcoming_alarm_hint">Pode desativá-lo com antecedência</string>
@@ -686,6 +691,8 @@
     <string name="week_ringtone_recommend_desc">O alarme com sons da natureza, reproduz diferentes sons dependendo da data. Definir como seu alarme padrão?</string>
     <string name="white_noise">Ambiente barulhento</string>
     <string name="white_noise_guide_desc">Adicione um som de fundo para mantê-lo focado</string>
+    <string name="white_noise_not_selected">Não selecionado</string>
+    <string name="white_noise_selected">Selecionado</string>
     <string name="white_noise_selector">Selecionar áudio</string>
     <string name="workday_alarm_clock">Alarme em dias úteis</string>
     <string name="worldclock_edit_label">Relógio mundial</string>
@@ -711,4 +718,5 @@
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
     <string name="yesterday">Ontem</string>
+    <string name="your_sounds">Meus sons</string>
 </resources>

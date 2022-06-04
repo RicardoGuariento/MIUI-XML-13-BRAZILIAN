@@ -859,6 +859,9 @@ Tire mais fotos de seus amigos!"</string>
     <string name="feature_guidance_photo_effects">"Novos efeitos de foto
 estão disponíveis"</string>
     <string name="feature_guidance_video_editor_smart_effects">Novos efeitos estão disponíveis</string>
+    <string name="feedback_my_reports">"Feedback"</string>
+    <string name="feedback_problem">Informar um problema</string>
+    <string name="feedback_suggest">Envie uma sugestão</string>
     <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">Não é possível imprimir este item.</string>
     <string name="file_cannot_screen_throw">Não é possível transmitir este item.</string>

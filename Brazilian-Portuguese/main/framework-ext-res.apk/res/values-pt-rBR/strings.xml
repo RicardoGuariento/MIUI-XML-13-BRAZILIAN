@@ -206,6 +206,7 @@
     <string name="incomingmessage">Mensagem de entrada</string>
     <string name="internal_livetalk_enable">Usando pacote de recarga para chamadas nacionais</string>
     <string name="international_livetalk_enable">Usando pacote de recarga para chamadas internacionais</string>
+    <string name="kb_reset_toast">Teclado redefinido com sucesso</string>
     <string name="key_btn_ok">"OK"</string>
     <string name="key_btn_space">Espaço</string>
     <string name="keyboard_connect_failed">"Não foi possível conectar o teclado. Anexe novamente."</string>

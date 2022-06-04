@@ -333,6 +333,7 @@
     <string name="calllog_menu_edit_before_call">Editar</string>
     <string name="calllog_menu_send_sms">Enviar uma mensagem</string>
     <string name="calllog_record_none_toast">Nenhuma gravação de chamadas para mostrar</string>
+    <string name="calllog_record_searching_toast">Pesquisando gravações de chamadas…</string>
     <string name="callrecordview_item_op_time_minutes_seconds">"%1$dm %2$ds"</string>
     <string name="callrecordview_item_op_time_missed">Não atendida</string>
     <string name="callrecordview_item_op_time_only_minutes">"%d min"</string>
@@ -602,7 +603,6 @@ O Mi Roaming precisa se conectar à Internet e acessar suas informações de loc
     <string name="email_other">Enviar e-mail</string>
     <string name="email_work">Enviar e-mail para comercial</string>
     <string name="emergency_number_label">Número de emergência</string>
-    <string name="empty" />
     <string name="ensure">"OK"</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -781,6 +781,9 @@ Motivo: \"%s\""</string>
     <string name="low_memory_toast">Não é possível usar este recurso devido à falta de memória.</string>
     <string name="lunarBirthdayLabelsGroup">Aniversário lunar</string>
     <string name="make_primary">Lembrar desta escolha</string>
+    <string name="manage_external_storage_dialog_message">Permitir que este app acesse todos os arquivos para gerenciar gravações de chamadas.</string>
+    <string name="manage_external_storage_dialog_positive">Configurações</string>
+    <string name="manage_external_storage_dialog_title">Permissões necessárias</string>
     <string name="map_custom">Ver endereço %s</string>
     <string name="map_home">Ver endereço residencial</string>
     <string name="map_other">Ver endereço</string>
