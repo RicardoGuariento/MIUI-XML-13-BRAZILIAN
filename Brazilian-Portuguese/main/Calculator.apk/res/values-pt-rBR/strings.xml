@@ -470,7 +470,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="network_confirm_content">O conversor de moedas e a calculadora de impostos e hipoteca precisam de uma conexão com a internet e acesso à localização para funcionarem normalmente.</string>
     <string name="network_confirm_title">Permissões necessárias</string>
     <string name="network_purpose">Bem-vindo à Calculadora! A Calculadora permite que você converta moedas, calcule parcelas de hipotecas e muito mais.</string>
-    <string name="new_privacy_string">&lt;Data>"Bem-vindo à Calculadora!&lt;br/>Este app contém os seguintes recursos:&lt;br/>• Calculadora básica&lt;br/>• Calculadora científica&lt;br/>• Conversor universal (ex.: moeda, unidades de medida, etc.)&lt;br/>• Modelos de cálculo para empréstimos, investimentos, EMI e muito mais&lt;br/>A calculadora precisa coletar as informações pessoais necessárias para lhe fornecer os serviços básicos. Você pode saber como lidamos com as informações que coletamos em nossa &lt;a href= \"%1$s\">Política de Privacidade&lt;/a>. Leia e concorde com nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> antes de usar a Calculadora. Você pode retirar seu consentimento para a Política de Privacidade da Calculadora nas Configurações a qualquer momento. Se você não concordar com nossa Política de Privacidade, você não poderá usar alguns recursos deste app; entretanto, sua funcionalidade básica ainda estará disponível para você."&lt;/Data></string>
+    <string name="new_privacy_string"><Data>"Bem-vindo à Calculadora!&lt;br/>Este app contém os seguintes recursos:&lt;br/>• Calculadora básica&lt;br/>• Calculadora científica&lt;br/>• Conversor universal (ex.: moeda, unidades de medida, etc.)&lt;br/>• Modelos de cálculo para empréstimos, investimentos, EMI e muito mais&lt;br/>Você pode saber como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Leia e concorde com nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> antes de usar a Calculadora. Você pode retirar seu consentimento para a Política de Privacidade da Calculadora nas Configurações a qualquer momento. Se você não concordar com nossa Política de Privacidade, você não poderá usar alguns recursos deste app; entretanto, sua funcionalidade básica ainda estará disponível para você."</Data></string>
     <string name="night">"PM"</string>
     <string name="none">Nenhum</string>
     <string name="noon">"PM"</string>
@@ -614,6 +614,7 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="tax_total_insurance_provident_fund">Fundo de seguro e habitação</string>
     <string name="tax_unemployment">Desemprego</string>
     <string name="tax_update_time_format">Dados fornecidos por HeXun (%s)</string>
+    <string name="tenure_year_month">%1$s e %2$s</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
     <string name="the_arbor_day">Dia da Árvore</string>

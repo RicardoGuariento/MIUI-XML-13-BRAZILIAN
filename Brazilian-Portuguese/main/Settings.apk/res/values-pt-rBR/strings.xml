@@ -66,6 +66,7 @@
     <string name="access_control_password_title">Bloqueio de apps</string>
     <string name="access_control_recording_intro_header">Desenhe um padrão de desbloqueio</string>
     <string name="access_control_reset_by_account">Faça o login em sua Conta Mi para redefinir a senha</string>
+    <string name="access_denied_info">Muitas tentativas. Aguarde um momento e tente novamente.</string>
     <string name="access_point_names">Nomes dos pontos de acesso</string>
     <string name="accessibility_audio_adjustment_title">Ajuste de áudio</string>
     <string name="accessibility_autoclick_custom_title">Personalizado</string>
@@ -865,8 +866,8 @@ Alterar as configurações agora?"</string>
     <string name="auto_caps">Capitalização automática</string>
     <string name="auto_caps_summary">Escrever a primeira letra nas sentenças com letra maiúscula</string>
     <string name="auto_clean_description">"Sobre este recurso
-1. Execute-o uma ou duas vezes se sentir que seu alto-falante está bloqueado por partículas de poeira.
-2. Se o alto-falante estiver muito bloqueado, execute o teste %1$d-%2$d vezes enquanto agita seu telefone com o alto-falante virado para baixo."</string>
+%3$. Execute-o uma ou duas vezes se sentir que seu alto-falante está bloqueado por partículas de poeira.
+%4$. Se o alto-falante estiver muito bloqueado, execute o teste %1$d-%2$d vezes enquanto agita seu telefone com o alto-falante virado para baixo."</string>
     <string name="auto_clean_description_pad">"Sobre este recurso
 • Execute-o uma ou duas vezes se sentir que seu alto-falante está bloqueado por partículas de poeira.
 • Se o alto-falante estiver muito bloqueado, execute o teste de %1$d-%2$d vezes enquanto agita seu telefone com o alto-falante virado para baixo."</string>
@@ -1897,10 +1898,12 @@ Você pode desativar este recurso em Configurações > Bluetooth > Dispositivos 
     <string name="bt_ldac_open_dialog_title">Ativar o LDAC?</string>
     <string name="bt_ldac_pre_title">"LDAC"</string>
     <string name="bt_ldac_property">Propriedades</string>
+    <string name="bt_leaudio_cg_dialog_summary">"Alguns recursos não estarão disponíveis depois que você ativar esse recurso. Esse recurso também não suporta a conexão de vários dispositivos aos fones de ouvido. Se você já se conectou a dois dispositivos diferentes, desconecte-se de um deles primeiro. Ativar o LC3 agora?"</string>
     <string name="bt_leaudio_open_dialog_summary">Você não poderá conectar vários dispositivos ao seu fone de ouvido quando o LC3 estiver ativado. Outros dispositivos conectados serão desconectados se você ativar esse recurso. Ativar LC3 mesmo assim?</string>
     <string name="bt_leaudio_open_dialog_title">Atenção</string>
     <string name="bt_leaudio_pre_title">"Codec LC3"</string>
     <string name="bt_leaudio_summary">Experiência de áudio de alta qualidade</string>
+    <string name="bt_leaudio_support_multi_dialog_summary">"Alguns recursos não estarão disponíveis depois que você ativar esse recurso. Ativar o LC3 agora?"</string>
     <string name="bt_lhdc_declaration">Quando um dispositivo Bluetooth suporta LHDC, ele será conectado por padrão. O LHDC permite reproduzir áudio de alta qualidade e reduz a latência durante os jogos, mas também aumenta o consumo de energia. Problemas podem ocorrer durante a reprodução devido a limitações do hardware Bluetooth.</string>
     <string name="bt_lhdc_dialog_summary">O LHDC permite reproduzir áudio de alta qualidade e reduz a latência durante os jogos, mas também aumenta o consumo de energia. Este recurso pode ser desativado nas Configurações.</string>
     <string name="bt_lhdc_dialog_title">O dispositivo atual suporta LHDC, que foi conectado por padrão:</string>
@@ -2211,6 +2214,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="codec_low_latency_video_summary">Fornece uma experiência de áudio de baixa latência para jogos e vídeos, tornando a sincronização de som e imagem mais natural.</string>
     <string name="codec_low_latency_zmi_summary">Reduza o atraso de áudio e melhore os efeitos sonoros dos jogos automaticamente</string>
     <string name="codec_low_latency_zmi_title">Baixa latência para jogos</string>
+    <string name="collect_diagnosis_log">Coletar registro de diagnóstico</string>
     <string name="color_black">Preto</string>
     <string name="color_blue">Azul</string>
     <string name="color_calibration_none">Este dispositivo</string>
@@ -2559,6 +2563,11 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="dark_color_mode">Modo escuro</string>
     <string name="dark_color_summary_lcd">Usar uma paleta de cores escura para fundos do sistema e apps compatíveis. O Modo escuro pode ajudá-lo a aliviar o cansaço ocular ao usar o dispositivo no escuro.</string>
     <string name="dark_color_summary_oled">Usar uma paleta de cores escura para fundos do sistema e apps compatíveis. O Modo escuro reduz o consumo de energia e ajuda a aliviar o cansaço visual.</string>
+    <string name="dark_mode_alert_dialog_cancel">Cancelar</string>
+    <string name="dark_mode_alert_dialog_checkbox">"Não mostrar novamente"</string>
+    <string name="dark_mode_alert_dialog_confirm">Ativar</string>
+    <string name="dark_mode_alert_dialog_message">Este aplicativo pode não ser exibido corretamente no modo escuro. Ativar o Modo escuro mesmo assim?</string>
+    <string name="dark_mode_alert_dialog_title">Atenção!!</string>
     <string name="dark_mode_apps_header">Apps individuais</string>
     <string name="dark_mode_auto_time_summary">Ative e desative o Modo escuro em horário programado</string>
     <string name="dark_mode_auto_time_title">Personalizado</string>
@@ -2929,6 +2938,10 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="device_total_memory">"Total "</string>
     <string name="device_usage_list_summary">Uso do dispositivo desde a carga completa</string>
     <string name="devices_title">Dispositivos</string>
+    <string name="diagnosis_log_send_failed">O envio do log de diagnóstico falhou.</string>
+    <string name="diagnosis_log_sent_format">"O log de diagnóstico foi enviado.
+Código: %s
+Por favor, envie este código para o técnico."</string>
     <string name="dial_application_title">Discar</string>
     <string name="dial_pad_tones_title">Tons de discagem</string>
     <string name="dialog_background_check_message">"Não é possível gerenciar a bateria do smartphone normalmente, porque o app %1$s o mantém ativado.
@@ -3820,6 +3833,7 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
     <string name="font_size_summary1">"Se o tamanho dos textos do sistema ainda está pequeno, experimente o "</string>
     <string name="font_size_summary2">Modo simplificado</string>
     <string name="footer_learn_more_content_description">Aprender mais sobre %1$s</string>
+    <string name="for_diagnosis_usage_only">Use esta informação apenas para diagnóstico.</string>
     <string name="forbidden_network">(proibida)</string>
     <string name="forbidden_set_unlock_password_msg">Atualmente em Modo de manutenção, a senha não pode ser definida ou alterada.</string>
     <string name="forbidden_switch_apn_string">As configurações selecionadas para o APN não correspondem com o tipo de rede atual</string>
@@ -3835,7 +3849,8 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
     <string name="force_immersive_compatibility_hint_message">Alguns apps podem não funcionar corretamente se você optar por ocultar os botões virtuais.</string>
     <string name="force_immersive_compatibility_hint_title">Problemas de compatibilidade</string>
     <string name="force_msaa">Forçar 4x MSAA</string>
-    <string name="force_msaa_new">Forçar %dx MSAA</string>
+    <string name="force_msaa_new">Forçar 4x MSAA</string>
+    <string name="force_msaa_prefrence_summary_new">Ativa o 4x MSAA em apps OpenGL ES %1$.1f</string>
     <string name="force_msaa_summary">Ativar 4x MSAA em apps OpenGL ES 2.0</string>
     <string name="force_msaa_summary_new">Ativar %2$dx MSAA em apps OpenGL ES %1$.1f</string>
     <string name="force_resizable_activities">Forçar atividades a serem redimensionáveis</string>
@@ -6078,6 +6093,7 @@ Selecione seu sistema operacional:"</string>
     <string name="network_detail">Detalhes da rede %s</string>
     <string name="network_disconnected">Desconectado</string>
     <string name="network_error">Erro de rede</string>
+    <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="network_global">"Global"</string>
     <string name="network_id">ID de rede</string>
     <string name="network_lte">LTE (recomendado)</string>
@@ -6103,6 +6119,7 @@ Selecione seu sistema operacional:"</string>
     <string name="network_speed_for_apps_title">Conexão</string>
     <string name="network_speed_for_apps_total">Velocidade da conexão</string>
     <string name="network_state_label">Estado da rede:</string>
+    <string name="network_timeout_info">"Não foi possível conectar à rede. Tente novamente."</string>
     <string name="network_world_mode_cdma_lte">LTE/CDMA</string>
     <string name="network_world_mode_gsm_lte">LTE/GSM/UMTS</string>
     <string name="networkid_label">ID de rede:</string>
@@ -6467,6 +6484,7 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
     <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Indisponível em dispositivos bloqueados pela operadora</string>
     <string name="oem_unlock_enable_summary">Permite que o bootloader seja desbloqueado</string>
     <string name="off">Desativado</string>
+    <string name="ok">"OK"</string>
     <string name="ok_rules">Concluído</string>
     <string name="okay">"OK"</string>
     <string name="oldman_app_label">Modo simplificado</string>
@@ -7137,6 +7155,7 @@ Pressione [liga/desliga] e [volume +] ao mesmo tempo."</string>
     <string name="progress_dialog_speaker_auto_clean_button">Parar</string>
     <string name="progress_dialog_speaker_auto_clean_title">Limpando auto-falantes…</string>
     <string name="progress_scanning">Pesquisar</string>
+    <string name="progressbar_title">Verificando problemas de segurança…</string>
     <string name="promote_conversation_summary">Adicionar à seção de conversas</string>
     <string name="promote_conversation_title">Esta é uma conversa</string>
     <string name="provider_internet_settings">"Internet"</string>
@@ -8173,6 +8192,8 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="select_webview_provider_title">Implementação do WebView</string>
     <string name="select_webview_provider_toast_text">Esta escolha não é mais válida. Tente novamente.</string>
     <string name="send">Enviar</string>
+    <string name="send_diagnosis_log">Enviar log de diagnóstico</string>
+    <string name="sending">Enviando…</string>
     <string name="sensor_toggle_description">Para todos os apps e serviços</string>
     <string name="sensors_off_quick_settings_title">Sensores desativados</string>
     <string name="separate_keyboard">Ergonomic keyboard</string>
@@ -8974,6 +8995,10 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="string_int_second">%d segundo</string>
     <string name="string_int_seconds">%d segundos</string>
     <string name="string_kHz">%.1fkHz</string>
+    <string name="string_kHz_1">%.1f kHz</string>
+    <string name="string_kHz_2">%.1f kHz</string>
+    <string name="string_kHz_3">%.1f kHz</string>
+    <string name="string_kHz_4">%.1f kHz</string>
     <string name="string_never">Nunca</string>
     <string name="string_off">Desativado</string>
     <string name="string_offed">Desativado</string>
@@ -9183,6 +9208,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="system_dashboard_summary">Idiomas, gestos, tempo, backup</string>
     <string name="system_default_app">(Padrão do sistema)</string>
     <string name="system_default_app_subtext">Padrão do sistema</string>
+    <string name="system_error_info">O sistema está ocupado. Aguarde um momento e tente novamente.</string>
     <string name="system_haptic_feedback">Resposta tátil</string>
     <string name="system_navigation_title">Navegação no sistema</string>
     <string name="system_package">As atualizações do sistema não podem ser instaladas em mídia externa.</string>
@@ -9196,7 +9222,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tab_text">Aba</string>
     <string name="tablet_screen_application_adaptation_title">Layouts personalizados para tablets</string>
     <string name="tablet_screen_settings_title">Features for tablets</string>
-    <string name="tablet_screen_special_function_title">Recursos para tablets dobráveis</string>
+    <string name="tablet_screen_special_function_title">Recursos para tablets</string>
     <string name="take_call_on_title">Atender chamada</string>
     <string name="talkback_summary">Leitor de tela, usado principalmente para pessoas com deficiência visual total ou parcial</string>
     <string name="talkback_title">"Talkback"</string>
@@ -9207,6 +9233,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tap_to_wake">Tocar para ativar</string>
     <string name="tap_to_wake_summary">Toque duas vezes em qualquer parte da tela para ativar o dispositivo</string>
     <string name="taplus_title">"Taplus"</string>
+    <string name="temporary_not_available">indisponível temporáriamente</string>
     <string name="temporary_style">10 segundos depois de tocar na tela</string>
     <string name="terms_title">Termos e Condições</string>
     <string name="testing">Testando</string>
@@ -9500,6 +9527,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="uninstall_xspace_app_dlg_title">Desinstalar dual app?</string>
     <string name="unknown">Desconhecido</string>
     <string name="unknown_app">App desconhecido</string>
+    <string name="unknown_error_info">Erro desconhecido</string>
     <string name="unknown_unavailability_setting_summary">Configuração indisponível</string>
     <string name="unlock_change_lock_password_title">Mudar senha de desbloqueio</string>
     <string name="unlock_change_lock_pattern_title">Mudar padrão de desbloqueio</string>

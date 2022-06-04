@@ -626,6 +626,7 @@ Após inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o reprod
     <string name="cit_tool_check_opt">certo?</string>
     <string name="cit_tool_check_opt_with_reboot">irá reiniciar, certo?</string>
     <string name="cit_tool_current_modem_test_mode">Modo de teste atual:</string>
+    <string name="cit_tool_current_size">Tamanho atual</string>
     <string name="cit_tool_enable_3A_log">Ativar o comando de log 3A</string>
     <string name="cit_tool_enable_display_3A_log">Ativar exibição de log 3A</string>
     <string name="cit_tool_exit_modem_mbn">Restaurar para MBN automático</string>
@@ -741,6 +742,19 @@ A segunda linha mostra o nome e o número da versão do MBN padrão e MBN da ope
     <string name="cit_tool_wifi_tx_st">Tx: ST</string>
     <string name="cit_tool_wifi_tx_st_chan">Canal:</string>
     <string name="cit_tool_wifi_txrx_chain_selection">Selecionar antena</string>
+    <string name="cit_tool_wlan_circular_capture">Captura circular</string>
+    <string name="cit_tool_wlan_clear">limpar</string>
+    <string name="cit_tool_wlan_exit">Sair</string>
+    <string name="cit_tool_wlan_export">Exportar</string>
+    <string name="cit_tool_wlan_rxn_test_bw">largura de banda:</string>
+    <string name="cit_tool_wlan_rxn_test_channel">canal:</string>
+    <string name="cit_tool_wlan_sniffer">Ferramenta Sniffer de Wi-Fi</string>
+    <string name="cit_tool_wlan_sniffer_settings">Configurações do sniffer</string>
+    <string name="cit_tool_wlan_sniffer_test_title">Ferramenta de teste de sniffer de Wi-Fi</string>
+    <string name="cit_tool_wlan_test_title">Ferramenta de teste de Wi-Fi</string>
+    <string name="cit_tool_wlan_tx_st_chan">canal:</string>
+    <string name="cit_tool_wlan_txrx_chain_selection">Selecione a antena</string>
+    <string name="cit_tool_wlan_update_ap_list">Atualizar lista AP</string>
     <string name="cit_top_left_speaker_test">Teste do alto-falante superior esquerdo</string>
     <string name="cit_top_right_speaker_test">Teste do alto-falante superior direito</string>
     <string name="cit_torch">"Flash"</string>
