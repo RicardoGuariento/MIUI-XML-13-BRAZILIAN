@@ -31,4 +31,3 @@ For more info, visit:
 ##### Commits pendentes de tradução:
 - [XML 22.5.15/16](https://github.com/RicardoGuariento/MIUI-XML-13-BRAZILIAN/commit/3735b4eab040825a6cb1133a5a8be639c6e35be0) 
 - [XML 22.5.25](https://github.com/RicardoGuariento/MIUI-XML-13-BRAZILIAN/commit/ae82ce57e651a1309e20207c3bee653164c7cfab) 
-- [XML 22.5.27](https://github.com/RicardoGuariento/MIUI-XML-13-BRAZILIAN/commit/e4c3d13df780e7b452af905bc9862f3d4811a300)
