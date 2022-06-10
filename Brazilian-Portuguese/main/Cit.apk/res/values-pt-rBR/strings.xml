@@ -91,22 +91,22 @@
     <string name="charge_reverse_pls">Por favor, insira a carga reversa</string>
     <string name="charger_test_end">"
 Fim do teste, por favor, desconecte o carregador"</string>
-    <string name="cit_DP_check_summary">The DP lines should be connected during the testing process</string>
+    <string name="cit_DP_check_summary">As linhas DP devem ser conectadas durante o processo de teste</string>
     <string name="cit_DP_check_title">DP</string>
-    <string name="cit_DP_in_start_test">Please insert the DP line to start the testing</string>
-    <string name="cit_DP_plug_err">"Test failed 
- Did not get the value"</string>
-    <string name="cit_DP_plug_fail">"Test failed 
- This line is not a DP line, replace another line for testing"</string>
-    <string name="cit_DP_plug_out_err">"Test failure
-Did not get the value"</string>
-    <string name="cit_DP_plug_out_fail">"Broken connection was detected
-Test Failed
+    <string name="cit_DP_in_start_test">Insira a linha DP para iniciar o teste</string>
+    <string name="cit_DP_plug_err">"Falha no teste
+O valor não foi recebido"</string>
+    <string name="cit_DP_plug_fail">"Falha no teste
+ Esta linha não é uma linha DP, substitua outra linha para teste"</string>
+    <string name="cit_DP_plug_out_err">"Falha no teste
+O valor não foi recebido"</string>
+    <string name="cit_DP_plug_out_fail">"Foi detectada uma interrupção na conexão
+Falha no teste
 "</string>
-    <string name="cit_DP_plug_out_pass">"Broken connection was detected
-Test Pass"</string>
-    <string name="cit_DP_plug_pass">The connected DP line is detected, please observe whether the screen projection is successful, and click the corresponding button</string>
-    <string name="cit_DP_plug_re_plugin">DP test completed, please see whether the screen is successful, and click the corresponding button</string>
+    <string name="cit_DP_plug_out_pass">"Foi detectada uma interrupção na conexão
+Teste concluído"</string>
+    <string name="cit_DP_plug_pass">A linha DP conectada foi detectada, observe se a projeção da tela foi bem-sucedida e clique no botão correspondente</string>
+    <string name="cit_DP_plug_re_plugin">Teste DP concluído, verifique se a tela foi bem-sucedida e clique no botão correspondente</string>
     <string name="cit_OTG_plug_check_summary">"Durante o teste, siga os passos:
 1. Conecte o dispositvo USB OTG.
 2. Remova o dispositvo USB OTG.
@@ -122,23 +122,23 @@ Test Pass"</string>
     <string name="cit_OTG_waiting_out_end">Conecte um dispositivo USB OTG, e finalize o teste</string>
     <string name="cit_Reserse_charge_check_title">Teste de carga reversa</string>
     <string name="cit_SAR_TEST_TOOL">INICIAR TESTE SAR</string>
-    <string name="cit_USB3_OTG_error_condition">"An OTG device insertion was detected, but could not get the device information 
- Test failed"</string>
-    <string name="cit_USB3_check_summary">USB3.0-supporting devices need to be inserted during testing</string>
+    <string name="cit_USB3_OTG_error_condition">"Um dispositivo OTG foi inserido, mas não foi possível obter as informações acerca do dispositivo 
+ Falha no teste"</string>
+    <string name="cit_USB3_check_summary">Dispositivos compatíveis com USB3.0 precisam ser inseridos durante o teste</string>
     <string name="cit_USB3_check_title">USB3.0</string>
-    <string name="cit_USB3_error_condition">"Device insertion was detected, but could not get device information 
- Test failed"</string>
-    <string name="cit_USB3_in_need_plugout">USB device connected detected, pull out to start test</string>
-    <string name="cit_USB3_in_start_test">Insert the USB3.0-enabled devices and start testing</string>
-    <string name="cit_USB3_plug_err">Did not read the correct value, please contact the development to see the reason</string>
-    <string name="cit_USB3_plug_fail">The test device does not support USB3.0 and the test failed</string>
-    <string name="cit_USB3_plug_out_test_err">"Device has pull out ,test fail
-Did not get the correct value, please contact the research and development student to find out the reason"</string>
-    <string name="cit_USB3_plug_out_test_fail">"Device has pull out ,test fail
-It is recommended to retest the replacement equipment"</string>
-    <string name="cit_USB3_plug_out_test_pass">Device has pull out ,test pass</string>
-    <string name="cit_USB3_plug_pass">USB3.0 pass ,please pull out devices</string>
-    <string name="cit_USB3_plug_re_plugin">"USB3.0 test is end, please don't repeat the test"</string>
+    <string name="cit_USB3_error_condition">"A inserção do dispositivo foi detectada, mas não foi possível obter as informações do dispositivo 
+ Falha no teste"</string>
+    <string name="cit_USB3_in_need_plugout">Dispositivo USB conectado, puxe para iniciar o teste</string>
+    <string name="cit_USB3_in_start_test">Insira os dispositivos habilitados para USB3.0 e comece a testar</string>
+    <string name="cit_USB3_plug_err">O valor correto não foi recebido, entre em contato com o desenvolvimento</string>
+    <string name="cit_USB3_plug_fail">O dispositivo de teste não suporta USB3.0, o teste falhou</string>
+    <string name="cit_USB3_plug_out_test_err">"O dispositivo foi retirado, o teste falhou
+O valor correto não foi obtido, entre em contato com o aluno de pesquisa e desenvolvimento para saber o motivo"</string>
+    <string name="cit_USB3_plug_out_test_fail">"O dispositivo foi retirado, o teste falhou
+Recomenda-se testar novamente o equipamento de substituição"</string>
+    <string name="cit_USB3_plug_out_test_pass">O dispositivo foi retirado, teste concluído</string>
+    <string name="cit_USB3_plug_pass">USB3.0 concluído, por favor, retire o dispositivo</string>
+    <string name="cit_USB3_plug_re_plugin">"O teste USB3.0 terminou, por favor, não repita o teste"</string>
     <string name="cit_abnormal_reboot_summary">Aguarde ... Lendo dados de estabilidade neste dispositivo.</string>
     <string name="cit_abnormal_reboot_title">Dados de estabilidade do dispositivo</string>
     <string name="cit_ac_charger_in">Carregando por CA</string>
@@ -630,10 +630,10 @@ Após inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o reprod
     <string name="cit_tool_enable_3A_log">Ativar o comando de log 3A</string>
     <string name="cit_tool_enable_display_3A_log">Ativar exibição de log 3A</string>
     <string name="cit_tool_exit_modem_mbn">Restaurar para MBN automático</string>
-    <string name="cit_tool_getting_expired">Getting Expired!</string>
-    <string name="cit_tool_getting_wait">Getting! PLS wait</string>
-    <string name="cit_tool_gps_path_loss_test_request_location">request location</string>
-    <string name="cit_tool_gps_path_loss_title">Gnss pathloss test tool</string>
+    <string name="cit_tool_getting_expired">Expirando!</string>
+    <string name="cit_tool_getting_wait">Recebendo! Por favor espere</string>
+    <string name="cit_tool_gps_path_loss_test_request_location">solicitar local</string>
+    <string name="cit_tool_gps_path_loss_title">Ferramenta de teste de perda de caminho Gnss</string>
     <string name="cit_tool_log">Obter registros</string>
     <string name="cit_tool_log_bugreport">Relatório de erros</string>
     <string name="cit_tool_log_dmesg">DMESG</string>

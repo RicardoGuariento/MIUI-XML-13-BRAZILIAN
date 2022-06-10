@@ -46,10 +46,10 @@
     <string name="agree_audio_permission">Gravar áudio</string>
     <string name="agree_btn">Aceitar</string>
     <string name="agree_camera_permission">Para usar a câmera para digitalizar itens</string>
-    <string name="agree_camera_permission_message">For using the camera in order to scan items</string>
+    <string name="agree_camera_permission_message">Para usar a câmera para digitalizar itens</string>
     <string name="agree_monitor_use">Detecte o tempo e a proporção de ouvir atentamente, distrair e sair durante as aulas online. Todos os seus dados pessoais serão salvos localmente</string>
     <string name="agree_storage_permission">Para acessar e importar imagens da Galeria e salvar arquivos</string>
-    <string name="agree_storage_permission_message">For accessing and importing Gallery images and saving files</string>
+    <string name="agree_storage_permission_message">Para acessar e importar imagens da Galeria e salvar arquivos</string>
     <string name="all_text">Texto completo</string>
     <string name="already_ocr_result">Itens selecionados automaticamente</string>
     <string name="always">Sempre</string>
@@ -116,7 +116,7 @@
     <string name="code_always">Memorizar preferência</string>
     <string name="code_determine">"OK"</string>
     <string name="code_result">Resultados</string>
-    <string name="come_back_picture">Back</string>
+    <string name="come_back_picture">Voltar</string>
     <string name="common_google_play_services_enable_button">Ativar</string>
     <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
     <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
@@ -814,8 +814,8 @@ Por favor, consulte o ângulo na imagem para colocar o dispositivo e tente novam
     <string name="to_date">Hoje</string>
     <string name="to_install_title">Este código QR redireciona você para um app desinstalado. Baixar este app agora?</string>
     <string name="to_pay">Complete o pagamento</string>
-    <string name="toast_net_2g">The network is poor. Please change the network and try again</string>
-    <string name="toast_net_timeout">The request timed out. Please try again later</string>
+    <string name="toast_net_2g">A conexão com a Internet está instável. Altere o tipo de rede e tente novamente</string>
+    <string name="toast_net_timeout">O pedido excedeu o tempo limite. Por favor, tente novamente mais tarde</string>
     <string name="today">Hoje</string>
     <string name="toinstall">Baixar</string>
     <string name="tomorrow">Amanhã</string>

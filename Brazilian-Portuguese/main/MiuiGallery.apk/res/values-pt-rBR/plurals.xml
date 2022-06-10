@@ -90,8 +90,8 @@
         <item quantity="one">%1$d item</item>
     </plurals>
     <plurals name="all_story_count_desc">
-        <item quantity="other">%d memories</item>
-        <item quantity="one">%d memory</item>
+        <item quantity="other">%d memórias</item>
+        <item quantity="one">%d memória</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%1$d fotos do bebê %2$s serão adicionadas</item>
