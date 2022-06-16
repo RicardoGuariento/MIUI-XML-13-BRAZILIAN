@@ -2057,11 +2057,11 @@ Grave sequências e use-as a qualquer momento!"</string>
     <string name="gb_game_mode_ratio">Original</string>
     <string name="gb_game_mode_ratio_type">Original</string>
     <string name="gb_game_mode_recommend">" (Recommended)"</string>
-    <string name="gb_game_mode_search">Pesquisar aplicativos</string>
+    <string name="gb_game_mode_search">Pesquisar apps</string>
     <string name="gb_game_ratio_bottom">Inferior</string>
     <string name="gb_game_ratio_center">Centro</string>
-    <string name="gb_game_ratio_desc_h">"A área ativa não será cortada, áreas pretas podem aparecer"</string>
-    <string name="gb_game_ratio_desc_v">"A área ativa não será cortada, áreas pretas podem aparecer"</string>
+    <string name="gb_game_ratio_desc_h">"A área ativa não será cortada, áreas escuras podem aparecer"</string>
+    <string name="gb_game_ratio_desc_v">"A área ativa não será cortada, áreas escuras podem aparecer"</string>
     <string name="gb_game_ratio_left">Esquerda</string>
     <string name="gb_game_ratio_right">Direita</string>
     <string name="gb_game_ratio_top">Topo</string>
