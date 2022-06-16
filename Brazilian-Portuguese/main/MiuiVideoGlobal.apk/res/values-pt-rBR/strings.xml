@@ -273,6 +273,7 @@
     <string name="common_google_play_services_updating_text">%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento.</string>
     <string name="common_google_play_services_wear_update_text">É necessária uma nova versão do Google Play Services. Ele será atualizado em breve.</string>
     <string name="common_open_on_phone">Abrir no smartphone</string>
+    <string name="common_retry_late_hint">Aguarde alguns minutos e tente novamente</string>
     <string name="common_signin_button_text">Fazer login</string>
     <string name="common_signin_button_text_long">Fazer login com o Google</string>
     <string name="confirm_activate_email">Verificado</string>
@@ -327,9 +328,12 @@ Envie este código para o supervisor."</string>
     <string name="dialog_jumpto_choose">Não mostrar novamente</string>
     <string name="dialog_jumpto_content">Alternar para o Mi Vídeo para acessar recursos adicionais de reprodução?</string>
     <string name="dialog_jumpto_title">Mi Vídeo</string>
+    <string name="dialog_look_offline_btn">Ver conteúdo off-line</string>
+    <string name="dialog_no_internet_des">"Você não está conectado à rede. Vizualizar conteúdo offline?"</string>
     <string name="dialog_no_video_confirm">Entendi</string>
     <string name="dialog_no_video_tip">Tente abrir os detalhes do vídeo primeiro. O botão de download ficará disponível quando um vídeo for encontrado.</string>
     <string name="dialog_no_video_title">Não foi possível encontrar o vídeo</string>
+    <string name="dialog_open_internet_btn">Conecte-se à rede</string>
     <string name="dialog_privacy_change_info">Nós atualizamos a Política de Privacidade do Mi Vídeo devido aos ajustes de serviços que oferecemos. Para entender totalmente seus direitos como usuário, bem como as formas que usamos os seus dados, leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar o app.</string>
     <string name="dialog_privacy_change_title">Atualização da Política de Privacidade</string>
     <string name="dialog_privacy_experience_plan">Participe do nosso Programa de Experiência do Usuário para compartilhar dados conosco e nos ajudar a melhorar os nossos produtos e serviços.</string>
@@ -565,6 +569,9 @@ Envie este código para o supervisor."</string>
     <string name="galleryplus_gallery_video_save_video">Criando vídeo…</string>
     <string name="galleryplus_gallery_video_slow_edit">Câmera lenta</string>
     <string name="galleryplus_gallery_view_tags">Mostrar tags</string>
+    <string name="galleryplus_globalvideo_controller_go">Ir</string>
+    <string name="galleryplus_globalvideo_controller_hint">Confira a experiência atualizada de reprodução do Mi Vídeo</string>
+    <string name="galleryplus_globalvideo_controller_tip">Ver recursos adicionais</string>
     <string name="galleryplus_is_higher_definition">Pré-visualização em HD</string>
     <string name="galleryplus_network_connect_check">Não foi possível conectar-se à rede</string>
     <string name="galleryplus_network_connect_confirm">Conecte-se ao Wi-Fi ou ative os dados móveis nas configurações de rede.</string>
@@ -572,11 +579,20 @@ Envie este código para o supervisor."</string>
     <string name="galleryplus_network_not_wifi">Usar os dados móveis para o streaming de vídeos pode gerar tarifas adicionais com a operadora</string>
     <string name="galleryplus_next_step">Próximo</string>
     <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Gerencie arquivos %$s Adicione legendas %$s Transmita vídeos %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle1_new">Use o Picture-in-picture, reprodução em segundo plano, zoom, transmissão e mais %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle2">Proteja seus vídeos privados com uma senha %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle2_new">Proteja vídeos privados com senha e gerencie seus arquivos %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle3">Baixe vídeos do TikTok, Instagram, e Twitter %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle3_new">Filmes, clipes de música e vídeos curtos de suas plataformas favoritas %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle4">Assista a dramas, comédias populares e mais</string>
+    <string name="galleryplus_notification_linkvideo_subtitle5">Assista e inscreva-se em canais de esportes, animações, filmes e mais</string>
     <string name="galleryplus_notification_linkvideo_title1">%$s Confira todos os recursos legais do Mi Vídeo!</string>
     <string name="galleryplus_notification_linkvideo_title2">%$s Toque para gerenciar seus vídeos</string>
     <string name="galleryplus_notification_linkvideo_title3">%1$s Baixe vídeos gratuitamente %2$s Gerencie arquivos</string>
+    <string name="galleryplus_notification_linkvideo_title3_new">%$s Downloads rápidos, gratuitos</string>
+    <string name="galleryplus_notification_linkvideo_title4">Centenas de vídeos, grátis por tempo limitado</string>
+    <string name="galleryplus_notification_linkvideo_title5">Assista a seus programas favoritos gratuitamente</string>
+    <string name="galleryplus_notification_try_now_btn">Testar agora</string>
     <string name="galleryplus_online_cta">O Mi Vídeo precisa de uma conexão com a internet para funcionar normalmente. Aceitar?</string>
     <string name="galleryplus_online_cta_agree">Aceitar</string>
     <string name="galleryplus_online_cta_disagree">Não aceitar</string>
@@ -676,11 +692,52 @@ Esta operação não afetará as fotos da sua galeria."</string>
     <string name="i_know">"OK"</string>
     <string name="icon_content_description">Ícone de caixa de diálogo</string>
     <string name="identity">Identificação</string>
+    <string name="incentive_details">Detalhes</string>
+    <string name="incentive_dialog_cancel_not_interested">Não, obrigado</string>
+    <string name="incentive_dialog_continue_to_watch">Continuar</string>
+    <string name="incentive_dialog_default_message">Assista por mais %1$s para ganhar %2$s!</string>
+    <string name="incentive_dialog_default_title">Continuar assistindo?</string>
+    <string name="incentive_dialog_exit">Sair</string>
+    <string name="incentive_dialog_negative_give_up">Não, obrigado</string>
+    <string name="incentive_dialog_negative_play_next_video">Reproduzir próximo vídeo</string>
+    <string name="incentive_dialog_ok_receive_task">Completar</string>
+    <string name="incentive_dialog_positive_get_credits">Resgatar pontos</string>
+    <string name="incentive_dialog_positive_login_and_get_credits">Fazer login</string>
+    <string name="incentive_exchange">Resgatar</string>
+    <string name="incentive_exchange_code">Código</string>
+    <string name="incentive_exchange_code_copy">Copiar</string>
+    <string name="incentive_exchange_details">Detalhes</string>
+    <string name="incentive_exchange_details_current">Total do pedido</string>
+    <string name="incentive_exchange_details_total">Saldo</string>
+    <string name="incentive_exchange_empty_tip">Nothing here yet. Redeem points to get started.</string>
+    <string name="incentive_exchange_expire_tip">Os pontos não resgatados desaparecerão à meia-noite</string>
+    <string name="incentive_exchange_lack">Indisponível</string>
+    <string name="incentive_exchange_successful">Resgatado com sucesso</string>
+    <string name="incentive_exchange_tip">Estes pontos só estão disponíveis hoje</string>
+    <string name="incentive_login_for_claim">Faça o login em sua Conta Google para resgatar pontos</string>
+    <string name="incentive_login_tip">Sign in to earn points and get rewards</string>
+    <string name="incentive_my_points">Meus pontos</string>
+    <string name="incentive_popup_window_share">Compartilhe para ganhar pontos</string>
+    <string name="incentive_popup_window_subscribe">Inscreva-se para ganhar pontos</string>
+    <string name="incentive_rules_title_bar">Regras</string>
+    <string name="incentive_tab_exchange_recore">Recompensas</string>
+    <string name="incentive_tab_integral_task">Tarefas</string>
+    <string name="incentive_tab_points_details">Histórico</string>
+    <string name="incentive_tab_prize_redemption">Recompensas</string>
+    <string name="incentive_task_login_receive">Fazer login</string>
+    <string name="incentive_task_receive">Obter</string>
+    <string name="incentive_task_title_daily">Tarefas diárias</string>
+    <string name="incentive_task_title_novice">Para novatos</string>
+    <string name="incentive_task_to_get">Iniciar</string>
+    <string name="incentive_task_to_login">Fazer login</string>
+    <string name="incentive_view_all_prizes">Ver todas as recompensas</string>
+    <string name="incentive_view_details">Detalhes</string>
     <string name="inconsistent_pwd">As senhas não conferem</string>
     <string name="init_channels">Restaurar padrões</string>
     <string name="input_email_address_notice">Nós usaremos este e-mail para verificar a sua conta</string>
     <string name="input_new_pwd">Insira a nova senha</string>
     <string name="input_size_tips">Você pode inserir até %d caracteres</string>
+    <string name="input_size_tips_new">Você pode inserir até %d caracteres</string>
     <string name="isornot_your_mi_account">Esta é a sua Conta Mi?</string>
     <string name="issue">Problema</string>
     <string name="item_card_all_replies">Todas as respostas</string>
@@ -706,12 +763,14 @@ para vídeos"</string>
     <string name="live_title">Ao vivo</string>
     <string name="live_tv_title">TV ao vivo</string>
     <string name="loading">Aguarde…</string>
+    <string name="local_diversion_all_local_videos">Todos os vídeos no dispositivo</string>
     <string name="local_diversion_close_recommend">Fechar</string>
     <string name="local_diversion_download_more_video">Mais vídeos</string>
     <string name="local_diversion_manage_local_video">Gerenciar arquivos</string>
     <string name="local_diversion_open_mivideo">"Assista no Mi Vídeo
 para uma melhor experiência de visualização"</string>
     <string name="local_diversion_recommend_title">"Popular"</string>
+    <string name="local_diversion_view_more">Ver</string>
     <string name="local_empty_guide">Os vídeos que você gravar aparecerão aqui</string>
     <string name="local_folder_select_count">Selecionado: %s</string>
     <string name="local_hide_folder_dialog_content">"Os vídeos ocultos não serão exibidos nas suas playlists"</string>
@@ -909,6 +968,7 @@ para uma melhor experiência de visualização"</string>
     <string name="mediation_ad">Anúncios</string>
     <string name="mediation_ad_can_not_share">Não é possível compartilhar este vídeo</string>
     <string name="mi_video">Mi Vídeo</string>
+    <string name="mi_video_pip_mode">"Pip"</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -1599,6 +1659,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="small_video_load_more_hint">Deslize para cima para reproduzir mais vídeos</string>
     <string name="small_video_snack_download_description">Baixe o SnackVideo para ver os vídeos mais recentes de seus criadores favoritos.</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
+    <string name="small_video_tab_expose_hint">"Descubra vídeos curtos que você vai amar"</string>
     <string name="sms_send_success">Enviado com sucesso</string>
     <string name="sns_access_token_expired_warning">Sessão expirada. Faça o login novamente para reconectar esta conta.</string>
     <string name="sns_bind_limit">Muitas tentativas efetuadas. Tente outras formas de login.</string>
@@ -1758,7 +1819,11 @@ Aumentar a segurança da sua conta."</string>
     <string name="tip_login_for_your_online_playlist">Faça o login para ver suas playlists.</string>
     <string name="tip_play_a_video">%d. Reproduza um vídeo</string>
     <string name="tip_pop">&lt;Data>Conteúdos do Moments são fornecidos por Firework. Para melhorar sua experiência de visualização e receber mais recomendações de conteúdos relevantes, permita que o Firework colete, processe e use suas informações pessoais de acordo com a sua Política de Privacidade. Leia e aceite a &lt;a href=\"%1$s\">Política de Privacidade do Firework&lt;/a> antes de usar os seus serviços.&lt;/Data></string>
+    <string name="tip_playlist_guide_hint_a">Veja vídeos de suas playlists do Google</string>
+    <string name="tip_playlist_guide_hint_b">Reproduza vídeos de suas playlists do Google sem anúncios</string>
     <string name="tip_storage_used_space" formatted="false">Usados %.2f GB/%.2f GB</string>
+    <string name="tip_subscribe_guide_hint_a">Ver criadores de suas inscrições do Google</string>
+    <string name="tip_subscribe_guide_hint_b">Assista a atualizações de canais do YouTube que você está inscrito sem anúncios</string>
     <string name="tip_tap_download_button">%d. Toque em \"Baixar\"</string>
     <string name="tip_topic_click">Toque para encontrar mais vídeos neste tópico</string>
     <string name="title_bookmarks">Favoritos</string>
@@ -1782,6 +1847,13 @@ Aumentar a segurança da sua conta."</string>
     <string name="toast_bookmark_url_error">Insira uma URL válida</string>
     <string name="toast_fail_to_delete">Não foi possível excluir. Tente novamente.</string>
     <string name="toast_fail_to_rename">Não foi possível renomear. Tente novamente.</string>
+    <string name="toast_incentive_claim_fail_11">Não foi possível resgatar os pontos. Aguarde alguns minutos e tente novamente.</string>
+    <string name="toast_incentive_claim_out_of_limit_2004">Não é possível ganhar mais pontos hoje. Entre em contato caso tenha alguma dúvida.</string>
+    <string name="toast_incentive_redeem_fail_not_enough_points_2003">Você não tem pontos suficientes</string>
+    <string name="toast_incentive_redeem_fail_out_of_limit_2004">Não é possível resgatar esta recompensa novamente hoje</string>
+    <string name="toast_incentive_redeem_fail_prize_expired_2005">Esta recompensa está indisponível</string>
+    <string name="toast_incentive_redeem_fail_prize_expired_error">Não foi possível resgatar. Aguarde alguns minutos e tente novamente.</string>
+    <string name="toast_incentive_redeem_fail_short_of_storage_2002">Esta recompensa está indisponível no momento. Tente novamente mais tarde.</string>
     <string name="toast_m3u8_download_path_tip">Não é possível alterar o local de download para conteúdo no formato m3u8</string>
     <string name="toast_no_data">Este item não está disponível agora. Volte mais tarde.</string>
     <string name="toast_play_error_tip">Não é possível reproduzir este arquivo</string>
@@ -1793,6 +1865,7 @@ Aumentar a segurança da sua conta."</string>
     <string name="tool_bar_notification_setting_title">Barra de ferramentas da Área de notificações</string>
     <string name="top_bar_game_desc">Descubra vários jogos novos aqui</string>
     <string name="top_bar_game_title">Canal de jogos</string>
+    <string name="trending_history_continue_watching">Continuar assistindo</string>
     <string name="trending_scroll_load_more">Deslize para cima para mais vídeos</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
@@ -1910,6 +1983,7 @@ Tamanho de atualização delta: %2$s"</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="year">ano</string>
     <string name="yesterday">Ontem</string>
+    <string name="yt_subscription_notification_setting_title">Notificações de inscrições</string>
     <string name="ytb_account">Contas</string>
     <string name="ytb_author_video">Vídeos</string>
     <string name="ytb_login">Fazer login</string>

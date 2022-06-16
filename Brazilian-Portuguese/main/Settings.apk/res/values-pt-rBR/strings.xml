@@ -1510,6 +1510,10 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_enable_gabeldorsche">Ativar Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Ativa a pilha de recursos Bluetooth Gabeldorsche.</string>
     <string name="bluetooth_enable_opp_high_speed">Transferências Bluetooth de alta velocidade</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_message">Restarting Bluetooth is required to apply changes. Established connections might be interrupted by this action. Restart Bluetooth anyway?</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_negative">Cancel</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_positive">Restart</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_title">Restart Bluetooth</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Use protocolos Bluetooth P2P de alta velocidade para transferências</string>
     <string name="bluetooth_enable_page_scan">Ativar página de verificação do Bluetooth</string>
     <string name="bluetooth_enable_page_scan_summary">Ativar/desativar página de verificação para testar o Bluetooth</string>
@@ -1525,6 +1529,8 @@ Você não conectou a %2$s antes."</string>
     <string name="bluetooth_grp_source_selection_options_detail">"Fonte de transmissão
        %1$s está sendo adicionado aos membros do grupo conectados.
        (Deixe o PIN de transmissão em branco se for uma fonte de transmissão não criptografada)"</string>
+    <string name="bluetooth_hd_music_play_summary">"Play %dkHz audio on Bluetooth devices without reducing sampling rate. Dolby effects won't be available when this feature is on."</string>
+    <string name="bluetooth_hd_music_play_title">Play %dkHz audio</string>
     <string name="bluetooth_headset_profile_summary_connected">Conectado ao áudio do telefone</string>
     <string name="bluetooth_headset_profile_summary_use_for">Usado para áudio do telefone</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Conectado ao aparelho auditivo</string>
@@ -3203,6 +3209,10 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dpp_sharing_wifi_summary">Compartilhando Wi-Fi…</string>
     <string name="dpp_theme_title">Wi-Fi compartilhado</string>
     <string name="draw_overlay">Sobrepor a outros apps</string>
+    <string name="dsda_close_toast">Dual active mode is off. Reboot device to apply changes.</string>
+    <string name="dsda_open_toast">Dual active mode is on. Reboot device to apply changes.</string>
+    <string name="dsda_switch_summary">Allow both SIM cards to use mobile data and make calls simultaneously</string>
+    <string name="dsda_switch_title">Dual active mode</string>
     <string name="dsds_activation_failure_body_msg1">Remova o SIM e insira-o novamente. Se o problema continuar, reinicie o seu dispositivo.</string>
     <string name="dsds_activation_failure_body_msg2">Tente ativar o SIM novamente. Se o problema continuar, reinicie o seu dispositivo.</string>
     <string name="dsds_activation_failure_title">Não é possível ativar o SIM.</string>
@@ -9134,6 +9144,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="sunlight_low_power_notification">">Can't turn on Sunlight mode. Battery is too low."</string>
     <string name="sunlight_mode">Modo luz solar</string>
     <string name="sunlight_mode_summary">Ajuste o brilho para uma luz ambiente forte para evitar que a tela fique muito escura</string>
     <string name="sunlight_mode_summary_new">Ajuste o brilho para uma luz ambiente forte para evitar que a tela fique muito escura. Um pequeno ícone do sol 🌞 aparecerá na parte superior da tela quando a luz ambiente for muito forte.</string>

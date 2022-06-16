@@ -40,6 +40,10 @@
         <item quantity="other">Ver %d respostas</item>
         <item quantity="one">Ver %d resposta</item>
     </plurals>
+    <plurals name="dialog_app_rating_choose_star">
+        <item quantity="other">%s estrelas selecionadas</item>
+        <item quantity="one">%s estrela selecionada</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Voltando para a página inicial em %1$d segundos…</item>
         <item quantity="one">Voltando para a página inicial em %1$d segundo…</item>
@@ -68,9 +72,63 @@
         <item quantity="other">em %d minutos</item>
         <item quantity="one">em 1 minuto</item>
     </plurals>
+    <plurals name="incentive_dialog_congratulation_get_credits_title">
+        <item quantity="other">Você ganhou %d pontos!</item>
+        <item quantity="one">Você ganhou %d ponto!</item>
+    </plurals>
+    <plurals name="incentive_dialog_credits">
+        <item quantity="other">%d pontos</item>
+        <item quantity="one">%d ponto</item>
+    </plurals>
+    <plurals name="incentive_dialog_login_and_get_credits_message">
+        <item quantity="other">Faça o login para resgatar e ganhar %d pontos extras</item>
+        <item quantity="one">Faça o login para resgatar e ganhar %d ponto extra</item>
+    </plurals>
+    <plurals name="incentive_dialog_seconds">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
+    </plurals>
+    <plurals name="incentive_guide_all_time_tip">
+        <item quantity="other">Assista a um total de %d minutos para ganhar pontos! Completar a tarefa agora?</item>
+        <item quantity="one">Assista a um total de %d minuto para ganhar pontos! Completar a tarefa agora?</item>
+    </plurals>
+    <plurals name="incentive_guide_coins_tip">
+        <item quantity="other">"Você possui %d pontos para resgatar
+Disponível apenas hoje"</item>
+        <item quantity="one">"Você possui %d ponto para resgatar
+Disponível apenas hoje"</item>
+    </plurals>
+    <plurals name="incentive_guide_current_time_tip">
+        <item quantity="other">Você assistiu %d minutos hoje</item>
+        <item quantity="one">Você assistiu %d minuto hoje</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_begin">
+        <item quantity="other">Ganhe %d pontos!</item>
+        <item quantity="one">Ganhe %d ponto!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_finish">
+        <item quantity="other">Tarefas de hoje concluídas! Você ganhou %d pontos.</item>
+        <item quantity="one">Tarefas de hoje concluídas! Você ganhou %d ponto.</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_of_one">
+        <item quantity="other">Você assistiu %1$1ds e ganhou %2$2d pontos!</item>
+        <item quantity="one">Você assistiu %1$1ds e ganhou %2$2d ponto!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip1">
+        <item quantity="other">Assista a um vídeo aleatório para ganhar %d pontos</item>
+        <item quantity="one">Assista a um vídeo aleatório para ganhar %d ponto</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip2">
+        <item quantity="other">Assista a %1$1d segundos de um vídeo para ganhar %2$2d pontos</item>
+        <item quantity="one">Assista a %1$1d segundos de um vídeo para ganhar %2$2d ponto</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
         <item quantity="one">Agora mesmo</item>
+    </plurals>
+    <plurals name="local_diversion_video_number">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d pastas</item>
@@ -124,6 +182,14 @@
         <item quantity="other">%d novas notificações</item>
         <item quantity="one">%d nova notificação</item>
     </plurals>
+    <plurals name="new_incentive_toast_share_success">
+        <item quantity="other">"Compartilhado com sucesso. Você ganhou %d pontos. Resgate no Centro de Pontos."</item>
+        <item quantity="one">"Compartilhado com sucesso. Você ganhou %d ponto. Resgate no Centro de Pontos."</item>
+    </plurals>
+    <plurals name="new_incentive_toast_subscribe_success">
+        <item quantity="other">"Subscrito com sucesso. Você ganhou %d pontos. Reclame no Centro de Pontos."</item>
+        <item quantity="one">"Subscrito com sucesso. Você ganhou %d ponto. Resgate no Centro de Pontos."</item>
+    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">Seu conteúdo possui itens (%1$s) que violam nossos padrões de comunidade. Sua conta está suspensa por %2$d dias até %3$s.</item>
         <item quantity="one">Seu conteúdo possui itens (%1$s) que violam nossos padrões de comunidade. Sua conta está suspensa por %2$d dia até %3$s.</item>
@@ -151,6 +217,10 @@
     <plurals name="plus_edit_top_titletext">
         <item quantity="other">%s itens selecionados</item>
         <item quantity="one">%s item selecionado</item>
+    </plurals>
+    <plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">Excluir permanentemente %s arquivos agora?</item>
+        <item quantity="one">Excluir permanentemente o arquivo %s agora?</item>
     </plurals>
     <plurals name="plus_player_subtitle_online_size">
         <item quantity="other">Tamanho do arquivo: %.2fKB</item>
@@ -196,12 +266,12 @@
         <item quantity="other">Adicione até %d favoritos</item>
         <item quantity="one">Adicione até %d favorito</item>
     </plurals>
-    <plurals name="video_view_count">
-        <item quantity="other">%d visualizações</item>
-        <item quantity="one">%d visualização</item>
-    </plurals>
     <plurals name="video_like_text">
         <item quantity="other">"%s likes"</item>
         <item quantity="one">"%s like"</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d visualizações</item>
+        <item quantity="one">%d visualização</item>
     </plurals>
 </resources>

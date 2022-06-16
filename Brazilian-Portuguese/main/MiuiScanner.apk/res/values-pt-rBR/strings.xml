@@ -912,6 +912,9 @@ Por favor, consulte o ângulo na imagem para colocar o dispositivo e tente novam
     <string name="xiaoai_dialog">"Tente dizer o que
 você deseja digitalizar para a Mi AI"</string>
     <string name="xiaoai_text">Botão do pequeno amor</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Not now</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Update</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">An update is available</string>
     <string name="yesterday">Ontem</string>
     <string name="you_have_permission_to_download">Toque para baixar a versão beta</string>
     <string name="you_id">"Sua identificação: "</string>

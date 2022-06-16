@@ -358,6 +358,7 @@
     <string name="download_while_playing_title">Baixar durante o streaming</string>
     <string name="downloaded">Baixado</string>
     <string name="downloaded_empty">Vazio</string>
+    <string name="downloading">Loading...</string>
     <string name="downloading_apk">Baixando… Veja o progresso na Área de notificações.</string>
     <string name="downloading_empty">Vazio</string>
     <string name="downloading_pause_apk">Pausado. Retome o download na Área de notificações.</string>
@@ -368,7 +369,9 @@
     <string name="empty_page_no_artist">Nenhum artista.</string>
     <string name="enabled">Ativado</string>
     <string name="enjoy_hungama_pro">Desfrute do Hungama PRO</string>
+    <string name="enroll_in">Enroll</string>
     <string name="enter_garbage_clean">Limpar armazenamento interno.</string>
+    <string name="entertainment">Entertainment</string>
     <string name="eq_auto">Personalizado</string>
     <string name="eq_blues">"Blues"</string>
     <string name="eq_classical">Clássica</string>
@@ -683,6 +686,7 @@
     <string name="low_sound_quality">Baixa</string>
     <string name="lrc_search_failed">Não foi possível encontrar a letra da música</string>
     <string name="lrc_searching">Procurando…</string>
+    <string name="ludo_tab_guide">Check out our new Music rooms</string>
     <string name="lyric_is_empty">Nenhuma letra de música disponível</string>
     <string name="lyric_label">Letras</string>
     <string name="lyric_open_other_connect">Baixar letras usando a rede móvel</string>
@@ -1354,6 +1358,7 @@ Seja feliz"</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
+    <string name="welcome_to_entertainment">Check out the new Entertainment feature for music games and more</string>
     <string name="wifi_required_body" formatted="false">"Conecte-se ao Wi-fi para completar este download de %s.
 
 Toque em %s para iniciar este download da próxima vez que você estiver conectado a uma rede Wi-Fi."</string>

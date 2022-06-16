@@ -7,17 +7,17 @@
     <string-array name="settings_search_account_and_authority_global">
         <item>Contas</item>
         <item>Adicionar e gerenciar contas de terceiros</item>
-        <item>Contas;SNS;Facebook;Google;Conta Mi;Conta</item>
+        <item>Contas;SNS;Facebook;Google;Conta Mi;Conta;Conta Xiaomi</item>
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Contas</item>
         <item>Adicionar e gerenciar contas de terceiros</item>
-        <item>Contas;SNS;WeChat;QQ;Conta Mi;Conta</item>
+        <item>Contas;SNS;WeChat;QQ;Conta Mi;Conta;Conta Xiaomi</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Alterar senha</item>
         <item>Alterar senha da Conta Mi</item>
-        <item>Alterar senha;Atualizar senha;Conta Mi;Conta</item>
+        <item>Alterar senha;Atualizar senha;Conta Mi;Conta;Conta Xiaomi</item>
     </string-array>
     <string-array name="settings_search_help_center">
         <item>Ajuda</item>
@@ -27,12 +27,12 @@
     <string-array name="settings_search_login_2_step_verify">
         <item>Verificação em 2 etapas</item>
         <item>Defina uma verificação em 2 etapas para sua Conta Mi</item>
-        <item>Fazer login;Login;2 etapas;verificação;Xiaomi;Conta;Conta Mi;Conta</item>
+        <item>Fazer login;Login;2 etapas;verificação;Xiaomi;Conta;Conta Mi;Conta;Conta Xiaomi</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>Login e segurança</item>
         <item>Telefone e e-mail de recuperação, gerenciamento de senha</item>
-        <item>Segurança da conta;Fazer login;Telefone de recuperação;Email de recuperação;Proteção de conta;Número de telefone;E-mail;Alterar senha;Adicionar número de telefone;Adicionar e-mail;Conta Mi;Conta</item>
+        <item>Segurança da conta;Fazer login;Telefone de recuperação;Email de recuperação;Proteção de conta;Número de telefone;E-mail;Alterar senha;Adicionar número de telefone;Adicionar e-mail;Conta Mi;Conta;Conta Xiaomi</item>
     </string-array>
     <string-array name="settings_search_manage_device">
         <item>Dispositivos</item>
@@ -47,31 +47,31 @@
     <string-array name="settings_search_privacy_policy">
         <item>Política de Privacidade</item>
         <item>Ver a Política de Privacidade da Conta Mi</item>
-        <item>Conta Mi;Conta;Privacidade;Política;Ver</item>
+        <item>Conta Mi;Conta;Conta Xiaomi;Privacidade;Política;Ver</item>
     </string-array>
     <string-array name="settings_search_security_email_address">
         <item>E-mail de recuperação</item>
         <item>Adicionar e-mail de recuperação</item>
-        <item>Email de recuperação;E-mail;Adicionar e-mail;Conta Mi;Conta</item>
+        <item>Email de recuperação;E-mail;Adicionar e-mail;Conta Mi;Conta;Conta Xiaomi</item>
     </string-array>
     <string-array name="settings_search_security_phone_number">
         <item>Telefone de recuperação</item>
         <item>Adicionar telefone de recuperação</item>
-        <item>Telefone de recuperação;Adicionar telefone;Conta Mi;Conta</item>
+        <item>Telefone de recuperação;Adicionar telefone;Conta Mi;Conta;Conta Xiaomi</item>
     </string-array>
     <string-array name="settings_search_system_ad">
         <item>Anúncios</item>
         <item>Gerenciar anúncios do sistema</item>
-        <item>Anúncios;Conta Mi;Conta</item>
+        <item>Anúncios;Conta Mi;Conta;Conta Xiaomi</item>
     </string-array>
     <string-array name="settings_search_user_information">
         <item>Informações da conta</item>
         <item>Veja sua foto de perfil e gerencie informações da conta</item>
-        <item>Informação pessoal;foto de perfil;apelido;Informações da Conta;Mi ID;ID;Conta Mi;Conta</item>
+        <item>Informação pessoal;foto de perfil;apelido;Informações da Conta;Mi ID;ID;Conta Mi;Conta;Conta Xiaomi</item>
     </string-array>
     <string-array name="settings_search_user_protocol">
         <item>Contrato do Usuário</item>
         <item>Contrato do Usuário</item>
-        <item>Conta Mi;Conta;Contrato do Usuário;Ver</item>
+        <item>Conta Mi;Conta;Conta Xiaomi;Contrato do Usuário;Ver</item>
     </string-array>
 </resources>

@@ -185,6 +185,7 @@ Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="confirm_unbundled_phone_dialog_message">O número de telefone %1$s está associado à Conta Mi %2$s. Ele não será mais associado à Conta Mi %3$s se você continuar. Continuar?</string>
     <string name="continue_action">Continuar</string>
     <string name="copy">Copiar</string>
+    <string name="copy_link">Copiar URL</string>
     <string name="copy_to_clipboard_successful">Copiado com sucesso</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -440,6 +441,8 @@ Envie este código para o supervisor."</string>
     <string name="multi_user_not_show_sync_activity_title">Não ativar a sincronização com a nuvem</string>
     <string name="my_device_title">Dispositivo atual</string>
     <string name="need_install_wechat">Instale o WeChat primeiro</string>
+    <string name="network_error">A network error occurred.</string>
+    <string name="network_error_hint">Check the URL and try again, or copy the URL and open it in your browser.</string>
     <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="network_timeout_info">"Não foi possível conectar à rede. Tente novamente."</string>
     <string name="new_version">Nova versão</string>
@@ -476,6 +479,7 @@ Envie este código para o supervisor."</string>
     <string name="operator_unicom">"China Unicom"</string>
     <string name="operator_unicom_agreement">Serviços de verificação fornecidos pela China Unicom</string>
     <string name="optional_permissions">Permissões opcionais</string>
+    <string name="page_load_failed">"Can't open page"</string>
     <string name="passport_Resend">Reenviar</string>
     <string name="passport_access_denied">Acesso negado</string>
     <string name="passport_account_hint_text">E-mail/Número de telefone/ID da Conta Mi</string>
