@@ -177,9 +177,9 @@
     <string name="dialpad_two">2</string>
     <string name="dialpad_zero">0</string>
     <string name="do_not_support_video_calls_by_remote">Chamadas de vídeo não são suportadas no outro dispositivo</string>
-    <string name="dsda_answer_call_prompt">Accepting this call will end your ongoing call.</string>
-    <string name="dsda_not_incall_sim_mo_fail_desc">"Can't use SIM %1$d for calls now. Current network environment doesn't support dual SIM functionality."</string>
-    <string name="dsda_swap_call_prompt">"You'll be switched to a voice call if you continue."</string>
+    <string name="dsda_answer_call_prompt">Aceitar esta chamada encerrará sua chamada em andamento.</string>
+    <string name="dsda_not_incall_sim_mo_fail_desc">"Não é possível usar o chip %1$d para chamadas agora. O ambiente de rede atual não oferece suporte à funcionalidade dual SIM."</string>
+    <string name="dsda_swap_call_prompt">"Você será alternado para uma chamada de voz se continuar."</string>
     <string name="early_morning">"AM"</string>
     <string name="emergency_call_dialog_number_for_display">Número de emergência</string>
     <string name="enter_ai_assistant">Usar</string>

@@ -551,7 +551,7 @@ Após inserir o arquivo \"music.mp3\" no cartão SD, toque na tela para o reprod
     <string name="cit_sim_state_puk_required">Digitar código PUK</string>
     <string name="cit_sim_state_ready">" \"Chip pronto\""</string>
     <string name="cit_sim_state_unkown">Desconhecido</string>
-    <string name="cit_soft_light_check_title">Soft Light</string>
+    <string name="cit_soft_light_check_title">Luz suave</string>
     <string name="cit_soft_torch_first">O primeiro flash</string>
     <string name="cit_soft_torch_second">O segundo flash</string>
     <string name="cit_start_calibration">Calibrar</string>
@@ -845,7 +845,7 @@ Vire o telefone, fale para microfone superior. Deve ouvir a sua voz no auto-fala
     <string name="cit_x5_audio_lb_top_to_speaker_title">Teste de funcionamento do microfone superior</string>
     <string name="cit_yellow_torch_on">Ligar luz de LED amarela</string>
     <string name="close_third_color_led">fechar led de três cores</string>
-    <string name="cold_light_title">Cold Light</string>
+    <string name="cold_light_title">Luz Fria</string>
     <string name="continue_vibrator">Vibração contínua</string>
     <string name="current_angle">"Ângulo atual: "</string>
     <string name="dispaly_sar_sensor_values">Exibir todos os valores atuais do sensor</string>
@@ -1011,8 +1011,8 @@ Após a calibração ser concluída, controle o acessório perto e longe do disp
     <string name="selftest">AUTO TESTE</string>
     <string name="set_dsi_tips">Definir DSI</string>
     <string name="show_log">Mostrar Log</string>
-    <string name="slave_battery_authentic">Secondary Battery Authentic</string>
-    <string name="soft_light_title">Soft Light</string>
+    <string name="slave_battery_authentic">Bateria secundária autêntica</string>
+    <string name="soft_light_title">Luz suave</string>
     <string name="speak_from_mic">Fale próximo ao microfone, verifique se há som durante a reprodução no alto-falante.</string>
     <string name="start">Iniciar</string>
     <string name="status">"Status"</string>
@@ -1062,6 +1062,6 @@ Toque no botão apropriado de acordo com o número que você ouvir"</string>
 Selecione o botão correto de acordo com as diferentes condições de vibração"</string>
     <string name="wait_test">esperando pelo teste</string>
     <string name="waiting">Aguardando 4s</string>
-    <string name="warm_light_title">Warm Light</string>
+    <string name="warm_light_title">Luz quente</string>
     <string name="yes">Sim</string>
 </resources>

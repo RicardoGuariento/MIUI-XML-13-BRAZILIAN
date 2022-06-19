@@ -126,7 +126,7 @@ Toque para ver."</string>
     <string name="hint_volume_down">Diminuir volume</string>
     <string name="hint_volume_up">Aumentar volume</string>
     <string name="home_title_none">Selecionar itens</string>
-    <string name="invisible_mode_error_tip">"You're incognito. Can't record audio."</string>
+    <string name="invisible_mode_error_tip">"Você está incógnito. Não é possível gravar áudio."</string>
     <string name="is_checked">Selecionado</string>
     <string name="is_go_home">Voltar ao Gravador de tela</string>
     <string name="is_go_home_summary">Abrir a página inicial do Gravador de tela após parar a gravação</string>

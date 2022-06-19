@@ -755,11 +755,11 @@ Motivo: \"%s\""</string>
     <string name="importing_vcard_finished_title">Importação do vCard %s concluída</string>
     <string name="insertContactDescription">Criar contato</string>
     <string name="invalidContactMessage">O contato não existe</string>
-    <string name="invisible_mode_dialog_cancel">Cancel</string>
-    <string name="invisible_mode_dialog_to_close">Turn off</string>
-    <string name="invisible_mode_title">"You're incognito"</string>
-    <string name="invisible_mode_unable_connect_camera">Turn off Incognito mode to be able to use the camera. Turn off now?</string>
-    <string name="invisible_mode_unable_get_location">Turn off Incognito mode to be able to use location services and import contacts from other devices via Bluetooth. Turn off now?</string>
+    <string name="invisible_mode_dialog_cancel">Cancelar</string>
+    <string name="invisible_mode_dialog_to_close">Desativar</string>
+    <string name="invisible_mode_title">"Você está incógnito"</string>
+    <string name="invisible_mode_unable_connect_camera">Desative o Modo incógnito para poder usar a câmera. Desativar agora?</string>
+    <string name="invisible_mode_unable_get_location">Desative o Modo incógnito para poder usar os serviços de localização e importar contatos de outros dispositivos via Bluetooth. Desativar agora?</string>
     <string name="item_offical">Oficial</string>
     <string name="keep_local">Não sincronizar</string>
     <string name="keep_local_btn">Usar armazenamento interno do dispositivo</string>

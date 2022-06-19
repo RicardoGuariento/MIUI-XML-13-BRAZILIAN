@@ -479,9 +479,9 @@ Protocolo de conexão mais rápido"</string>
     <string name="hdcp_checking_dialog_title">Config. a verificação HDCP</string>
     <string name="hdcp_checking_title">Verificação HDCP</string>
     <string name="headset_battery_fw_failed">Carregue seu dispositivo primeiro</string>
-    <string name="headset_battery_low">Battery low, please recharge</string>
+    <string name="headset_battery_low">Bateria fraca, por favor recarregue</string>
     <string name="headset_connect_device">Dispositivo de conexão</string>
-    <string name="headset_connect_timeout">Connetion time out, please retry</string>
+    <string name="headset_connect_timeout">Tempo limite de conexão, tente novamente</string>
     <string name="headset_device_check_failed">"Não foi possível verificar se há atualizações"</string>
     <string name="headset_device_donot_move">Mantenha o dispositivo por perto</string>
     <string name="headset_device_enter_upgrade_failed">"Não foi possível iniciar a atualização"</string>
@@ -511,7 +511,7 @@ Protocolo de conexão mais rápido"</string>
     <string name="headset_loss_notify_summary">Um do seus fone de ouvido não está no case. Verifique!</string>
     <string name="headset_loss_notify_summary1">"Parece que seus fones de ouvido não estão no estojo. Coloque-os de volta para deixá-los carregar."</string>
     <string name="headset_loss_notify_title">Alerta de fone de ouvido ausente</string>
-    <string name="headset_not_in_case">Earbuds not in case, please retry</string>
+    <string name="headset_not_in_case">Fones de ouvido fora do case, por favor, tente novamente</string>
     <string name="headset_read_fw_state">"Não foi possível obter informações de atualização"</string>
     <string name="headset_update_failed">"Não foi possível atualizar"</string>
     <string name="headset_update_ok">Concluído</string>

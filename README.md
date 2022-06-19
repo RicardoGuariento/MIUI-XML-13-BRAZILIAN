@@ -30,5 +30,5 @@ For more info, visit:
 
 ##### Commits pendentes de tradução:
 - [XML 22.6.2/15](https://github.com/RicardoGuariento/MIUI-XML-13-BRAZILIAN/commit/175ab37b2eaa56f71f1f30117a5048d44ff994aa)
-Todas as novas strings adicionadas precisa de tradução, com a excesão do app Mi Vídeo que ja foi traduzido.
+Traduzido até o app Música.
 :D
