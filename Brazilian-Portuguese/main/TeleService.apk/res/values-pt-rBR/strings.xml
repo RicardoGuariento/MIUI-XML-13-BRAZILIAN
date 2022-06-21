@@ -1312,11 +1312,11 @@ Você ainda pode fazer chamadas de emergência."</string>
     <string name="ivr_type_cu_3">China Unicom 2G</string>
     <string name="ivr_type_settings">Configurações do plano de dados</string>
     <string name="ivr_type_settings_hint">Insira o código do seu plano de dados</string>
-    <string name="jp_sb_label_ndp">"other career's USIM is inserted
-waiting for inputting unlock code"</string>
-    <string name="jp_sb_sim_lock_unlock_psw_max_length">Inputted unlock code is less than 8 digits or more than 16 digits</string>
-    <string name="jp_sb_unlock_failed">Unlock code verification failure.</string>
-    <string name="jp_sb_unlock_success">Unlock code verification success.</string>
+    <string name="jp_sb_label_ndp">"O USIM de outra operadora está inserido
+aguardando a entrada do código de desbloqueio"</string>
+    <string name="jp_sb_sim_lock_unlock_psw_max_length">O código de desbloqueio inserido tem menos de 8 dígitos ou mais de 16 dígitos</string>
+    <string name="jp_sb_unlock_failed">Falha na verificação do código de desbloqueio.</string>
+    <string name="jp_sb_unlock_success">Sucesso na verificação do código de desbloqueio.</string>
     <string name="jump_to_mobile_network_setting">Configurações de redes móveis</string>
     <string name="kddi_sim_lock_status_allowed">Permitido</string>
     <string name="kddi_sim_lock_status_code">Código</string>
