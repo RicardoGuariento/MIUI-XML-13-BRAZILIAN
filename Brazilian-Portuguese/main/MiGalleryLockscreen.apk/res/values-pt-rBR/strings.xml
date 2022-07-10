@@ -114,6 +114,7 @@
     <string name="at_least_one">Selecione pelo menos uma categoria</string>
     <string name="auth_fail_warning">Sessão expirada. Faça o login novamente.</string>
     <string name="auto_interval">Sempre que desbloquear</string>
+    <string name="back">Back</string>
     <string name="back_icon_content_description">Voltar</string>
     <string name="bind_sign_in_title">Adicionar Conta Mi</string>
     <string name="cancel">Cancelar</string>
@@ -150,6 +151,7 @@
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
+    <string name="close_country_code_content_description">Delete country code</string>
     <string name="close_gallery">Desativar</string>
     <string name="collect_diagnosis_log">Coletar logs</string>
     <string name="comment_pop_cancel">Agora não</string>
@@ -276,6 +278,7 @@ Envie este código para o supervisor."</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="external_storage_permission">Acessar armazenamento</string>
     <string name="external_storage_permission_summary">Para selecionar papéis de parede personalizados e salvar itens baixados</string>
+    <string name="facebook_login_btn_content_description">Sign in with Facebook</string>
     <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
     <string name="favor_list_no_data">Sem itens</string>
     <string name="favor_list_title">Favoritos</string>
@@ -329,6 +332,7 @@ Envie este código para o supervisor."</string>
     <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
     <string name="getverifycode_seconde">"s"</string>
     <string name="google_application_id" />
+    <string name="google_login_btn_content_description">Sign in with Google</string>
     <string name="goto_confirm">Configurações</string>
     <string name="goto_sign_up">Criar conta</string>
     <string name="header_help">Ajuda</string>
@@ -767,6 +771,7 @@ mm"</string>
     <string name="pull_to_refresh_pull_up_label">Puxe para atualizar</string>
     <string name="pull_to_refresh_refreshing_label">Atualizando…</string>
     <string name="pull_to_refresh_release_label">Solte para atualizar</string>
+    <string name="qq_login_btn_content_description">Sign in with QQ</string>
     <string name="recommend_switch_desc">Receba recomendações de conteúdo com base em suas preferências</string>
     <string name="recommend_switch_dlg_close">Desativar</string>
     <string name="recommend_switch_dlg_desc">Não poderá receber recomendações baseadas nas suas preferências se desativar este recurso</string>

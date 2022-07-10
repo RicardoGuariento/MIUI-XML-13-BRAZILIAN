@@ -574,6 +574,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_predict_dialog_message">A IA irá sugerir apps, dos quais você pode precisar no momento</string>
     <string name="app_predict_dialog_success">Adicionado à Tela inicial com sucesso</string>
     <string name="app_predict_folder_name">Pesquisar</string>
+    <string name="app_predict_folder_tips">Suggestions based on your usage habits</string>
     <string name="app_predict_go_shop_search_app">Procure em GetApps</string>
     <string name="app_predict_guide_button">Adicionar</string>
     <string name="app_predict_guide_message">A IA irá sugerir apps, dos quais você pode precisar no momento</string>
@@ -596,6 +597,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_predict_setting_switch_message">Receba sugestões de apps com base em seus hábitos de uso</string>
     <string name="app_predict_setting_switch_title">Personalize as sugestões</string>
     <string name="app_predict_setting_title">Sugestões de apps</string>
+    <string name="app_predict_settings_train_tip">Optimize suggestion accuracy automatically</string>
     <string name="app_predict_widget_experience_now">Experimentar</string>
     <string name="app_predict_widget_name_2x4">Sugestões de apps</string>
     <string name="app_predict_widget_summary">Inicie rapidamente os apps dos quais você pode precisar</string>
@@ -1006,10 +1008,10 @@ Você não perderá nenhum dado de apps."</string>
     <string name="btn_text_quick_save_power">Otimizar</string>
     <string name="btn_text_quick_scan">Verificar</string>
     <string name="btn_text_stop">Parar</string>
-    <string name="bubble_app_manage">Gerenciar notificações em bolhas</string>
-    <string name="bubble_notification">Notificações em bolhas</string>
-    <string name="bubble_notification_switch">Permitir notificações em bolha</string>
-    <string name="bubble_notification_switch_desc">Quando uma janela flutuante estiver oculta na borda da tela, exibe suas notificações em bolhas</string>
+    <string name="bubble_app_manage">Gerenciar conversas em bolhas</string>
+    <string name="bubble_notification">Conversas em bolhas</string>
+    <string name="bubble_notification_switch">Mostrar conversas em bolhas</string>
+    <string name="bubble_notification_switch_desc">Quando um app de mensagens em uma janela flutuante estiver oculto na borda da tela, exibe as mensagens recebidas em bolhas</string>
     <string name="button_background_connection">Corrigir</string>
     <string name="button_block_calls_from_cantacts">Desbloquear</string>
     <string name="button_block_calls_from_strangers">Desbloquear</string>
@@ -2066,6 +2068,7 @@ Grave sequências e use-as a qualquer momento!"</string>
     <string name="gb_game_ratio_right">Direita</string>
     <string name="gb_game_ratio_top">Topo</string>
     <string name="gb_game_time_toast">O temporizador está disponível agora!</string>
+    <string name="gb_game_tips_restart">The game will be restarted to apply changes</string>
     <string name="gb_game_video_bottom_tips">Reveja os principais momentos de suas sessões de jogo no Game Turbo. Os vídeos serão excluídos automaticamente após 7 dias.</string>
     <string name="gb_game_video_bottom_tips_new">Reveja os principais momentos de suas sessões de jogo no Game Turbo. Os vídeos serão excluídos automaticamente após %d dias.</string>
     <string name="gb_game_video_item_tag">Momento principal</string>
@@ -2101,6 +2104,7 @@ Grave sequências e use-as a qualquer momento!"</string>
     <string name="gb_ngtb_gpu">"GPU"</string>
     <string name="gb_not_support_on_device">Este app não pode ser usado na tela externa</string>
     <string name="gb_operat_frequently">Não tão rápido!</string>
+    <string name="gb_performace_guide_disable_desc"><Data>"Can't switch to Balanced mode in Game Turbo when system-wide Performance mode is on. You can change battery settings in Security.&lt;br>&lt;a href=\"#\">Open Security&lt;/a>"</Data></string>
     <string name="gb_performance_balance">Modo balanceado</string>
     <string name="gb_performance_balance_tips">"O Modo balanceado economiza energia
 enquanto reduz a taxa de atualização e os limites de temperatura"</string>
@@ -2889,6 +2893,11 @@ Seu dispositivo está %s mais rápido agora."</string>
     <string name="na_main_card_ad_text">Encontre um plano que combina com você</string>
     <string name="na_main_card_ad_title">Promoção do cartão Mi Fan</string>
     <string name="na_main_card_title_sim">"Cartão "</string>
+    <string name="na_open_at_once">Turn on</string>
+    <string name="na_query_and_correction">Check and calibrate balance</string>
+    <string name="na_query_and_correction_msg">"You can check and calibrate your account balance and mobile data stats by sending a free SMS to your carrier. These messages are encrypted.
+Balance inquiry messages aren't stored in Messaging and won't be displayed.
+You can turn off the \"Auto adjust data usage stats\" option at any time."</string>
     <string name="na_text_checking">"Testando: "</string>
     <string name="name">Nome</string>
     <string name="nd_result_button_optimize">Otimizar</string>

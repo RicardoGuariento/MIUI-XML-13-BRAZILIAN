@@ -87,4 +87,8 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="word_limit_prompt">
+        <item quantity="other">%d caracteres acima do limite</item>
+        <item quantity="one">%d caractere acima do limite</item>
+    </plurals>
 </resources>

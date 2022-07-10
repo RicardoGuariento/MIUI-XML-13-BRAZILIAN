@@ -32,6 +32,7 @@
     <string name="account_bind_secure_email_title">Adicionar e-mail de recuperação</string>
     <string name="account_bind_secure_phone_title">Adicionar número de telefone de recuperação</string>
     <string name="account_crop_user_avatar">Cortar foto</string>
+    <string name="account_empty_nickname">nickname cannot be empty</string>
     <string name="account_empty_user_name">Insira o usuário da sua Conta Mi</string>
     <string name="account_error_all_space_user_name">O usuário não pode conter apenas espaços</string>
     <string name="account_error_invalid_user_name">O nome não pode conter &lt;, > ou /</string>
@@ -41,6 +42,7 @@
     <string name="account_error_user_name">Este apelido não é válido. Tente um apelido diferente.</string>
     <string name="account_invalid_user_avatar">Esta foto é inválida. Tente uma diferente.</string>
     <string name="account_limit_update_birthday">Não é possível atualizar o aniversário agora</string>
+    <string name="account_nickname_too_long">nickname cannot exceed 20 characters</string>
     <string name="account_no_set">N/A</string>
     <string name="account_none_bind_info">N/A</string>
     <string name="account_none_user_name">N/A</string>

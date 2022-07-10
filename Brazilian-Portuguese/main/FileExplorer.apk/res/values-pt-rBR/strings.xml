@@ -319,6 +319,7 @@
     <string name="if_cancel">Cancelar esta operação?</string>
     <string name="image_loading_error">Não foi possível carregar imagem</string>
     <string name="imm_str_storage">Armazenamento</string>
+    <string name="import_files_from_old_phones">Import from old device</string>
     <string name="instruction">"Introduza o seguinte endereço no cliente FTP: "</string>
     <string name="instruction_pre_pad">Gerenciar arquivos neste dispositivo usando um computador</string>
     <string name="instruction_pre_phone">Gerenciar arquivos neste dispositivo usando um computador</string>
@@ -326,6 +327,8 @@
     <string name="item_view_role_description">Guia</string>
     <string name="just_now">Agora mesmo</string>
     <string name="kilobyteShort">"KB"</string>
+    <string name="lack_perm_msg">File Manager requires the following permissions to work normally: &lt;b>%s&lt;/b></string>
+    <string name="lack_perm_title">Permissions required</string>
     <string name="launcher_icon_add_description">Adicionar atalho à Tela inicial</string>
     <string name="launcher_icon_remove_description_content">"O Arquivos é um app do sistema. Você não poderá gerenciar arquivos no seu dispositivo após remover o atalho da Tela inicial."</string>
     <string name="launcher_icon_remove_description_title">Remover \"Arquivos\" da Tela inicial?</string>
@@ -337,6 +340,9 @@
     <string name="local_image">Imagens</string>
     <string name="local_music">Arquivo de áudio</string>
     <string name="local_video">Arquivo de vídeo</string>
+    <string name="main_button_continue">Settings</string>
+    <string name="main_button_ok">OK</string>
+    <string name="main_button_quit">Cancel</string>
     <string name="make_private">Tornar privado</string>
     <string name="make_private_msg_1">Tornar este arquivo privado?</string>
     <string name="make_private_msg_2">Torne esses arquivos privados?</string>
@@ -359,6 +365,7 @@
     <string name="menu_new_display_open">Abrir em uma nova janela</string>
     <string name="menu_pc_open">Abra com um programa de computador</string>
     <string name="menu_set_wallpaper">Definir como plano de fundo</string>
+    <string name="message_request_manage_external_storage_perm">File Manager needs permission to access files to be able to manage files on your device. You can grant this permission in Settings.</string>
     <string name="mi_router_label">Roteador</string>
     <string name="mi_share">Compartilhamento Mi</string>
     <string name="midnight">"AM"</string>
@@ -576,6 +583,7 @@
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="path_name_email">E-mail</string>
     <string name="path_recent_file">Gerenciar arquivos no seu dispositivo</string>
+    <string name="perm_manage_external_storage">Access all files</string>
     <string name="permission_denial">Não foi possível acessar os arquivos. Permitir que o Gerenciador de Arquivos acesse os arquivos nas Configurações</string>
     <string name="permission_description">Detalhes de permissões</string>
     <string name="permission_required">Não foi possível acessar os arquivos. Permitir que o Gerenciador de Arquivos acesse os arquivos nas Configurações</string>
@@ -808,6 +816,7 @@
     <string name="title_app_tags">"Apps"</string>
     <string name="title_expire_video">Prestes a expirar</string>
     <string name="title_recent">Recentes</string>
+    <string name="title_request_manage_external_storage_perm">Permissions required</string>
     <string name="title_select_volume">Selecione o volume</string>
     <string name="to_open">Configurações</string>
     <string name="to_setting">Configurações</string>

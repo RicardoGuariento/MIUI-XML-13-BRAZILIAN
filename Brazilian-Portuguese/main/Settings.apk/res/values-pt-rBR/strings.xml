@@ -1856,6 +1856,7 @@ Se você já fez tudo descrito acima, adicione sua Conta Mi novamente; senão, v
     <string name="bootloader_tips_warning">"Não desconecte da rede, saia da sua Conta Mi, faça uma restauração de fábrica, ou limpe os dados do sistema."</string>
     <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">Função dos botões adicionais</string>
+    <string name="bottom_to_top_slide">Swipe up</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="breathing_light_color_menu_title">Cor do LED</string>
     <string name="breathing_light_color_summary">Cor do LED ao receber novas notificações</string>
@@ -3496,7 +3497,7 @@ Reinicie o seu dispositivo e tente novamente."</string>
     <string name="ethernet">"Ethernet"</string>
     <string name="ethernet_data_template">^1 de dados ethernet</string>
     <string name="ethernet_data_usage">Uso de dados ethernet</string>
-    <string name="ethernet_tether_checkbox_text">Compartilhar conexão Ethernet</string>
+    <string name="ethernet_tether_checkbox_text">Compartilhar via Ethernet</string>
     <string name="ethernet_tethering_subtext">Compartilhar conexão de Internet do smartphone via USB Ethernet</string>
     <string name="evening">"PM"</string>
     <string name="every_day">Diariamente</string>
@@ -3542,7 +3543,8 @@ Reinicie o seu dispositivo e tente novamente."</string>
     <string name="face_data_input_structure_title">Dados faciais 3D</string>
     <string name="face_data_input_title">Adicionar dados faciais</string>
     <string name="face_data_introduction_add">Iniciar</string>
-    <string name="face_data_introduction_msg">Os dados faciais podem ser usados para desbloquear o dispositivo ou verificar sua identidade. Adicione uma senha na Tela de bloqueio antes de adicionar seus dados faciais.</string>
+    <string name="face_data_introduction_msg">"Os dados faciais podem ser usados para desbloquear o dispositivo ou verificar sua identidade.
+Adicione uma senha na Tela de bloqueio antes de adicionar seus dados faciais."</string>
     <string name="face_data_introduction_next">Avançar</string>
     <string name="face_data_introduction_title">Reconhecimento facial</string>
     <string name="face_data_manage_delete">Excluir os dados faciais?</string>
@@ -3558,7 +3560,7 @@ Reinicie o seu dispositivo e tente novamente."</string>
     <string name="face_data_siggesstion_next_time_cn">"OK (%ds)"</string>
     <string name="face_data_suggesstion_first">O desbloqueio facial é menos seguro do que um PIN, senha ou padrão de desbloqueio. Seu dispositivo pode ser desbloqueado com uma foto sua, ou até mesmo por pessoas ou objetos com uma aparência similar.</string>
     <string name="face_data_suggesstion_first_cn">Para que você possa usar o desbloqueio facial, precisamos coletar seus dados faciais, que serão armazenados localmente neste dispositivo. Para excluí-lo, procure por Desbloqueio facial nas Configurações e selecione Desbloqueio facial > Dados faciais.</string>
-    <string name="face_data_suggesstion_first_cn_highlight">O desbloqueio facial é menos seguro do que um PIN, senha ou padrão. Seu dispositivo pode ser desbloqueado com sua foto, assim como por pessoas ou objetos com aparência semelhante a sua.</string>
+    <string name="face_data_suggesstion_first_cn_highlight">O desbloqueio facial é menos seguro do que um PIN, senha, padrão ou impressão digital. Seu dispositivo pode ser desbloqueado com sua foto, assim como por pessoas ou objetos com aparência semelhante a sua.</string>
     <string name="face_data_suggesstion_second">Certifique-se de que todas as partes do seu rosto estão claramente visíveis. Não use acessórios que possam cobrir seu rosto. Mantenha seu rosto uniformemente iluminado e evite a luz direta.</string>
     <string name="face_intro_error_max">Você adicionou o número máximo de rostos</string>
     <string name="face_intro_error_unknown">Não é possível adicionar mais rostos</string>
@@ -3660,6 +3662,7 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="finger_add_user_info_dialog_message">"Para você poder usar o desbloqueio por impressão digital e fazer pagamentos usando a impressão digital, precisamos coletar sua impressão digital. A impressão digital será armazenada localmente neste dispositivo. Para excluí-lo, procure por \"Desbloqueio impressão digital \" nas configurações e selecione Desbloqueio Impressão Digital &gt; Impressão Digital. Você não poderá usar esse recurso se não concordar."</string>
     <string name="finger_add_user_info_dialog_next">Aceitar</string>
     <string name="finger_add_user_info_dialog_title">Atenção</string>
+    <string name="finger_detail_info_text">Change fingerprint name</string>
     <string name="fingerprint_add_max">É possível adicionar até %d impressões digitais</string>
     <string name="fingerprint_add_title">Adicionar impressão digital</string>
     <string name="fingerprint_and_password_entrance_title">Bloqueio de tela e impressão digital</string>
@@ -3929,6 +3932,8 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
 Este recurso funciona apenas quando a navegação do sistema está definida para gestos."</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Arraste o canto para minimizar um app</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Arraste o canto para minimizar um app</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Press and hold the bottom of the window, and drag it to the upper edge of the screen.
+This feature works only when system navigation is set to gestures."</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Minimize um app</string>
     <string name="freeform_guide_slide_up_to_close_summary">Deslize para cima a partir da barra de ação de uma janela flutuante</string>
     <string name="freeform_guide_slide_up_to_close_title">Fechando janelas flutuantes</string>
@@ -4746,6 +4751,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="left_right_hand_switch">Esquerda e direita</string>
     <string name="left_right_hand_switch_summary">Faça as partes esquerda e direita do teclado mudarem de lugar em um único toque</string>
     <string name="left_shoulder_key" />
+    <string name="left_to_right_slide">Swipe right</string>
     <string name="legacy_control_center_desc">Puxe a barra de status para baixo para ver atalhos e notificações</string>
     <string name="legacy_control_center_title">Versão antiga</string>
     <string name="legacy_navigation_summary">Volte, vá para a Tela inicial e alterne entre apps usando os botões na parte inferior da tela.</string>
@@ -4825,6 +4831,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="location_category_location_services">Serviços de localização</string>
     <string name="location_category_recent_location_access">Acesso recente ao local</string>
     <string name="location_category_recent_location_requests">Pedidos de localização recentes</string>
+    <string name="location_description_no_gps">"This device doesn't support satellite navigation. Location info generated based on network data might be insufficient for some features."</string>
     <string name="location_gps">Satélites de GPS</string>
     <string name="location_high_battery_use">Uso da bateria elevado</string>
     <string name="location_indicator_settings_description">Mostrar para todos os locais, incluindo rede e conectividade</string>
@@ -5013,9 +5020,8 @@ Um PIN protege o dispositivo se for perdido ou roubado."</string>
     <string name="lockpassword_choose_your_password_header_for_face">Defina uma senha p/ usar o desb. facial</string>
     <string name="lockpassword_choose_your_password_header_for_fingerprint">Para usar a impressão digital, defina uma senha</string>
     <string name="lockpassword_choose_your_password_message">Por segurança, defina uma senha</string>
-    <string name="lockpassword_choose_your_password_second_space">"Configure um PIN para o Segundo espaço.
-Este PIN deve ter a mesma quantidade de
-dígitos que o PIN do Primeiro espaço."</string>
+    <string name="lockpassword_choose_your_password_second_space">"Configure uma senha
+para o Segundo espaço"</string>
     <string name="lockpassword_choose_your_pattern_header">Defina seu padrão de desbloqueio</string>
     <string name="lockpassword_choose_your_pattern_header_for_biometrics">Definir um padrão para usar face ou impressão digital</string>
     <string name="lockpassword_choose_your_pattern_header_for_face">Defina um padrão para usar o desb. facial</string>
@@ -5026,7 +5032,8 @@ dígitos que o PIN do Primeiro espaço."</string>
     <string name="lockpassword_choose_your_pin_header_for_face">Defina um PIN p/ usar o desb. facial</string>
     <string name="lockpassword_choose_your_pin_header_for_fingerprint">Para usar a impressão digital, defina um PIN</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Defina o PIN 
- para o Segundo espaço"</string>
+para o Segundo espaço
+Deve ter o mesmo comprimento que o PIN do Primeiro espaço."</string>
     <string name="lockpassword_choose_your_pin_message">Por segurança, defina um PIN</string>
     <string name="lockpassword_choose_your_pin_title">Insira um PIN de %1$d à %2$d dígitos</string>
     <string name="lockpassword_choose_your_profile_password_header">Definir uma senha de trabalho</string>
@@ -5110,7 +5117,9 @@ dígitos que o PIN do Primeiro espaço."</string>
     <string name="lockpattern_recording_inprogress">Levante o dedo ao terminar</string>
     <string name="lockpattern_recording_intro_footer">Pressione Menu para obter ajuda.</string>
     <string name="lockpattern_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
-    <string name="lockpattern_recording_intro_header_second_space">Desenhe o padrão de desbloqueio para o Segundo espaço:</string>
+    <string name="lockpattern_recording_intro_header_second_space">"Desenhe o padrão de desbloqueio para o Segundo espaço.</string>
+
+Conecte pelo menos 4 pontos."</string>
     <string name="lockpattern_restart_button_text">Desenhar novamente</string>
     <string name="lockpattern_retry_button_text">Limpar</string>
     <string name="lockpattern_settings_change_lock_pattern">Alterar padrão de desbloqueio</string>
@@ -5499,6 +5508,7 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_auto_ack_mode">Atender chamadas automaticamente quando estiver usando os fones de ouvido</string>
     <string name="miheadset_auto_ack_mode_summary">Atender chamadas automaticamente</string>
     <string name="miheadset_auto_answer_call">Atender chamadas automaticamente</string>
+    <string name="miheadset_auto_upgrade_reminder">Turn off auto updates and check for updates again</string>
     <string name="miheadset_bluetooth_audio_title">Taxa de amostragem de áudio Bluetooth LC3plus</string>
     <string name="miheadset_bright">Brilho</string>
     <string name="miheadset_call_assist">"Mi AI"</string>
@@ -5522,6 +5532,7 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_double_connection_summary">Ao ativar esse recurso, você pode atender chamadas ou reproduzir áudio ou vídeo em ambos os dispositivos conectados sem precisar alternar manualmente</string>
     <string name="miheadset_double_press_left">Pressione duas vezes o fone de ouvido esquerdo</string>
     <string name="miheadset_double_press_right">Pressione duas vezes o fone de ouvido direito</string>
+    <string name="miheadset_double_toast">Put in both earphones to be able to use this feature</string>
     <string name="miheadset_dual_connect_mode">Conecte-se a dois dispositivos</string>
     <string name="miheadset_dual_connect_mode_summary">Ative para conectar seus fones de ouvido a dois dispositivos Bluetooth simultaneamente</string>
     <string name="miheadset_enhanceVoice">Aprimorar a voz</string>
@@ -5578,6 +5589,9 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_key_config_triple_right">Três toques no fone de ouvido direito</string>
     <string name="miheadset_key_config_volume_down">Volume -</string>
     <string name="miheadset_key_config_volume_up">Volume +</string>
+    <string name="miheadset_keyconfig_click_thrice">Triple press the button</string>
+    <string name="miheadset_keyconfig_click_twice">Double press the button</string>
+    <string name="miheadset_keyconfig_press_long">Press and hold the button for %d seconds</string>
     <string name="miheadset_last_version">O firmware está atualizado</string>
     <string name="miheadset_local_ota">Atualizar</string>
     <string name="miheadset_low_latency">Baixa latência</string>
@@ -5630,7 +5644,7 @@ Não poderá reverter esta ação."</string>
     <string name="miui_allow_light">LED de notificações</string>
     <string name="miui_allow_music">Mídia</string>
     <string name="miui_allow_vibrate">Vibrações</string>
-    <string name="miui_bubbles_notification">Notificações de bolhas</string>
+    <string name="miui_bubbles_notification">Conversas em bolhas</string>
     <string name="miui_bubbles_notification_status_opened">Ativado</string>
     <string name="miui_data_usage_menu_metered">Pontos de acesso móveis</string>
     <string name="miui_experience_optimization">Ativar otimização MIUI</string>
@@ -6581,6 +6595,8 @@ O OTG é desativado automaticamente após 10 minutos de inatividade."</string>
     <string name="owner_space">Primeiro espaço</string>
     <string name="p2p_summary_enable_GPS">Este recurso funciona quando os serviços de localização está ativo</string>
     <string name="packages_subtitle">Pacotes incluídos</string>
+    <string name="pad_add_fingerprint_finish_message">Continue to access additional settings.</string>
+    <string name="pad_add_fingerprint_message">Place your finger on the Power button</string>
     <string name="pad_backup_summary">Faça backup e restaure itens neste dispositivo</string>
     <string name="pad_backup_title">Dispositivo móvel</string>
     <string name="pad_computer_backup_summary">Faça backup e restaure itens usando um computador</string>
@@ -7398,6 +7414,7 @@ Reinicie o dispositivo e tente novamente."</string>
     <string name="right_edge">Borda direita</string>
     <string name="right_function_key">Atalho da direita</string>
     <string name="right_shoulder_key" />
+    <string name="right_to_left_slide">Swipe left</string>
     <string name="ring_to_you">Toque personalizado</string>
     <string name="ring_to_you_info">Defina um toque personalizado que outras pessoas ouvirão antes de você atender</string>
     <string name="ring_volume_option_title">Toques</string>
@@ -8578,7 +8595,7 @@ Toque duas vezes para abrir os Recentes."</string>
     <string name="smart_notifications_title">Notificações adaptáveis</string>
     <string name="smart_rotate_text_headline">A detecção de rosto usa a câmera frontal para melhorar a precisão de rotação automática. As imagens nunca são armazenadas ou enviadas ao Google.</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Modo Smart cover</string>
-    <string name="smartcover_sensitive_summary">Bloquear ou desbloquear automaticamente o telefone usando uma Smart cover</string>
+    <string name="smartcover_sensitive_summary">Bloquear ou desbloquear automaticamente o dispositivo usando uma Smart cover</string>
     <string name="smartcover_sensitive_title">"Smart cover"</string>
     <string name="smooth_adjust_ligth">Suavizar transições</string>
     <string name="smooth_adjust_ligth_summary">Torna as transições mais suaves ao ajuste de brilho manual. Quando este recurso está ativado, pequenas inconsistências de cores podem aparecer em alguns casos.</string>
@@ -9402,6 +9419,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="toggle_auto_speaker_preference_title">Alternar para alto-falante automaticamente</string>
     <string name="toggle_collapse_after_clicked_title">Fechar após tocar</string>
     <string name="tomorrow">Amanhã</string>
+    <string name="top_to_bottom_slide">Swipe down</string>
     <string name="total">Não perturbe</string>
     <string name="total_info">Silenciar chamadas recebidas, notificações, e restringir vibração</string>
     <string name="total_info_no_vibrator">Silenciar chamadas recebidas e notificações</string>
@@ -9511,7 +9529,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="turn_on_keyguard_password_alert_foget_cacel">Agora não</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">Entendi</string>
     <string name="turn_on_keyguard_password_alert_foget_ok_time">Entendi (%ds)</string>
-    <string name="turn_on_keyguard_password_alert_forget_content">Lembre-se da senha da sua Tela de bloqueio. Caso a esqueça, você terá que apagar todos os dados no dispositivo (incluindo fotos e contatos) para então definir uma nova.</string>
+    <string name="turn_on_keyguard_password_alert_forget_content">Lembre-se do seu bloqueio de tela. Caso a esqueça, você terá que apagar todos os dados no dispositivo (incluindo fotos e contatos) para então definir uma nova.</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Lembre-se de sua senha</string>
     <string name="turn_on_security_lock">Selecione o bloqueio de tela</string>
     <string name="turn_on_torch">Ativar lanterna</string>
@@ -10947,6 +10965,8 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="wizard_finish">Concluir</string>
     <string name="wizard_next">Próxima</string>
     <string name="wlan_scanner_unresizeble">Não é possível mostrar as configurações do Wi-Fi no modo de tela dividida</string>
+    <string name="wlan_switch_tips">Switching Wi-Fi networks</string>
+    <string name="wlan_switch_tips_message">When switching between auxiliary and main Wi-Fi networks, your device will be temporarily disconnected from auxiliary Wi-Fi. Switch anyway?</string>
     <string name="words_title">Texto</string>
     <string name="work_alarm_ringtone_title">Som de alarme padrão para o perfil trabalho</string>
     <string name="work_mode_label">Perfil de trabalho</string>

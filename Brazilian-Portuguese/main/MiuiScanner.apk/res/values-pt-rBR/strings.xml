@@ -162,6 +162,7 @@
     <string name="crop_and_create">Cortando e criando arquivo do Excel…</string>
     <string name="crop_cancel_description">Cancelar</string>
     <string name="crop_done_description">Concluído</string>
+    <string name="crop_frame_you_box_selection_cannot_crop_this_picture">Selection area should have four sides</string>
     <string name="crop_frame_you_selected_cannot_crop_this_picture">O quadrilátero de corte não pode ser um quadrilátero côncavo e o ângulo máximo não pode exceder 140 graus</string>
     <string name="crop_title_study">Recorte a foto</string>
     <string name="crop_title_translation">Selecione o texto para traduzir</string>
@@ -298,6 +299,7 @@
     <string name="food_module_title_food">Calorias</string>
     <string name="form_demo_dialog_negative">Toque para escanear a tabela e exporte como um arquivo do Excel.</string>
     <string name="form_excel_save_sucess">Arquivo do Excel salvo com sucesso</string>
+    <string name="form_preview_title">Excel table preview</string>
     <string name="form_recognition_crop_hint">Certifique-se de que os cantos da tabela estejam dentro da área selecionada</string>
     <string name="format_error">Senha inválida</string>
     <string name="friday">Sexta</string>
@@ -367,6 +369,8 @@
     <string name="link_to_network">Conectar</string>
     <string name="local_ocr_recognition">Reconhecimento de OCR local</string>
     <string name="local_ocr_recognition_str">Alterado para tradução offline</string>
+    <string name="location_permission_message">For connecting to Wi-Fi</string>
+    <string name="location_permissions_text">Allow location access in Settings to be able to use this feature.</string>
     <string name="logistics">Entrega expressa</string>
     <string name="logout_service">Retirar consentimento</string>
     <string name="low_version_tip">Atualize a MIUI para a versão mais recente para poder usar o Scanner.</string>
@@ -515,6 +519,8 @@ Por favor, consulte o ângulo na imagem para colocar o dispositivo e tente novam
     <string name="not_identification_form">"Não foi possível reconhecer a tabela. Selecione novamente e recomece."</string>
     <string name="not_insert_contact">Não é possível adicionar o contato</string>
     <string name="not_network">"Não foi possível conectar à rede. Aguarde um momento e tente novamente."</string>
+    <string name="not_permissions_hint">Allow access to the camera to be able to use this feature.</string>
+    <string name="not_permissions_title">Permissions required</string>
     <string name="not_recommend_access_web_url">Ir mesmo assim</string>
     <string name="not_set">Não definido</string>
     <string name="note">Observação:</string>
@@ -814,8 +820,8 @@ Por favor, consulte o ângulo na imagem para colocar o dispositivo e tente novam
     <string name="to_date">Hoje</string>
     <string name="to_install_title">Este código QR redireciona você para um app desinstalado. Baixar este app agora?</string>
     <string name="to_pay">Complete o pagamento</string>
-    <string name="toast_net_2g">A conexão com a Internet está instável. Altere o tipo de rede e tente novamente</string>
-    <string name="toast_net_timeout">O pedido excedeu o tempo limite. Por favor, tente novamente mais tarde</string>
+    <string name="toast_net_2g">Não foi possível conectar à rede. Troque de rede e tente novamente.</string>
+    <string name="toast_net_timeout">O pedido excedeu o tempo limite. Aguarde um minuto ou dois e tente novamente</string>
     <string name="today">Hoje</string>
     <string name="toinstall">Baixar</string>
     <string name="tomorrow">Amanhã</string>

@@ -254,6 +254,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="auto_upload_disable_tip">Sincronização com a nuvem desativada</string>
     <string name="auto_upload_disable_toast_long_press_menu">Sincronização com a nuvem desativada</string>
     <string name="auto_upload_enable_toast_long_press_menu">Sincronização com a nuvem ativada</string>
+    <string name="autocrop_enter">Xiaomi ProCut</string>
     <string name="baby_album">Álbum do bebê</string>
     <string name="baby_album_change_background">Alterar foto de fundo</string>
     <string name="baby_album_needs_auto_backup_tip">Não é possível desativar a sincronização automática para o Álbum do bebê</string>
@@ -669,11 +670,13 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="document_provider_guide_step_3">%d. Toque no botão do menu lateral.</string>
     <string name="document_provider_guide_step_4">%d. Selecione \"Cartão SD\".</string>
     <string name="document_provider_guide_step_5">%d. Toque em \"Selecionar\".</string>
+    <string name="dolby_vision_icon">Dolby Vision icon</string>
     <string name="doodle_paint_select_heavy_talkback">Espesso</string>
     <string name="doodle_paint_select_light_talkback">Fino</string>
     <string name="doodle_paint_select_medium_talkback">"Regular"</string>
     <string name="doodle_paint_select_talkback">Largura do traçado</string>
     <string name="double_tap_for_hr_preview_108m">Toque duas vezes novamente para alterar para a pévia de 108MP</string>
+    <string name="double_tap_for_hr_preview_200m">Double tap again to switch to 200MP preview</string>
     <string name="double_tap_to_higher_definition">Toque duas vezes novamente para abrir a pré-visualização HD</string>
     <string name="download_canceled">Download cancelado</string>
     <string name="download_delete_error_desc">"Não é possível restaurar este item porque você o excluiu deste dispositivo e da nuvem. Remover o arquivo vazio agora?"</string>
@@ -1117,7 +1120,7 @@ estão disponíveis"</string>
     <string name="functions_are_being_developed">Este recurso estará disponível em breve. Fique atento!</string>
     <string name="gallery_setting">Configurações</string>
     <string name="gallery_sync_disable_toast">Sincronização desativada para a Galeria</string>
-    <string name="generate_story_summary">Tire algumas fotos, conecte o carregador e desligue a tela para que as memórias apareçam</string>
+    <string name="generate_story_summary">"Take enough photos, connect charger, and turn off the screen to make memories appear. Memories already generated won't disappear if you turn this feature off."</string>
     <string name="generate_story_title">Memórias</string>
     <string name="get_album_info_in_process">Obtendo detalhes do álbum…</string>
     <string name="gif_tip">"GIF"</string>
@@ -1181,6 +1184,7 @@ estão disponíveis"</string>
     <string name="homepage_allphotos_tip_dialog_title">Quais imagens você gostaria de ver em \"Fotos\"?</string>
     <string name="how_to_set_relation">Pressione e segure em um álbum para criar um grupo</string>
     <string name="hr_preview_108m">Alterado para prévia de 108MP</string>
+    <string name="hr_preview_200m">Switched to 200MP preview</string>
     <string name="hybrid_check_network">Configurações de rede</string>
     <string name="hybrid_data_error">Ocorreu um erro</string>
     <string name="hybrid_locating_fail">Não foi possível obter sua localização</string>
@@ -1222,6 +1226,8 @@ estão disponíveis"</string>
     <string name="input_or_select_a_name">Insira ou selecione um nome</string>
     <string name="input_relation_name">Inserir nome do grupo</string>
     <string name="install_fail">Não foi possível carregar o plugin devido a um erro.</string>
+    <string name="install_media_editor_download_description">Downloading…</string>
+    <string name="install_media_editor_download_title">Downloading Gallery Editor plug-in…</string>
     <string name="install_media_editor_function_message">Baixe a última versão do Editor da Galeria para poder usar \"%1$s\".</string>
     <string name="install_media_editor_latest_message">Para poder editar itens, primeiro baixe o plug-in mais recente.</string>
     <string name="install_media_editor_message">Para poder editar itens, primeiro baixe o plug-in. Baixe Agora?</string>
@@ -2017,6 +2023,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="play_gif_desc">Reproduzir GIF</string>
     <string name="play_video_desc">Reproduzir vídeo</string>
     <string name="pm">"PM"</string>
+    <string name="pref_today_of_year_summary">"Get reminded of the moments you captured on this day throughout the years. Memories already generated won't disappear if you turn this feature off."</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="prepare_to_drop">Salvando em %s</string>
     <string name="preparing_data">Aguarde…</string>
@@ -2342,6 +2349,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="select_item_face">"Este(a) é '%s'?"</string>
     <string name="select_origin_tip">Arquivo original (%s)</string>
     <string name="send">Enviar</string>
+    <string name="send_dolby_vision_duration_more_than_40s">Dolby Vision videos longer than 4 minutes can only be shared in their original video format which might not be supported by the receiving device. Continue anyway?</string>
+    <string name="send_dolby_vision_video_continue">Continue</string>
     <string name="send_file_beautify_failed">Não foi possível compartilhar</string>
     <string name="send_files_by">Compartilhar arquivos via</string>
     <string name="send_files_to">Enviar itens para</string>
@@ -2792,6 +2801,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="today">Hoje</string>
     <string name="today_of_year">Neste mesmo dia</string>
     <string name="today_of_year_empty_tip">Ainda não há memórias aqui</string>
+    <string name="today_of_year_function_closed_btn_tip">Turn on</string>
+    <string name="today_of_year_function_closed_tip">"You haven't turned on \"On this day\" yet"</string>
     <string name="today_of_year_location_num">Localizações</string>
     <string name="today_of_year_photo_num">Fotos</string>
     <string name="tomorrow">Amanhã</string>

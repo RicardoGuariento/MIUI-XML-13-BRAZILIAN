@@ -379,6 +379,7 @@
     <string name="permisson_reject_notice_toast_text2">não tem permissão para %1$s.</string>
     <string name="pm">"PM"</string>
     <string name="pp_privacy_lab_operator_introduction">Atenção</string>
+    <string name="precise_location_title">Localização precisa</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="real_location_off">A localização aproximada é ativada</string>
     <string name="real_location_on">A localização aproximada está desativada</string>

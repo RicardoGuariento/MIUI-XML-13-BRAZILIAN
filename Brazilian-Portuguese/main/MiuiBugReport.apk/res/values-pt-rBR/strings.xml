@@ -780,7 +780,7 @@ Leia e concorde com a nova versão da %3$s antes de continuar."</string>
     <string name="toast_report_copied_to_clipboard">Relatório copiado para a área de transferência</string>
     <string name="toast_report_sent_failed">Não é possível enviar o relatório</string>
     <string name="toast_report_sent_succeed">O relatório foi enviado</string>
-    <string name="toast_screenshot_too_large">Não é possível enviar imagens ou vídeos maiores do que 100MB.</string>
+    <string name="toast_screenshot_too_large">Não é possível enviar imagens ou vídeos maiores do que %dMB.</string>
     <string name="toast_third_packagename_required">Informar o nome do app</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
