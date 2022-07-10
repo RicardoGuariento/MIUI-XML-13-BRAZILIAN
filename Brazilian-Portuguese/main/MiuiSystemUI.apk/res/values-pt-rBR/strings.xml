@@ -1665,7 +1665,7 @@ d 'de' MMMM"</string>
     <string name="miui_toast_zen_to_dnd">Alternado para Não perturbe. Os sons estão silenciados e a vibração desativada.</string>
     <string name="miui_toast_zen_to_standard">Alternado para o Modo silencioso. Toques para chamadas e notificações estão silenciados agora.</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Alternado para o Modo silencioso. Toques, sons de notificação e multimídias, estão silenciados agora.</string>
-    <string name="miui_unimportant_notifications">Notificações sem importância</string>
+    <string name="miui_unimportant_notifications">Não importante</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
@@ -2859,7 +2859,7 @@ Toque para obter mais informações"</string>
     <string name="tv_notification_panel_no_notifications">Nenhuma notificação</string>
     <string name="tv_notification_panel_title">Notificações</string>
     <string name="two_weeks_timestamp">2 semanas atrás</string>
-    <string name="un_important_notifications">Notificações sem importância</string>
+    <string name="un_important_notifications">Não importante</string>
     <string name="unimportant_desc">Todas as notificações sem importância ficarão agrupadas em uma seção separada.</string>
     <string name="unimportant_title">Não importante</string>
     <string name="unknown">Desconhecido</string>
