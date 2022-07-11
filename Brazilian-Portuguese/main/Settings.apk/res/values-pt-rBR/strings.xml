@@ -5117,8 +5117,7 @@ Deve ter o mesmo comprimento que o PIN do Primeiro espaço."</string>
     <string name="lockpattern_recording_inprogress">Levante o dedo ao terminar</string>
     <string name="lockpattern_recording_intro_footer">Pressione Menu para obter ajuda.</string>
     <string name="lockpattern_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
-    <string name="lockpattern_recording_intro_header_second_space">"Desenhe o padrão de desbloqueio para o Segundo espaço.</string>
-
+    <string name="lockpattern_recording_intro_header_second_space">"Desenhe o padrão de desbloqueio para o Segundo espaço.
 Conecte pelo menos 4 pontos."</string>
     <string name="lockpattern_restart_button_text">Desenhar novamente</string>
     <string name="lockpattern_retry_button_text">Limpar</string>
