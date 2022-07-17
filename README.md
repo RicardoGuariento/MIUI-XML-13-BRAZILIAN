@@ -29,8 +29,5 @@ For more info, visit:
 - jutruka
 
 ##### Commits pendentes de tradução:
-- [XML 22.6.2/15](https://github.com/RicardoGuariento/MIUI-XML-13-BRAZILIAN/commit/175ab37b2eaa56f71f1f30117a5048d44ff994aa)
-Traduzido até o app TeleService.apk
-:D
 
 - [XML 22.6.15 ao XML 22.7.7](https://github.com/RicardoGuariento/MIUI-XML-13-BRAZILIAN/commit/2bb4f3facf64d8496e48c2e77109d8c2b3be5057)

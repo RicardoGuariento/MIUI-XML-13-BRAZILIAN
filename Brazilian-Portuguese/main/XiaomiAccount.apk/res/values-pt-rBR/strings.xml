@@ -441,8 +441,8 @@ Envie este código para o supervisor."</string>
     <string name="multi_user_not_show_sync_activity_title">Não ativar a sincronização com a nuvem</string>
     <string name="my_device_title">Dispositivo atual</string>
     <string name="need_install_wechat">Instale o WeChat primeiro</string>
-    <string name="network_error">A network error occurred.</string>
-    <string name="network_error_hint">Check the URL and try again, or copy the URL and open it in your browser.</string>
+    <string name="network_error">Ocorreu um erro de rede.</string>
+    <string name="network_error_hint">Verifique a URL e tente novamente ou copie a URL e abra-a no navegador.</string>
     <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="network_timeout_info">"Não foi possível conectar à rede. Tente novamente."</string>
     <string name="new_version">Nova versão</string>
@@ -479,7 +479,7 @@ Envie este código para o supervisor."</string>
     <string name="operator_unicom">"China Unicom"</string>
     <string name="operator_unicom_agreement">Serviços de verificação fornecidos pela China Unicom</string>
     <string name="optional_permissions">Permissões opcionais</string>
-    <string name="page_load_failed">"Can't open page"</string>
+    <string name="page_load_failed">Não é possível abrir a página</string>
     <string name="passport_Resend">Reenviar</string>
     <string name="passport_access_denied">Acesso negado</string>
     <string name="passport_account_hint_text">E-mail/Número de telefone/ID da Conta Mi</string>
