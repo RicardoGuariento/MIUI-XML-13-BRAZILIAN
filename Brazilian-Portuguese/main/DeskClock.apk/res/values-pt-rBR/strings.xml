@@ -714,6 +714,8 @@
     <string name="worldcolock_timezone_gap">"%s H"</string>
     <string name="worldcolock_timezone_local">Mesmo que a hora local</string>
     <string name="xiaoai_ringtone_title">Toques Mi AI</string>
+    <string name="xiaomi_deskclock_uninstall_description_content">"Clock is a system app. You won't be able to check the time, set alarms, or use other Clock features after you uninstall the app."</string>
+    <string name="xiaomi_deskclock_uninstall_description_title">Uninstall Clock?</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>

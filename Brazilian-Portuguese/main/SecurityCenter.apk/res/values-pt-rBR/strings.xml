@@ -1008,6 +1008,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="btn_text_quick_save_power">Otimizar</string>
     <string name="btn_text_quick_scan">Verificar</string>
     <string name="btn_text_stop">Parar</string>
+    <string name="bubble_app_empty_page">"Couldn't find apps that support conversation bubbles on this device"</string>
     <string name="bubble_app_manage">Gerenciar conversas em bolhas</string>
     <string name="bubble_notification">Conversas em bolhas</string>
     <string name="bubble_notification_switch">Mostrar conversas em bolhas</string>
@@ -4841,9 +4842,9 @@ Para usar este ^1, você precisa montá-lo primeiro."</string>
     <string name="storage_dialog_unsupported">"Este dispositivo não suporta este ^1.
 
 Para usar este ^1 com este dispositivo, você precisa configurá-lo primeiro."</string>
-    <string name="storage_fbo_clear">Desfragmentação</string>
-    <string name="storage_fbo_des">"O armazenamento interno está fragmentado, o que pode diminuir significativamente a velocidade do seu dispositivo. A desfragmentação é realizada automaticamente enquanto você não está usando o dispositivo. Ela organiza fisicamente seus arquivos no menor número de fragmentos, reduzindo a lentidão."</string>
-    <string name="storage_fbo_number_tip">Mesclado em %1$s</string>
+    <string name="storage_fbo_clear">Atualização de armazenamento FBO</string>
+    <string name="storage_fbo_des">"O armazenamento interno está fragmentado, o que pode diminuir significativamente a velocidade do seu dispositivo. A atualização do armazenamento FBO funciona automaticamente enquanto você não está usando o dispositivo. Ela organiza fisicamente seus arquivos no menor número de fragmentos, reduzindo a lentidão."</string>
+    <string name="storage_fbo_number_tip">Processado em %1$s</string>
     <string name="storage_fbo_tools">Otimização de armazenamento</string>
     <string name="storage_file_delete_tip">Excluir itens selecionados permanentemente? Alguns deles podem ser carregados novamente quando necessário.</string>
     <string name="storage_file_dialog_delete_title">Deletar itens</string>

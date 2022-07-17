@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="access_denied_info">Too many attempts. Wait a minute or two and try again.</string>
     <string name="action_collapse">Ocultar</string>
     <string name="action_expand">Mostrar mais</string>
     <string name="action_folder_description">Ver pastas</string>
@@ -557,6 +558,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção de um dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção de um ano</string>
+    <string name="network_error_info">A network error occurred. Check your network settings and try again.</string>
+    <string name="network_timeout_info">"Couldn't connect to the network. Try again."</string>
     <string name="new_app_name">Notas</string>
     <string name="new_audio_create_cancel_talkback_des">Cancelada</string>
     <string name="new_audio_create_done_talkback_des">Criada</string>
@@ -691,6 +694,7 @@
     <string name="privacy_note_content_empty">Sem itens</string>
     <string name="private_entry_available">Solte para abrir a pasta privada</string>
     <string name="private_entry_default">Puxe para baixo para abrir a pasta privada</string>
+    <string name="progressbar_title">Checking for security issues…</string>
     <string name="quick_note_link_default_text">"URL"</string>
     <string name="quick_note_new_user_guide">As notas rápidas permitem que você crie notas e excertos</string>
     <string name="recover_notes_hint">Ocorreu um erro, acesse i.mi.com para restaurar as notas.</string>
@@ -797,6 +801,7 @@
     <string name="sync_note_folder">%1$s e %2$s</string>
     <string name="sync_note_todo">%1$s e %2$s</string>
     <string name="sync_tips">Toque para sincronizar notas com a nuvem.</string>
+    <string name="system_error_info">System is busy. Wait a minute or two and try again.</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
     <string name="the_arbor_day">Dia da Árvore</string>
@@ -975,6 +980,7 @@ Permita que o app Notas grave áudio."</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="unclassfied_folder_name">Sem categoria</string>
     <string name="undo">Desfazer</string>
+    <string name="unknown_error_info">Erro desconhecido</string>
     <string name="unknown_source">Fonte desconhecida</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>

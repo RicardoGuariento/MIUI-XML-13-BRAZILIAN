@@ -506,6 +506,7 @@ Para desativar este recurso, vá em Configurações &gt; Som e vibração &gt; V
     <string name="kuyin_user_agreement_content">Assinaturas de toques personalizados são fornecidas pelo iFlytek. Você deve aceitar a %s antes de usar assinaturas de toques personalizados. Aceitar?</string>
     <string name="kuyin_user_agreement_content_href">Política de Privacidade iFlytek</string>
     <string name="lab">Laboratório de temas</string>
+    <string name="label">Etiqueta</string>
     <string name="like_list">Minhas curtidas</string>
     <string name="live_wallpaper">Planos de fundo dinâmicos</string>
     <string name="load_from_local_photos">Galeria</string>
@@ -1540,7 +1541,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="wallpaper_apply_inner">Aplicar à tela interna</string>
     <string name="wallpaper_apply_large">Tela interna</string>
     <string name="wallpaper_apply_outer">Aplicar à tela externa</string>
-    <string name="wallpaper_apply_outer_and_inner">Aplique em telas internas e externas</string>
+    <string name="wallpaper_apply_outer_and_inner">Aplique em Telas internas e externas</string>
     <string name="wallpaper_apply_pcmode">Definir papel de parede do Modo PC</string>
     <string name="wallpaper_apply_small">Tela externa</string>
     <string name="wallpaper_crop">Cortar</string>

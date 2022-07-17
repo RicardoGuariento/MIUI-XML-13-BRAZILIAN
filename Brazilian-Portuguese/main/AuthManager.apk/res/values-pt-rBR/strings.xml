@@ -346,7 +346,7 @@
     <string name="permdesc_read_contacts">Permitir que %1$s acesse contatos?</string>
     <string name="permdesc_read_mms">Permitir que %1$s leia mensagens multimídia?</string>
     <string name="permdesc_read_phone_state">Permitir que %1$s acesse o status do dispositivo e as informações da rede móvel?</string>
-    <string name="permdesc_read_sms">Permitir que %1$s leia ou envie mensagens de texto e multimídia?</string>
+    <string name="permdesc_read_sms">Permitir que %1$s leia mensagens de texto e multimídia?</string>
     <string name="permdesc_read_storage">Permitir que %1$s acesse arquivos e fotos neste dispositivo?</string>
     <string name="permdesc_recognition">Permitir que %1$s acesse suas informações de atividade?</string>
     <string name="permdesc_send_sms">Permitir que %1$s envie mensagens de texto?</string>
