@@ -874,9 +874,9 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="device_locked_without_biometric_face">Não é possível desbloquear este dispositivo com dados faciais ao usar um bloqueio de tela modificado</string>
     <string name="device_locked_without_biometric_finger">Não é possível desbloquear este dispositivo com impressões digitais ao usar um bloqueio de tela modificado</string>
     <string name="device_services">Serviços do dispositivo</string>
-    <string name="dialog_forget_password_cancel">Cancel</string>
-    <string name="dialog_forget_password_message">If you forgot your PUK code, you can disable this eSIM not to lose access to your device. After that, you can contact your carrier to get help.</string>
-    <string name="dialog_forget_password_ok">Disable</string>
+    <string name="dialog_forget_password_cancel">Cancelar</string>
+    <string name="dialog_forget_password_message">Se você esqueceu seu código PUK, você pode desativar este eSIM para não perder o acesso ao seu dispositivo. Depois, você pode entrar em contato com sua operadora para obter ajuda.</string>
+    <string name="dialog_forget_password_ok">Desativar</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Nota: Após uma reinicialização, este app não iniciará até que você desbloqueie seu dispositivo.</string>
     <string name="disable_carrier_button_text">Desativar eSIM</string>
@@ -1083,7 +1083,7 @@ Digite seu PIN para desbloquear."</string>
     <string name="force_rtl_layout_all_locales_summary">Forçar direção do layout (RTL) p/ todas as local.</string>
     <string name="forced_resizable_secondary_display">O app pode não funcionar em uma tela secundária.</string>
     <string name="forget_password_string">Esqueci a senha</string>
-    <string name="forget_password_string_for_esim"><u>Forgot PUK code</u></string>
+    <string name="forget_password_string_for_esim"><u>Esqueci o código PUK</u></string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
