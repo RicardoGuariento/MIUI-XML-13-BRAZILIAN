@@ -340,7 +340,7 @@
     <string name="exit_overview_because_task_stack_changed">Recentes fechado devido a alterações que ocorreram em segundo plano</string>
     <string name="expand_button_title">Avançado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
-    <string name="external_not_support_split_screen_j18">"Split screen isn't supported on outer screen"</string>
+    <string name="external_not_support_split_screen_j18">A Tela dividida não é compatível com a tela externa</string>
     <string name="failed_to_delete_temporary">Não é possível remover</string>
     <string name="failed_to_drop">Não é possível mover</string>
     <string name="failed_to_drop_widget_invalid">Este widget é inválido</string>
@@ -1022,8 +1022,8 @@
     <string name="uninstall_xspace_dialog_title_format">Desinstalar dual app \"%s\"?</string>
     <string name="unknown_artist_name">Artista desconhecido</string>
     <string name="unnamed_folder_name">Pasta</string>
-    <string name="unstable_dialog_message">This device is enrolled in the Android 13 Developer Preview Program. The program allows Android developers and enthusiasts to try out pre-release versions of Android 13.This pre-release version may contain errors and defects that can affect normal functioning of your device.</string>
-    <string name="unstable_dialog_title">Android Developer Preview Program</string>
+    <string name="unstable_dialog_message">Este dispositivo está inscrito no Programa Android 13 Developer Preview. O programa permite que desenvolvedores e entusiastas do Android experimentem versões de pré-lançamento do Android 13. Esta versão de pré-lançamento pode conter erros e defeitos que podem afetar o funcionamento normal do seu dispositivo.</string>
+    <string name="unstable_dialog_title">Programa Android Developer Preview</string>
     <string name="upgrade_remove_small_window_in_recents">Você pode usar a barra lateral para abrir apps em janelas flutuantes</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
@@ -1052,8 +1052,8 @@
     <string name="work_profile_second_content">Apps e dados de trabalho estão visíveis para o seu administrador de TI</string>
     <string name="work_profile_title">Perfil de trabalho</string>
     <string name="work_profile_toggle_label">Perfil de trabalho</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Not now</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Update</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">An update is available</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
     <string name="yesterday">Ontem</string>
 </resources>

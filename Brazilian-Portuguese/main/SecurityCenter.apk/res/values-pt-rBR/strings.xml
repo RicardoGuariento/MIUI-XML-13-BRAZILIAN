@@ -1008,7 +1008,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="btn_text_quick_save_power">Otimizar</string>
     <string name="btn_text_quick_scan">Verificar</string>
     <string name="btn_text_stop">Parar</string>
-    <string name="bubble_app_empty_page">"Couldn't find apps that support conversation bubbles on this device"</string>
+    <string name="bubble_app_empty_page">Não foi possível encontrar apps compatíveis com conversa em bolhas neste dispositivo</string>
     <string name="bubble_app_manage">Gerenciar conversas em bolhas</string>
     <string name="bubble_notification">Conversas em bolhas</string>
     <string name="bubble_notification_switch">Mostrar conversas em bolhas</string>
