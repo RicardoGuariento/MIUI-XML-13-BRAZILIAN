@@ -898,8 +898,8 @@ Envie este código para o supervisor."</string>
     <string name="update_phone_notice">Alterar configurações de segurança</string>
     <string name="update_phone_number_notice_message">Você precisa verificar sua identidade antes de atualizar o número de telefone.</string>
     <string name="used_cloud_storage_info">%s em uso</string>
-    <string name="user_agreement_network_permission_msg">We need to connect to the internet to be able to provide you with necessary services.</string>
-    <string name="user_agreement_use_account_msg">Xiaomi Account allows you to access all of the services provided by Xiaomi.</string>
+    <string name="user_agreement_network_permission_msg">Precisamos nos conectar à Internet para poder fornecer os serviços necessários.</string>
+    <string name="user_agreement_use_account_msg">A Conta Mi permite que você acesse todos os serviços fornecidos pela Xiaomi.</string>
     <string name="user_avatar_update_title">Alterar foto de perfil</string>
     <string name="user_avatar_uploading">Aguarde…</string>
     <string name="user_instruction_all_purpose">Bem-vindo à Conta Mi! Você pode usar sua conta para acessar serviços fornecidos pela Xiaomi e suas empresas afiliadas, como mi.com, MiCloud e GetApps. Você pode obter moedas mi, comprar bens virtuais e desfrutar de serviços de valor agregado, incluindo jogos, temas e ebooks.</string>

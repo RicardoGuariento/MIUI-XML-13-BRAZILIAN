@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
-    <string name="access_denied_info">Too many attempts. Wait a minute or two and try again.</string>
+    <string name="access_denied_info">Muitas tentativas. Aguarde um ou dois minutos e tente novamente.</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="add_remark_hint">Digite seu comentário aqui</string>
     <string name="add_remark_tip">Toque para adicionar comentário</string>
@@ -87,8 +87,8 @@
     <string name="dialog_privacy_revoke_tips">Após você revogar a autorização, o app parará de coletar dados, e todos os dados relacionados serão excluídos dos servidores. Isto poderá tornar o app virtualmente inutilizável. Revogar a autorização mesmo assim? Para garantir a segurança da sua conta, faça o login em i.mi.com antes de revogar a autorização de serviços MiCloud.</string>
     <string name="dialog_title_storage_full">Não há espaço suficiente</string>
     <string name="download">Baixar</string>
-    <string name="download_pause">Download paused. Tap to resume.</string>
-    <string name="downloading">Downloading. Tap to pause.</string>
+    <string name="download_pause">Download pausado. Toque para retomar.</string>
+    <string name="downloading">Baixando. Toque para pausar.</string>
     <string name="duration_format_hour">%sh</string>
     <string name="duration_format_minute">%sm</string>
     <string name="duration_format_second">%ss</string>
@@ -316,8 +316,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção de um dia</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção de um ano</string>
-    <string name="network_error_info">A network error occurred. Check your network settings and try again.</string>
-    <string name="network_timeout_info">"Couldn't connect to the network. Try again."</string>
+    <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="network_timeout_info">Não foi possível conectar à rede. Tente novamente.</string>
     <string name="network_tip_dialog_cancel">Não aceitar</string>
     <string name="network_tip_dialog_content">O Gravador precisa de uma conexão com a internet para funcionar normalmente. Aceitar?</string>
     <string name="network_tip_dialog_ok">Permitir</string>
@@ -417,7 +417,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="privacy_policy_title">Política de Privacidade</string>
     <string name="privacy_settings">Privacidade</string>
     <string name="progress">Barra de progresso de reprodução</string>
-    <string name="progressbar_title">Checking for security issues…</string>
+    <string name="progressbar_title">Verificando problemas de segurança…</string>
     <string name="recognition_button_add_to_queue">Adicionar à fila</string>
     <string name="recognition_button_cancel">Agora não</string>
     <string name="recognition_button_start">Transcrever</string>
@@ -565,7 +565,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="sync_desc_state_complete">Sincronizado com a nuvem: %1$s</string>
-    <string name="system_error_info">System is busy. Wait a minute or two and try again.</string>
+    <string name="system_error_info">O sistema está ocupado. Aguarde um minuto ou dois e tente novamente.</string>
     <string name="tab_all">Todos</string>
     <string name="tab_apps">"Apps"</string>
     <string name="tab_call">Chamadas</string>
@@ -649,7 +649,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="uninstall_warning_content">O Gravador é um app de sistema. Você não poderá gravar áudio e transcrever áudio e chamadas após desinstalá-lo.</string>
     <string name="uninstall_warning_title">Desinstalar o Gravador?</string>
-    <string name="unknown_error_info">Unknown error</string>
+    <string name="unknown_error_info">Erro desconhecido</string>
     <string name="usage_description">Transcrever áudio e sincronizar itens com a nuvem</string>
     <string name="user_feedback">"Feedback"</string>
     <string name="v7_preference_off">DESATIVADO</string>

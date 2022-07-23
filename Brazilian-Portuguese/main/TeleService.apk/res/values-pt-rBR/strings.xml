@@ -825,7 +825,7 @@ Seleção"</string>
     <string name="data_enable_summary">Permite que este dispositivo use dados móveis</string>
     <string name="data_enable_warning">Permitir o uso contínuo de dados móveis pode gerar tarifas adicionais fora do plano da sua operadora. Conectar mesmo assim?</string>
     <string name="data_enabled">Dados móveis</string>
-    <string name="data_interruption_remind">"Looks like your network environment isn't reliable. To improve connection, allow your device to use mobile data during VoLTE calls on the secondary SIM."</string>
+    <string name="data_interruption_remind">Parece que seu ambiente de rede não é confiável. Para melhorar a conexão, permita que seu dispositivo use dados móveis durante chamadas VoLTE no SIM secundário.</string>
     <string name="data_plan">Planos de dados móveis</string>
     <string name="data_usage_disable_mobile">Desativar os dados móveis?</string>
     <string name="data_usage_ota">Atualizações do sistema</string>
@@ -1435,7 +1435,7 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
     <string name="location">Área</string>
     <string name="lodgings_disable">Alojamentos desativados</string>
     <string name="lodgings_enable">Alojamentos ativados</string>
-    <string name="low_battery_flash_when_ring_button_tip">"Can't use flash when ringing due to low battery"</string>
+    <string name="low_battery_flash_when_ring_button_tip">Não é possível usar o flash ao tocar devido à bateria fraca</string>
     <string name="lte_band_sel_setting">band list</string>
     <string name="lte_band_set_status">lte band set</string>
     <string name="lte_freq_set_button">set freq and pci</string>

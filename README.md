@@ -30,7 +30,7 @@ For more info, visit:
 
 ##### Commits pendentes de tradução:
 
-- [XML 22.6.15 ao XML 22.7.7](https://github.com/RicardoGuariento/MIUI-XML-13-BRAZILIAN/commit/2bb4f3facf64d8496e48c2e77109d8c2b3be5057)
-Traduzido até o MiuiSystemUi.apk
+- [XML 22.6.15 ao XML 22.7.7 (90% Traduzido)](https://github.com/RicardoGuariento/MIUI-XML-13-BRAZILIAN/commit/2bb4f3facf64d8496e48c2e77109d8c2b3be5057)
+Falta traduzir apenas o MiBrowserGlobal.apk e Music.apk
 
 - [XML 22.7.8 ao 22.7.13 ](https://github.com/RicardoGuariento/MIUI-XML-13-BRAZILIAN/commit/3ae64ca2f95fc7ab95b1de7536dcdacb89557c0f)

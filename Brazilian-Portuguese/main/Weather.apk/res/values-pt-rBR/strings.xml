@@ -136,7 +136,7 @@
     <string name="content_desc_activity_main_add_city">Adicionar cidade</string>
     <string name="content_desc_activity_main_add_city_manage">Gerenciar cidades</string>
     <string name="content_desc_activity_main_more_settings">Mais configurações</string>
-    <string name="content_desc_activity_main_page">Page %1$d of %2$d</string>
+    <string name="content_desc_activity_main_page">Página %1$d de %2$d</string>
     <string name="content_desc_back_button">Voltar</string>
     <string name="content_desc_city_manage_del">Excluir</string>
     <string name="content_desc_close_button">Fechar</string>
