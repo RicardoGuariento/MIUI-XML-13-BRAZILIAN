@@ -6,6 +6,12 @@
     <string name="HIPS_Perm_CallLog_Desc">Escrever ou excluir registros no histórico de chamadas</string>
     <string name="HIPS_Perm_Call_Desc">Ligar diretamente para números de telefone</string>
     <string name="HIPS_Perm_Contact_Desc">Modificar e excluir contatos</string>
+    <string name="HIPS_Perm_External_READ_FILES">Access files and documents</string>
+    <string name="HIPS_Perm_External_READ_FILES_Desc">Access files and documents stored on this device</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Access audio files</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Access songs and other audio files stored on this device</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Access photos and videos</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Access photos and videos stored on this device</string>
     <string name="HIPS_Perm_External_Storage">Acessar e salvar itens no armazenamento</string>
     <string name="HIPS_Perm_External_Storage_Desc">Acessar e salvar arquivos e fotos no armazenamento interno</string>
     <string name="HIPS_Perm_External_Storage_Group">Gerenciar permissões de armazenamento</string>
@@ -194,6 +200,9 @@
     <string name="antivirus_choose_engine_title">Definições</string>
     <string name="antivirus_detect_apps_dialog_cancel">Ignorar</string>
     <string name="antivirus_detect_apps_dialog_content">%s é classificado como um app de fraude financeira pelo Centro Nacional Antifraude. Este app apresenta riscos de segurança substanciais.</string>
+    <string name="antivirus_detect_apps_dialog_content_text">This app might pose risks to the security of your personal information.</string>
+    <string name="antivirus_detect_apps_dialog_message">If customer service personnel, authorities, or the people you might know ask you to use this app, <Data>&lt;font color=#F22424>verify their identity before you continue&lt;/font>.</Data></string>
+    <string name="antivirus_detect_apps_dialog_message_reject_permission">Permissions requested by this app were restricted. You can manage permissions here: %s.</string>
     <string name="antivirus_detect_apps_dialog_uninstall">Desinstalar</string>
     <string name="antivirus_detect_apps_noti_message">Este app apresenta riscos de segurança</string>
     <string name="antivirus_detect_apps_noti_title">Vários apps, incluindo %s, podem representar riscos de segurança</string>
@@ -928,7 +937,9 @@ Você não perderá nenhum dado de apps."</string>
     <string name="battery_temperature_title">Temperatura</string>
     <string name="beauty_fc_assistant">Assistente da câmera frontal</string>
     <string name="beauty_fc_assistant_summary">Mostrar embelezamento e preencher opções de luz enquanto estiver usando a câmera frontal</string>
+    <string name="beauty_fc_assistant_summary_common">Use additional features with front camera</string>
     <string name="beauty_fc_assistant_summary_new">Mostrar embelezamento e preencher opções de luz enquanto estiver usando a câmera frontal</string>
+    <string name="beauty_fc_auto_brightness">Adjust fill light brightness automatically</string>
     <string name="beauty_fc_fill_lamp">Luz de preenchimento</string>
     <string name="beauty_fc_fill_lamp_new">Luz de preenchimento dianteira</string>
     <string name="beauty_fc_light">Brilho da luz de preenchimento</string>
@@ -964,7 +975,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="bill_remind">Aviso de saldo do telefone</string>
     <string name="bill_reminder_summary">Lembrar de fazer uma recarga quando o saldo for inferior a %1s</string>
     <string name="bill_traffic_reminder_instruction">Atenção</string>
-    <string name="bill_traffic_reminder_instruction_text">Os detalhes reais dos planos providenciados pelas operadoras podem variar e a demora da cobrança por ocorrer. A informação aqui provida é apenas para sua referência.</string>
+    <string name="bill_traffic_reminder_instruction_text">Os métodos de cobrança e os padrões de cálculo de dados de diferentes operadoras podem variar. Atrasos no faturamento também podem ocorrer. As estatísticas de uso fornecidas aqui são apenas para sua referência.</string>
     <string name="bind_xiaomi_account_cancel">Cancelar</string>
     <string name="bind_xiaomi_account_confirm">Adicionar</string>
     <string name="bind_xiaomi_account_dialog_summery">Você está prestes a adicionar a Conta Mi %s. Caso você esqueça sua senha, você poderá usar esta conta para redefini-la. A conta será removida automaticamente caso você faça o logout.</string>
@@ -1095,6 +1106,8 @@ Você não perderá nenhum dado de apps."</string>
     <string name="card_uninstall_button_text">Gerenciar</string>
     <string name="card_uninstall_summary">Desinstale apps raramente usados para liberar espaço de armazenamento</string>
     <string name="card_uninstall_title_1">Desinstale apps raramente usados</string>
+    <string name="category_no_scoped">Other apps</string>
+    <string name="category_scoped">Compatible apps</string>
     <string name="cd_back">Voltar</string>
     <string name="celcius_symbol">"℃"</string>
     <string name="cellular_data_auto_check">Verificar automaticamente</string>
@@ -1395,6 +1408,48 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="edit_new_task_name">Insira o nome da tarefa</string>
     <string name="edit_phone_num">Editar número de telefone do SIM</string>
     <string name="eew_privacy_revoke_title">Retirar consentimento para a Política de Privacidade de aviso de terremoto</string>
+    <string name="eletric_card_key_1">Calls</string>
+    <string name="eletric_card_key_2">Messages</string>
+    <string name="eletric_card_key_3">Apps</string>
+    <string name="eletric_card_key_4">Web browsing</string>
+    <string name="eletric_card_key_5">Casting</string>
+    <string name="eletric_card_one_identification_risk_app">Warn about unreliable apps</string>
+    <string name="eletric_card_one_identification_risk_app_summary">Receive warnings and restrict permissions automatically when risks are detected</string>
+    <string name="eletric_card_one_identification_risk_mms">Detect risks in incoming messages</string>
+    <string name="eletric_card_one_identification_risk_mms_summary">"Check incoming messages for risks based on sender's phone number and attached URLs"</string>
+    <string name="eletric_card_one_identification_risk_screen">Hide private items</string>
+    <string name="eletric_card_one_identification_risk_screen_summary">"Don't show notifications and private apps on external monitors while casting"</string>
+    <string name="eletric_card_status_bg_content_disable">Off</string>
+    <string name="eletric_card_status_bg_content_enable">On</string>
+    <string name="eletric_card_summary_1">Check incoming calls for security risks</string>
+    <string name="eletric_card_summary_2">Detect risks in incoming messages</string>
+    <string name="eletric_card_summary_3">Warn about unreliable apps</string>
+    <string name="eletric_card_summary_4">Notify about risky sites</string>
+    <string name="eletric_card_summary_5">Hide private items</string>
+    <string name="eletric_card_two_identification_risk_app">Warn about risky transactions</string>
+    <string name="eletric_card_two_identification_risk_app_summary">Receive warnings when making financial transactions after suspicious calls or messages</string>
+    <string name="eletric_card_two_identification_risk_mms">Warn about forwarded verification codes</string>
+    <string name="eletric_card_two_identification_risk_mms_summary">Receive warnings when verification codes are forwarded to social media apps</string>
+    <string name="eletric_group_title_one_identification_risk_app">Restrict permissions automatically</string>
+    <string name="eletric_group_title_one_identification_risk_app_summary">Restrict permissions automatically when risks in apps are detected</string>
+    <string name="eletric_group_title_one_identification_risk_mms">Protect messages</string>
+    <string name="eletric_group_title_one_identification_risk_mms_summary">Receive notifications about possible risks in messages sent from unknown numbers</string>
+    <string name="eletric_group_title_one_identification_risk_screen">Hide notifications</string>
+    <string name="eletric_group_title_one_identification_risk_screen_summary">"Your notifications won't be shown on external monitors while casting"</string>
+    <string name="eletric_group_title_two_identification_risk_app">Receive warnings about financial risks</string>
+    <string name="eletric_group_title_two_identification_risk_app_summary">Receive warnings when financial transaction are made after suspicious calls or messages</string>
+    <string name="eletric_group_title_two_identification_risk_mms">Receive warnings when verification codes are forwarded</string>
+    <string name="eletric_group_title_two_identification_risk_mms_summary">"You'll receive a warning when verification codes from your messages are forwarded to social media"</string>
+    <string name="eletric_group_title_two_identification_risk_screen">Hide private apps</string>
+    <string name="eletric_group_title_two_identification_risk_screen_summary">Casting will be paused if you switch to Alipay, WeChat, Gallery, or Messaging</string>
+    <string name="eletric_group_two_identification_risk_app">Warn about risky financial transactions</string>
+    <string name="eletric_group_two_identification_risk_mms">Verification code protection</string>
+    <string name="eletric_identification_unfamiliar_numbers">Identify unknown numbers</string>
+    <string name="eletric_identification_unfamiliar_numbers_summary">Display call types for unknown numbers based on user feedback</string>
+    <string name="eletric_key_protect_electric_announcement">Anti-fraud protection</string>
+    <string name="eletric_risk_call_identification">Protect calls</string>
+    <string name="eletric_risk_call_identification_announcement">Get notified about possible risks when receiving calls from unknown numbers</string>
+    <string name="eletric_status_protecting">On</string>
     <string name="email">E-mail</string>
     <string name="empty" />
     <string name="empty_app">Nenhum app</string>
@@ -1407,6 +1462,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="empty_title_root_apps">Nenhum app tem acesso Root.</string>
     <string name="enable_extreme_power_save_mode">Economia extrema de bateria</string>
     <string name="enable_network">Ative a rede primeiro</string>
+    <string name="enable_notification_title">Allow %1$s to use notifications?</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_icon_content_description">Erro</string>
@@ -2106,6 +2162,9 @@ Grave sequências e use-as a qualquer momento!"</string>
     <string name="gb_not_support_on_device">Este app não pode ser usado na tela externa</string>
     <string name="gb_operat_frequently">Não tão rápido!</string>
     <string name="gb_performace_guide_disable_desc"><Data>Não é possível alternar para o Modo balanceado no Game Turbo quando o Modo desempenho está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança.&lt;br>&lt;a href=\"#\">Abrir o Segurança&lt;/a>"</Data></string>
+    <string name="gb_performace_switch_toast">Switched to Performance mode. Your device might heat up and consume more power.</string>
+    <string name="gb_performace_tips_button">Switch</string>
+    <string name="gb_performace_tips_title">Switch to Performance mode for better experience</string>
     <string name="gb_performance_balance">Modo balanceado</string>
     <string name="gb_performance_balance_tips">"O Modo balanceado economiza energia
 enquanto reduz a taxa de atualização e os limites de temperatura"</string>
@@ -2119,6 +2178,7 @@ mas também aumenta o consumo de energia e permite que seu dispositivo superaque
     <string name="gb_predownload_dialog_message_china"><Data>"O conteúdo atualizado para este jogo pode ser baixado para este dispositivo automaticamente após você se conectar ao Wi-Fi e bloquear a tela. Assim, você poderá usar a nova versão assim que for lançada.&lt;br>&lt;br>Leia e concorde com a &lt;a href=\"%1$s\">Declaração sobre atualizações em segundo plano&lt;/a> antes de usar este recurso."</Data></string>
     <string name="gb_predownload_dialog_title">Atualizações em segundo plano já estão disponíveis</string>
     <string name="gb_predownload_message">"Atualize King of Glory, Game for Peace e outros jogos compatíveis em segundo plano enquanto você não estiver usando este dispositivo"</string>
+    <string name="gb_predownload_message_new">Update compatible games automatically while not using device</string>
     <string name="gb_predownload_noti_message">"%2$1.2fGBde conteúdo atualizado já está neste dispositivo. Você poderá usá-lo assim que a nova versão for lançada."</string>
     <string name="gb_predownload_noti_title">%s atualizado em segundo plano com sucesso</string>
     <string name="gb_predownload_title">Atualizações em segundo plano</string>
@@ -3197,6 +3257,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="other_exception_summary">Você não tem uma conexão com a internet</string>
     <string name="other_exception_title">Verificando outros problemas</string>
     <string name="other_milink_connect">Não é possível transmitir. Outro recurso está sendo transmitido agora.</string>
+    <string name="over_package_reminder_type">When data plan is used up</string>
     <string name="package_change_notification_summary">Toque para saber mais.</string>
     <string name="package_change_notification_title">Ajustar limite de dados automaticamente</string>
     <string name="package_setted_error_notification_summary">Toque para ver os detalhes do uso de dados.</string>
@@ -3343,6 +3404,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_get_accounts">Esta permissão permite aos apps acessar a lista de contas armazenadas em seu dispositivo. Esta lista pode conter todas as suas contas pessoais criadas pelos apps instalados, assim como as contas de plataformas de mídia social e ferramentas de comunicação.</string>
     <string name="permission_instruction_install_shortcuts">Esta permissão permite que os apps criem atalhos para a Tela inicial.</string>
     <string name="permission_instruction_install_unknown_source">Esta permissão permite que os apps instalem outros apps em seu dispositivo. Apps maliciosos usam esta permissão para instalar apps sem sua confirmação.</string>
+    <string name="permission_instruction_media_audio">This permission allows apps to access songs and other audio files stored on this device. These items might contain personal information.</string>
+    <string name="permission_instruction_media_files">This permission allows apps to access files and documents stored on this device. These items might contain personal information.</string>
     <string name="permission_instruction_modify_audio_settings">Esta permissão permite aos apps modificar as configurações de áudio (ex.: ajustar o volume sem sua confirmação). Você pode não pode não ser capaz de ajustar o volume em alguns apps, a menos que conceda a eles esta permissão.</string>
     <string name="permission_instruction_nfc">Esta permissão permite que os apps se comuniquem com os cartões e dispositivos NFC.</string>
     <string name="permission_instruction_notification_adjustment">Esta permissão permite que os apps forneçam notificações adaptativas mais personalizadas e diversificadas.</string>
@@ -3354,6 +3417,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_read_calllog">Esta permissão permite aos apps acessar o histórico de chamadas, que pode conter informações detalhadas sobre suas chamadas recebidas e efetuadas. Esta permissão também permite aos apps salvar os registros do histórico de chamadas. Apps maliciosos podem usar esta permissão para compartilhar seu histórico de chamadas com terceiros ou usá-lo para fraudes.</string>
     <string name="permission_instruction_read_clipboard">Esta permissão permite que os apps leiam qualquer conteúdo que você copie, que pode incluir informações pessoais (ex.: detalhes da conta, números de cartões bancários e senhas).</string>
     <string name="permission_instruction_read_contacts">Esta permissão permite aos apps acessar as informações de contato armazenadas em seu dispositivo. Estas informações podem conter a frequência de sua comunicação com contatos específicos através de chamadas, e-mails e outros métodos. Esta permissão também permite aos apps salvar contatos. Apps maliciosos podem usar esta permissão para compartilhar contatos sem seu consentimento.</string>
+    <string name="permission_instruction_read_media_pic">This permission allows apps to access photos and videos stored on this device. These items might contain personal information.</string>
     <string name="permission_instruction_read_notify_sms">Esta permissão permite aos apps ler mensagens de texto e notificação armazenadas em seu dispositivo ou cartão SIM.</string>
     <string name="permission_instruction_read_phone_state">Esta permissão permite que apps acessem seu número de telefone, IMEI, IMSI e outros identificadores de dispositivos. Os apps normalmente usam esta permissão para determinar se suas chamadas estão sendo encaminhadas. Se você estiver usando uma ID de dispositivo virtual, os apps não poderão acessar seus identificadores de dispositivo reais.</string>
     <string name="permission_instruction_read_sms">Esta permissão permite que os apps leiam todas as mensagens de texto armazenadas em seu dispositivo ou cartão SIM. Estas mensagens podem conter senhas, detalhes de contas bancárias e outras informações pessoais.</string>
@@ -3362,6 +3426,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_record_audio">Esta permissão permite que os apps utilizem o microfone para a gravação de áudio. Lembre-se que esta permissão permite aos apps gravar qualquer coisa, inclusive suas conversas com outras pessoas. É melhor permitir que os apps usem esta permissão apenas enquanto você estiver usando os apps.</string>
     <string name="permission_instruction_running_background">Esta permissão permite que os apps funcionem em segundo plano. Ao fazer isto, os apps podem coletar dados e fornecer serviços. Lembre-se de que tais atividades aumentam o consumo de energia.</string>
     <string name="permission_instruction_running_exceed_data">Esta permissão permite que os apps ignorem os limites de uso de dados móveis.</string>
+    <string name="permission_instruction_scoped">A new storage protection mechanism allows you to better control how compatible apps use storage permissions</string>
     <string name="permission_instruction_send_mms">Esta permissão permite aos apps enviar mensagens multimídia, o que pode gerar taxas adicionais. Apps maliciosos podem usar esta permissão para enviar mensagens pagas sem seu consentimento.</string>
     <string name="permission_instruction_send_payment_sms">Esta permissão permite aos apps enviar mensagens de texto pagas.</string>
     <string name="permission_instruction_send_sms">Esta permissão permite que os apps enviem mensagens de texto, o que pode gerar taxas adicionais. Os apps maliciosos podem usar esta permissão para enviar mensagens pagas sem seu consentimento.</string>
@@ -4161,6 +4226,7 @@ Retirar consentimento agora?"</string>
     <string name="quite_all_string">Cancelar</string>
     <string name="reach_daily_limit_value_body">Reduza seu uso de dados móveis.</string>
     <string name="reach_daily_limit_value_title">Limite diário de dados atingido</string>
+    <string name="reach_warning_reminder_type">When data limit is reached</string>
     <string name="read_all_sms">Ler tudo</string>
     <string name="read_and_write_clipboard">Acessar e salvar itens na área de transferência</string>
     <string name="read_clipboard_ai_action_desc">Receba notificações sempre que um acesso for permitido ou restringido</string>
@@ -4183,6 +4249,7 @@ Retirar consentimento agora?"</string>
     <string name="reject_usb_install">A instalação via USB dos seguintes apps foi negada</string>
     <string name="release_meminfo">Liberado %dMB</string>
     <string name="release_memory">Limpar cache</string>
+    <string name="reminder_click_to_close_tips">You can turn data usage warnings on and off in Security > Data usage > Settings.</string>
     <string name="reminder_once_month">Uma vez por mês</string>
     <string name="reminder_tips">Atenção</string>
     <string name="reminder_type">Tipo de alerta</string>
@@ -4275,6 +4342,15 @@ Retirar consentimento agora?"</string>
     <string name="scan_status_risk">Em risco</string>
     <string name="scan_status_safe">Seguro</string>
     <string name="scanning_bar_number">%d%%</string>
+    <string name="scanning_bar_number_new">%s</string>
+    <string name="screen_share_protection_negative_button">"Don't share"</string>
+    <string name="screen_share_protection_summary">"The app you're using now contains your personal information which might be visible to other people if you share your screen. Share anyway?"</string>
+    <string name="screen_share_protection_title">Attention</string>
+    <string name="screen_share_protection_warning_icon_title">Anti-fraud protection</string>
+    <string name="screen_share_protection_warning_positive_button">Share</string>
+    <string name="screen_share_warning_button">Got it</string>
+    <string name="screen_share_warning_summary">"Your incoming notifications won't be displayed on the shared screen."</string>
+    <string name="screen_share_warning_title">"Notifications won't be displayed"</string>
     <string name="screenrecord_not_find">Instale a última versão do Gravador de Tela e tente novamente.</string>
     <string name="sd_eject">Ejetar cartão SD</string>
     <string name="sd_eject_summary">Ejete o cartão SD para removê-lo com segurança</string>
@@ -4832,6 +4908,8 @@ Retirar consentimento agora?"</string>
     <string name="storage_clear_cache_large">Liberar %s</string>
     <string name="storage_clear_more_tools">Mais ferramentas de limpeza</string>
     <string name="storage_clear_video">Limpar cache de vídeo</string>
+    <string name="storage_compact_warning">Adjusting multiple permissions</string>
+    <string name="storage_compact_warning_desc">"This app doesn't support adjusting permissions for photos, videos, audio, files, or documents individually."</string>
     <string name="storage_deepclean_entry">Limpeza profunda</string>
     <string name="storage_dialog_unmountable">"Este ^1 está corrompido.
 
@@ -4860,7 +4938,7 @@ Para usar este ^1 com este dispositivo, você precisa configurá-lo primeiro."</
     <string name="storage_item_doc_name">Documentos</string>
     <string name="storage_item_other_name">Outros</string>
     <string name="storage_item_picture_name">Imagens</string>
-    <string name="storage_item_system_data">Sistema</string>
+    <string name="storage_item_system_data">Arquivos do sistema</string>
     <string name="storage_item_system_name">Sistema</string>
     <string name="storage_item_video_name">Vídeos</string>
     <string name="storage_menu_mount">Montar</string>
@@ -5006,6 +5084,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="system_anti_fraud_dialog_message">Proteção Antifraude</string>
     <string name="system_anti_fraud_dialog_title">Aviso Antifraude</string>
     <string name="system_anti_fraud_dialog_title2">Aviso Antifraude</string>
+    <string name="system_anti_fraud_stayaway_from_risk">Avoid digital fraud</string>
     <string name="system_app">Apps do sistema</string>
     <string name="system_app_permission_instruction">Este app precisa das seguintes permissões para fornecer serviços básicos do sistema. O gerenciamento de permissões é restrito para este app, pois a alteração do status de permissão levará a anormalidades de operação do sistema.</string>
     <string name="system_application">App do sistema</string>

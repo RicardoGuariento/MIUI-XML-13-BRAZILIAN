@@ -576,6 +576,7 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
     <string name="allow_oaid_used">Usar a ID Virtual</string>
     <string name="allow_oaid_used_desc">A MIUI fornecerá a ID Virtual (OAID) aos apps instalados. Alguns recursos de recomendação pessoal podem não funcionar corretamente em decorrer disso.</string>
+    <string name="allow_ongoing_title">Allow permanent notifications</string>
     <string name="allow_overlay_description">Permite que este app seja sobreposto a outros apps que você esteja usando. Este app será capaz de ver ou alterar o que é exibido na tela.</string>
     <string name="allow_sound_title">Permitir som</string>
     <string name="allow_vibrate_title">Permitir vibração</string>
@@ -2077,6 +2078,7 @@ Isso afeta outros apps e conversas que têm permissão para usar bolhas."</strin
     <string name="captions_category_title">Legendas</string>
     <string name="capture_system_heap_dump_title">Capturar despejo de heap do sistema</string>
     <string name="capturing_system_heap_dump_message">Capturando despejo de heap do sistema</string>
+    <string name="card_holder_header_title">Carteira</string>
     <string name="card_main_hbassistant_title">Envelope vermelho;Pacote vermelho;Dinheiro</string>
     <string name="cards_passes_lower">cartões e passes</string>
     <string name="cards_passes_sentence">Cartões e passes</string>

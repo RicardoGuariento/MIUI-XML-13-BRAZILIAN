@@ -394,7 +394,9 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
     <string name="pause_download">Pausado</string>
     <string name="pause_upload">Pausado</string>
     <string name="permission_account_desc">Acessar todas as contas armazenadas neste dispositivo</string>
+    <string name="permission_account_desc_pad">Acessar todas as contas armazenadas neste dispositiv</string>
     <string name="permission_account_title">Contas</string>
+    <string name="permission_account_title_pad">Acessar contas</string>
     <string name="permission_accpeted">Permitido</string>
     <string name="permission_camera_desc">Tirar fotos e fazer vídeos</string>
     <string name="permission_camera_title">Câmera</string>
@@ -402,7 +404,9 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
     <string name="permission_phone_desc">Acessar o número de telefone e o status do dispositivo</string>
     <string name="permission_phone_title">Informação do dispositivo</string>
     <string name="permission_storage_desc">Acessar e salvar fotos e arquivos neste dispositivo</string>
+    <string name="permission_storage_desc_pad">Access photos and files on device</string>
     <string name="permission_storage_title">Armazenamento</string>
+    <string name="permission_storage_title_pad">Access storage</string>
     <string name="picker_bottom_btn_text">Enviar</string>
     <string name="picker_bottom_text_desc">"Enviar para "</string>
     <string name="picker_permission_failed">"Não foi possível conceder permissão. Este recurso não funcionará sem ela."</string>

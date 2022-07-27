@@ -299,6 +299,8 @@ O Mi Vídeo está pronto para uma atualização.
 Atualize o app agora para conferir os novos recursos!
 Equipe do Mi Vídeo"</string>
     <string name="description">Descrição</string>
+    <string name="desktop_widget_local_media">Media files</string>
+    <string name="desktop_widget_new">New</string>
     <string name="detail_select_source">Selecionar fonte de reprodução</string>
     <string name="diagnosis_log_send_failed">Não foi possível enviar os logs. Tente novamente.</string>
     <string name="diagnosis_log_sent_format">"Logs enviados com sucesso.
@@ -593,6 +595,7 @@ Envie este código para o supervisor."</string>
     <string name="galleryplus_notification_linkvideo_title4">Centenas de vídeos, grátis por tempo limitado</string>
     <string name="galleryplus_notification_linkvideo_title5">Assista a seus programas favoritos gratuitamente</string>
     <string name="galleryplus_notification_try_now_btn">Testar agora</string>
+    <string name="galleryplus_notification_type_link_video">Switching to local videos</string>
     <string name="galleryplus_online_cta">O Mi Vídeo precisa de uma conexão com a internet para funcionar normalmente. Aceitar?</string>
     <string name="galleryplus_online_cta_agree">Aceitar</string>
     <string name="galleryplus_online_cta_disagree">Não aceitar</string>
@@ -706,6 +709,7 @@ Esta operação não afetará as fotos da sua galeria."</string>
     <string name="incentive_exchange">Resgatar</string>
     <string name="incentive_exchange_code">Código</string>
     <string name="incentive_exchange_code_copy">Copiar</string>
+    <string name="incentive_exchange_code_copy_and_start">Use</string>
     <string name="incentive_exchange_details">Detalhes</string>
     <string name="incentive_exchange_details_current">Total do pedido</string>
     <string name="incentive_exchange_details_total">Saldo</string>
@@ -731,6 +735,9 @@ Esta operação não afetará as fotos da sua galeria."</string>
     <string name="incentive_task_title_novice">Para novatos</string>
     <string name="incentive_task_to_get">Iniciar</string>
     <string name="incentive_task_to_login">Fazer login</string>
+    <string name="incentive_toast_share_success_new">Shared successfully</string>
+    <string name="incentive_toast_subscribe_success_new">Subscribed successfully</string>
+    <string name="incentive_ui_tab_earn_credits">Points</string>
     <string name="incentive_view_all_prizes">Ver todas as recompensas</string>
     <string name="incentive_view_details">Detalhes</string>
     <string name="inconsistent_pwd">As senhas não conferem</string>
@@ -1160,6 +1167,7 @@ para uma melhor experiência de visualização"</string>
     <string name="notification_recall_desc">O Mi Vídeo pode notificá-lo sobre vídeos populares e suas inscrições.</string>
     <string name="notification_recall_title">Ativar notificações</string>
     <string name="notification_tool">Caixa de ferramentas</string>
+    <string name="notification_type_channel_music">Music playback</string>
     <string name="notify_apk_installed">Baixado com sucesso</string>
     <string name="off_tip_firework_recommend">Você não receberá recomendações personalizadas de conteúdos do Firework</string>
     <string name="offline_notification_text">Toque para abrir o anúncio</string>

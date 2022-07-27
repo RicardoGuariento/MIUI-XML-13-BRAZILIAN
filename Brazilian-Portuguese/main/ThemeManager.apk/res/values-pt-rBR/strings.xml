@@ -150,6 +150,7 @@
     <string name="classification_more_understand_you">Selecione sua categoria favorita</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
+    <string name="clock">Install Clock</string>
     <string name="close">Fechar</string>
     <string name="close_custom_permission_warning_text">Sem permissões de armazenamento, este app não será capaz de baixar itens e personalizar seu dispositivo. Desativar?</string>
     <string name="close_custom_permission_warning_text_above_eleven">Sem permissões de armazenamento, este app não poderá personalizar seu dispositivo. Desativar?</string>
@@ -496,6 +497,7 @@ Para desativar este recurso, vá em Configurações &gt; Som e vibração &gt; V
     <string name="incompatible_dialog_message">Este tema ainda não é totalmente compatível com esta versão da MIUI. Alguns itens podem não funcionar corretamente.</string>
     <string name="incompatible_dialog_ok">"OK"</string>
     <string name="incompatible_dialog_title">Problemas de compatibilidade</string>
+    <string name="install_clock">"You haven't installed Clock yet. Download now?"</string>
     <string name="install_failed">Não é possível instalar</string>
     <string name="is_setting_wallpaper_message">Definindo plano de fundo…</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>
@@ -1537,7 +1539,7 @@ Vá em Temas &gt; Perfil &gt; Laboratório de temas para mais recursos.</string>
     <string name="voice_input">Entrada de voz</string>
     <string name="wallpaper_24h">"24H"</string>
     <string name="wallpaper_apply">Aplicar</string>
-    <string name="wallpaper_apply_full">Tudo</string>
+    <string name="wallpaper_apply_full">Ambos</string>
     <string name="wallpaper_apply_inner">Aplicar à tela interna</string>
     <string name="wallpaper_apply_large">Tela interna</string>
     <string name="wallpaper_apply_outer">Aplicar à tela externa</string>

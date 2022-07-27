@@ -556,6 +556,7 @@
     <string name="midnight">"AM"</string>
     <string name="minus_one_screen">Assistente</string>
     <string name="miui_screen_config_title">Configurações da Tela inicial</string>
+    <string name="miui_widget_menu_replace_text">Switch</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>

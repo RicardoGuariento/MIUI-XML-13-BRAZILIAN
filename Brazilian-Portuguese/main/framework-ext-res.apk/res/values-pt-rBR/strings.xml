@@ -294,6 +294,7 @@
     <string name="onehour">30 minutos</string>
     <string name="open_close_tip_action">"OK"</string>
     <string name="open_close_tip_content">Para fechar a janela flutuante, pressione e segure a barra de ação e depois deslize para cima</string>
+    <string name="open_miui_optimization">Turn on MIUI optimization first</string>
     <string name="other_ime">Outros teclados</string>
     <string name="package_delete_confirm_step_1">Desinstalar %s?</string>
     <string name="package_delete_confirm_step_2">Desinstalar este app poderá causar instabilidade em seu sistema.</string>

@@ -82,6 +82,8 @@
     <string name="backup_hint_pad">Mantenha seu dispositivo ligado</string>
     <string name="backup_is_running">Fazendo o backup do dispositivo</string>
     <string name="backup_new">Novo:</string>
+    <string name="backup_notice_content">"Your backups won't be encrypted, which means that they might be accessed or tempered with by third party apps. Other security risks might also arise. Make sure you store backed up items in a well protected environment."</string>
+    <string name="backup_notice_title">Attention</string>
     <string name="backup_notification_title">\"Backup\" em progresso…</string>
     <string name="backup_progress">Fazendo backup…</string>
     <string name="backup_report">Ver detalhes</string>
@@ -357,7 +359,7 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="local_main_backup_time">Último backup: %1$s</string>
     <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
     <string name="local_main_encrypt_backup_summary">Criptografe os itens dos backups usando sua Conta Mi</string>
-    <string name="local_main_encrypt_backup_title">Criptografar backups</string>
+    <string name="local_main_encrypt_backup_title">Verifique a conta para restaurar itens</string>
     <string name="local_main_latest_backup_time_loading">Aguarde…</string>
     <string name="local_no_backup">Nenhum backup.</string>
     <string name="local_no_backup_data">Nenhum backup aqui ainda</string>

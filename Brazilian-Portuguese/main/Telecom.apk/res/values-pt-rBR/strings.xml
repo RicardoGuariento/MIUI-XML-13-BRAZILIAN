@@ -429,6 +429,7 @@ taxa de amostragem"</string>
     <string name="force_resizable_activities_summary">Tornar todas as atividades redimensionáveis para várias janelas, independentemente dos valores do manifesto.</string>
     <string name="force_rtl_layout_all_locales">Forçar layout da direita p/ esquerda</string>
     <string name="force_rtl_layout_all_locales_summary">Forçar a direção do layout da direita para a esquerda para todas as localidades</string>
+    <string name="fraud_toast_message">You can manage call forwarding in Settings</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>

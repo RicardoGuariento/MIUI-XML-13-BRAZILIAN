@@ -66,6 +66,7 @@
 ID da sua conta: %s"</string>
     <string name="account_token_expired_title">Não foi possível autenticar</string>
     <string name="account_user_avatar">Foto de perfil</string>
+    <string name="account_user_avatar_activity_not_found">"Couldn't open Gallery"</string>
     <string name="account_user_avatar_from_album">Selecionar foto</string>
     <string name="account_user_avatar_from_camera">Tirar foto</string>
     <string name="account_user_base_info">Informações pessoais</string>
@@ -124,6 +125,7 @@ Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="change_phone_number">Alterar número de telefone</string>
     <string name="character_counter_content_description">Excedeu o limite de %1$d caracteres em %2$d</string>
     <string name="check_apk_update">Verifique se há atualizações</string>
+    <string name="child_account_system_ad_disable_hint">This feature is not available for child accounts</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
     <string name="cloud_description_closed">Ocupado | Sincronização desativada</string>
