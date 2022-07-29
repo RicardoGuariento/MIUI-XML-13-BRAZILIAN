@@ -1228,7 +1228,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="old_app_action">Voltar para o app %1$s</string>
     <string name="older">Mais antigos</string>
     <string name="oneMonthDurationPast">1 mês atrás</string>
-    <string name="one_handed_mode_feature_name">Modo para uma mão</string>
+    <string name="one_handed_mode_feature_name">Modo para uma só mão</string>
     <string name="open_permission_deny">Você não tem permissão para abrir esta página.</string>
     <string name="orgTypeCustom">Personalizado</string>
     <string name="orgTypeOther">Outros</string>

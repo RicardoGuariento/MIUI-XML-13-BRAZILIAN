@@ -1735,7 +1735,7 @@ As chamadas de emergência apenas são possíveis em áreas com rede móvel"</st
     <string name="name">Nome</string>
     <string name="national_disable">Notícias nacionais desativadas</string>
     <string name="national_enable">Notícias nacionais ativadas</string>
-    <string name="netcheck_title">Diagnósticos de rede móvel</string>
+    <string name="netcheck_title">Diagnósticos de rede</string>
     <string name="network_4G">4G (recomendado)</string>
     <string name="network_4G_pure">4G</string>
     <string name="network_5G">5G</string>

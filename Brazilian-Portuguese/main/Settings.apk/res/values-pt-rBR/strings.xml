@@ -449,7 +449,7 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
     <string name="add_auto_startup_application">Adicionar apps</string>
     <string name="add_back_fingerprint_instruction_msg">Coloque seu dedo no sensor</string>
     <string name="add_broadcast_audio_source">Adicionar fonte de áudio de transmissão</string>
-    <string name="add_broadsize_fingerprint_instruction_msg">O sensor de impressão digital está localizado na borda da direita do seu dispositivo</string>
+    <string name="add_broadsize_fingerprint_instruction_msg">O sensor de impressão digital está localizado na borda direita do seu dispositivo</string>
     <string name="add_device_admin">Ativar o app administrador</string>
     <string name="add_device_admin_msg">Ativar app de administrador do dispositivo?</string>
     <string name="add_facerecoginition_text">Adicionar dados faciais</string>
@@ -4118,13 +4118,13 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="gxzw_quick_open_title" />
     <string name="gxzw_vibrate_summary">Vibrar enquanto a animação de desbloqueio de impressão digital é reproduzida</string>
     <string name="gxzw_vibrate_title">Vibrar ao desbloquear</string>
-    <string name="handy_mode">Modo para uma mão</string>
-    <string name="handy_mode_enable">Modo para uma mão</string>
+    <string name="handy_mode">Modo para uma só mão</string>
+    <string name="handy_mode_enable">Modo para uma só mão</string>
     <string name="handy_mode_hint">O modo para uma mão só está disponível na tela externa</string>
     <string name="handy_mode_no_touch_assistant">"O modo para uma mão só funcionará se você estiver usando botões para navegação do sistema. Você pode alternar entre gestos e botões na seção \"Navegação do sistema\" das configurações."</string>
     <string name="handy_mode_size">Tamanho da tela</string>
-    <string name="handy_mode_tips">Deslize para a esquerda ou direita à partir do botão Inicial para puxar a tela mais perto do lado deslizado.</string>
-    <string name="handy_mode_tips_full_screen">Quando você está usando os Gestos em Tela cheia, você pode ativar o Modo para uma mão usando o Menu de Acesso rápido. Você também pode voltar a usar os botões no lugar dos Gestos em Tela cheia.</string>
+    <string name="handy_mode_tips">Ative o Modo de uma só mão deslizando para a esquerda ou direita a partir do centro do painel de navegação.</string>
+    <string name="handy_mode_tips_full_screen">Ative o Modo de uma só mão deslizando para baixo a partir do indicador de Tela cheia. Este recurso não funcionará se o indicador estiver oculto.</string>
     <string name="haptic_agent_completion_01_content_description">Tarefa concluída</string>
     <string name="haptic_cursor_movement_07_content_description">Ajustando o brilho</string>
     <string name="haptic_experience">Demonstrações</string>
@@ -4866,7 +4866,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="location_services_screen_title">Serviços de localização</string>
     <string name="location_settings_footer_general">Apps com a permissão de dispositivos próximos podem determinar a posição relativa dos dispositivos conectados.</string>
     <string name="location_settings_footer_learn_more_content_description">Saiba mais sobre as configurações de localização.</string>
-    <string name="location_settings_footer_location_off">O acesso à localização está desativado para apps e serviços. O local do seu dispositivo ainda pode ser enviado para respondedores de emergência quando você ligar ou enviar um texto de um número de emergência.</string>
+    <string name="location_settings_footer_location_off">O acesso à localização está desativado para apps e serviços. A localização do seu dispositivo ainda pode ser enviada para as equipes de emergência quando você ligar ou enviar uma mensagem de texto para um número de emergência.</string>
     <string name="location_settings_loading_app_permission_stats">Carregando…</string>
     <string name="location_settings_master_switch_title">Usar local</string>
     <string name="location_settings_primary_switch_title">Usar localização</string>
@@ -6534,7 +6534,7 @@ Isso também autoriza o app a ativar ou desativar o modo \"Não perturbe\" e alt
     <string name="one_handed_mode_intro_text">Para usar o modo para uma mão, deslize para baixo da borda inferior da tela. Para usar esse recurso, certifique-se de que a navegação de gestos seja ativada nas configurações de navegação do sistema.</string>
     <string name="one_handed_mode_swipe_down_category">Deslize para baixo para</string>
     <string name="one_handed_mode_use_shortcut_category">Use o atalho para</string>
-    <string name="one_handed_title">Modo para uma mão</string>
+    <string name="one_handed_title">Modo para uma só mão</string>
     <string name="one_key_migrate_record">Transferir para %1$s</string>
     <string name="one_usercrt">um certificado de usuário</string>
     <string name="one_userkey">uma chave de usuário</string>
@@ -7806,7 +7806,7 @@ Para usar a fixação de apps: \u0009
     <string name="search_gesture_wakeup_title">Dois toques na tela para ligá-la;Dois toques para ligar tela;Ligar tela;Dois toques na tela;Dois toques</string>
     <string name="search_gmscore_settings_title">Google;Serviços básicos do Google;GMS;Gmail</string>
     <string name="search_gps">GPS;Acesso à localização;Serviços de localização</string>
-    <string name="search_handy_mode">Modo para uma mão;Modo para uma mão;Uma mão;Mãos pequenas</string>
+    <string name="search_handy_mode">Modo para uma só mão;Modo para uma só mão;Uma mão;Mãos pequenas</string>
     <string name="search_hint">Pesquisar nas Configurações</string>
     <string name="search_home_key">Início;Botão Início;Botão inicio</string>
     <string name="search_input_hint">Pesquisar nas Configurações</string>
@@ -8649,7 +8649,7 @@ Para enviar mensagens de texto para contatos de emergência
 • Acesso à localização
 Para compartilhar sua localização com contatos de emergência
 Se você não concordar em conceder tais permissões ou compartilhar e enviar suas informações pessoais, você não poderá usar este app. Você pode optar por desativar ou não usar o SOS de emergência nestes casos.
-Antes de usar nossos serviços, leia e aceita a nossa %s."</string>
+Antes de usar nossos serviços, leia e aceite a nossa %s."</string>
     <string name="sos_privacy_dialog_message_old_version">"O SOS de emergência permite que você compartilhe sua localização em tempo real e envie mensagens de texto para seus contatos de emergência.
 Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.
 Observe que este app precisa se conectar à Internet e requer as seguintes permissões para coletar suas informações pessoais:
@@ -8662,7 +8662,7 @@ Para enviar mensagens de texto para contatos de emergência
 • Acessar localização
 Para compartilhar sua localização com contatos de emergência
 Se você não concordar em conceder tais permissões ou compartilhar e enviar suas informações pessoais, não poderá usar este app. Você pode optar por desativar ou não usar o SOS de emergência nesses casos.
-Antes de usar nossos serviços, leia e aceita a nossa %s."</string>
+Antes de usar nossos serviços, leia e aceite a nossa %s."</string>
     <string name="sos_privacy_dialog_title">Termos e Condições</string>
     <string name="sos_privacy_policy">Política de Privacidade</string>
     <string name="sos_privacy_policy_change_endtitle">Leia e concorde com a nova versão do %s antes de continuar.</string>

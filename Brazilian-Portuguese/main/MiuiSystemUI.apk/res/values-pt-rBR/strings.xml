@@ -2012,7 +2012,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="oem_unlock_enable_summary">Permitir que o bootloader seja desbloqueado</string>
     <string name="okay">"OK"</string>
     <string name="one_handed_tutorial_description">Para sair, deslize de baixo para cima na tela ou toque em qualquer lugar acima do app</string>
-    <string name="one_handed_tutorial_title">Usando o Modo para uma mão</string>
+    <string name="one_handed_tutorial_title">Usando o Modo para uma só mão</string>
     <string name="one_week_timestamp">1 semana atrás</string>
     <string name="ongoing_phone_call_content_description">Chamada em andamento</string>
     <string name="ongoing_privacy_chip_content_multiple_apps">Os apps estão usando o seu %s.</string>

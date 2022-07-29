@@ -191,10 +191,10 @@
     <string name="handset_text_usb_handset_insert">Toque para abrir as configurações adicionais</string>
     <string name="handset_title_unsupported_handset_insert">Adaptadores de fone de ouvido USB não são suportados</string>
     <string name="handset_title_usb_handset_insert">Reproduzindo som através do USB</string>
-    <string name="handy_mode_enter_dlg_msg">Entrar no Modo para uma mão?</string>
-    <string name="handy_mode_enter_dlg_title">Entrar no Modo para uma mão</string>
+    <string name="handy_mode_enter_dlg_msg">Entrar no Modo para uma só mão?</string>
+    <string name="handy_mode_enter_dlg_title">Entrar no Modo para uma só mão</string>
     <string name="handy_mode_summary">Para fechar, toque na área escurecida</string>
-    <string name="handy_mode_title">Modo para uma mão</string>
+    <string name="handy_mode_title">Modo para uma só mão</string>
     <string name="harp">Harpa</string>
     <string name="hawaii">Havaí</string>
     <string name="help">Não encontrou dispositivos?</string>

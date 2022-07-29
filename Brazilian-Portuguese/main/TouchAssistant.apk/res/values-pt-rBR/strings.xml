@@ -97,7 +97,7 @@
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="function_settings">Configuração dos atalhos</string>
-    <string name="handy_mode_default_to_close_whether_open">O Modo para uma mão está desativado por padrão. Ativar o Modo para uma mão?</string>
+    <string name="handy_mode_default_to_close_whether_open">O Modo para uma só mão está desativado por padrão. Ativar o Modo para uma só mão?</string>
     <string name="hide_touch_assistant">Ocultar automaticamente</string>
     <string name="hide_touch_assistant_intro">Oculta o Acesso rápido nos apps selecionados.</string>
     <string name="hide_when_fullscreen">Ocultar em tela cheia</string>
@@ -176,7 +176,7 @@
     <string name="name_alipay_payment_code">Pagamentos Alipay</string>
     <string name="name_alipay_scan">Digitalizar código Alipay</string>
     <string name="name_all_mipay_cards">Mi Pay</string>
-    <string name="name_handy_mode">Modo para uma mão</string>
+    <string name="name_handy_mode">Modo para uma só mão</string>
     <string name="name_long_press_power_key">Pressionar e segurar botão Liga/Desliga</string>
     <string name="name_memory_clean">Limpar cache</string>
     <string name="name_mi_wallet">Carteira Mi</string>

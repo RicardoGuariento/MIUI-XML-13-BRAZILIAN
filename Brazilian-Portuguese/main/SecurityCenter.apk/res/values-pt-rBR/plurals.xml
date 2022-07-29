@@ -31,7 +31,7 @@
     </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">Jogos adicionados: %d</item>
-        <item quantity="one">%d jogo adicionado</item>
+        <item quantity="one">Jogo adicionado: %d</item>
     </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">"%d apps"</item>
@@ -418,8 +418,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">em 1 minuto</item>
     </plurals>
     <plurals name="install_game_count_title">
-        <item quantity="other">%d jogos adicionados</item>
-        <item quantity="one">%d jogo adicionado</item>
+        <item quantity="other">Jogos adicionados: %d</item>
+        <item quantity="one">Jogo adicionado: %d</item>
     </plurals>
     <plurals name="intl_perm_privacy_control_message_count">
         <item quantity="other">Você pode proteger %d itens</item>

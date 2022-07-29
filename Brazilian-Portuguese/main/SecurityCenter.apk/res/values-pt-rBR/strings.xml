@@ -309,7 +309,7 @@
     <string name="app_behavior_desc_other_perm_allowed">Última atividade: %s</string>
     <string name="app_behavior_desc_other_perm_denied">Atividade nas últimas %d horas</string>
     <string name="app_behavior_desc_virtual_once">Mensagem em branco retornada às %1$s</string>
-    <string name="app_behavior_door">Comportamento do app</string>
+    <string name="app_behavior_door">Status do app</string>
     <string name="app_behavior_get_install">%1s acessou a lista dos seus apps</string>
     <string name="app_behavior_get_install_single">Este app acessou a lista dos seus apps</string>
     <string name="app_behavior_global_settings_perm_tips">Receba um alerta na barra de status quando os apps gravarem áudio ou usarem a câmera</string>
@@ -329,7 +329,7 @@
     <string name="app_behavior_media_volume_bg">%1s ajustou o volume de mídia em 2º plano</string>
     <string name="app_behavior_media_volume_bg_single">Este app ajustou o volume de mídia em 2º plano</string>
     <string name="app_behavior_media_volume_single">Este app ajustou o volume de mídia</string>
-    <string name="app_behavior_menu_about">Sobre o registro de comportamento de apps</string>
+    <string name="app_behavior_menu_about">Sobre o registro de status dos apps</string>
     <string name="app_behavior_monitor_off">Desativando notificações</string>
     <string name="app_behavior_monitor_off_content">Você não poderá receber notificações sobre ações sensíveis executadas por este app. Desativar as notificações mesmo assim?</string>
     <string name="app_behavior_monitor_off_positive">Desativar</string>
@@ -2513,7 +2513,7 @@ para se juntar à nossa caça ao ovo!"</string>
     <string name="image_protect_ensure_del_pic">Excluir</string>
     <string name="image_protect_exit_and_del">Excluir</string>
     <string name="image_protect_intercept_can_recover_tips">Esta ação foi bloqueada. Você pode escolher excluir ou restaurar as imagens.</string>
-    <string name="image_protect_intercept_tips">Toque para gerenciar o comportamento do app</string>
+    <string name="image_protect_intercept_tips">Toque para gerenciar o status do app</string>
     <string name="image_protect_no_data">Não há itens aqui</string>
     <string name="image_protect_recover_del_pic">Restaurar</string>
     <string name="image_protect_recover_success">Restaurado com sucesso</string>
@@ -3996,7 +3996,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_empty_location">Nenhum app acessou a localização hoje</string>
     <string name="privacy_empty_record">Nenhuma gravação de áudio hoje</string>
     <string name="privacy_empty_storage">Nenhum app acessou o armazenamento hoje</string>
-    <string name="privacy_flares_behavior_recent">Comportamento do app</string>
+    <string name="privacy_flares_behavior_recent">Status do app</string>
     <string name="privacy_flares_capsule_current">%1s | Agora</string>
     <string name="privacy_flares_capsule_recent">%1s | Recentemente</string>
     <string name="privacy_flares_current">Ação atual</string>
@@ -4135,7 +4135,7 @@ Retirar consentimento agora?"</string>
     <string name="privacy_risk_result_protection">Proteção de privacidade</string>
     <string name="privacy_risk_result_screen_fuzzy">Desfocar prévias de apps</string>
     <string name="privacy_risk_result_screen_fuzzy_msg">Desfocar prévias de apps sensíveis que são exibidos nos Recentes</string>
-    <string name="privacy_risk_result_set_btn">Configurações</string>
+    <string name="privacy_risk_result_set_btn">Configurar</string>
     <string name="privacy_risk_result_success_empty_msg">Tudo parece bem!</string>
     <string name="privacy_risk_result_success_msg">Todos os problemas foram corrigidos!</string>
     <string name="privacy_risk_result_uninstall_btn">Desinstalar</string>
@@ -4382,7 +4382,7 @@ Retirar consentimento agora?"</string>
     <string name="securityadd_update_tips_now">Atualizar</string>
     <string name="securityadd_update_tips_title">Atualizar</string>
     <string name="securitycenter_tab_title">Segurança</string>
-    <string name="see_all_app_behavior_record">Ver o comportamento de todos os apps</string>
+    <string name="see_all_app_behavior_record">Ver o status de todos os apps</string>
     <string name="see_detail">Detalhes</string>
     <string name="see_more_content">Atualize o Mi Games para ver mais destaques</string>
     <string name="select_app_title_default">Abra o app</string>
