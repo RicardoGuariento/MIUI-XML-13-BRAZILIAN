@@ -8249,7 +8249,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="set_shoulder_key_shortcut_negative_button" />
     <string name="set_shoulder_key_shortcut_positive_button" />
     <string name="set_shoulder_key_shortcut_title" />
-    <string name="setting_privacy_password">Definir Senha de proteção de privacidade</string>
+    <string name="setting_privacy_password">Defina uma Senha de proteção de privacidade</string>
     <string name="settings_ad_loading">Carregando…</string>
     <string name="settings_ad_loading_unavailable">Não foi possível carregar as informações.</string>
     <string name="settings_backup">Fazer backup das configurações</string>

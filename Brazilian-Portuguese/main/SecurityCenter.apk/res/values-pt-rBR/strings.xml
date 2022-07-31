@@ -3400,7 +3400,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_dont_disturb">Esta permissão permite que os apps ativem e desativem o modo Não perturbe.</string>
     <string name="permission_instruction_draw_overlay">Esta permissão permite que os apps exibam janelas flutuantes sobre qualquer outra interface em seu dispositivo, o que pode afetar o uso normal de outros apps. Apps maliciosos podem usar esta permissão para ler ou coletar informações pessoais (por exemplo, senhas) através de janelas flutuantes transparentes.</string>
     <string name="permission_instruction_external_storage">Esta permissão permite que apps acessem fotos, mídias e arquivos em seu dispositivo. Tenha cuidado com esta permissão para evitar divulgação desnecessária de informações pessoais.</string>
-    <string name="permission_instruction_gallery">Se você permitir que os apps acessem arquivos em suas próprias pastas, para proteger sua privacidade a MIUI permite que você decida se também deseja que esses apps acessem os itens em sua Galeria. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
+    <string name="permission_instruction_gallery">Se você permitir que os apps acessem arquivos em suas próprias pastas, a MIUI para proteger sua privacidade permite que você decida se também deseja que esses apps acessem os itens em sua Galeria. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
     <string name="permission_instruction_get_accounts">Esta permissão permite aos apps acessar a lista de contas armazenadas em seu dispositivo. Esta lista pode conter todas as suas contas pessoais criadas pelos apps instalados, assim como as contas de plataformas de mídia social e ferramentas de comunicação.</string>
     <string name="permission_instruction_install_shortcuts">Esta permissão permite que os apps criem atalhos para a Tela inicial.</string>
     <string name="permission_instruction_install_unknown_source">Esta permissão permite que os apps instalem outros apps em seu dispositivo. Apps maliciosos usam esta permissão para instalar apps sem sua confirmação.</string>
@@ -3788,7 +3788,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_fuzzy_positioning">Precisão de localização mais baixa</string>
     <string name="pp_fuzzy_positioning_detail">Diminuir a precisão de localização e permitir que apps acessem informações de localização menos precisas</string>
     <string name="pp_grant_permission_only_during_app_use">Permitir que apps usem permissões apenas durante a sua utilização</string>
-    <string name="pp_grant_permission_only_during_app_use_detail">Para impedir que um app use permissões em segundo plano, você pode permitir o uso das permissões relacionadas à localização, gravação de áudio e contatos apenas enquanto estiver usando o app</string>
+    <string name="pp_grant_permission_only_during_app_use_detail">Para impedir que um app use permissões em segundo plano, você pode permitir o uso das permissões relacionadas à localização, gravação de áudio e contatos apenas enquanto o app estiver em uso</string>
     <string name="pp_hide_app">Ocultar apps</string>
     <string name="pp_hide_app_form_desktop">Remove os ícones dos apps da Tela inicial</string>
     <string name="pp_icon_layout_status_bg_content_enable">Protegido</string>
@@ -3813,7 +3813,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_privacy_lab_blur_location">Localização aproximada</string>
     <string name="pp_privacy_lab_blur_location_summary">Permite que os apps acessem sua localização aproximada ao invés da real</string>
     <string name="pp_privacy_lab_clipboard">Proteger a área de transferência</string>
-    <string name="pp_privacy_lab_clipboard_summary">Permitir que a MIUI decida se um app pode acessar a área de transferência e receber notificações quando isso acontecer</string>
+    <string name="pp_privacy_lab_clipboard_summary">Permite que a MIUI decida se um app pode acessar a área de transferência e receber notificações quando isso acontecer</string>
     <string name="pp_privacy_lab_operator_get_number">Necessário aprovação para acessar o número de telefone</string>
     <string name="pp_privacy_lab_operator_get_number_summary">Exige que os apps solicitem sua permissão quando quiserem acessar seu número de telefone para fazer login</string>
     <string name="pp_privacy_lab_operator_introduction">Atenção</string>
