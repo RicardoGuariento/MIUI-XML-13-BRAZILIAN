@@ -82,7 +82,7 @@
     <string name="backup_hint_pad">Mantenha seu dispositivo ligado</string>
     <string name="backup_is_running">Fazendo o backup do dispositivo</string>
     <string name="backup_new">Novo:</string>
-    <string name="backup_notice_content">"Your backups won't be encrypted, which means that they might be accessed or tempered with by third party apps. Other security risks might also arise. Make sure you store backed up items in a well protected environment."</string>
+    <string name="backup_notice_content">"Your backups won't be encrypted, which means that they might be accessed or tampered with by third party apps. Other security risks might also arise. Make sure you store backed up items in a well protected environment."</string>
     <string name="backup_notice_title">Attention</string>
     <string name="backup_notification_title">\"Backup\" em progresso…</string>
     <string name="backup_progress">Fazendo backup…</string>
@@ -112,6 +112,8 @@
     <string name="cancel_moving_dialog_message">Parar a importação agora?</string>
     <string name="cancel_moving_dialog_title">Parar importação</string>
     <string name="cancel_restore">Parar</string>
+    <string name="category_contacts">Contacts</string>
+    <string name="category_message_contacts">Messaging and Contacts</string>
     <string name="check_privacy_policy">Ver Política de Privacidade</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="click_soft_ap_to_link">Selecione um ponto de acesso para conectar</string>
@@ -588,6 +590,8 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="permission_read_storage_global">Acessar o armazenamento</string>
     <string name="permission_read_write_storage">Para poder fazer backup de itens, permita que esse recurso acesse o armazenamento primeiro.</string>
     <string name="permission_read_write_sys_app">Para poder fazer backup e restaurar mensagens, contatos e histórico de chamadas, permita que esse recurso acesse esses itens primeiro.</string>
+    <string name="permission_read_write_sys_app1">Allow this feature to access your messages and contacts to be able to back up and restore these items.</string>
+    <string name="permission_read_write_sys_app2">Allow this feature to access your contacts to be able to back up and restore these items.</string>
     <string name="permission_related">Permissões</string>
     <string name="permission_restore_calendar">Para restaurar eventos de calendário</string>
     <string name="permission_restore_calendar_desc">Para ser capaz de restaurar eventos de calendário, permita que este app edite primeiro seus eventos de calendário.</string>

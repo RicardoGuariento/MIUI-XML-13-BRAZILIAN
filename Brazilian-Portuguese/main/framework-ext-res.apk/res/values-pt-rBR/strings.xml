@@ -201,6 +201,9 @@
     <string name="help_content">Se você não encontrar o dispositivo que está procurando, peça que a outra pessoa ative o Compartilhamento Mi.</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
+    <string name="hs_guide_dialog_button_confirm">Got it</string>
+    <string name="hs_guide_dialog_message">"This app hasn't been optimized for the new landscape mode yet. Switched to a different compatible layout instead."</string>
+    <string name="hs_guide_dialog_title">Atenção!</string>
     <string name="icelatte">Café com leite</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Posicione seu dedo no botão Início</string>
     <string name="incomingmessage">Mensagem de entrada</string>

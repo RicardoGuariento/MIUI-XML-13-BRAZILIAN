@@ -231,6 +231,9 @@
     <string name="gb_pannel_control_mode_high_quality">Alta qualidade</string>
     <string name="gb_pannel_control_mode_normal">Padrão</string>
     <string name="gb_pannel_control_mode_power_saving">Economize energia</string>
+    <string name="gb_webwindow_schemedialog_accept">Open</string>
+    <string name="gb_webwindow_schemedialog_cancel">Cancel</string>
+    <string name="gb_webwindow_schemedialog_title">Open Games now?</string>
     <string name="gb_weixinpay_can_not_complete">Não é possível concluir o pagamento. Instale para continuar.</string>
     <string name="gdpr_msg"><Data>Para usar os recursos básicos do app Segurança, você deve concordar que a Xiaomi coletará, processará e usará seus dados pessoais, incluindo informações sobre as maneiras como você usa os recursos do app Segurança (ex.: estatísticas de uso de dados móveis, informações sobre malwares, bem como informações básicas sobre o seu dispositivo) e outros tipos de informações especificadas em nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a>.</Data></string>
     <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Booster Xunyou. Este serviço irá coletar o sua ID da Conta Mi para registrar a duração da sua adesão."</string>
@@ -363,6 +366,8 @@
     <string name="pc_activity_title">Otimizar bateria</string>
     <string name="pm">"PM"</string>
     <string name="pm_lable_name">Sobre o acesso root</string>
+    <string name="power_center_battery_duration_screen_on">Screen time remaining</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s of screen time remaining</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="privacy_declare_dialog_title">Termos de Serviço</string>
     <string name="privacy_prompt_traffic_purchase_message">Seu número de telefone e detalhes da operadora serão criptografados e enviados para os servidores da Mi para obtermos mais informações de opções de compra de dados.</string>

@@ -59,6 +59,8 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
+    <string name="device_list_all">Todos os dispositivos</string>
+    <string name="device_list_more">Mais</string>
     <string name="device_offline">O outro dispositivo está offline. Recomeçar.</string>
     <string name="device_status_failed">"Não foi possível enviar"</string>
     <string name="device_status_sending">Enviando…</string>
@@ -121,10 +123,15 @@
     <string name="functions_are_being_developed">Esse recurso estará disponível em breve. Fique ligado!</string>
     <string name="garbage_count">Existem %1$s instâncias antigas</string>
     <string name="global_main_purpose">Bem-vindo ao Editor de Capturas de Tela! Você pode usar este app para cortar e editar suas capturas de tela. Este app precisa se conectar à internet para poder funcionar normalmente.</string>
+    <string name="global_pad">Meu tablet</string>
+    <string name="global_pc">Meu laptop</string>
+    <string name="global_phone">Meu telefone</string>
     <string name="help">"Não consegue encontrar dispositivos?"</string>
     <string name="help_content">"Se você não encontrar o dispositivo de que precisa, peça à outra pessoa para ativar o Compartilhamento Mi."</string>
     <string name="image_decode_failed">"Não foi possível decodificar a imagem"</string>
     <string name="image_not_found">"Não foi possível encontrar a imagem"</string>
+    <string name="lenovo">"Lenovo"</string>
+    <string name="lenovo_phone">"Lenovo"</string>
     <string name="loading_text_format" formatted="false">Removendo informações privadas das fotos (%d/%d)…</string>
     <string name="long_screenshot_error">Um erro ocorreu. Tente novamente.</string>
     <string name="long_screenshot_guide_text">"Toque para fazer
@@ -139,6 +146,9 @@ uma captura de tela estendida"</string>
     <string name="long_screenshot_top_msg_manual">Corte a captura de tela e toque no botão para finalizar</string>
     <string name="main_save_error_msg">"Não foi possível salvar as alterações devido a um erro"</string>
     <string name="memory_leak">Vazamento de memória</string>
+    <string name="mi_pad_5">Mi Pad 5</string>
+    <string name="mi_pad_5_pro">Mi Pad 5 Pro</string>
+    <string name="mi_pad_5_pro_5g">Mi Pad 5 Pro 5G</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -213,6 +223,7 @@ uma captura de tela estendida"</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não configurado</string>
     <string name="notification_channel_alerts">Alertas</string>
+    <string name="pad_device_model_name">Mi Pad</string>
     <string name="partial_screenshot_edit">Editar</string>
     <string name="partial_screenshot_failed_to_capture_title">Este app não permite captura de tela</string>
     <string name="partial_screenshot_failed_to_save_title">Não foi possível salvar. Não há espaço de armazenamento suficiente.</string>
@@ -386,5 +397,19 @@ uma captura de tela estendida"</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
+    <string name="xiaomi_11_lite">Mi 11 Lite 5G</string>
+    <string name="xiaomi_11_lite_ne">Mi 11 Lite 5G NE</string>
+    <string name="xiaomi_11_pro">Mi 11 Pro</string>
+    <string name="xiaomi_11_ultra">Mi 11 Ultra</string>
+    <string name="xiaomi_12">Mi 12</string>
+    <string name="xiaomi_12_pro">Mi 12 Pro</string>
+    <string name="xiaomi_12x">Mi 12X</string>
+    <string name="xiaomi_civi">Xiaomi Civi</string>
+    <string name="xiaomi_mix_4">Mi MIX 4</string>
+    <string name="xiaomi_mix_fold">Mi MIX FOLD</string>
+    <string name="xiaomi_poco_f2_pro">POCO F2 Pro</string>
+    <string name="xiaomi_poco_f3">POCO F3</string>
+    <string name="xiaomi_poco_f3_gt">POCO F3 GT</string>
+    <string name="xiaomi_poco_x3_gt">POCO X3 GT</string>
     <string name="yesterday">Ontem</string>
 </resources>

@@ -553,6 +553,7 @@ para mostrar widgets."</string>
     <string name="pa_shopping_page_product_delete_dialog_message">Excluir %d itens selecionados agora?</string>
     <string name="pa_shopping_page_product_delete_error">Um erro ocorreu. Verifique suas configurações de rede e tente novamente.</string>
     <string name="pa_shopping_page_product_item_icon_tag">Recomendado</string>
+    <string name="pa_shopping_page_product_item_icon_tag_new">Recomendado</string>
     <string name="pa_shopping_page_product_jump_setting_error">Um erro ocorreu. Verifique suas configurações de rede e tente novamente.</string>
     <string name="pa_shopping_page_setting_source_desc">Obtenha descontos e ofertas em produtos</string>
     <string name="pa_shopping_page_setting_statement">Disclaimer</string>
@@ -563,6 +564,7 @@ para mostrar widgets."</string>
     <string name="pa_shopping_widget_empty_content_desc">Nada aqui ainda</string>
     <string name="pa_shopping_widget_full_bottom_desc">Todos os produtos</string>
     <string name="pa_shopping_widget_full_title_desc">Economize %s CNY nestes</string>
+    <string name="pa_shopping_widget_full_title_desc_new">Economize %s CNY nestes</string>
     <string name="pa_shopping_widget_no_cta_content_desc">Toque para conceder permissões para usar o Shopping</string>
     <string name="pa_shopping_widget_no_network_content_desc">"Não foi possível conectar à rede"</string>
     <string name="pa_shopping_widget_no_privacy_content_desc">Agree to the Shopping Privacy Policy to be able to use this feature. Tap to view.</string>

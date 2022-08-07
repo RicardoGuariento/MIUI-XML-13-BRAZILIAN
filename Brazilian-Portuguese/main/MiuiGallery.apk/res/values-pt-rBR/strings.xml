@@ -237,6 +237,9 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="assistant_page_discovery">Descubra</string>
     <string name="assistant_page_label">Memórias</string>
     <string name="assistant_page_server_error">Verifique suas configurações de rede</string>
+    <string name="assistant_today_of_year_function_closed_tip">Turn on</string>
+    <string name="assistant_today_of_year_function_no_address_tip">Back in time</string>
+    <string name="assistant_today_of_year_function_no_photo_tip">Start</string>
     <string name="associate_face_album">Escolha um álbum</string>
     <string name="asus">"Asus"</string>
     <string name="asus_phone">"Asus"</string>
@@ -608,6 +611,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="crop_label">Fotos cortadas</string>
     <string name="cta_agreement_declare"><Data>Para compreender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este app.</Data></string>
     <string name="cta_network_declare">Para sincronizar fotos e vídeos com nuvem, este app precisa se conectar à internet.</string>
+    <string name="cta_screenthrow_declare">"To be able to cast this device's screen to external monitors, this app needs to connect to the internet."</string>
     <string name="custom_select_title_deselect_all">Desmarcar</string>
     <string name="custom_select_title_quickly_share">Compartilhar</string>
     <string name="custom_select_title_select_all">Selecionar tudo</string>
@@ -853,6 +857,7 @@ Tire mais fotos de seus amigos!"</string>
     <string name="face_recommend">Recomendações</string>
     <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Não foi possível concluir a operação</string>
+    <string name="fail_reason_migrate">Processing items… Wait a minute or two and try again.</string>
     <string name="fail_to_pick_email">Endereço de e-mail inválido</string>
     <string name="fail_to_sync_album">Não foi possível sincronizar o álbum. Verifique sua conexão de dados e tente novamente.</string>
     <string name="family_member_invitation_text">Outro membro familiar</string>
@@ -1176,6 +1181,8 @@ estão disponíveis"</string>
     <string name="home_page_empty_action">Tirar uma foto</string>
     <string name="home_page_empty_action_new">Importar do dispositivo antigo</string>
     <string name="home_page_label">Fotos</string>
+    <string name="home_sdcard_op_tip_msg">"Couldn't complete this action for all selected images. Unmount and mount your SD card again."</string>
+    <string name="home_sdcard_tip_msg">Looks like your SD card is read-only. Unmount and mount it again in Settings > About phone > Storage.</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Pular</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">"OK"</string>
     <string name="homepage_allphotos_tip_dialog_description_all">Tudo</string>
@@ -1697,6 +1704,8 @@ para personalizar a Galeria"</string>
     <string name="ocr_save_to_note">Salvar</string>
     <string name="ocr_save_to_note_new">Salvar em Notas</string>
     <string name="ocr_send">Compartilhar</string>
+    <string name="ocr_switch_hint">Recognize text displayed on images to be able to select it or take action</string>
+    <string name="ocr_switch_title">Recognize text on images</string>
     <string name="ocr_text_copied">Copiado com sucesso</string>
     <string name="ocr_text_copied_selected">Copiado com sucesso</string>
     <string name="ocr_text_link">"URL"</string>
@@ -2080,7 +2089,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="projection_cancel">Cancelar</string>
     <string name="projection_checkbox_text">Lembrar desta tela</string>
     <string name="projection_device_connection_failed">Não foi possível conectar-se ao projetor</string>
-    <string name="projection_local_mobile">Este telefone</string>
+    <string name="projection_local_mobile">Este dispositivo</string>
     <string name="projection_multi_title">Dispositivos</string>
     <string name="projection_screen_project_in_screening">Você está usando seu dispositivo para transmissão agora</string>
     <string name="projection_single_title">Transmitir para %s</string>

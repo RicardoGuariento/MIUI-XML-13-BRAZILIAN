@@ -4116,7 +4116,7 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="gxzw_quick_open_slow_summary">Pressione e segure o ícone de impressão digital para abrir o menu de atalho. Deslize para usar um atalho.</string>
     <string name="gxzw_quick_open_slow_title">pressione e segure</string>
     <string name="gxzw_quick_open_title" />
-    <string name="gxzw_vibrate_summary">Vibrar enquanto a animação de desbloqueio de impressão digital é reproduzida</string>
+    <string name="gxzw_vibrate_summary">A vibração não ocorrerá quando nenhuma animação de impressão digital for selecionada</string>
     <string name="gxzw_vibrate_title">Vibrar ao desbloquear</string>
     <string name="handy_mode">Modo para uma só mão</string>
     <string name="handy_mode_enable">Modo para uma só mão</string>
@@ -5609,6 +5609,7 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_ok_device">"OK"</string>
     <string name="miheadset_openAnc">Cancelamento de ruído</string>
     <string name="miheadset_openAnc2">Cancelamento de ruído</string>
+    <string name="miheadset_open_closeAnc">Cancelamento de ruído ativar/desativar</string>
     <string name="miheadset_play_pause">Reproduzir/Pausar</string>
     <string name="miheadset_plus">Volume +</string>
     <string name="miheadset_preferences">Preferências</string>

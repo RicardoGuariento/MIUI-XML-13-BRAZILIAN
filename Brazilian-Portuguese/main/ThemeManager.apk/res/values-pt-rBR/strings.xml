@@ -499,6 +499,8 @@ Para desativar este recurso, vá em Configurações &gt; Som e vibração &gt; V
     <string name="incompatible_dialog_title">Problemas de compatibilidade</string>
     <string name="install_clock">"You haven't installed Clock yet. Download now?"</string>
     <string name="install_failed">Não é possível instalar</string>
+    <string name="install_gallery_content">"You haven't installed Gallery yet. Download now?"</string>
+    <string name="install_gallery_title">Install Gallery</string>
     <string name="is_setting_wallpaper_message">Definindo plano de fundo…</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>
     <string name="item_resource_audio_optional_color_ring">Tom de chamada</string>

@@ -33,6 +33,7 @@
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="add_custom_image">Imagem personalizada</string>
     <string name="add_from_album">Adicionar da Galeria</string>
+    <string name="add_from_local">Selecione a imagem</string>
     <string name="afternoon">"PM"</string>
     <string name="align_center_horizontally">Horizontal e centralizado</string>
     <string name="align_center_vertically">Empilhado e centralizado</string>

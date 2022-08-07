@@ -111,6 +111,7 @@
     <string name="card_vote_item_vs">"VS"</string>
     <string name="change_alert">Verifique sua conexão de rede e tente novamente</string>
     <string name="city_exceeded_warning">Não é possível adicionar mais cidades. Para adicionar uma nova, exclua uma cidade que já está na lista primeiro.</string>
+    <string name="clear_net_mock_success">Net mock clear success</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
     <string name="common_google_play_services_enable_button">Ativar</string>
@@ -278,7 +279,12 @@
     <string name="indices_title_chance_of_rain">Probabilidade de chuva</string>
     <string name="indices_title_feel">Sensação</string>
     <string name="indices_title_pressure">Pressão</string>
+    <string name="indices_title_uv">"UV"</string>
     <string name="indices_title_wind_speed">Velocidade do vento</string>
+    <string name="indices_wind_direction_east">"L"</string>
+    <string name="indices_wind_direction_north">"N"</string>
+    <string name="indices_wind_direction_south">"S"</string>
+    <string name="indices_wind_direction_west">"O"</string>
     <string name="information_settings_title">Informação do clima</string>
     <string name="international_details_chance_of_rain">POSSIBILIDADE DE CHUVA</string>
     <string name="international_details_humidity">HUMIDADE</string>
@@ -442,6 +448,8 @@
     <string name="send">Enviar</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
+    <string name="setting_notification_manager">Notificações</string>
+    <string name="setting_used_to_push_reminder">Receba alertas e avisos meteorológicos</string>
     <string name="settings">Configurações</string>
     <string name="settings_atmospheric_pressure_atm">Atmosfera padrão (atm)</string>
     <string name="settings_atmospheric_pressure_hpa">Hectopascal (hPa)</string>

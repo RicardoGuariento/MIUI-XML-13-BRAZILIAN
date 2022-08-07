@@ -556,7 +556,7 @@ Localize e bloqueie seu dispositivo caso ele seja perdido."</string>
     <string name="micloud_storage_expires_manually_renewal_sum">Você precisa renovar sua assinatura.</string>
     <string name="micloud_storage_expires_soon_title">O armazenamento da MiCloud expirará em breve</string>
     <string name="micloud_storage_expires_very_soon_title">O armazenamento da MiCloud expirará em breve</string>
-    <string name="micloud_storage_family_quota">Compartilhamento familiar</string>
+    <string name="micloud_storage_family_quota">Espaço compartilhado</string>
     <string name="micloud_storage_full">MiCloud cheia</string>
     <string name="micloud_storage_full_tip">Armazenamento está cheio</string>
     <string name="micloud_storage_normal_tip">Restante: %s</string>
