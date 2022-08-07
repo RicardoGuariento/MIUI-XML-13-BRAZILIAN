@@ -34,3 +34,5 @@ For more info, visit:
 Falta traduzir apenas o MiBrowserGlobal.apk e Music.apk
 
 - [XML 22.7.15 ao 22.7.25](https://github.com/RicardoGuariento/MIUI-XML-13-BRAZILIAN/commit/b61de4a13e66903dabd3505998ff3387da358013)
+
+- [XML 2.7.26 ao 22.8.3](https://github.com/RicardoGuariento/MIUI-XML-13-BRAZILIAN/commit/be349d00ff5febbcfa1fd200cdc1731ea39b08dc)
