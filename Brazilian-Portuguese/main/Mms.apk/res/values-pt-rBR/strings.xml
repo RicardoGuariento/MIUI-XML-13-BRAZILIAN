@@ -1269,6 +1269,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="sim_full_body">Exclua algumas mensagens para liberar espaço.</string>
     <string name="sim_full_title">Cartão SIM cheio</string>
     <string name="sim_manage_messages_title">Mensagens de texto no cartão SIM</string>
+    <string name="sim_not_support_mms">"This SIM card doesn't support MMS"</string>
     <string name="sim_view">Ver</string>
     <string name="slide_number">"Slide %d"</string>
     <string name="slide_show_part">Parte %1$d de %2$d</string>

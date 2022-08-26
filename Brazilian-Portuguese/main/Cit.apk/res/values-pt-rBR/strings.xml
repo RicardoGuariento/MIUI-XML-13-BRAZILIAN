@@ -269,7 +269,7 @@ Nenhum dispositivo Bluetooth encontrado."</string>
     <string name="cit_camera_deleted_failed">Erro ao excluir a foto</string>
     <string name="cit_camera_flash_adjust">Ajuste o flash</string>
     <string name="cit_camera_otp_download_title">Teste de download da Câmera OTP</string>
-    <string name="cit_camera_rearsub">O teste da câmera traseira secundária está em progresso, aguarde…</string>
+    <string name="cit_camera_rearsub">O teste da câmera secundária está em progresso, aguarde…</string>
     <string name="cit_camera_sdcard_error">Não é possível tirar fotografia. O cartão SD está cheio</string>
     <string name="cit_camerasfr_test">Analisando a imagem, por favor aguarde....</string>
     <string name="cit_capture_fail">Falha ao tirar foto</string>

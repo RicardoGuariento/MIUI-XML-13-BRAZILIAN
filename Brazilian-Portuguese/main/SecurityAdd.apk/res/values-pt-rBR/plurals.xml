@@ -57,8 +57,8 @@
         <item quantity="one">%d nova notificação</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">%d dias restantes antes da sessão de Otimização de velocidade de rede encerrar. Renove a sessão para evitar problemas de velocidade de rede.</item>
-        <item quantity="one">%d dia restante antes da sessão de Otimização de velocidade de rede encerrar. Renove a sessão para evitar problemas de velocidade de rede.</item>
+        <item quantity="other">Sua sessão de Otimização de velocidade de rede terminará em %d dias. Você pode começar a ter atrasos na rede. Renovar a sessão agora?</item>
+        <item quantity="one">Sua sessão de Otimização de velocidade da rede terminará em %d dia. Você pode começar a ter atrasos na rede. Renovar a sessão agora?</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>

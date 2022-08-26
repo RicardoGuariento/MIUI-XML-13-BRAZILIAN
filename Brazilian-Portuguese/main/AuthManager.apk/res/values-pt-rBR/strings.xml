@@ -10,7 +10,7 @@
     <string name="HIPS_Perm_Access_Gallery">Acesso à Galeria</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Permite que os apps tenham acesso à sua Galeria</string>
     <string name="HIPS_Perm_AudioRecorder">Gravar áudio</string>
-    <string name="HIPS_Perm_AudioRecorder_Desc">gravar áudio e chamadas telefônicas</string>
+    <string name="HIPS_Perm_AudioRecorder_Desc">gravar áudio</string>
     <string name="HIPS_Perm_AutoStart">Executar na inicialização</string>
     <string name="HIPS_Perm_AutoStart_Desc">executar na inicialização</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">Alterar a conectividade Bluetooth</string>
@@ -27,7 +27,7 @@
     <string name="HIPS_Perm_Contact_Desc">editar contatos</string>
     <string name="HIPS_Perm_External_Storage">Acessar e alterar arquivos no armazenamento interno</string>
     <string name="HIPS_Perm_External_Storage_Desc">adicionar e excluir arquivos no armazenamento interno do dispositivo</string>
-    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Gravar áudio e fazer chamadas</string>
+    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">gravar áudio</string>
     <string name="HIPS_Perm_Intl_group_desc_auto_start">Executar apps em segundo plano automaticamente</string>
     <string name="HIPS_Perm_Intl_group_desc_calendar">Acessar eventos da agenda</string>
     <string name="HIPS_Perm_Intl_group_desc_call_log">Acessar e editar o histórico de chamadas</string>
@@ -340,7 +340,7 @@
     <string name="permdesc_get_account">Permitir que %1$s acesse todas as contas armazenadas neste dispositivo?</string>
     <string name="permdesc_location">Permitir que %1$s acesse informações de localização?</string>
     <string name="permdesc_location_background">Permitir que %1$s acesse informações de localização em segundo plano?</string>
-    <string name="permdesc_microphone">Permitir que %1$s use o microfone para gravar áudio e fazer chamadas?</string>
+    <string name="permdesc_microphone">Permitir que %1$s use o microfone para gravar áudio?</string>
     <string name="permdesc_nearby_devices">Permitir que %1$s descubra e se conecte aos dispositivos próximos?</string>
     <string name="permdesc_process_outgoing_call">Permitir que %1$s atenda e encerre chamadas?</string>
     <string name="permdesc_read_calendar">Permitir que %1$s acesse e edite eventos da agenda?</string>

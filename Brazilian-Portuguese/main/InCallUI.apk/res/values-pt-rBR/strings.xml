@@ -75,6 +75,8 @@
     <string name="call_button_tools_text">Funções</string>
     <string name="call_contacts_deny_permission_msg">Você negou as permissões de leitura de contatos, não é possível exibir as informações.</string>
     <string name="call_description_recording">Gravando…</string>
+    <string name="call_log_short_in">This number called you just now</string>
+    <string name="call_log_short_out">You called this number just now</string>
     <string name="call_not_support_high_frequency_click">Não toque neste botão com muita frequência</string>
     <string name="call_progress_info_call_forwarding">Esta chamada foi encaminhada</string>
     <string name="call_progress_info_call_rejected">A outra pessoa está ocupada agora. Ligue de volta mais tarde.</string>

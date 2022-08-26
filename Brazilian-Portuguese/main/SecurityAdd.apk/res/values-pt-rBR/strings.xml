@@ -144,13 +144,15 @@
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="free_send_net_booster">Otimização de velocidade gratuita</string>
-    <string name="free_send_net_booster_busniess">Experimente uma aceleração Xunlei gratuita</string>
-    <string name="free_send_net_booster_busniess_tip">Toque para receber</string>
+    <string name="free_send_net_booster_busniess">Experimente o Game Turbo gratuitamente</string>
+    <string name="free_send_net_booster_busniess_tip">Aumente sua experiência de jogo e ganhe uma skin de jogo. Esta oferta só está disponível hoje!</string>
     <string name="free_send_net_booster_tip">Curta uma experiência de jogo mais suave com a otimização de velocidade de rede gratuita.</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="game_booster">"Game Turbo"</string>
+    <string name="gamebooster_dialog_recover">Renovar</string>
+    <string name="gamebooster_dialog_start_booster">Iniciar</string>
     <string name="gamebooster_network_dialog_message">Permitir que o app Segurança conecte-se à Internet para usar todos os recursos do Game Turbo?</string>
     <string name="gamebooster_network_dialog_message_pad">Permitir que o app Segurança se conecte à rede para usar todos os recursos do Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">Alguns recursos não estão disponíveis</string>
@@ -353,7 +355,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção de um ano</string>
     <string name="net_booster_expire_notification">A sessão de otimização da velocidade de rede está prestes a encerrar</string>
     <string name="net_booster_overdue_notification">A sessão de otimização da velocidade de rede está prestes a encerrar</string>
-    <string name="net_booster_overdue_notification_tip">A sessão de otimização da velocidade encerrará em breve. Renovar a sessão?</string>
+    <string name="net_booster_overdue_notification_tip">A sessão de otimização da velocidade foi encerrada. Você pode começar a ter atrasos na rede. Renovar a sessão?</string>
     <string name="network_not_available">Não é possível conectar-se à rede</string>
     <string name="night">"PM"</string>
     <string name="no_network">Não é possível conectar-se à rede</string>

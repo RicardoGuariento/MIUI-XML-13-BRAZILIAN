@@ -237,6 +237,14 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%d mensagens</item>
         <item quantity="one">%d mensagem</item>
     </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
+        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">Your Game Turbo membership will expire in %d days. Renew now to enjoy seamless gaming.</item>
+        <item quantity="one">Your Game Turbo membership will expire in %d day. Renew now to enjoy seamless gaming.</item>
+    </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d pessoas estão jogando</item>
         <item quantity="one">%1$d pessoa está jogando</item>
@@ -485,8 +493,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">%d nova notificação</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">%d dias restantes antes da sessão de Otimização de velocidade de rede encerrar. Renove a sessão para evitar problemas de velocidade de rede.</item>
-        <item quantity="one">%d dia restante antes da sessão de Otimização de velocidade de rede encerrar. Renove a sessão para evitar problemas de velocidade de rede.</item>
+        <item quantity="other">Sua sessão de Otimização de velocidade de rede terminará em %d dias. Você pode começar a ter atrasos na rede. Renovar a sessão agora?</item>
+        <item quantity="one">Sua sessão de Otimização de velocidade de rede terminará em %d dia. Você pode começar a ter atrasos na rede. Renovar a sessão agora?</item>
     </plurals>
     <plurals name="network_restrict_count">
         <item quantity="other">"O acesso à rede está restrito para &lt;font color='#ff0000'&gt;%d&lt;/font&gt; apps"</item>

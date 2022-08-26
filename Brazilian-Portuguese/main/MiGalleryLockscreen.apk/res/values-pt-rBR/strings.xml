@@ -186,8 +186,8 @@
     <string name="cw_added_fav_no_pic">Sem itens</string>
     <string name="cw_added_toast">Este item já foi adicionado</string>
     <string name="cw_adding">Adicionando (%1$d)</string>
-    <string name="cw_album_no_pic">Não foi possível localizar imagens no dispositivo</string>
-    <string name="cw_album_no_right">Permitir que o Carrossel de Planos de fundo tenha acesso à Galeria</string>
+    <string name="cw_album_no_pic">Nada aqui ainda</string>
+    <string name="cw_album_no_right">Permissões necessárias</string>
     <string name="cw_all_folder">Imagens recentes</string>
     <string name="cw_batch_all_added_tip">Não é possível adicionar itens já existentes</string>
     <string name="cw_batch_part_tip_fail">Foram adicionados alguns itens</string>
@@ -198,7 +198,7 @@
     <string name="cw_delete">Excluir</string>
     <string name="cw_delete2">Excluir (%d)</string>
     <string name="cw_deleting">Excluir (%1$d/%2$d)</string>
-    <string name="cw_local_pic">Galeria</string>
+    <string name="cw_local_pic">Selecionar imagens</string>
     <string name="cw_my_fav">Favoritos</string>
     <string name="cw_permission_tip">Permitir que o Carrossel de Planos de fundo tenha acesso ao armazenamento em Configurações &gt; Gerenciar apps</string>
     <string name="cw_wallpaper_empty_dlg_btn">OK</string>
@@ -228,7 +228,7 @@
     <string name="detail_menu_history">Histórico</string>
     <string name="detail_menu_home">Ir para início</string>
     <string name="detail_menu_setting">Configurações do app</string>
-    <string name="detail_menu_settingbtn_save">Salvar na Galeria</string>
+    <string name="detail_menu_settingbtn_save">Salvar </string>
     <string name="detail_menu_settingbtn_setting">Configurações</string>
     <string name="detail_menu_settingbtn_share">Compartilhar</string>
     <string name="detail_menu_wall">Papéis de parede de hoje</string>
@@ -820,7 +820,7 @@ mm"</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="save_hdpicture_in_favor">Ver imagens HD em \"Favoritos\"</string>
     <string name="save_picture_success">Salvo com sucesso</string>
-    <string name="save_to_album">Salvo na Galeria com sucesso</string>
+    <string name="save_to_album">Salvo com sucesso</string>
     <string name="save_to_album_fail">Não foi possível salvar</string>
     <string name="scribe_btn_ok">Cadastre-se</string>
     <string name="scribe_title1">Cadastre-se no Carrossel de Planos de fundo</string>
@@ -832,7 +832,7 @@ mm"</string>
     <string name="see_more">Ver mais</string>
     <string name="see_more_content">Ver mais</string>
     <string name="select_package">Selecionar versão</string>
-    <string name="select_photo_album">Selecionar álbum</string>
+    <string name="select_photo_album">Selecionar imagens</string>
     <string name="select_picture">Selecionar imagens</string>
     <string name="select_picture_des">Adicione suas fotos e imagens online ao mix para que elas apareçam na apresentação de slides automaticamente</string>
     <string name="send">Enviar</string>

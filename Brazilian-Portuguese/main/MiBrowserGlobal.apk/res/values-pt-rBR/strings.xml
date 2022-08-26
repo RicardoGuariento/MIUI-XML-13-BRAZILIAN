@@ -113,6 +113,7 @@
     <string name="adblock_rules_updated_toast">Atualizado com sucesso</string>
     <string name="adblock_websites_settings_empyt_hint">Você não bloqueou nenhum site.</string>
     <string name="adblock_websites_settings_title">Sites bloqueados</string>
+    <string name="add">Add</string>
     <string name="add_bookmark_group">Adicionar grupo</string>
     <string name="add_bookmarks">Favoritos</string>
     <string name="add_bookshelf_popup_text">Adicionado à estante</string>
@@ -129,12 +130,14 @@
     <string name="add_shortcut">Adicionar atalho</string>
     <string name="add_shortcut_success">Atalho adicionado com sucesso</string>
     <string name="add_to_bookmark">Favoritos</string>
+    <string name="add_to_desktop">Add to Home screen</string>
     <string name="add_to_quicklink">Página inicial</string>
     <string name="add_to_trust_device">Este é um dispositivo confiável</string>
     <string name="added_to_bookmarks">Adicionado aos favoritos</string>
     <string name="adjust_text_zoom_toast">Alterar o tamanho do texto pode fazer com que alguns sites sejam exibidos incorretamente</string>
     <string name="afternoon">"PM"</string>
     <string name="agree">Aceitar</string>
+    <string name="agree_label">Agree</string>
     <string name="agree_open">Turn on</string>
     <string name="agree_permissions_request">Permitir</string>
     <string name="alert_tips">Este site pode apresentar riscos à segurança</string>
@@ -383,6 +386,7 @@ Desative o seletor para parar a sincronização."</string>
     <string name="camera_permission_name">Usar a câmera</string>
     <string name="can_not_send_with_too_many">Não é possível enviar esta quantidade de itens de uma só vez</string>
     <string name="cancel">Cancelar</string>
+    <string name="cancel_label">X</string>
     <string name="cancel_operation">Cancelar operação</string>
     <string name="cancelled_by_user">Operação cancelada</string>
     <string name="cannot_download">Só é possível baixar de endereços \"http\" ou \"https\"</string>
@@ -645,6 +649,8 @@ Envie este código para o supervisor."</string>
     <string name="dkcommon__web_pull_refresh_view__refreshing_tip">Just a sec…</string>
     <string name="dkcommon__web_pull_refresh_view__release_tip">Release to refresh</string>
     <string name="dkmibrowsershopad__ad_view_video_replay">Replay</string>
+    <string name="doc_viewer_label">Reader (Mi Browser)</string>
+    <string name="doc_viewer_open_out_file_prompt">To open and view a file received from external sources, this app needs to create a copy of the file first. Continue?</string>
     <string name="document_download_background_btn">Baixar em segundo plano</string>
     <string name="document_download_cancel_btn">Cancelar</string>
     <string name="document_download_failed">Não foi possível baixar</string>
@@ -911,6 +917,7 @@ Envie este código para o supervisor."</string>
     <string name="file_type">Format: %s</string>
     <string name="filename_empty_alert_message">Inserir nome do arquivo</string>
     <string name="filename_illegal_alert_message">Um caractere inválido foi removido do nome do arquivo</string>
+    <string name="find_garbage">Found %d MB of trash</string>
     <string name="find_new_version">NOVA ATUALIZAÇÃO DISPONÍVEL</string>
     <string name="find_on_page_cancel">Cancelar</string>
     <string name="find_on_page_hint">Localizar na página</string>
@@ -983,26 +990,6 @@ Envie este código para o supervisor."</string>
     <string name="gaid">GAID (Clique para exportar)</string>
     <string name="game_center_recommend_play">Jogar</string>
     <string name="game_center_recommend_title">Recomendado para você</string>
-    <string name="game_exit_when_press_back_again">Tap again to exit</string>
-    <string name="game_loading_stage_loadPackage_download_plugin_fail">"Couldn't download plug-in"</string>
-    <string name="game_loading_stage_loadPackage_download_plugin_installing">Downloading plug-in…</string>
-    <string name="game_loading_stage_loadPackage_download_plugin_start">Requesting plug-in…</string>
-    <string name="game_loading_stage_loadPackage_game_package_download_fail">"Couldn't download game package"</string>
-    <string name="game_loading_stage_loadPackage_game_package_download_finish">Downloaded game package</string>
-    <string name="game_loading_stage_loadPackage_game_package_download_start">Downloading game package…</string>
-    <string name="game_loading_stage_loadPackage_install_game_package_download_fail">"Couldn't install game package"</string>
-    <string name="game_loading_stage_loadPackage_install_game_package_download_finish">Installed game package</string>
-    <string name="game_loading_stage_loadPackage_install_game_package_downloading">Installing game package…</string>
-    <string name="game_loading_stage_loadPackage_install_game_package_start">Preparing game package…</string>
-    <string name="game_loading_stage_loadPackage_install_plugin_fail">"Couldn't install plug-in"</string>
-    <string name="game_loading_stage_loadPackage_install_plugin_finish">Installed plug-in</string>
-    <string name="game_loading_stage_loadPackage_install_plugin_installing">Installing plug-in…</string>
-    <string name="game_loading_stage_loadPackage_install_plugin_start">Preparing plug-in…</string>
-    <string name="game_loading_stage_loadPackage_launch_game">Launching…</string>
-    <string name="game_loading_stage_load_core_feature_continue">Continue</string>
-    <string name="game_loading_stage_load_core_feature_exit">Back</string>
-    <string name="game_loading_stage_load_core_feature_title">"This game requires '%1$s'. Core %2$s doesn't support '%3$s'. Continue anyway?"</string>
-    <string name="game_loading_view_download_update_progress">%1$s (%2$s)</string>
     <string name="game_news_flow_download_bar_download">Baixar</string>
     <string name="game_news_flow_download_bar_play">Reproduzir</string>
     <string name="game_play">Play</string>
@@ -1022,6 +1009,9 @@ Envie este código para o supervisor."</string>
     <string name="general__end_page_same_authors">Same author</string>
     <string name="general__end_page_summary">Summary: %s</string>
     <string name="general__exempt_30_minute_ad">Watch a small video, free of up to 30 minutes of advertising</string>
+    <string name="general__fiction_horz_slide_to_see_title_page">Swipe to start reading</string>
+    <string name="general__fiction_slide_menu">Chapters</string>
+    <string name="general__fiction_slide_up_to_see_title_page">Swipe up to start reading</string>
     <string name="general__make_purchase_hint">One bonus is equal to one coin. Bonuses are valid for 15 days and will be used before coins to unlock chapters.</string>
     <string name="general__make_purchase_rule_reminder">Attention</string>
     <string name="general__make_purchase_total">Total amount: %1$d = %2$s + %3$s</string>
@@ -1334,6 +1324,7 @@ Envie este código para o supervisor."</string>
     <string name="menu_title_resume_all">Iniciar todos</string>
     <string name="messenger_send_button_text">Send</string>
     <string name="mi_browser">Navegador Mi</string>
+    <string name="mi_browser_clean_up_garbage">Mi Browser is clearing trash…</string>
     <string name="midi_permission_name">Control MIDI devices</string>
     <string name="midnight">"AM"</string>
     <string name="mint_games">Jogos do momento</string>
@@ -1426,6 +1417,7 @@ Envie este código para o supervisor."</string>
     <string name="more_description">Menu</string>
     <string name="more_info">Saiba mais</string>
     <string name="more_option">Mais opções</string>
+    <string name="more_privacy">More privacy options</string>
     <string name="more_recommend">Mais recomendações</string>
     <string name="morning">"AM"</string>
     <string name="most_visited_sites">Mais visitados</string>
@@ -1748,6 +1740,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="notification_category_facebook">Facebook</string>
     <string name="notification_category_group_general">Geral</string>
     <string name="notification_category_media">Mídia</string>
+    <string name="notification_category_stickcard">StickCard</string>
     <string name="notification_download_completed">Baixado com sucesso</string>
     <string name="notification_download_failed">Não foi possível baixar.</string>
     <string name="notification_wechat_expired_empty">O WeChat já excluiu estes vídeos.</string>
@@ -2109,6 +2102,7 @@ Tem certeza de que deseja navegar para fora desta página?"</string>
     <string name="phone_hint">Número de telefone</string>
     <string name="phone_num_use_for">O número de telefone é usado para:</string>
     <string name="phone_number">Número de telefone</string>
+    <string name="phone_very_clean">No trash</string>
     <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
     <string name="pick_file">Escolher arquivos</string>
     <string name="ping_test_title">Atraso de rede</string>
@@ -2630,6 +2624,7 @@ Try to modify your keyword?"</string>
     <string name="reading__wait_to_unlock_toast_go_to_chapter">View</string>
     <string name="reading__wait_to_unlock_toast_success">Chapter unlocked!</string>
     <string name="reading__wait_to_unlock_toast_target_chapter">Chapter %s unlocked for free</string>
+    <string name="reading_fiction_detail_copyright">-Copyright holder：%s</string>
     <string name="reading_shared_add_to_library">Add to library</string>
     <string name="reading_shared_added_in_library">Added successfully</string>
     <string name="reading_shared_do_you_like_it_add_lib">Like the story? Add it to your library!</string>
@@ -2675,6 +2670,7 @@ Try to modify your keyword?"</string>
     <string name="refuse_open">Not now</string>
     <string name="refuse_permissions_request">Restringir</string>
     <string name="regid">RegId (Toque para exportar)</string>
+    <string name="reject_all_label">Reject All</string>
     <string name="release_to_refresh">Solte para atualizar</string>
     <string name="relevant_recommendations">Recommended</string>
     <string name="remember_passwords_confirm_message">Desativar esta função pode afetar a usabilidade.</string>
@@ -2848,11 +2844,13 @@ Try to modify your keyword?"</string>
     <string name="share_slide_video_text">Veja o que eu compartilhei: %1$s</string>
     <string name="share_video">Compartilhar vídeo</string>
     <string name="shear_plate_permission_name">Access or save items to clipboard</string>
+    <string name="short_cut_name_novel">Free books</string>
     <string name="shortcut_function">Shortcuts</string>
     <string name="shortcuts_boost_speed">Boost speed</string>
     <string name="shortcuts_cleanup_cache">Cleaner</string>
     <string name="shortcuts_cleanup_memory">Clear cache</string>
     <string name="shortcuts_security_scan">Security scan</string>
+    <string name="show_options_label">Show Options</string>
     <string name="sign_in">Fazendo login</string>
     <string name="sign_in_by_others">Outras formas de login</string>
     <string name="sign_in_by_xiaommi">Fazer login na Conta Mi</string>
@@ -3011,6 +3009,7 @@ Try to modify your keyword?"</string>
     <string name="subscribe_success">Assinado com sucesso</string>
     <string name="subscription_status_error">Não foi possível assinar</string>
     <string name="subscriptions_title">Gerenciar sua assinatura</string>
+    <string name="successfully_added">Added successfully</string>
     <string name="suggest_access_appstore">Mi App Store</string>
     <string name="suggest_access_btn_install">Instalar</string>
     <string name="suggest_access_btn_open">Abrir</string>
@@ -3063,6 +3062,8 @@ Try to modify your keyword?"</string>
     <string name="tab_videos">Videos</string>
     <string name="tab_yellowpage">Links</string>
     <string name="tabs_description">Guias</string>
+    <string name="tag_undo">Undo</string>
+    <string name="tag_undo_title">Closed %s</string>
     <string name="talk_back_voice_search">Voice search</string>
     <string name="temporary_not_available">Este recurso ainda não está disponível</string>
     <string name="terms_policy">Terms and conditions</string>

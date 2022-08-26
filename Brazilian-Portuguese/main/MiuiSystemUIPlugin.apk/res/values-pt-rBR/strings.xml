@@ -71,6 +71,8 @@
     <string name="close_invisible_mode_dialog_ok">Configurações</string>
     <string name="close_invisible_mode_dialog_title">"Você está incógnito"</string>
     <string name="control_center_notification_switch_guide">Deslize para alternar entre o Centro de controle e a Área de notificações</string>
+    <string name="controls_add_device_guide">Nenhum dispositivo aqui ainda</string>
+    <string name="controls_click_to_add_device">Adicionar dispositivos</string>
     <string name="controls_confirmation_message">Confirmar alteração para %s</string>
     <string name="controls_dialog_confirmation">Controles atualizados</string>
     <string name="controls_dialog_message">%s sugeriu este controle para adicionar aos seus favoritos.</string>
@@ -84,6 +86,12 @@
     <string name="controls_dismiss_dialog_message_international">Remover o cartão \"Casa inteligente\" agora? É possível restaurá-lo em Configurações > Centro de controle.</string>
     <string name="controls_dismiss_dialog_title">Dispositivos de casa inteligente</string>
     <string name="controls_dismiss_dialog_title_international">Remover cartão</string>
+    <string name="controls_edit_add_device_guide">Nenhum dispositivo disponível para adicionar</string>
+    <string name="controls_edit_added_subtitle">Arraste os itens para reorganizar</string>
+    <string name="controls_edit_added_title">Adicionado</string>
+    <string name="controls_edit_done_button">Concluído</string>
+    <string name="controls_edit_go_to_app_guide">Abrir</string>
+    <string name="controls_edit_not_added_title">Disponível</string>
     <string name="controls_edit_panel_not_added_title">Dispositivos disponíveis</string>
     <string name="controls_edit_panel_save_button">Concluído</string>
     <string name="controls_edit_panel_subtitle">Arraste os itens para reorganizar</string>
@@ -98,6 +106,7 @@
     <string name="controls_favorite_removed">Todos os controles removidos</string>
     <string name="controls_favorite_subtitle">Escolha controles para acessar a partir do menu de ligar/desligar</string>
     <string name="controls_favorite_toast_no_changes">As alterações não foram salvas</string>
+    <string name="controls_loading_device">Trocando de local</string>
     <string name="controls_media_title">Mídia</string>
     <string name="controls_menu_add">Adicionar controles</string>
     <string name="controls_mijia_setup_subtitle">Selecione apps para adicionar dispositivos e gerenciá-los aqui</string>
@@ -106,14 +115,19 @@
     <string name="controls_no_device_subtitle">Adicione dispositivos no %s primeiro.</string>
     <string name="controls_no_device_title">Não foi possível encontrar dispositivos</string>
     <string name="controls_no_favorites_title">Selecione apps para gerenciar dispositivos de casa inteligente aqui</string>
+    <string name="controls_not_found_device_toast">This item was removed in the app</string>
+    <string name="controls_not_found_device_toast_mihome">This item was removed in the app</string>
+    <string name="controls_offline_device_toast">This device is offline. Press and hold to open the app.</string>
     <string name="controls_pin_instructions">Digite o PIN</string>
     <string name="controls_pin_instructions_retry">Tente outro PIN</string>
     <string name="controls_pin_use_alphanumeric">O PIN contém letras ou símbolos</string>
     <string name="controls_pin_verify">Verificar %s</string>
     <string name="controls_pin_wrong">PIN incorreto</string>
     <string name="controls_providers_title">Escolha o app para adicionar controles</string>
+    <string name="controls_removed">removed</string>
     <string name="controls_seeding_in_progress">Carregando recomendações</string>
     <string name="controls_structure_tooltip">Deslize para ver mais</string>
+    <string name="controls_unsupport_toggle_toast">"Can't control this device from here. Press and hold to open the app."</string>
     <string name="copy">Copiar</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -334,6 +348,7 @@
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
     <string name="notification_control_center">Notificações e Centro de controle</string>
+    <string name="offline">"Offline"</string>
     <string name="online">"Online"</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="pm">"PM"</string>

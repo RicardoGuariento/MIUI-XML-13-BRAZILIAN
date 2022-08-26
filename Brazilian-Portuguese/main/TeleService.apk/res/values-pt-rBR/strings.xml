@@ -1074,6 +1074,7 @@ Desativar o eSIM?"</string>
     <string name="esim_inactive_notification_message_global">Nenhum cartão SIM detectado. Toque para ativar o eSIM.</string>
     <string name="esim_inactive_notification_title_global">Cartões SIM e redes móveis</string>
     <string name="esim_inactive_settings_title">Cartões SIM e rede móveis</string>
+    <string name="esim_is_activating_notification_message_for_o2">Activating mobile plan…</string>
     <string name="esim_setting_title">Configurações do eSIM</string>
     <string name="evening">"PM"</string>
     <string name="exception_error">Erro de rede ou do cartão SIM.</string>

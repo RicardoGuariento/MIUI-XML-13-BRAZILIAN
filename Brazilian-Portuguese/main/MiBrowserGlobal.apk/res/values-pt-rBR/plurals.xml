@@ -470,6 +470,10 @@
         <item quantity="other">%d músicas populares</item>
         <item quantity="one">%d música popular</item>
     </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">%d abas</item>
+        <item quantity="one">%d aba</item>
+    </plurals>
     <plurals name="transfer_prompt">
         <item quantity="other">Reproduzir vídeo em %1$d segundos</item>
         <item quantity="one">Reproduzir vídeo em %1$d segundo</item>

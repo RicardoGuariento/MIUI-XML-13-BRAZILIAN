@@ -666,6 +666,7 @@ Envie este código ao supervisor."</string>
     <string name="phone_number">Número de telefone</string>
     <string name="photoPickerNotFoundText">Nenhuma foto disponível.</string>
     <string name="please_agree_protocal">Aceite o protocolo</string>
+    <string name="please_download_gallery">Instale a Galeria para visualizar</string>
     <string name="pm">"PM"</string>
     <string name="post_miui_bbs_failed">Não foi possível publicar no Fórum MIUI</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>

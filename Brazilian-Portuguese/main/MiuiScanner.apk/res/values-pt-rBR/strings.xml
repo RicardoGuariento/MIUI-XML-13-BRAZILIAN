@@ -686,6 +686,7 @@ Por favor, consulte o ângulo na imagem para colocar o dispositivo e tente novam
     <string name="saveDone">Salvo com sucesso</string>
     <string name="save_as_PDF">Salvar como PDF</string>
     <string name="save_as_picture">Salvar como imagem</string>
+    <string name="save_documents_ui">Salvo no gerenciador de Arquivos</string>
     <string name="save_excel_result_title">Salvar</string>
     <string name="save_excel_title">Salvar arquivo do Excel</string>
     <string name="save_fail">Não foi possível salvar</string>
@@ -696,8 +697,8 @@ Por favor, consulte o ângulo na imagem para colocar o dispositivo e tente novam
     <string name="scanHistory_close">Desativado</string>
     <string name="scanHistory_isOpen">Acompanhar o histórico dos itens digitalizados?</string>
     <string name="scanHistory_open">Ativado</string>
-    <string name="scan_document_top_tip">Escaneie um documento e crie um PDF</string>
-    <string name="scan_document_top_tip_second">Escaneie vários documentos e crie um PDF</string>
+    <string name="scan_document_top_tip">Escaneie um documento para criar um PDF</string>
+    <string name="scan_document_top_tip_second">Escaneie vários itens para criar um PDF</string>
     <string name="scan_form">Escanear tabela</string>
     <string name="scan_form_top_tip">Escanear, salvar, e editar tabelas</string>
     <string name="scan_general_top_tip">Reconhecer plantas, pessoas e produtos</string>

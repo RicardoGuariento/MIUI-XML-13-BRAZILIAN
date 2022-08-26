@@ -36,6 +36,7 @@
     <string name="add_one">(1)</string>
     <string name="add_private">Tornar os arquivos privados</string>
     <string name="add_private_files">Adicionar arquivos</string>
+    <string name="add_to_widget">Adicionar ao widget</string>
     <string name="added_category">Adicionado</string>
     <string name="afternoon">"PM"</string>
     <string name="aggree_desc">Permita que este app se conecte-se à Internet e conceda as permissões necessárias listadas acima.</string>
@@ -162,6 +163,7 @@
     <string name="delete_folders">Excluir %1$d pastas?</string>
     <string name="des_hide_pwd">Ocultar a senha</string>
     <string name="des_show_pwd">Exibir a senha</string>
+    <string name="dialog_keep_choice">Lembrar da minha escolha</string>
     <string name="dialog_select_type">Selecionar o tipo</string>
     <string name="dialog_type_audio">Áudio</string>
     <string name="dialog_type_image">Imagens</string>
@@ -812,7 +814,8 @@
     <string name="time_picker_dialog_title">Ajustar hora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="tip">Atenção</string>
+    <string name="tip">Atenção!</string>
+    <string name="tips_add_to_widget">Você pode adicionar até %d arquivos a este widget. Se você adicionar mais arquivos, os adicionados anteriormente serão substituídos.</string>
     <string name="title_app_tags">"Apps"</string>
     <string name="title_expire_video">Prestes a expirar</string>
     <string name="title_recent">Recentes</string>
@@ -857,6 +860,16 @@
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
+    <string name="widget_add_files">Adicionar arquivo</string>
+    <string name="widget_added_fail_content">%1$s já está na Tela inicial</string>
+    <string name="widget_added_fail_tips">Não foi possível adicionar</string>
+    <string name="widget_added_success_content">Adicionado %1$s à Tela inicial</string>
+    <string name="widget_added_success_tips">Adicionado com sucesso</string>
+    <string name="widget_choose_document_please">Selecione o documento</string>
+    <string name="widget_choose_file">Toque para adicionar arquivos</string>
+    <string name="widget_choose_fragment_title">Selecione o tipo de arquivo</string>
+    <string name="widget_finish">Concluído</string>
+    <string name="widget_name">Arquivos visualizados recentemente</string>
     <string name="wifi_state">Status do Wi-Fi</string>
     <string name="withdraw">Retirar</string>
     <string name="withdraw_consent">Retirada de consentimento</string>
