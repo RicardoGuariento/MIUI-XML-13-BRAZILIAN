@@ -246,9 +246,6 @@
     <string name="ks_lock_screen">Tela de bloqueio</string>
     <string name="ks_regional_screen_shot">Captura de tela (parcial)</string>
     <string name="ks_screenshot">Captura de tela (tela inteira)</string>
-    <string name="knock_gesture_v">nenhum</string>
-    <string name="knock_long_press_horizontal_slid">nenhum</string>
-    <string name="knock_slide_shape">nenhum</string>
     <string name="kungfu">Kung fu</string>
     <string name="launch_ai_shortcut">Atalho Mi AI</string>
     <string name="launch_alipay_health_code">Código de integridade Alipay</string>
