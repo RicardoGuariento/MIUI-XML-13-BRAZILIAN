@@ -87,7 +87,7 @@
     <string name="cookies_content_two">"Decida se deseja que nossos provedores de conteúdo terceirizados de confiança usem cookies para personalizar recomendações de conteúdo e anúncios com base em seus interesses."</string>
     <string name="cookies_title">Conteúdo personalizado e cookies</string>
     <string name="copy">Copiar</string>
-    <string name="create_shortcut">Home screen shortcut</string>
+    <string name="create_shortcut">Atalho para tela inicial</string>
     <string name="data_traffic_enable_dialog_title">Se você não estiver conectado ao Wi-Fi agora, seu dispositivo usará os dados móveis. O uso de dados móveis pode gerar cobranças adicionais da operadora.</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
