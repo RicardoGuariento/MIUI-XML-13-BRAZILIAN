@@ -2226,9 +2226,9 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="quick_settings">Configurações rápidas</string>
     <string name="quick_settings_autobrightness_label">Brilho automático</string>
     <string name="quick_settings_batterysaver_label">Economia de bateria</string>
-    <string name="quick_settings_bluetooth_connected_tip">Connected via Bluetooth successfully</string>
+    <string name="quick_settings_bluetooth_connected_tip">Conectado via bluetooth com sucesso</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Nenhum dispositivo emparelhado disponível</string>
-    <string name="quick_settings_bluetooth_disconnected_tip">All Bluetooth devices will stay disconnected today</string>
+    <string name="quick_settings_bluetooth_disconnected_tip">Todos os dispositivos Bluetooth permanecerão desconectados hoje</string>
     <string name="quick_settings_bluetooth_label">"Bluetooth"</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Dispositivos)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth desativado</string>
