@@ -742,7 +742,7 @@
     <string name="notification_reset_title">Ícones organizados com sucesso</string>
     <string name="one_key_call_title">Toque para discar</string>
     <string name="online_wallpaper">"Online"</string>
-    <string name="open_pad_personal_assistant_settings">Home screen widgets</string>
+    <string name="open_pad_personal_assistant_settings">Widgets da tela inicial</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Desativar</string>
     <string name="open_personal_assistant_dialog_desc">Depois de desativar o Assistente, você não poderá ver ou usar os widgets do Assistente. Suas versões atualizadas também não estarão disponíveis para você. Desativar mesmo assim?</string>
