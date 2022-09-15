@@ -113,7 +113,7 @@
     <string name="adblock_rules_updated_toast">Atualizado com sucesso</string>
     <string name="adblock_websites_settings_empyt_hint">Você não bloqueou nenhum site.</string>
     <string name="adblock_websites_settings_title">Sites bloqueados</string>
-    <string name="add">Add</string>
+    <string name="add">Adicionar</string>
     <string name="add_bookmark_group">Adicionar grupo</string>
     <string name="add_bookmarks">Favoritos</string>
     <string name="add_bookshelf_popup_text">Adicionado à estante</string>
@@ -130,15 +130,15 @@
     <string name="add_shortcut">Adicionar atalho</string>
     <string name="add_shortcut_success">Atalho adicionado com sucesso</string>
     <string name="add_to_bookmark">Favoritos</string>
-    <string name="add_to_desktop">Add to Home screen</string>
+    <string name="add_to_desktop">Adicionar na página inicial</string>
     <string name="add_to_quicklink">Página inicial</string>
     <string name="add_to_trust_device">Este é um dispositivo confiável</string>
     <string name="added_to_bookmarks">Adicionado aos favoritos</string>
     <string name="adjust_text_zoom_toast">Alterar o tamanho do texto pode fazer com que alguns sites sejam exibidos incorretamente</string>
     <string name="afternoon">"PM"</string>
     <string name="agree">Aceitar</string>
-    <string name="agree_label">Agree</string>
-    <string name="agree_open">Turn on</string>
+    <string name="agree_label">Aceitar</string>
+    <string name="agree_open">Ligar</string>
     <string name="agree_permissions_request">Permitir</string>
     <string name="alert_tips">Este site pode apresentar riscos à segurança</string>
     <string name="all">Tudo</string>
@@ -147,15 +147,15 @@
     <string name="already_add">Added %s to your Home screen</string>
     <string name="am">"AM"</string>
     <string name="app_id">Firebase App ID (toque para exportar)</string>
-    <string name="app_library_category_entertainment">Entertainment</string>
+    <string name="app_library_category_entertainment">Entretenimento</string>
     <string name="app_library_category_games">Games</string>
     <string name="app_library_category_information">Media</string>
     <string name="app_library_category_lifestyle">Lifestyle</string>
-    <string name="app_library_category_others">Other</string>
-    <string name="app_library_category_productivity">Productivity</string>
+    <string name="app_library_category_others">Outros</string>
+    <string name="app_library_category_productivity">Produtividade</string>
     <string name="app_library_category_social">Social</string>
-    <string name="app_library_category_utility">Tools</string>
-    <string name="app_library_title">Apps</string>
+    <string name="app_library_category_utility">Ferramentas</string>
+    <string name="app_library_title">Aplicativo</string>
     <string name="app_name">ConvenientBanner</string>
     <string name="app_name_bluetooth">"Bluetooth"</string>
     <string name="app_name_camera">Câmera</string>
@@ -191,14 +191,14 @@
     <string name="autologin_bar_hide_text">Ocultar</string>
     <string name="autologin_bar_login_text">Fazer login</string>
     <string name="autologin_bar_text">Fazer login como</string>
-    <string name="avatar">Profile photo</string>
+    <string name="avatar">Imagem de perfil</string>
     <string name="back_description">Voltar</string>
     <string name="back_home">Voltar para a página inicial</string>
     <string name="batch_download_tip">Parece que vários itens estão sendo baixados ao mesmo tempo. Bloquear estes downloads?</string>
-    <string name="billing_unavailable_message">"- Make sure you're signed in to Play Store.
-- Update Google Services Framework to the latest version.
-- Check whether Google Pay works in your region."</string>
-    <string name="billing_unavailable_title">"Couldn't complete payment. Try the following:"</string>
+    <string name="billing_unavailable_message">"- Verifique se você está conectado à Play Store.
+- Atualize o Google Services Framework para a versão mais recente.
+- Verifique se o Google Pay funciona na sua região."</string>
+    <string name="billing_unavailable_title">"Não foi possível concluir o pagamento. Tente o seguinte:"</string>
     <string name="bind_sign_in_title">Adicionar Conta Mi</string>
     <string name="block">Bloquear</string>
     <string name="block_ads_choice_block">Bloquear</string>
@@ -237,9 +237,9 @@ Desative o seletor para parar a sincronização."</string>
     <string name="bookmarks_management">Favoritos</string>
     <string name="bookmarks_root_folder">Pasta raiz</string>
     <string name="bookmarks_search">Navegador Mi</string>
-    <string name="bookroom__clear_invalid_book_view__done">Removed successfully</string>
-    <string name="bookroom__clear_invalid_book_view__scanning">Scanning books <font color="#ed6c00">%1$d/%2$d</font></string>
-    <string name="bookroom__shared__invalid_book_clear">Remove all obsolete items</string>
+    <string name="bookroom__clear_invalid_book_view__done">Removido com sucesso</string>
+    <string name="bookroom__clear_invalid_book_view__scanning">Procurando livros <font color="#ed6c00">%1$d/%2$d</font></string>
+    <string name="bookroom__shared__invalid_book_clear">Remover todos os itens obsoletos</string>
     <string name="bookroom__shared__invalid_book_title">"This book doesn't exist. Remove it from your library?"</string>
     <string name="bookshelf__add_book__import_hot_list_books__description">view today’s hot list</string>
     <string name="bookshelf__add_book__import_hot_list_books__title">Find books on the list</string>
@@ -649,7 +649,7 @@ Envie este código para o supervisor."</string>
     <string name="dkcommon__web_pull_refresh_view__refreshing_tip">Just a sec…</string>
     <string name="dkcommon__web_pull_refresh_view__release_tip">Release to refresh</string>
     <string name="dkmibrowsershopad__ad_view_video_replay">Replay</string>
-    <string name="doc_viewer_label">Reader (Mi Browser)</string>
+    <string name="doc_viewer_label">Leitor de texto (Mi Browser)</string>
     <string name="doc_viewer_open_out_file_prompt">To open and view a file received from external sources, this app needs to create a copy of the file first. Continue?</string>
     <string name="document_download_background_btn">Baixar em segundo plano</string>
     <string name="document_download_cancel_btn">Cancelar</string>
