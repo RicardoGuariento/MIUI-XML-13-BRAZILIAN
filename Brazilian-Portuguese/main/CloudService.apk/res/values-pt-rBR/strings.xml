@@ -195,8 +195,8 @@
     <string name="find_device_status_title_phone">Encontrar dispositivo</string>
     <string name="find_permission_location_summary">Para localizar este dispositivo</string>
     <string name="find_permission_location_title">Acessar a localização</string>
-    <string name="find_permission_phone_sim_info_summary">For accessing your location via SMS when not connected to the network</string>
-    <string name="find_permission_phone_sim_info_title">Access device info</string>
+    <string name="find_permission_phone_sim_info_summary">Para acessar sua localização via SMS quando não estiver conectado à rede</string>
+    <string name="find_permission_phone_sim_info_title">Acessar informações do dispositivo</string>
     <string name="find_permission_phone_summary">"Para acessar o número de telefone a fim de localizar este dispositivo quando não estiver conectado à internet"</string>
     <string name="find_permission_phone_title">Acessar informações do dispositivo</string>
     <string name="find_permission_sms_summary">"Para localizar este dispositivo quando não estiver conectado à Internet"</string>
