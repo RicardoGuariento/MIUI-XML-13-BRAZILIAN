@@ -82,8 +82,8 @@
     <string name="backup_hint_pad">Mantenha seu dispositivo ligado</string>
     <string name="backup_is_running">Fazendo o backup do dispositivo</string>
     <string name="backup_new">Novo:</string>
-    <string name="backup_notice_content">"Your backups won't be encrypted, which means that they might be accessed or tampered with by third party apps. Other security risks might also arise. Make sure you store backed up items in a well protected environment."</string>
-    <string name="backup_notice_title">Attention</string>
+    <string name="backup_notice_content">"Seus backups não serão criptografados, o que significa que eles podem ser acessados ​​ou adulterados por aplicativos de terceiros. Outros riscos de segurança também podem surgir. Certifique-se de armazenar os itens de backup em um ambiente bem protegido."</string>
+    <string name="backup_notice_title">Atenção!</string>
     <string name="backup_notification_title">\"Backup\" em progresso…</string>
     <string name="backup_progress">Fazendo backup…</string>
     <string name="backup_report">Ver detalhes</string>

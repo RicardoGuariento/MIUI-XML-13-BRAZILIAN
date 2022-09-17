@@ -182,7 +182,7 @@
     <string name="dlg_hide_message">Ocultando…</string>
     <string name="dlg_info_creating_message">Criando imagem…</string>
     <string name="dlg_info_save_to_gallery_message">Salvando imagem na Galeria…</string>
-    <string name="dlg_info_save_to_local_message">Saving…</string>
+    <string name="dlg_info_save_to_local_message">Salvando…</string>
     <string name="dlg_message_password_reset">A senha para notas ocultas será substituída pela Senha de proteção de privacidade, que funciona para mensagens, fotos e pastas ocultas</string>
     <string name="dlg_message_set_password">A Senha de proteção de privacidade funciona para mensagens, fotos e pastas ocultas</string>
     <string name="dlg_message_use_privacy_password">Use a Senha de proteção de privacidade. Ela funciona para mensagens, fotos e pastas ocultas.</string>
@@ -658,8 +658,8 @@
     <string name="permission_phone_state_desc">Para parar de gravar notas de voz durante chamadas</string>
     <string name="permission_read_contact_desc">Associar notas criadas durante chamadas com contatos</string>
     <string name="permission_storage_desc">Para salvar notas como imagens</string>
-    <string name="permission_storage_desc_new_v12">For adding images to notes and saving notes as images</string>
-    <string name="permission_storage_desc_pad_new_v12">For adding images to notes and saving notes as images</string>
+    <string name="permission_storage_desc_new_v12">Para adicionar imagens às notas e salvar notas como imagens</string>
+    <string name="permission_storage_desc_pad_new_v12">Para adicionar imagens às notas e salvar notas como imagens</string>
     <string name="permission_storage_desc_pad_v12">Para adicionar imagens às notas e salvar notas como imagens</string>
     <string name="permission_storage_desc_v12">Para adicionar imagens às notas e salvar notas como imagens</string>
     <string name="permission_xiaoai_desc">&lt;Data>O Mi AI vai coletar suas gravações de voz e ID do dispositivo para transcrever áudios e criar notas por voz. Saiba mais na &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Mi AI.&lt;/Data></string>
@@ -746,9 +746,9 @@
     <string name="save_to_gallery_failure_message">Não foi possível salvar</string>
     <string name="save_to_gallery_icon_name">Salvar na Galeria</string>
     <string name="save_to_gallery_success_message">Salvo com sucesso</string>
-    <string name="save_to_local_failure_message">"Couldn't save"</string>
-    <string name="save_to_local_icon_name">Save</string>
-    <string name="save_to_local_success_message">Saved successfully</string>
+    <string name="save_to_local_failure_message">"Não foi possível salvar"</string>
+    <string name="save_to_local_icon_name">Salvar</string>
+    <string name="save_to_local_success_message">Salvo com sucesso</string>
     <string name="search">Notas</string>
     <string name="search_hint">Procurar notas</string>
     <string name="search_keyword_notes">Notas;Notas</string>
@@ -757,7 +757,7 @@
     <string name="search_path_notes">Apps do sistema/Notas</string>
     <string name="search_setting_description">Procurar texto em suas notas</string>
     <string name="select_account_prompt">Sincronizar notas</string>
-    <string name="select_up_limit_toast">Select up to %d items</string>
+    <string name="select_up_limit_toast">Selecione até %d itens</string>
     <string name="send">Enviar</string>
     <string name="set_alarm_description">Definir alarme</string>
     <string name="setting_big_screen_layout_columns">Barra Lateral</string>

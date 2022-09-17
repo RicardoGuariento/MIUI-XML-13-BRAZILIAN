@@ -32,8 +32,8 @@
     <string name="afternoon">"PM"</string>
     <string name="am">"AM"</string>
     <string name="app_name">"MIUI+"</string>
-    <string name="app_no_storage_permission">Allow %1$s to access storage in Settings > Apps > %2$s > Permissions first</string>
-    <string name="app_opened_in_new_window">Opened this app in a new window</string>
+    <string name="app_no_storage_permission">Permita %1$s para acessar o armazenamento em Configurações > Aplicativos > %2$s > Permissões primeiro</string>
+    <string name="app_opened_in_new_window">Abriu este aplicativo em uma nova janela</string>
     <string name="cancel">Cancelar</string>
     <string name="cast_mcc_tips_button_cancel">Ignorar</string>
     <string name="cast_mcc_tips_button_ok">Configurações</string>
@@ -304,7 +304,7 @@ Feche esta página e tente novamente."</string>
     <string name="screen_num_over_limit">"Não é possível abrir mais janelas"</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="send">Enviar</string>
-    <string name="settings_bluetooth_enable_summary">Turn on Bluetooth to be able to find devices nearby. Turn on now?</string>
+    <string name="settings_bluetooth_enable_summary">Ative o Bluetooth para encontrar dispositivos próximos. Ligue agora?</string>
     <string name="settings_connect">Como conectar</string>
     <string name="settings_connect_more_help"><u>Ajuda</u></string>
     <string name="settings_connect_pc_group">Trabalhe com seu computador</string>
@@ -325,7 +325,7 @@ Feche esta página e tente novamente."</string>
     <string name="settings_feature_intro">Sobre este recurso</string>
     <string name="settings_feature_keep_screen_summary">Mantenha seu dispositivo desbloqueado para evitar desconexões inesperadas</string>
     <string name="settings_feature_keep_screen_title">Não bloquear a tela</string>
-    <string name="settings_handoff_enable_bluetooth">Turn on Bluetooth to find devices nearby</string>
+    <string name="settings_handoff_enable_bluetooth">Ative o Bluetooth para encontrar dispositivos próximos</string>
     <string name="settings_history">Histórico de conexão</string>
     <string name="settings_history_clear">Limpar</string>
     <string name="settings_history_clear_dialog_title">Limpar histórico de conexão agora?</string>

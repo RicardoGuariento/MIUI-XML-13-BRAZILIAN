@@ -1648,8 +1648,8 @@ d 'de' MMMM"</string>
     <string name="miui_notification_menu_snooze">Suspender</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
     <string name="miui_notification_menu_unfold">Marque como importante</string>
-    <string name="miui_notification_slide_menu_msg_ongoing">Restrict permanent notifications for \"%1$s\" now?</string>
-    <string name="miui_notification_slide_menu_ongoing">Restrict permanent notifications</string>
+    <string name="miui_notification_slide_menu_msg_ongoing">Restringir notificações permanentes para \"%1$s\" agora?</string>
+    <string name="miui_notification_slide_menu_ongoing">Restringir notificações permanentes</string>
     <string name="miui_ringer_count_down">Contagem regressiva</string>
     <string name="miui_ringer_standard">Silencioso</string>
     <string name="miui_ringer_standard_description">Silenciar toques para chamadas e notificações recebidas</string>
