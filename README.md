@@ -19,6 +19,7 @@ For more info, visit:
 - [@dio_s](https://t.me/dio_s) 
 - [@rickguariento](https://t.me/rickguariento) 
 - [@Kircheiss](https://t.me/Kircheiss)
+- Feurrado
 
 ##### Credits:
 - ingbrzy [miuios.cz](https://miuios.cz) 
