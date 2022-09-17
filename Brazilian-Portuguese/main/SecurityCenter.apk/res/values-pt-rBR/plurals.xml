@@ -238,12 +238,12 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="one">%d mensagem</item>
     </plurals>
     <plurals name="gamebooster_push_expiring_soon_link_message">
-        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
-        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
+        <item quantity="other">Sua assinatura do Game Turbo expirará em %d dias.</item>
+        <item quantity="one">Sua assinatura do Game Turbo expirará em in %d dias.</item>
     </plurals>
     <plurals name="gamebooster_push_expiring_soon_message">
-        <item quantity="other">Your Game Turbo membership will expire in %d days. Renew now to enjoy seamless gaming.</item>
-        <item quantity="one">Your Game Turbo membership will expire in %d day. Renew now to enjoy seamless gaming.</item>
+        <item quantity="other">Sua assinatura do Game Turbo expirará em %d days. Renove agora para desfrutar de jogos sem interrupções.</item>
+        <item quantity="one">Sua assinatura do Game Turbo expirará em %d day. Renove agora para desfrutar de jogos sem interrupções.</item>
     </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d pessoas estão jogando</item>
