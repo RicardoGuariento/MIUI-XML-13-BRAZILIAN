@@ -578,7 +578,7 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
     <string name="allow_oaid_used">Usar a ID Virtual</string>
     <string name="allow_oaid_used_desc">A MIUI fornecerá a ID Virtual (OAID) aos apps instalados. Alguns recursos de recomendação pessoal podem não funcionar corretamente em decorrer disso.</string>
-    <string name="allow_ongoing_title">Allow permanent notifications</string>
+    <string name="allow_ongoing_title">Permitir notificações permanentes</string>
     <string name="allow_overlay_description">Permite que este app seja sobreposto a outros apps que você esteja usando. Este app será capaz de ver ou alterar o que é exibido na tela.</string>
     <string name="allow_sound_title">Permitir som</string>
     <string name="allow_vibrate_title">Permitir vibração</string>

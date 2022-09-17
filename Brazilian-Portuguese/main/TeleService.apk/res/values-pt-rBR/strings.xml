@@ -1798,8 +1798,8 @@ Entre em contato com suas operadoras"</string>
     <string name="no_vm_number">Número do correio de voz ausente</string>
     <string name="no_vm_number_msg">Não há um número de correio de voz armazenado no cartão SIM.</string>
     <string name="no_voip">Chamadas SIP não são suportadas</string>
-    <string name="no_volte_call_service_notification_content2_for_cbn">"Can't make calls. HD voice service isn't registered for SIM %d (China Broadnet)."</string>
-    <string name="no_volte_call_service_notification_content_for_cbn">"Can't make calls. HD voice service isn't registered for China Broadnet SIM."</string>
+    <string name="no_volte_call_service_notification_content2_for_cbn">"Não é possível fazer chamadas. O serviço de voz HD não está registrado para o SIM %d (China Broadnet)."</string>
+    <string name="no_volte_call_service_notification_content_for_cbn">"Não é possível fazer chamadas. O serviço de voz HD não está registrado para China Broadnet SIM."</string>
     <string name="no_wifi_available">Você precisa estar conectado a uma rede Wi-Fi para chamadas SIP (use o Wi-Fi nas Configurações de rede).</string>
     <string name="noon">"PM"</string>
     <string name="not_a_valid_port">O número da porta deve estar entre %1$d e %2$d.</string>
