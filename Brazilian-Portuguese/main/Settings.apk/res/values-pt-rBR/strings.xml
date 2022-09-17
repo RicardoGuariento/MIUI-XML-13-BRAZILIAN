@@ -1882,7 +1882,7 @@ Você pode desativar este recurso em Configurações > Bluetooth > Dispositivos 
     <string name="bt_absVolume_open_dialog_title">Atenção</string>
     <string name="bt_absVolume_pre_title">Volume absoluto</string>
     <string name="bt_absVolume_summary">Mantém o volume dos dispositivos Bluetooth e do telefone estritamente consistente. Você pode ativar e desativar este recurso quando a mídia não estiver tocando em 2º plano.</string>
-    <string name="bt_always_show_icon">Always show status bar icon</string>
+    <string name="bt_always_show_icon">Sempre mostrar o ícone da barra de status</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">O aptX Adaptive fornecerá reprodução de alta qualidade e diminuirá a latência de áudio para jogos e vídeos, aumentando o consumo de energia. A reprodução pode ser interrompida devido a limitações de hardware Bluetooth e interferência ambiental.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">Mudar para o aptX adaptável?</string>
     <string name="bt_audio_repair_property">Corrigir problemas de áudio</string>
