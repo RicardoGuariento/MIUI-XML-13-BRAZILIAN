@@ -73,8 +73,8 @@ Para compreender totalmente os seus direitos como usuário, bem como as maneiras
     <string name="account_setting_message_body_load_head_only">Apenas o cabeçalho</string>
     <string name="account_setting_message_body_load_text">Apenas o corpo</string>
     <string name="account_settings_action">Configurações da conta</string>
-    <string name="account_settings_background_attachments_security_summary">Check attachments containing installation packages for security risks</string>
-    <string name="account_settings_background_attachments_security_title">Check attachments for risks</string>
+    <string name="account_settings_background_attachments_security_summary">Verifique os anexos contendo pacotes de instalação quanto a riscos de segurança</string>
+    <string name="account_settings_background_attachments_security_title">Verifique os anexos quanto a riscos</string>
     <string name="account_settings_background_attachments_summary">Download de anexos usando Wi-Fi</string>
     <string name="account_settings_background_attachments_summary_inter">Download de anexos usando Wi-Fi</string>
     <string name="account_settings_background_attachments_title">Baixar anexos automaticamente</string>
@@ -284,10 +284,10 @@ IMAP"</string>
     <string name="attachment_unknown">Arquivo %s</string>
     <string name="attachment_video">Vídeo</string>
     <string name="attachments_header">Anexos</string>
-    <string name="attachments_security_alert_install_message">This attachment is an installation package. Make sure you trust the source before opening it. Install now?</string>
+    <string name="attachments_security_alert_install_message">Este anexo é um pacote de instalação. Certifique-se de confiar na fonte antes de abri-la. Instale agora?</string>
     <string name="attachments_security_alert_install_title">Atenção!</string>
-    <string name="attachments_security_alert_message">This message contains an installation package. Make sure you trust the source before opening it.</string>
-    <string name="attachments_security_install">Install</string>
+    <string name="attachments_security_alert_message">Esta mensagem contém um pacote de instalação. Certifique-se de confiar na fonte antes de abri-la.</string>
+    <string name="attachments_security_install">Instalar</string>
     <string name="attendee_needed">Adicione pelo menos um convidado.</string>
     <string name="auto_advance_help_title">Ao excluir um e-mail, ir para…</string>
     <string name="auto_advance_label">Tela após excluir e-mails</string>
@@ -374,7 +374,7 @@ IMAP"</string>
     <string name="click_to_reload">Toque na tela para atualizar</string>
     <string name="close">Fechar</string>
     <string name="close_custom_folder">Ocultar subpastas</string>
-    <string name="close_tips">Close reminder</string>
+    <string name="close_tips">Fechar lembrete</string>
     <string name="collapse_recipient_details">Recolher detalhes do destinatário</string>
     <string name="compose">Escrever</string>
     <string name="compose_add_attachment_permission_denied">Não é possível encaminhar e-mail. São necessárias permissões para acessar o armazenamento externo.</string>
@@ -1003,7 +1003,7 @@ Esse problema pode ser causado pela autenticação de dois fatores da conta. Ten
     <string name="message_decode_error">Não é possível decodificar a mensagem</string>
     <string name="message_discarded">Rascunho descartado</string>
     <string name="message_invite_accept">Sim</string>
-    <string name="message_invite_calendar_download_prompt">Download Calendar to be able to use this feature</string>
+    <string name="message_invite_calendar_download_prompt">Baixe o Calendário para poder usar este recurso</string>
     <string name="message_invite_calendar_view">Ver na Agenda</string>
     <string name="message_invite_decline">Não</string>
     <string name="message_invite_end_time">Hora de término</string>
