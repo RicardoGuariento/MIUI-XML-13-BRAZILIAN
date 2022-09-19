@@ -237,9 +237,9 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="assistant_page_discovery">Descubra</string>
     <string name="assistant_page_label">Memórias</string>
     <string name="assistant_page_server_error">Verifique suas configurações de rede</string>
-    <string name="assistant_today_of_year_function_closed_tip">Turn on</string>
-    <string name="assistant_today_of_year_function_no_address_tip">Back in time</string>
-    <string name="assistant_today_of_year_function_no_photo_tip">Start</string>
+    <string name="assistant_today_of_year_function_closed_tip">Ligar</string>
+    <string name="assistant_today_of_year_function_no_address_tip">De volta no tempo</string>
+    <string name="assistant_today_of_year_function_no_photo_tip">Iniciar</string>
     <string name="associate_face_album">Escolha um álbum</string>
     <string name="asus">"Asus"</string>
     <string name="asus_phone">"Asus"</string>
@@ -264,8 +264,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="baby_album_new_photo_remind">Novas fotos em seu Álbum do bebê.</string>
     <string name="baby_album_setting_title">Informações do bebê</string>
     <string name="baby_album_settings">Configurações do álbum do bebê</string>
-    <string name="baby_album_sharer_accept_dialog_msg">"%2$s de %1$s,
-%4$s de %3$s compartilhou o álbum de %5$s com você"</string>
+    <string name="baby_album_sharer_accept_dialog_msg">"%2$s de %1$s, %4$s de %3$s compartilhou o álbum de %5$s com você"</string>
     <string name="baby_album_sharer_recommand_face">Adicionar fotos existentes de %1$s?</string>
     <string name="baby_album_sharers_page_title">Compartilhar com familiares</string>
     <string name="baby_birthday">Aniversário</string>
@@ -611,7 +610,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="crop_label">Fotos cortadas</string>
     <string name="cta_agreement_declare"><Data>Para compreender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este app.</Data></string>
     <string name="cta_network_declare">Para sincronizar fotos e vídeos com nuvem, este app precisa se conectar à internet.</string>
-    <string name="cta_screenthrow_declare">"To be able to cast this device's screen to external monitors, this app needs to connect to the internet."</string>
+    <string name="cta_screenthrow_declare">"Para poder transmitir a tela deste dispositivo para monitores externos, este aplicativo precisa se conectar à Internet."</string>
     <string name="custom_select_title_deselect_all">Desmarcar</string>
     <string name="custom_select_title_quickly_share">Compartilhar</string>
     <string name="custom_select_title_select_all">Selecionar tudo</string>
@@ -1183,8 +1182,8 @@ estão disponíveis"</string>
     <string name="home_page_empty_action">Tirar uma foto</string>
     <string name="home_page_empty_action_new">Importar do dispositivo antigo</string>
     <string name="home_page_label">Fotos</string>
-    <string name="home_sdcard_op_tip_msg">"Couldn't complete this action for all selected images. Unmount and mount your SD card again."</string>
-    <string name="home_sdcard_tip_msg">Looks like your SD card is read-only. Unmount and mount it again in Settings > About phone > Storage.</string>
+    <string name="home_sdcard_op_tip_msg">"Não foi possível concluir esta ação para todas as imagens selecionadas. Desmonte e monte seu cartão SD novamente."</string>
+    <string name="home_sdcard_tip_msg">Parece que seu cartão SD é somente leitura. Desmonte e monte-o novamente em Configurações > Sobre o telefone > Armazenamento.</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Pular</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">"OK"</string>
     <string name="homepage_allphotos_tip_dialog_description_all">Tudo</string>
@@ -1706,8 +1705,8 @@ para personalizar a Galeria"</string>
     <string name="ocr_save_to_note">Salvar</string>
     <string name="ocr_save_to_note_new">Salvar em Notas</string>
     <string name="ocr_send">Compartilhar</string>
-    <string name="ocr_switch_hint">Recognize text displayed on images to be able to select it or take action</string>
-    <string name="ocr_switch_title">Recognize text on images</string>
+    <string name="ocr_switch_hint">Reconhecer o texto exibido nas imagens para poder selecioná-lo ou agir</string>
+    <string name="ocr_switch_title">Reconhecer texto em imagens</string>
     <string name="ocr_text_copied">Copiado com sucesso</string>
     <string name="ocr_text_copied_selected">Copiado com sucesso</string>
     <string name="ocr_text_link">"URL"</string>
