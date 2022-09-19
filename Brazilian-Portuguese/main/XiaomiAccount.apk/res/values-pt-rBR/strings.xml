@@ -130,11 +130,11 @@ Você pode fazer o login com sua Conta Mi usando %s agora."</string>
     <string name="close">Fechar</string>
     <string name="cloud_description_closed">Ocupado | Sincronização desativada</string>
     <string name="cloud_description_normal">Ocupado</string>
-    <string name="cloud_member">Membership</string>
-    <string name="cloud_member_status_expired">Expired</string>
-    <string name="cloud_member_status_expired_soon">Expires soon</string>
+    <string name="cloud_member">Assinatura</string>
+    <string name="cloud_member_status_expired">Expirado</string>
+    <string name="cloud_member_status_expired_soon">Expira logo</string>
     <string name="cloud_member_status_non_vip">Upgrade</string>
-    <string name="cloud_member_vipname_free">Free</string>
+    <string name="cloud_member_vipname_free">Grátis</string>
     <string name="cloud_member_vipname_mega">Mega</string>
     <string name="cloud_member_vipname_premium">Premium</string>
     <string name="cloud_member_vipname_ultra">Ultra</string>
@@ -720,7 +720,7 @@ Envie este código para o supervisor."</string>
     <string name="passport_vcode_notification_title">Sua verificação de login está incompleta</string>
     <string name="passport_vcode_prompt_long">Digite o código de verificação</string>
     <string name="passport_vcode_sms_send_prompt">Enviar código de verificação para %s</string>
-    <string name="passport_vcode_what_app_send_prompt">Your WhatsApp verification code will be delivered to your recovery phone &lt;font color=#1F93FF>%s&lt;/font></string>
+    <string name="passport_vcode_what_app_send_prompt">Seu código de verificação do WhatsApp será enviado para seu telefone de recuperação &lt;font color=#1F93FF>%s&lt;/font></string>
     <string name="passport_verification_failed">Não foi possível verificar a conta</string>
     <string name="passport_verify">Verificar</string>
     <string name="passport_verifying_activator_phone">Verificando segurança do telefone…</string>

@@ -48,15 +48,15 @@
     <string name="btn_recall_text_ok_timer">Retirar</string>
     <string name="camera">Câmera</string>
     <string name="cancel">Cancelar</string>
-    <string name="cancel_mi_drive">Cancel services</string>
-    <string name="cancel_mi_drive_alert_description">"Clear all items from Mi Drive to be able to cancel services. Follow these steps to clear items:&lt;br />1. On the Mi Drive start page, press and hold an item to make the \"Select all\" button appear. Use this button to select up to 200 files at a time and delete them.&lt;br />2. Once you've deleted all items, clear all files from Recently deleted items."</string>
-    <string name="cancel_mi_drive_alert_reminder_card_summary">"1. We recommend backing up your items before deleting them. To do so, visit i.mi.com, click Mi Drive, and download your items to a computer.&lt;br />2. Please note that items cleared from your Recently deleted items can't be recovered afterwards."</string>
-    <string name="cancel_mi_drive_confirm_button">Cancel services</string>
-    <string name="cancel_mi_drive_confirm_description">"If you continue, you'll cancel Mi Drive services. We will cease to collect your personal information, and the personal information already collected and retained will be deleted within the specified period in accordance with applicable laws and regulations unless required otherwise."</string>
-    <string name="cancel_mi_drive_confirm_hint">"Canceling Mi Drive services won't affect your use of other Xiaomi products and services. If you want to delete your Xiaomi Account, you can do that &lt;font color=#0097FF>&lt;a href=%1$s>here&lt;/a>&lt;/font>."</string>
-    <string name="cancel_mi_drive_confirm_reminder_card_summary">&lt;font color=#F22424>The following items will be deleted permanently after cancellation of services:&lt;/font>&lt;br />1. All items on Mi Drive, including but not limited to documents, private files, and deleted items.&lt;br />2. Device permissions, settings, and other cached content.&lt;br />3. Mi Drive upload and download history.</string>
-    <string name="cancel_mi_drive_success">Canceled services successfully</string>
-    <string name="cancel_mi_drive_title">Cancel services</string>
+    <string name="cancel_mi_drive">Cancelar serviços</string>
+    <string name="cancel_mi_drive_alert_description">"Limpe todos os itens do Mi Drive para poder cancelar os serviços. Siga estas etapas para limpar itens:&lt;br />1. Na página inicial do Mi Drive, pressione e segure um item para que o botão \"Selecionar tudo\" apareça. Use este botão para selecionar até 200 arquivos por vez e excluí-los.&lt;br />2. Depois de excluir todos os itens, limpe todos os arquivos de Itens excluídos recentemente."</string>
+    <string name="cancel_mi_drive_alert_reminder_card_summary">"1. Recomendamos fazer backup de seus itens antes de excluí-los. Para fazer isso, visite i.mi.com, clique em Mi Drive e baixe seus itens para um computador.&lt;br />2. Observe que os itens apagados de seus itens excluídos recentemente não podem ser recuperados posteriormente."</string>
+    <string name="cancel_mi_drive_confirm_button">Cancelar serviços</string>
+    <string name="cancel_mi_drive_confirm_description">"Se continuar, você cancelará os serviços do Mi Drive. Deixaremos de coletar suas informações pessoais, e as informações pessoais já coletadas e retidas serão excluídas dentro do período especificado de acordo com as leis e regulamentos aplicáveis, a menos que exigido de outra forma."</string>
+    <string name="cancel_mi_drive_confirm_hint">"Cancelar os serviços do Mi Drive não afetará o uso de outros produtos e serviços da Xiaomi. Se você deseja excluir sua conta Xiaomi, você pode fazer isso &lt;font color=#0097FF>&lt;a href=%1$s>here&lt;/a>&lt;/font>."</string>
+    <string name="cancel_mi_drive_confirm_reminder_card_summary">&lt;font color=#F22424>Os seguintes itens serão excluídos permanentemente após o cancelamento dos serviços:&lt;/font>&lt;br />1. Todos os itens no Mi Drive, incluindo, entre outros, documentos, arquivos privados e itens excluídos.&lt;br />2. Permissões do dispositivo, configurações e outros conteúdos em cache.&lt;br />3. Histórico de upload e download do Mi Drive.</string>
+    <string name="cancel_mi_drive_success">Serviços cancelados com sucesso</string>
+    <string name="cancel_mi_drive_title">Cancelar serviços</string>
     <string name="category_document">Documentos</string>
     <string name="category_document_title">Documentos</string>
     <string name="category_file">Arquivos</string>
@@ -432,16 +432,16 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="preview">Pré-visualização</string>
     <string name="privacy_policy">Política de Privacidade</string>
-    <string name="privacy_recall_alert_description">"Clear all items from Mi Drive to be able to withdraw consent. Follow these steps to clear items:&lt;br />1. On the Mi Drive start page, press and hold an item to make the \"Select all\" button appear. Use this button to select up to 200 files at a time and delete them.&lt;br />2. Once you've deleted all items, clear all files from Recently deleted items."</string>
-    <string name="privacy_recall_alert_reminder_card_summary">"1. We recommend backing up your items before deleting them. To do so, visit i.mi.com, click Mi Drive, and download your items to a computer.&lt;br />2. Please note that items cleared from your Recently deleted items can't be recovered afterwards."</string>
-    <string name="privacy_recall_confirm_button">Withdraw consent</string>
-    <string name="privacy_recall_confirm_description">"If you continue, you'll withdraw your consent to the Privacy Policy of Mi Drive. We will cease to collect your personal information, and the personal information already collected and retained will be deleted within the specified period in accordance with applicable laws and regulations unless required otherwise."</string>
-    <string name="privacy_recall_confirm_reminder_card_summary">&lt;font color=#F22424>The following items will be deleted permanently after withdrawal of consent:&lt;/font>&lt;br />1. All items on Mi Drive, including but not limited to documents, private files, and deleted items.&lt;br />2. Device permissions, settings, and other cached content.&lt;br />3. Mi Drive upload and download history.</string>
+    <string name="privacy_recall_alert_description">"Limpe todos os itens do Mi Drive para poder retirar o consentimento. Siga estas etapas para limpar itens:&lt;br />1. Na página inicial do Mi Drive, pressione e segure um item para que o botão \"Selecionar tudo\" apareça. Use este botão para selecionar até 200 arquivos por vez e excluí-los.&lt;br />2. Depois de excluir todos os itens, limpe todos os arquivos de Itens excluídos recentemente."</string>
+    <string name="privacy_recall_alert_reminder_card_summary">"1. Recomendamos fazer backup de seus itens antes de excluí-los. Para fazer isso, visite i.mi.com, clique em Mi Drive e baixe seus itens para um computador.&lt;br />2. Observe que os itens apagados de seus itens excluídos recentemente não podem ser recuperados posteriormente."</string>
+    <string name="privacy_recall_confirm_button">Retirada de consentimento</string>
+    <string name="privacy_recall_confirm_description">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Mi Drive. Deixaremos de coletar suas informações pessoais, e as informações pessoais já coletadas e retidas serão excluídas dentro do período especificado de acordo com as leis e regulamentos aplicáveis, a menos que exigido de outra forma."</string>
+    <string name="privacy_recall_confirm_reminder_card_summary">&lt;font color=#F22424>Os seguintes itens serão excluídos permanentemente após a retirada do consentimento:&lt;/font>&lt;br />1. Todos os itens no Mi Drive, incluindo, entre outros, documentos, arquivos privados e itens excluídos.&lt;br />2. Permissões do dispositivo, configurações e outros conteúdos em cache.&lt;br />3. Histórico de upload e download do Mi Drive.</string>
     <string name="privacy_recall_dialog_msg">"Se você continuar, retirará seu consentimento com a Política de Privacidade do Mi Drive. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. Como o Mi Drive fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços do Mi Drive. Retirar consentimento agora?"</string>
     <string name="privacy_recall_dialog_title">Retirada de consentimento</string>
-    <string name="privacy_recall_success">Consent withdrawn successfully</string>
-    <string name="privacy_recall_title">Withdrawal of consent</string>
-    <string name="privacy_recalling">Withdrawing consent…</string>
+    <string name="privacy_recall_success">Consentimento retirado com sucesso</string>
+    <string name="privacy_recall_title">Retirada de consentimento</string>
+    <string name="privacy_recalling">Retirar consentimento...</string>
     <string name="privacy_update_dialog_msg">A Política de privacidade do Mi Drive foi atualizada:&lt;br/>%1$s&lt;br/>Leia e aceite a nova versão da &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de continuar.</string>
     <string name="privacy_update_dialog_title">Política de privacidade atualizada</string>
     <string name="privacy_user_notice_dialog_exit_btn_text">Sair</string>
@@ -452,8 +452,8 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
     <string name="private_empty_sub_desc">Tente mover os arquivos aqui ou envie-os diretamente.</string>
     <string name="private_folder_name">Arquivos privados</string>
     <string name="ptp_ai_recommend_empty_page">Não há PDFs gerados automaticamente aqui</string>
-    <string name="query_quota_exception">A server error occurred. Wait a minute or two and try again.</string>
-    <string name="query_quota_searching">Just a sec…</string>
+    <string name="query_quota_exception">Ocorreu um erro no servidor. Aguarde um ou dois minutos e tente novamente.</string>
+    <string name="query_quota_searching">Um momento...</string>
     <string name="recent_file">Recentes</string>
     <string name="recent_jump_to_privacy_fail_notice">Este arquivo é privado. Volte para a página inicial e puxe para visualizar</string>
     <string name="refresh_label_pull_to_refresh">Puxe para baixo para atualizar</string>

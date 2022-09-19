@@ -826,7 +826,7 @@ Seleção"</string>
     <string name="data_enable_warning">Permitir o uso contínuo de dados móveis pode gerar tarifas adicionais fora do plano da sua operadora. Conectar mesmo assim?</string>
     <string name="data_enabled">Dados móveis</string>
     <string name="data_interruption_remind">Parece que seu ambiente de rede não é confiável. Para melhorar a conexão, permita que seu dispositivo use dados móveis durante chamadas VoLTE no SIM secundário.</string>
-    <string name="data_interruption_remind_for_t">"Looks like your network environment isn't reliable. To improve connection, allow your device to use mobile data during VoLTE calls on the secondary SIM."</string>
+    <string name="data_interruption_remind_for_t">"Parece que seu ambiente de rede não é confiável. Para melhorar a conexão, permita que seu dispositivo use dados móveis durante chamadas VoLTE no SIM secundário."</string>
     <string name="data_plan">Planos de dados móveis</string>
     <string name="data_usage_disable_mobile">Desativar os dados móveis?</string>
     <string name="data_usage_ota">Atualizações do sistema</string>
@@ -2477,9 +2477,9 @@ Por favor, confirme a configuração da sua conta de chamada padrão."</string>
     <string name="smart_forwarding_settings_menu">Encaminhamento inteligente</string>
     <string name="smart_forwarding_settings_menu_summary">Quando um número não estiver acessível, sempre encaminhe as chamadas para o outro número</string>
     <string name="smart_multinetwork_acceleration_title">Aceleração de rede inteligente</string>
-    <string name="smart_switch_dual_sim_prompt">Connecting to mobile data network using SIM %1$s may generate additional data fees. Set a data usage limit to avoid additional fees.</string>
-    <string name="smart_switch_dual_sim_summary">Switch between data SIM cards automatically based on network connection quality and device status</string>
-    <string name="smart_switch_dual_sim_title">Switch between data SIM cards</string>
+    <string name="smart_switch_dual_sim_prompt">Conectar-se à rede de dados móveis usando o SIM %1$s pode gerar taxas de dados adicionais. Defina um limite de uso de dados para evitar taxas adicionais.</string>
+    <string name="smart_switch_dual_sim_summary">Alterne entre os cartões SIM de dados automaticamente com base na qualidade da conexão de rede e no status do dispositivo</string>
+    <string name="smart_switch_dual_sim_title">Alternar entre cartões SIM de dados</string>
     <string name="sms_messages_title">"SMS"</string>
     <string name="smsc_dialog_message">Certifique-se de que o número inserido está correto. Caso contrário, você não conseguirá enviar ou receber SMS. Entre em contato com a sua operadora para confirmar o número SMSC.</string>
     <string name="srvcc_message">A chamada de voz 4G foi rebaixada para 2G/3G porque a rede 4G não está disponível.</string>
