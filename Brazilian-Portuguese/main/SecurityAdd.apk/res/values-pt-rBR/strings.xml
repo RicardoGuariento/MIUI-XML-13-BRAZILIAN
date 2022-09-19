@@ -368,8 +368,8 @@
     <string name="pc_activity_title">Otimizar bateria</string>
     <string name="pm">"PM"</string>
     <string name="pm_lable_name">Sobre o acesso root</string>
-    <string name="power_center_battery_duration_screen_on">Screen time remaining</string>
-    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s of screen time remaining</string>
+    <string name="power_center_battery_duration_screen_on">Tempo de tela restante</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s do tempo de tela restante</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="privacy_declare_dialog_title">Termos de Serviço</string>
     <string name="privacy_prompt_traffic_purchase_message">Seu número de telefone e detalhes da operadora serão criptografados e enviados para os servidores da Mi para obtermos mais informações de opções de compra de dados.</string>
