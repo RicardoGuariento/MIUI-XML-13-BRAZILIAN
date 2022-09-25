@@ -173,7 +173,7 @@
     <string name="head_set_tip_dialog_title">Usar microfone interno</string>
     <string name="icon_content_description">Ícone de caixa de diálogo</string>
     <string name="invalid_argument">Argumento inválido</string>
-    <string name="invisible_mode_error_tip">Desative o Modo incógnito nas Configurações para poder usar o microfone</string>
+    <string name="invisible_mode_error_tip">Desative o Modo anônimo nas Configurações para poder usar o microfone</string>
     <string name="item_view_role_description">Guia</string>
     <string name="keywords_search_call_record">Gravar chamadas;Gravar chamada;Gravação de chamada;Gravação de chamadas</string>
     <string name="keywords_search_record">Nova gravação;Adicionar gravação;Gravação;Gravações;Transcrição;Transcrever;Gravador;Gravador de voz;Gravador de áudio;App de gravação;App de gravações;Como gravar;Como gravar áudio;Onde está o gravador;Gravador MIUI</string>

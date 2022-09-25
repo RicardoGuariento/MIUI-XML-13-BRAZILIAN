@@ -165,7 +165,7 @@
     <string name="cetus_invisible_mode_notice_audio">Você está no Modo anônimo. Não é possível usar o microfone agora.</string>
     <string name="cetus_invisible_mode_notice_camera">Você está no Modo anônimo. Não é possível usar a câmera agora.</string>
     <string name="cetus_invisible_mode_notice_location">Você está no Modo anônimo. Não é possível usar os serviços de localização agora.</string>
-    <string name="cetus_invisible_mode_notice_tip">Toque para desativar o Modo incógnito nas Configurações</string>
+    <string name="cetus_invisible_mode_notice_tip">Toque para desativar o Modo anônimo nas Configurações</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="clipboard_ai_allow_once">Permitiu %1$s acessar sua área de transferência automaticamente</string>
     <string name="clipboard_data">"Conteúdo: "</string>

@@ -758,8 +758,8 @@ Motivo: \"%s\""</string>
     <string name="invisible_mode_dialog_cancel">Cancelar</string>
     <string name="invisible_mode_dialog_to_close">Desativar</string>
     <string name="invisible_mode_title">"Você está incógnito"</string>
-    <string name="invisible_mode_unable_connect_camera">Desative o Modo incógnito para poder usar a câmera. Desativar agora?</string>
-    <string name="invisible_mode_unable_get_location">Desative o Modo incógnito para poder usar os serviços de localização e importar contatos de outros dispositivos via Bluetooth. Desativar agora?</string>
+    <string name="invisible_mode_unable_connect_camera">Desative o Modo anônimo para poder usar a câmera. Desativar agora?</string>
+    <string name="invisible_mode_unable_get_location">Desative o Modo anônimo para poder usar os serviços de localização e importar contatos de outros dispositivos via Bluetooth. Desativar agora?</string>
     <string name="item_offical">Oficial</string>
     <string name="keep_local">Não sincronizar</string>
     <string name="keep_local_btn">Usar armazenamento interno do dispositivo</string>

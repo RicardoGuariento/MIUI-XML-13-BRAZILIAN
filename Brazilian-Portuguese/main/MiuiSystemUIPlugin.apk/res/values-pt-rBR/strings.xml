@@ -67,7 +67,7 @@
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
     <string name="close_invisible_mode_dialog_cancel">Cancelar</string>
-    <string name="close_invisible_mode_dialog_message">"Não é possível usar o Play inteligente Mi agora. Desative o Modo incógnito nas Configurações para poder usar esse recurso."</string>
+    <string name="close_invisible_mode_dialog_message">"Não é possível usar o Play inteligente Mi agora. Desative o Modo anônimo nas Configurações para poder usar esse recurso."</string>
     <string name="close_invisible_mode_dialog_ok">Configurações</string>
     <string name="close_invisible_mode_dialog_title">"Você está incógnito"</string>
     <string name="control_center_notification_switch_guide">Deslize para alternar entre o Centro de controle e a Área de notificações</string>
@@ -115,9 +115,9 @@
     <string name="controls_no_device_subtitle">Adicione dispositivos no %s primeiro.</string>
     <string name="controls_no_device_title">Não foi possível encontrar dispositivos</string>
     <string name="controls_no_favorites_title">Selecione apps para gerenciar dispositivos de casa inteligente aqui</string>
-    <string name="controls_not_found_device_toast">Este item foi removido no aplicativo</string>
-    <string name="controls_not_found_device_toast_mihome">Este item foi removido no aplicativo</string>
-    <string name="controls_offline_device_toast">Este dispositivo está off-line. Pressione e segure para abrir o aplicativo.</string>
+    <string name="controls_not_found_device_toast">Este item foi removido no app</string>
+    <string name="controls_not_found_device_toast_mihome">Este item foi removido no app</string>
+    <string name="controls_offline_device_toast">Este dispositivo está off-line. Pressione e segure para abrir o app.</string>
     <string name="controls_pin_instructions">Digite o PIN</string>
     <string name="controls_pin_instructions_retry">Tente outro PIN</string>
     <string name="controls_pin_use_alphanumeric">O PIN contém letras ou símbolos</string>

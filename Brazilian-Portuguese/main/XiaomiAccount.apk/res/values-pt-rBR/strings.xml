@@ -911,8 +911,8 @@ Envie este código para o supervisor."</string>
     <string name="used_cloud_storage_info">%s em uso</string>
     <string name="user_agreement_device_permission_desc">Para garantir a segurança do ambiente de login</string>
     <string name="user_agreement_device_permission_title">Acessar informações do dispositivo</string>
-    <string name="user_agreement_must_permission_msg">Permissões obrigatórias (usadas para recursos e serviços básicos deste aplicativo)</string>
-    <string name="user_agreement_network_permission_msg">Este aplicativo precisa se conectar à Internet e requer as seguintes permissões para funcionar normalmente:</string>
+    <string name="user_agreement_must_permission_msg">Permissões obrigatórias (usadas para recursos e serviços básicos deste app)</string>
+    <string name="user_agreement_network_permission_msg">Este app precisa se conectar à Internet e requer as seguintes permissões para funcionar normalmente:</string>
     <string name="user_agreement_permission_summary_msg">Xiaomi Account allows you to access all of the services provided by Xiaomi. This app needs to connect to the internet and requires the following permissions to be able to work normally:</string>
     <string name="user_agreement_use_account_msg">A Conta Mi permite que você acesse todos os serviços fornecidos pela Xiaomi.</string>
     <string name="user_agreement_wifi_permission_title">Ativar e desativar o Wi-Fi</string>

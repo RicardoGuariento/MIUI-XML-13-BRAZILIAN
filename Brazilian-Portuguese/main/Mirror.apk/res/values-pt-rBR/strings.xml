@@ -33,7 +33,7 @@
     <string name="am">"AM"</string>
     <string name="app_name">"MIUI+"</string>
     <string name="app_no_storage_permission">Permita %1$s para acessar o armazenamento em Configurações > Aplicativos > %2$s > Permissões primeiro</string>
-    <string name="app_opened_in_new_window">Abriu este aplicativo em uma nova janela</string>
+    <string name="app_opened_in_new_window">Abriu este app em uma nova janela</string>
     <string name="cancel">Cancelar</string>
     <string name="cast_mcc_tips_button_cancel">Ignorar</string>
     <string name="cast_mcc_tips_button_ok">Configurações</string>
@@ -134,10 +134,10 @@
     <string name="guide_window_title">Voltar</string>
     <string name="http_buffer_size">Tamanho do cache HTTP</string>
     <string name="invisible_mode_dialog_cancel">Cancelar</string>
-    <string name="invisible_mode_dialog_message">"Não é possível usar a combinação de tela do MIUI+ quando você está incógnito. Primeiro desative o Modo incógnito."</string>
+    <string name="invisible_mode_dialog_message">"Não é possível usar a combinação de tela do MIUI+ quando você está incógnito. Primeiro desative o Modo anônimo."</string>
     <string name="invisible_mode_dialog_positive">Desativar</string>
     <string name="invisible_mode_dialog_title">"Você está incógnito"</string>
-    <string name="invisible_mode_toast">Primeiro desative o Modo incógnito</string>
+    <string name="invisible_mode_toast">Primeiro desative o Modo anônimo</string>
     <string name="loading">Só um segundo…</string>
     <string name="loading_view_abort_close_text">Fechar</string>
     <string name="loading_view_abort_text">"A conexão expirou.

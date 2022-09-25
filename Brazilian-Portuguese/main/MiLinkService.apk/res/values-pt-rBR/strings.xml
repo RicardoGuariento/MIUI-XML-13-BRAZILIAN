@@ -250,8 +250,8 @@ Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus 
     <string name="help_page_text_55_global">"Se você não conseguir se conectar à rede, verifique se o monitor externo suporta a funcionalidade Miracast e se está ligado. Em alguns modelos, esse recurso é chamado de Display sem fios, Screen Mirroring ou Múltiplas telas.
 %1$d. Se encontrar algum problema, você pode relatá-lo usando nosso aplicativo \"Serviços e feedback\"."</string>
     <string name="help_page_text_end">Se o modelo do seu dispositivo não estiver listado aqui, entre em contato com o fabricante para saber mais sobre a funcionalidade de transmissão.</string>
-    <string name="invisible_mode_dialog_content">"Não é possível usar a transmissão quando você está no Modo incógnito. Desative o Modo incógnito primeiro."</string>
-    <string name="invisible_mode_dialog_content_audio_relay">"Não é possível transferir a reprodução quando você está no no Modo incógnito. Desative o Modo incógnito primeiro."</string>
+    <string name="invisible_mode_dialog_content">"Não é possível usar a transmissão quando você está no Modo anônimo. Desative o Modo anônimo primeiro."</string>
+    <string name="invisible_mode_dialog_content_audio_relay">"Não é possível transferir a reprodução quando você está no no Modo anônimo. Desative o Modo anônimo primeiro."</string>
     <string name="invisible_mode_dialog_pos">Desativar</string>
     <string name="invisible_mode_dialog_title">"Você está incógnito"</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidade</string>

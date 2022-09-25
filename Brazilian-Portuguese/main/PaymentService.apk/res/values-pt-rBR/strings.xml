@@ -160,7 +160,7 @@ Envie este código para o supervisor."</string>
     <string name="mibi_button_pay">Confirmar</string>
     <string name="mibi_button_reget">Reenviar</string>
     <string name="mibi_incognito_mode_dialog_cancel">Cancelar</string>
-    <string name="mibi_incognito_mode_dialog_summary_camera">Não é possível usar a câmera. Desative o Modo incógnito nas Configurações para poder usar a câmera.</string>
+    <string name="mibi_incognito_mode_dialog_summary_camera">Não é possível usar a câmera. Desative o Modo anônimo nas Configurações para poder usar a câmera.</string>
     <string name="mibi_incognito_mode_dialog_title">Você está incógnito</string>
     <string name="mibi_incognito_mode_dialog_to_close">Configurações</string>
     <string name="mibi_menu_qa_feedback">Perguntas frequentes e feedback</string>

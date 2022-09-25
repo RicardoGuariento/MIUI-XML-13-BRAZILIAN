@@ -537,11 +537,11 @@ Envie este código ao supervisor."</string>
     <string name="passport_copy_to_clipboard_successful">Copiado com sucesso</string>
     <string name="passport_delete_account">Sair</string>
     <string name="passport_dialog_captcha_title">Codigo</string>
-    <string name="passport_dialog_doing_login">Entrando...</string>
-    <string name="passport_dialog_doing_register">Criando conta...</string>
+    <string name="passport_dialog_doing_login">Entrando…</string>
+    <string name="passport_dialog_doing_register">Criando conta…</string>
     <string name="passport_dialog_is_my_account">Sim</string>
     <string name="passport_dialog_is_your_mi_account">Esta é a sua conta Xiaomi?</string>
-    <string name="passport_dialog_loading">Só um segundo...</string>
+    <string name="passport_dialog_loading">Só um segundo…</string>
     <string name="passport_dialog_nick_name_prefix">Apelido: %s</string>
     <string name="passport_dialog_phone_number_prefix">Número de telefone: %s</string>
     <string name="passport_dialog_register_other">"Não, vou criar um"</string>
@@ -644,7 +644,7 @@ Envie este código ao supervisor."</string>
     <string name="passport_unknow_network_error">Ocorreu um erro de rede</string>
     <string name="passport_user_agreement_link">&lt;Data>Eu li e aceito o &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> da Xiaomi.&lt;/Data></string>
     <string name="passport_user_agreement_link_more">&lt;Data>Eu li e aceito os seguintes documentos: o &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%4$s\">Política de Privacidade&lt;/a> da Xiaomi, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_id_hint">E-mail/número de telefone/ID da conta Xiaomi</string>
+    <string name="passport_user_id_hint">E-mail/número de telefone/ID da Conta Mi</string>
     <string name="passport_user_id_intro">Insira a senha para %1$s</string>
     <string name="passport_user_password_hint">Senha</string>
     <string name="passport_v_code_error">Código de verificação incorreto</string>

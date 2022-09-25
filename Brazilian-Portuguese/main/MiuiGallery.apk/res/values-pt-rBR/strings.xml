@@ -237,7 +237,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="assistant_page_discovery">Descubra</string>
     <string name="assistant_page_label">Memórias</string>
     <string name="assistant_page_server_error">Verifique suas configurações de rede</string>
-    <string name="assistant_today_of_year_function_closed_tip">Ligar</string>
+    <string name="assistant_today_of_year_function_closed_tip">Ativar</string>
     <string name="assistant_today_of_year_function_no_address_tip">De volta no tempo</string>
     <string name="assistant_today_of_year_function_no_photo_tip">Iniciar</string>
     <string name="associate_face_album">Escolha um álbum</string>
@@ -264,7 +264,8 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="baby_album_new_photo_remind">Novas fotos em seu Álbum do bebê.</string>
     <string name="baby_album_setting_title">Informações do bebê</string>
     <string name="baby_album_settings">Configurações do álbum do bebê</string>
-    <string name="baby_album_sharer_accept_dialog_msg">"%2$s de %1$s, %4$s de %3$s compartilhou o álbum de %5$s com você"</string>
+    <string name="baby_album_sharer_accept_dialog_msg">"%2$s de %1$s,
+%4$s de %3$s compartilhou o álbum de %5$s com você"</string>
     <string name="baby_album_sharer_recommand_face">Adicionar fotos existentes de %1$s?</string>
     <string name="baby_album_sharers_page_title">Compartilhar com familiares</string>
     <string name="baby_birthday">Aniversário</string>
@@ -1124,7 +1125,7 @@ estão disponíveis"</string>
     <string name="functions_are_being_developed">Este recurso estará disponível em breve. Fique atento!</string>
     <string name="gallery_setting">Configurações</string>
     <string name="gallery_sync_disable_toast">Sincronização desativada para a Galeria</string>
-    <string name="gallery_uninstall_description_content">"A Galeria é um aplicativo do sistema que permite visualizar, gerenciar e sincronizar fotos e vídeos em todos os dispositivos conectados. Se você desinstalar a Galeria, perderá os itens que tornou privados e outros recursos relacionados à visualização e seleção de itens da Galeria também serão não estará mais disponível para você. Desinstalar mesmo assim?"</string>
+    <string name="gallery_uninstall_description_content">"A Galeria é um app do sistema que permite visualizar, gerenciar e sincronizar fotos e vídeos em todos os dispositivos conectados. Se você desinstalar a Galeria, perderá os itens que tornou privados e outros recursos relacionados à visualização e seleção de itens da Galeria também serão não estará mais disponível para você. Desinstalar mesmo assim?"</string>
     <string name="gallery_uninstall_description_title">Desisntalar galeria?</string>
     <string name="generate_story_summary">Tire fotos suficientes, conecte o carregador e desligue a tela para que as memórias apareçam. As memórias já geradas não desaparecerão se você desativar esse recurso.</string>
     <string name="generate_story_title">Memórias</string>

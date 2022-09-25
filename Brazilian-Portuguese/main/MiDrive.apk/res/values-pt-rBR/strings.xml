@@ -441,7 +441,7 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
     <string name="privacy_recall_dialog_title">Retirada de consentimento</string>
     <string name="privacy_recall_success">Consentimento retirado com sucesso</string>
     <string name="privacy_recall_title">Retirada de consentimento</string>
-    <string name="privacy_recalling">Retirar consentimento...</string>
+    <string name="privacy_recalling">Retirando consentimento…</string>
     <string name="privacy_update_dialog_msg">A Política de privacidade do Mi Drive foi atualizada:&lt;br/>%1$s&lt;br/>Leia e aceite a nova versão da &lt;a href=%2$s>&lt;u>Política de Privacidade&lt;/u>&lt;/a> antes de continuar.</string>
     <string name="privacy_update_dialog_title">Política de privacidade atualizada</string>
     <string name="privacy_user_notice_dialog_exit_btn_text">Sair</string>
@@ -453,7 +453,7 @@ Verifique se você está usando a Conta Mi atual como sua conta do sistema MIUI.
     <string name="private_folder_name">Arquivos privados</string>
     <string name="ptp_ai_recommend_empty_page">Não há PDFs gerados automaticamente aqui</string>
     <string name="query_quota_exception">Ocorreu um erro no servidor. Aguarde um ou dois minutos e tente novamente.</string>
-    <string name="query_quota_searching">Um momento...</string>
+    <string name="query_quota_searching">Um momento…</string>
     <string name="recent_file">Recentes</string>
     <string name="recent_jump_to_privacy_fail_notice">Este arquivo é privado. Volte para a página inicial e puxe para visualizar</string>
     <string name="refresh_label_pull_to_refresh">Puxe para baixo para atualizar</string>

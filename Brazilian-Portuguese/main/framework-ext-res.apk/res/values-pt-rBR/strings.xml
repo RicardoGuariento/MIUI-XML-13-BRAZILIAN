@@ -212,8 +212,8 @@
     <string name="help_content">Se você não encontrar o dispositivo que está procurando, peça que a outra pessoa ative o Compartilhamento Mi.</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
-    <string name="hs_guide_dialog_button_confirm">Certo</string>
-    <string name="hs_guide_dialog_message">"Este aplicativo ainda não foi otimizado para o novo modo paisagem. Mude para um layout compatível diferente."</string>
+    <string name="hs_guide_dialog_button_confirm">Entendi</string>
+    <string name="hs_guide_dialog_message">"Este app ainda não foi otimizado para o novo modo paisagem. Mude para um layout compatível diferente."</string>
     <string name="hs_guide_dialog_title">Atenção!</string>
     <string name="icelatte">Café com leite</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Posicione seu dedo no botão Início</string>
@@ -349,7 +349,7 @@
     <string name="pc_redmi_device_model_name">Notebook Redmi</string>
     <string name="pc_xiaomi_device_model_name">Notebook Xiaomi</string>
     <string name="periodiccacheclear_notification_indefinite">O armazenamento foi limpo automaticamente para você.</string>
-    <string name="periodiccacheclear_notification_post">de armazenamento foi limpo automaticamente para você.</string>
+    <string name="periodiccacheclear_notification_post">" de armazenamento foi limpo automaticamente para você."</string>
     <string name="periodiccacheclear_notification_title">Smart Cleanup</string>
     <string name="perm_send_push_dspt">Permitir mensagens push Mi</string>
     <string name="perm_send_push_lab">Enviar mensagem push</string>
@@ -551,7 +551,7 @@ usar a câmera frontal"</string>
     <string name="turn_on_torch">Ligar lanterna</string>
     <string name="turn_on_work_profile">Ativar</string>
     <string name="twohours">1 hora</string>
-    <string name="under_keyguard">Tela desligada</string>
+    <string name="under_keyguard">Desligar a Tela</string>
     <string name="unknown_caller">Número desconhecido</string>
     <string name="unrecognized_manufacture">Desconhecido</string>
     <string name="unrecognized_model">Dispositivo desconhecido</string>

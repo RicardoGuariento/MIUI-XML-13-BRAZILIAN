@@ -842,7 +842,7 @@ Imprima uma cópia em papel A4 através do Wi-Fi."</string>
     <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
     <string name="install_confirmed">Instalar</string>
     <string name="invisible_mode_dialog_cancel">Cancelar</string>
-    <string name="invisible_mode_dialog_summary">Não é possível usar a câmera agora. Desative o Modo incógnito nas Configurações para poder usar a câmera.</string>
+    <string name="invisible_mode_dialog_summary">Não é possível usar a câmera agora. Desative o Modo anônimo nas Configurações para poder usar a câmera.</string>
     <string name="invisible_mode_dialog_title">Você está incógnito</string>
     <string name="invisible_mode_dialog_to_close">Configurações</string>
     <string name="kaleidoscope_fragment_tab_name">Caleidoscópio</string>

@@ -46,7 +46,7 @@
     </string-array>
     <string-array name="pref_security_do_not_track_keys">
         <item>Ativado</item>
-        <item>Apenas no Modo incógnito</item>
+        <item>Apenas no Modo anônimo</item>
         <item>Desativado</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
