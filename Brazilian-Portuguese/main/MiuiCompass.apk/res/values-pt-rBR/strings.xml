@@ -48,6 +48,7 @@
     <string name="calibrate_failed">Falha ao calibrar altitude</string>
     <string name="calibrate_failed_no_location">Não é possível calibrar</string>
     <string name="calibrate_failed_timeout">Não é possível conectar-se ao servidor</string>
+    <string name="calibrate_new_tip">Incline o dispositivo para deslizar a bola ao redor do círculo</string>
     <string name="calibrate_rotate_again">Tentar novamente</string>
     <string name="calibrate_success">Calibrada</string>
     <string name="calibrate_tip">Balance seu dispositivo para deslizar a bola no círculo</string>
