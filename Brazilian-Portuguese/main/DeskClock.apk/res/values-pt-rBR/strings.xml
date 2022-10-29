@@ -44,6 +44,8 @@
     <string name="agree">Aceitar</string>
     <string name="alarm_alert_alert_silenced">Alarme silenciado após %1$s.</string>
     <string name="alarm_alert_disabled">Desativado</string>
+    <string name="alarm_alert_now">Alarme: %s</string>
+    <string name="alarm_alert_snooze_button">Soneca</string>
     <string name="alarm_ascending_mode_summary">O volume do alarme aumenta gradualmente</string>
     <string name="alarm_ascending_mode_title">Volume crescente</string>
     <string name="alarm_clock_more_setting">Configurações adicionais</string>
@@ -118,6 +120,7 @@
     <string name="cities_show_limit_desc">"Não é possível exibir mais relógios"</string>
     <string name="city_time_contrast_desc">Toque para comparar a hora em diferentes cidades</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
+    <string name="click_to_cancel_alarm">Toque para desativar</string>
     <string name="click_listen_news_container">Clique no cartão de notícias da manhã</string>
     <string name="clock_bg_button_setting_summary_common">Selecione a cor de fundo para o app do Relógio</string>
     <string name="clock_bg_button_setting_summary_follow_sys">O preto será usado como cor de fundo sempre que você alternar para o Modo escuro</string>

@@ -372,7 +372,7 @@
     <string name="mi_share">Compartilhamento Mi</string>
     <string name="midnight">"AM"</string>
     <string name="midriver_install_button_text">Instalar</string>
-    <string name="midriver_not_install_title">O Mi Drive está desinstalado</string>
+    <string name="midriver_not_install_title">O Mi Drive não está instalado</string>
     <string name="midrop_msg_1">Conectar Mi Drop nos outros dispositivos</string>
     <string name="midrop_msg_2">Quando Mi Drop estiver ativado, pode pesquisar dispositivos próximos e enviar arquivos</string>
     <string name="midrop_send_files">Escolher arquivos para enviar</string>
@@ -633,7 +633,7 @@
     <string name="refresh_fail">Falha na atualização</string>
     <string name="refresh_success">Atualização completa</string>
     <string name="refreshing">Atualizando</string>
-    <string name="reinstall_midriver_message">Instalar novamente agora?</string>
+    <string name="reinstall_midriver_message">Instalar agora?</string>
     <string name="release_enter_private">Solte para abrir a pasta particular</string>
     <string name="release_refresh">Atualizar imediatamente após o lançamento</string>
     <string name="remainder_size">| Disponível: %s</string>

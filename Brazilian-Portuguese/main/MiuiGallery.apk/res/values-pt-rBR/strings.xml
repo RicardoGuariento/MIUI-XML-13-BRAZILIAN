@@ -471,6 +471,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="cleaner_similar_action">Ver detalhes</string>
     <string name="cleaner_similar_description">Exclua fotos duplicadas</string>
     <string name="cleaner_similar_title">Fotos duplicadas</string>
+    <string name="cleaner_size">Limpar lixeira (%s)</string>
     <string name="cleaner_slim_action">Iniciar otimização</string>
     <string name="cleaner_slim_description">Manter fotos otimizadas no seu dispositivo. Os arquivos originais serão armazenados na MiCloud.</string>
     <string name="cleaner_slim_start">Otimizar</string>
@@ -1437,7 +1438,7 @@ para personalizar a Galeria"</string>
     <string name="mark_people_ignore_info_message">Pressione e segure em fotos de pessoas para adicioná-las em grupos</string>
     <string name="media_type_burst_photo">Estouro</string>
     <string name="media_type_clone_photo">"Clones"</string>
-    <string name="media_type_doc_photo">"Docs"</string>
+    <string name="media_type_doc_photo">Documentos</string>
     <string name="media_type_fast_motion_video">Lapso de tempo</string>
     <string name="media_type_front_photo">"Selfies"</string>
     <string name="media_type_gif">"GIF"</string>
@@ -2283,6 +2284,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="search_clear_histories">Limpar histórico de pesquisa</string>
     <string name="search_connection_error">Não foi possível conectar-se à rede</string>
     <string name="search_connection_error_and_set">Toque para verificar as configurações de rede</string>
+    <string name="search_edit_hint">Pesquise arquivos ou álbuns</string>
     <string name="search_empty_title">Encontre fotos com pessoas, lugares ou objetos específicos na sua Galeria</string>
     <string name="search_error">Ocorreu um erro</string>
     <string name="search_error_and_retry">Ocorreu um erro, toque para tentar novamente</string>
@@ -2311,6 +2313,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="search_mark_feedback_false_positive_title">Corrigir</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_net_error">Ocorreu um erro de rede. Conecte-se a uma rede diferente e tente novamente.</string>
+    <string name="search_no_smart_sort_tag">Identifique objetos em fotos para obter mais resultados de pesquisa</string>
+    <string name="search_no_sync_tag">Ative a sincronização para obter mais resultados de pesquisa</string>
     <string name="search_request_applied">Aplicado</string>
     <string name="search_request_open">Participar da equipe de testes</string>
     <string name="search_request_requesting">Inscrito. Aguarde um pouco antes de começar.</string>
@@ -2791,6 +2795,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="tip_file_path">Caminho:</string>
     <string name="tip_not_download">O item não está no dispositivo. Ele será baixado da MiCloud durante a reprodução.</string>
     <string name="tip_screenshot_package_info">Nome do app:</string>
+    <string name="tips_for_photo_page_selection">Você pode tocar nos itens para visualizá-los</string>
     <string name="tips_prompt_enable_midrop">Compartilhamento Mi</string>
     <string name="title_set_name">Inserir nome</string>
     <string name="title_tip">Dica</string>

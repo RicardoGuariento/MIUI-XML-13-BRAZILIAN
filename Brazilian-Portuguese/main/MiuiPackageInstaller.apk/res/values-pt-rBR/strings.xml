@@ -48,7 +48,7 @@
     <string name="ads_summary">As pessoas que instalaram %1$s também gostaram</string>
     <string name="ads_summary_default_value">As pessoas que instalaram este app também gostaram</string>
     <string name="afternoon">"PM"</string>
-    <string name="after_install_to_delete">Excluir pacotes de instalação após a instalação</string>
+    <string name="after_install_to_delete">Excluir pacote de instalação após ser instalado</string>
     <string name="alert_authorize_text_format">%1$s%2$s</string>
     <string name="allPerms">Todas</string>
     <string name="all_permissions">Todas as permissões</string>
@@ -97,6 +97,7 @@
     <string name="caller_app">Solicitação de permissão de %1$s</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_install">Cancelar</string>
+    <string name="cancel_update">Não atualizar</string>
     <string name="cb_back">Botão voltar</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
