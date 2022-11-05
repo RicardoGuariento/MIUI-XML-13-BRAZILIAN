@@ -1304,6 +1304,7 @@ estão disponíveis"</string>
     <string name="loading_video_fail_sync_without_network">Conecte-se à rede para baixar os metadados</string>
     <string name="loading_video_fail_syncing">Aguarde até os metadados serem baixados e tente novamente</string>
     <string name="loading_video_thumbnail">Baixando a capa do vídeo…</string>
+    <string name="local_secret_tip">Todos os itens privados são sincronizados com a nuvem quando esse recurso está ativado. Você pode alterar suas preferências em Configurações > Sincronizar com a nuvem > Gerenciar álbuns sincronizados > Álbum privado.</string>
     <string name="login_and_enable_service">Fazer login com a Conta Mi</string>
     <string name="long_press_to_refocus">Pressione e segure para refocalizar</string>
     <string name="macarons_download_dialog_confirm">"OK"</string>
@@ -1442,6 +1443,7 @@ para personalizar a Galeria"</string>
     <string name="media_type_fast_motion_video">Lapso de tempo</string>
     <string name="media_type_front_photo">"Selfies"</string>
     <string name="media_type_gif">"GIF"</string>
+    <string name="media_type_hd">Alta definição</string>
     <string name="media_type_live_vv">"Vlog"</string>
     <string name="media_type_motion_photo">Dinâmica</string>
     <string name="media_type_pano_photo">"Panoramas"</string>

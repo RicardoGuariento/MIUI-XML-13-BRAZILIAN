@@ -35,7 +35,7 @@
     <string name="accessibility_ai_scene_off">A Câmera IA está desativada</string>
     <string name="accessibility_ai_scene_on">A Câmera IA está ativada</string>
     <string name="accessibility_ai_watermark_panel_on">"Painel de marca d'água IA"</string>
-    <string name="accessibility_ambilight_panel_on">Abrir painel de Exposição longa</string>
+    <string name="accessibility_ambilight_panel_on">Abrir painel de Longa exposição</string>
     <string name="accessibility_back_preview_status">Prévia da câmera traseira</string>
     <string name="accessibility_beauty_function_button">Embelezador</string>
     <string name="accessibility_beauty_function_panel_on">Painel do Embelezador</string>
@@ -320,7 +320,7 @@ e ajustar preferências automaticamente"</string>
     <string name="altitude_text">Altitude</string>
     <string name="am">"AM"</string>
     <string name="ambi_file_name_format">"'AMBI'_ddMMyyyy_HHmmss"</string>
-    <string name="ambilight_description_title">Sobre a exposição longa</string>
+    <string name="ambilight_description_title">Sobre a longa exposição</string>
     <string name="ambilight_intro_crowd_moving_part1">Ao fotografar em uma rua cheia de gente, peça ao seu sujeito que fique parado. Outras pessoas aparecerão como trilhas borradas.</string>
     <string name="ambilight_intro_crowd_moving_part2">Você também pode tirar fotos de tráfego movimentado e multidões em movimento. A longa exposição manterá os edifícios nítidos, mas todos os objetos em movimento ficarão borrados.</string>
     <string name="ambilight_intro_light_track">Use uma fonte de luz para \"pintar\" sobre uma cena escura para juntar todas as peças iluminadas em uma só imagem.</string>
@@ -337,7 +337,7 @@ e ajustar preferências automaticamente"</string>
     <string name="ambilight_scene_silky_water">Pintura a óleo</string>
     <string name="ambilight_scene_star_track">Trilha das Estrelas</string>
     <string name="ambilight_scene_traffic_light">Rastros de neon</string>
-    <string name="ambilight_tips_for_longtime_using_tripod">Use um tripé para capturas em exposição longa</string>
+    <string name="ambilight_tips_for_longtime_using_tripod">Use um tripé para capturas em longa exposição</string>
     <string name="ambilight_tips_for_suggest_using_tripod">Use um tripé</string>
     <string name="ambilight_tips_for_using_tripod">Use um tripé</string>
     <string name="app_name">Codificador Jpeg</string>
@@ -663,8 +663,8 @@ documentos digitalizados automaticamente"</string>
     <string name="download_cancel_hint">Parar de baixar %1$s?</string>
     <string name="download_confirm">Baixar</string>
     <string name="download_hint">%1$sMB de dados móveis serão usados para baixar itens. Baixar mesmo assim?</string>
-    <string name="download_hint_cn">"Parece que seu dispositivo não está conectado ao Wi-Fi. Usar% 1$sMB de dados móveis para baixar itens agora?"</string>
-    <string name="download_hint_wifi">"Parece que seu dispositivo não está conectado ao Wi-Fi. Usar% 1$sMB de dados móveis para baixar itens agora?"</string>
+    <string name="download_hint_cn">Seu dispositivo não está conectado ao Wi-Fi. Usar %1$sMB de dados móveis para baixar itens agora?</string>
+    <string name="download_hint_wifi">Seu dispositivo não está conectado ao Wi-Fi. Usar %1$sMB de dados móveis para baixar itens agora?</string>
     <string name="download_in_progress">Baixando…</string>
     <string name="download_title">Aviso sobre o uso de dados</string>
     <string name="download_waiting">Pendente…</string>
@@ -1218,7 +1218,7 @@ fiquem maiores nas fotos"</string>
     <string name="pano_how_to_use_prompt_slow_down">Mais devagar…</string>
     <string name="pano_how_to_use_prompt_start">Toque na seta para mudar a direção e mova-se devagar.</string>
     <string name="pano_how_to_use_prompt_to_move">Comece a mover-se devagar</string>
-    <string name="parameter_ambilight_title">Exposição longa</string>
+    <string name="parameter_ambilight_title">Longa exposição</string>
     <string name="parameter_description_pro_capture_title">Recursos Pro para captura de fotos</string>
     <string name="parameter_description_pro_video_title">Recursos Pro para captura de vídeos</string>
     <string name="parameter_description_sub_title">Tenha um maior controle criativo em suas fotos e vídeos</string>

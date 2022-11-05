@@ -55,7 +55,7 @@
     <string name="back_mic_check_record_tip">Gravando, por favor, diga algo no Microfone na parte de baixo do dispositivo</string>
     <string name="battery_authentic">Autênticidade da Bateria</string>
     <string name="battery_dual_connector">Segundo conector da bateria</string>
-    <string name="battery_id">ID da bateria:</string>
+    <string name="battery_id">ID da bateria</string>
     <string name="battery_info">Info. relacionadas ao carregamento da bateria</string>
     <string name="battery_plug_wirelee_summary">Carregador sem fio a cada conexão, desconecte uma vez</string>
     <string name="battery_plug_wirelee_title">Teste de carregamento sem fio</string>
