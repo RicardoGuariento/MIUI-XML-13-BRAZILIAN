@@ -5043,7 +5043,7 @@ Para usar este ^1 com este dispositivo, você precisa configurá-lo primeiro."</
     <string name="storage_system_log">Registros do sistema</string>
     <string name="storage_system_log_tip">Os registros do sistema serão limpos automaticamente quando necessário</string>
     <string name="storage_system_memory_expansion">Extensão de memória</string>
-    <string name="storage_system_memory_expansion_tip">Estenda a RAM ocupando o armazenamento interno</string>
+    <string name="storage_system_memory_expansion_tip">Estende a memória RAM ocupando o armazenamento interno</string>
     <string name="storage_system_other_tip">Dados necessários para que o sistema funcione normalmente (o tamanho do arquivo pode mudar com o tempo)</string>
     <string name="storage_unmount_failure">Não foi possível ejetar o %1$s</string>
     <string name="storage_unmount_success">%1$s ejetado com sucesso</string>
