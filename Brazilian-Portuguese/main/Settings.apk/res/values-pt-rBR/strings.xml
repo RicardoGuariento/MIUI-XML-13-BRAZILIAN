@@ -869,8 +869,8 @@ Alterar as configurações agora?"</string>
     <string name="auto_caps">Capitalização automática</string>
     <string name="auto_caps_summary">Escrever a primeira letra nas sentenças com letra maiúscula</string>
     <string name="auto_clean_description">"Sobre este recurso
-%3$. Execute-o uma ou duas vezes se sentir que seu alto-falante está bloqueado por partículas de poeira.
-%4$. Se o alto-falante estiver muito bloqueado, execute o teste %1$d-%2$d vezes enquanto agita seu telefone com o alto-falante virado para baixo."</string>
+1. Execute-o uma ou duas vezes se sentir que seu alto-falante está bloqueado por partículas de poeira.
+2. Se o alto-falante estiver muito bloqueado, execute o teste 2-5 vezes enquanto agita seu telefone com o alto-falante virado para baixo."</string>
     <string name="auto_clean_description_pad">"Sobre este recurso
 • Execute-o uma ou duas vezes se sentir que seu alto-falante está bloqueado por partículas de poeira.
 • Se o alto-falante estiver muito bloqueado, execute o teste de %1$d-%2$d vezes enquanto agita seu telefone com o alto-falante virado para baixo."</string>
